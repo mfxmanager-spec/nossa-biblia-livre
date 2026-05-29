@@ -58,7 +58,6 @@ const DOM = {
     pixKeyValue: document.getElementById('pixKeyValue'),
     pixCopySuccess: document.getElementById('pixCopySuccess'),
     testPremiumBtn: document.getElementById('testPremiumBtn'),
-    testPremiumStatus: document.getElementById('testPremiumStatus'),
     paywallModal: document.getElementById('paywallModal'),
     closePaywall: document.getElementById('closePaywall'),
     subscribeBtn: document.getElementById('subscribeBtn'),
@@ -120,18 +119,16 @@ function updatePremiumUI() {
         if (DOM.recentChaptersSection) DOM.recentChaptersSection.style.display = 'none';
     }
 
-    if (DOM.testPremiumBtn && DOM.testPremiumStatus) {
+    if (DOM.testPremiumBtn) {
         if (appState.isPremium) {
             DOM.testPremiumBtn.classList.add('active');
-            DOM.testPremiumStatus.innerHTML = `
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6-5c1.66 0 3 1.34 3 3v2H9V6c0-1.66 1.34-3 3-3zm6 17H6V10h12v10z"/></svg>
-                <span>PRO: Ativo 👑</span>
+            DOM.testPremiumBtn.innerHTML = `
+                <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" title="Modo Premium Ativo (Cadeado Aberto)"><path d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5-2.28 0-4.27 1.54-4.82 3.73-.25.99.36 1.99 1.37 2.24.99.25 1.99-.36 2.24-1.37.18-.73.85-1.24 1.62-1.24 1.66 0 3 1.34 3 3v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm0 12H6V10h12v10z"/></svg>
             `;
         } else {
             DOM.testPremiumBtn.classList.remove('active');
-            DOM.testPremiumStatus.innerHTML = `
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6-5c1.66 0 3 1.34 3 3v2H9V6c0-1.66 1.34-3 3-3zm6 17H6V10h12v10z"/></svg>
-                <span>PRO: Não 🔒</span>
+            DOM.testPremiumBtn.innerHTML = `
+                <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" title="Modo Premium Inativo (Cadeado Fechado)"><path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zM9 6c0-1.66 1.34-3 3-3s3 1.34 3 3v2H9V6zm9 14H6V10h12v10zm-6-3c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2z"/></svg>
             `;
         }
     }
