@@ -11,7 +11,12 @@ let appState = {
     theme: 'sepia',
     searchFilter: 'book',
     searchIndex: null,
-    isPremium: false
+    isPremium: false,
+    highlights: JSON.parse(localStorage.getItem('nb-highlights')) || {},
+    notes: JSON.parse(localStorage.getItem('nb-user-notes')) || {},
+    history: JSON.parse(localStorage.getItem('nb-reading-history')) || [],
+    activeVerseElement: null,
+    activeVerseNum: null
 };
 
 // Touch Gestures Coordinates
@@ -59,7 +64,37 @@ const DOM = {
     subscribeBtn: document.getElementById('subscribeBtn'),
     restoreBtn: document.getElementById('restoreBtn'),
     planMonthly: document.getElementById('planMonthly'),
-    planAnnual: document.getElementById('planAnnual')
+    planAnnual: document.getElementById('planAnnual'),
+    verseActionsPopover: document.getElementById('verseActionsPopover'),
+    clearHighlightBtn: document.getElementById('clearHighlightBtn'),
+    copyVerseBtn: document.getElementById('copyVerseBtn'),
+    noteVerseBtn: document.getElementById('noteVerseBtn'),
+    noteModal: document.getElementById('noteModal'),
+    closeNoteModal: document.getElementById('closeNoteModal'),
+    noteVersePreview: document.getElementById('noteVersePreview'),
+    noteTextarea: document.getElementById('noteTextarea'),
+    saveNoteBtn: document.getElementById('saveNoteBtn'),
+    // Áudio (Premium)
+    audioPlayBtn: document.getElementById('audioPlayBtn'),
+    audioPlayerPanel: document.getElementById('audioPlayerPanel'),
+    audioStatus: document.getElementById('audioStatus'),
+    audioPlayPauseBtn: document.getElementById('audioPlayPauseBtn'),
+    audioStopBtn: document.getElementById('audioStopBtn'),
+    audioPrevBtn: document.getElementById('audioPrevBtn'),
+    audioNextBtn: document.getElementById('audioNextBtn'),
+    audioSpeedSelect: document.getElementById('audioSpeedSelect'),
+    closeAudioPanel: document.getElementById('closeAudioPanel'),
+    // Compartilhamento (Premium)
+    shareVerseBtn: document.getElementById('shareVerseBtn'),
+    shareModal: document.getElementById('shareModal'),
+    closeShareModal: document.getElementById('closeShareModal'),
+    verseCardPreview: document.getElementById('verseCardPreview'),
+    cardText: document.getElementById('cardText'),
+    cardReference: document.getElementById('cardReference'),
+    downloadCardBtn: document.getElementById('downloadCardBtn'),
+    // Histórico (Premium)
+    recentChaptersSection: document.getElementById('recentChaptersSection'),
+    recentChaptersList: document.getElementById('recentChaptersList')
 };
 
 // Initialize App
@@ -67,6 +102,8 @@ document.addEventListener('DOMContentLoaded', () => {
     loadSettings();
     initEventListeners();
     loadBooks();
+    
+    renderRecentChapters();
     
     // Inicializa o sistema de cobrança/assinaturas
     BillingManager.init((isPremium) => {
@@ -77,6 +114,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Update Premium UI indicators
 function updatePremiumUI() {
+    if (appState.isPremium) {
+        if (DOM.recentChaptersSection) DOM.recentChaptersSection.style.display = 'block';
+    } else {
+        if (DOM.recentChaptersSection) DOM.recentChaptersSection.style.display = 'none';
+    }
+
     if (DOM.testPremiumBtn && DOM.testPremiumStatus) {
         if (appState.isPremium) {
             DOM.testPremiumBtn.classList.add('active');
@@ -92,6 +135,7 @@ function updatePremiumUI() {
             `;
         }
     }
+    renderRecentChapters();
 }
 
 // Helper to check premium access before running features
@@ -391,6 +435,183 @@ function initEventListeners() {
                 console.error('[Billing Test] Erro ao restaurar:', err);
                 DOM.restoreBtn.textContent = 'Restaurar Compra';
             });
+        });
+    }
+
+    // Ações de Popover do Versículo e Notas
+    if (DOM.readerContainer) {
+        DOM.readerContainer.addEventListener('click', (e) => {
+            const verseBlock = e.target.closest('.verse-block');
+            if (verseBlock && !e.target.closest('sup a') && !e.target.closest('.verse-note-indicator')) {
+                openVerseMenu(verseBlock, e);
+            }
+        });
+    }
+
+    document.addEventListener('click', (e) => {
+        if (DOM.verseActionsPopover && DOM.verseActionsPopover.classList.contains('open')) {
+            if (!e.target.closest('.verse-block') && !e.target.closest('#verseActionsPopover')) {
+                DOM.verseActionsPopover.classList.remove('open');
+            }
+        }
+    });
+
+    const colorBtns = document.querySelectorAll('.highlight-color-btn');
+    colorBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            checkPremiumAccess(() => {
+                const color = btn.dataset.color;
+                applyVerseHighlight(color);
+            });
+        });
+    });
+
+    if (DOM.clearHighlightBtn) {
+        DOM.clearHighlightBtn.addEventListener('click', () => {
+            checkPremiumAccess(() => {
+                applyVerseHighlight(null);
+            });
+        });
+    }
+
+    if (DOM.copyVerseBtn) {
+        DOM.copyVerseBtn.addEventListener('click', () => {
+            copyActiveVerse();
+        });
+    }
+
+    if (DOM.noteVerseBtn) {
+        DOM.noteVerseBtn.addEventListener('click', () => {
+            checkPremiumAccess(() => {
+                openNoteModal();
+            });
+        });
+    }
+
+    if (DOM.closeNoteModal && DOM.noteModal) {
+        DOM.closeNoteModal.addEventListener('click', () => {
+            DOM.noteModal.classList.remove('open');
+        });
+        
+        DOM.noteModal.addEventListener('click', (e) => {
+            if (e.target === DOM.noteModal) {
+                DOM.noteModal.classList.remove('open');
+            }
+        });
+    }
+
+    if (DOM.saveNoteBtn) {
+        DOM.saveNoteBtn.addEventListener('click', () => {
+            saveActiveVerseNote();
+        });
+    }
+
+    // --- Listeners de Áudio (Premium) ---
+    if (DOM.audioPlayBtn) {
+        DOM.audioPlayBtn.addEventListener('click', () => {
+            checkPremiumAccess(() => {
+                toggleAudioPlayerPanel();
+            });
+        });
+    }
+
+    if (DOM.closeAudioPanel) {
+        DOM.closeAudioPanel.addEventListener('click', () => {
+            closeAudioPlayerPanel();
+        });
+    }
+
+    if (DOM.audioPlayPauseBtn) {
+        DOM.audioPlayPauseBtn.addEventListener('click', () => {
+            if (audioState.isPlaying) {
+                pauseAudio();
+            } else {
+                playAudio();
+            }
+        });
+    }
+
+    if (DOM.audioStopBtn) {
+        DOM.audioStopBtn.addEventListener('click', () => {
+            stopAudio();
+        });
+    }
+
+    if (DOM.audioPrevBtn) {
+        DOM.audioPrevBtn.addEventListener('click', () => {
+            playPreviousVerseAudio();
+        });
+    }
+
+    if (DOM.audioNextBtn) {
+        DOM.audioNextBtn.addEventListener('click', () => {
+            playNextVerseAudio();
+        });
+    }
+
+    if (DOM.audioSpeedSelect) {
+        DOM.audioSpeedSelect.addEventListener('change', () => {
+            audioState.speed = parseFloat(DOM.audioSpeedSelect.value);
+            if (audioState.isPlaying) {
+                const currentVerse = audioState.currentVerseIndex;
+                pauseAudio();
+                audioState.currentVerseIndex = currentVerse;
+                playAudio();
+            }
+        });
+    }
+
+    // --- Listeners de Compartilhamento (Premium) ---
+    if (DOM.shareVerseBtn) {
+        DOM.shareVerseBtn.addEventListener('click', () => {
+            checkPremiumAccess(() => {
+                openShareModal();
+            });
+        });
+    }
+
+    if (DOM.closeShareModal && DOM.shareModal) {
+        DOM.closeShareModal.addEventListener('click', () => {
+            DOM.shareModal.classList.remove('open');
+        });
+        DOM.shareModal.addEventListener('click', (e) => {
+            if (e.target === DOM.shareModal) {
+                DOM.shareModal.classList.remove('open');
+            }
+        });
+    }
+
+    // Seletores de Tema do Card
+    const themeOpts = document.querySelectorAll('.theme-opt');
+    themeOpts.forEach(opt => {
+        opt.addEventListener('click', () => {
+            themeOpts.forEach(o => o.classList.remove('active'));
+            opt.classList.add('active');
+            
+            const bgClass = opt.dataset.bg;
+            if (DOM.verseCardPreview) {
+                DOM.verseCardPreview.className = DOM.verseCardPreview.className.replace(/\bbg-\S+/g, bgClass);
+            }
+        });
+    });
+
+    // Seletores de Fonte do Card
+    const fontOpts = document.querySelectorAll('.font-opt');
+    fontOpts.forEach(opt => {
+        opt.addEventListener('click', () => {
+            fontOpts.forEach(o => o.classList.remove('active'));
+            opt.classList.add('active');
+            
+            const fontClass = opt.dataset.font;
+            if (DOM.verseCardPreview) {
+                DOM.verseCardPreview.className = DOM.verseCardPreview.className.replace(/\bfont-\S+/g, fontClass);
+            }
+        });
+    });
+
+    if (DOM.downloadCardBtn) {
+        DOM.downloadCardBtn.addEventListener('click', () => {
+            generateAndDownloadCard();
         });
     }
 }
@@ -820,6 +1041,18 @@ async function loadChapter(bookSlug, chapterNum) {
     if (DOM.currentLocation) {
         DOM.currentLocation.classList.add('loading');
     }
+
+    // Parar áudio se estiver tocando ao mudar de capítulo
+    stopAudio();
+
+    // Transição de Swipe (Saída)
+    if (swipeDirection) {
+        const outClass = swipeDirection === 'left' ? 'slide-left-out' : 'slide-right-out';
+        DOM.readerContainer.classList.add(outClass);
+        await new Promise(resolve => setTimeout(resolve, 180));
+        DOM.readerContainer.classList.remove(outClass);
+    }
+
     // Show reader loading indicator
     DOM.readerContainer.innerHTML = `
         <div class="nav-loading" style="min-height: 40vh;">
@@ -841,8 +1074,26 @@ async function loadChapter(bookSlug, chapterNum) {
         localStorage.setItem('nb-last-book', bookSlug);
         localStorage.setItem('nb-last-chapter', chapterNum.toString());
         
+        // Histórico de Leitura Recente (Premium)
+        addToReadingHistory(bookSlug, chapterNum);
+        
         renderChapter(data);
         highlightActiveChapterInSidebar(bookSlug, chapterNum);
+
+        // Se o painel de áudio estiver aberto, atualiza versículos para o novo capítulo
+        if (DOM.audioPlayerPanel && DOM.audioPlayerPanel.classList.contains('open')) {
+            loadAudioVerses();
+            updateAudioUI();
+        }
+
+        // Transição de Swipe (Entrada)
+        if (swipeDirection) {
+            const inClass = swipeDirection === 'left' ? 'slide-left-in' : 'slide-right-in';
+            DOM.readerContainer.classList.add(inClass);
+            setTimeout(() => {
+                DOM.readerContainer.classList.remove(inClass);
+            }, 250);
+        }
     } catch (error) {
         console.error(error);
         DOM.readerContainer.innerHTML = `
@@ -853,6 +1104,7 @@ async function loadChapter(bookSlug, chapterNum) {
             </div>
         `;
     } finally {
+        swipeDirection = null; // Reseta direção
         if (DOM.currentLocation) {
             DOM.currentLocation.classList.remove('loading');
         }
@@ -920,11 +1172,41 @@ function renderChapter(data) {
         block.className = 'verse-block';
         block.id = `verse-${verse.number}`;
 
+        const refKey = `${appState.currentBook}-${data.chapter_number}-${verse.number}`;
+        
+        // Aplica destaque salvo se houver
+        const savedColor = appState.highlights[refKey];
+        if (savedColor) {
+            block.classList.add(`highlight-${savedColor}`);
+        }
+
         // Number marker
         const numMarker = document.createElement('div');
         numMarker.className = 'verse-num-marker';
         numMarker.textContent = `Versículo ${verse.number}`;
         block.appendChild(numMarker);
+
+        // Adiciona indicador de nota pessoal se houver
+        if (appState.notes[refKey]) {
+            const noteIndicator = document.createElement('span');
+            noteIndicator.className = 'verse-note-indicator';
+            noteIndicator.innerHTML = `
+                <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path></svg>
+                <span>Nota</span>
+            `;
+            noteIndicator.title = appState.notes[refKey];
+            
+            noteIndicator.addEventListener('click', (e) => {
+                e.stopPropagation();
+                appState.activeVerseElement = block;
+                appState.activeVerseNum = verse.number;
+                checkPremiumAccess(() => {
+                    openNoteModal();
+                });
+            });
+            
+            numMarker.appendChild(noteIndicator);
+        }
 
         // Lines container
         const linesContainer = document.createElement('div');
@@ -992,9 +1274,11 @@ function handleSwipeGesture() {
         if (Math.abs(diffX) > SWIPE_THRESHOLD && Math.abs(diffY) < SWIPE_CONSTRAINT) {
             if (diffX > 0) {
                 // Swipe Right -> Load Previous Chapter
+                swipeDirection = 'right';
                 navigateToPreviousChapter();
             } else {
                 // Swipe Left -> Load Next Chapter
+                swipeDirection = 'left';
                 navigateToNextChapter();
             }
         }
@@ -1100,3 +1384,550 @@ async function handleSync() {
         if (syncText) syncText.textContent = originalText;
     }
 }
+
+// Ações de Versículo e Premium
+function openVerseMenu(verseBlock, event) {
+    // Guarda o versículo ativo
+    appState.activeVerseElement = verseBlock;
+    appState.activeVerseNum = parseInt(verseBlock.id.replace('verse-', ''));
+    
+    // Abre o popover
+    DOM.verseActionsPopover.classList.add('open');
+    
+    // Posiciona o popover acima do versículo
+    const rect = verseBlock.getBoundingClientRect();
+    
+    const popoverHeight = DOM.verseActionsPopover.offsetHeight || 80;
+    const popoverWidth = DOM.verseActionsPopover.offsetWidth || 230;
+    
+    const top = rect.top + window.scrollY - popoverHeight - 8;
+    const left = rect.left + window.scrollX + (rect.width / 2) - (popoverWidth / 2);
+    
+    DOM.verseActionsPopover.style.top = `${top}px`;
+    DOM.verseActionsPopover.style.left = `${left}px`;
+    
+    event.stopPropagation();
+}
+
+function applyVerseHighlight(color) {
+    if (!appState.activeVerseElement || !appState.currentBook || !appState.currentChapterNum) return;
+    
+    const refKey = `${appState.currentBook}-${appState.currentChapterNum}-${appState.activeVerseNum}`;
+    
+    // Remove qualquer classe de highlight anterior no elemento
+    appState.activeVerseElement.classList.remove('highlight-yellow', 'highlight-green', 'highlight-blue', 'highlight-pink');
+    
+    if (color) {
+        // Aplica o novo destaque no DOM
+        appState.activeVerseElement.classList.add(`highlight-${color}`);
+        appState.highlights[refKey] = color;
+    } else {
+        // Remove do armazenamento
+        delete appState.highlights[refKey];
+    }
+    
+    // Salva no localStorage
+    localStorage.setItem('nb-highlights', JSON.stringify(appState.highlights));
+    
+    // Fecha o popover
+    DOM.verseActionsPopover.classList.remove('open');
+}
+
+function copyActiveVerse() {
+    if (!appState.activeVerseNum || !appState.currentChapterData) return;
+    
+    const verseData = appState.currentChapterData.verses.find(v => v.number === appState.activeVerseNum);
+    if (!verseData) return;
+    
+    const verseText = verseData.text;
+    const bookName = appState.currentChapterData.book_name;
+    const reference = `${bookName} ${appState.currentChapterNum}:${appState.activeVerseNum}`;
+    const formattedText = `"${verseText}" (${reference}) - Nossa Bíblia Livre`;
+    
+    copyToClipboard(formattedText).then(() => {
+        // Fecha o popover
+        DOM.verseActionsPopover.classList.remove('open');
+        
+        // Alerta visual discreto na tela
+        const copyNotice = document.createElement('div');
+        copyNotice.className = 'pix-copy-success';
+        copyNotice.style.position = 'fixed';
+        copyNotice.style.bottom = '80px';
+        copyNotice.style.left = '50%';
+        copyNotice.style.transform = 'translateX(-50%)';
+        copyNotice.style.display = 'block';
+        copyNotice.style.backgroundColor = 'var(--bg-sidebar)';
+        copyNotice.style.border = '1px solid var(--border-color)';
+        copyNotice.style.padding = '10px 20px';
+        copyNotice.style.borderRadius = '8px';
+        copyNotice.style.boxShadow = 'var(--shadow-lg)';
+        copyNotice.style.zIndex = '3000';
+        copyNotice.textContent = 'Versículo copiado com sucesso! 📖';
+        
+        document.body.appendChild(copyNotice);
+        setTimeout(() => {
+            copyNotice.remove();
+        }, 2000);
+    }).catch(err => {
+        console.error('Erro ao copiar versículo:', err);
+    });
+}
+
+function openNoteModal() {
+    if (!appState.activeVerseNum || !appState.currentChapterData) return;
+    
+    const refKey = `${appState.currentBook}-${appState.currentChapterNum}-${appState.activeVerseNum}`;
+    
+    // Fecha o popover das ações
+    DOM.verseActionsPopover.classList.remove('open');
+    
+    // Prepara a prévia do texto do versículo a partir de dados estruturados limpos
+    const verseData = appState.currentChapterData.verses.find(v => v.number === appState.activeVerseNum);
+    const verseText = verseData ? verseData.text : '';
+    
+    const bookName = appState.currentChapterData.book_name;
+    DOM.noteVersePreview.textContent = `"${verseText}" (${bookName} ${appState.currentChapterNum}:${appState.activeVerseNum})`;
+    
+    // Carrega nota antiga se houver
+    DOM.noteTextarea.value = appState.notes[refKey] || '';
+    
+    // Abre o modal
+    DOM.noteModal.classList.add('open');
+    DOM.noteTextarea.focus();
+}
+
+function saveActiveVerseNote() {
+    if (!appState.activeVerseElement || !appState.currentBook || !appState.currentChapterNum) return;
+    
+    const refKey = `${appState.currentBook}-${appState.currentChapterNum}-${appState.activeVerseNum}`;
+    const noteText = DOM.noteTextarea.value.trim();
+    
+    if (noteText !== '') {
+        appState.notes[refKey] = noteText;
+    } else {
+        delete appState.notes[refKey];
+    }
+    
+    // Salva no localStorage
+    localStorage.setItem('nb-user-notes', JSON.stringify(appState.notes));
+    
+    // Fecha o modal
+    DOM.noteModal.classList.remove('open');
+    
+    // Atualiza o indicador visual no versículo
+    updateVerseNoteIndicator(appState.activeVerseElement, refKey);
+}
+
+function updateVerseNoteIndicator(verseBlock, refKey) {
+    // Remove o indicador antigo se houver
+    const oldIndicator = verseBlock.querySelector('.verse-note-indicator');
+    if (oldIndicator) {
+        oldIndicator.remove();
+    }
+    
+    // Se existir nota, adiciona o indicador ao marcador de número do versículo
+    if (appState.notes[refKey]) {
+        const numMarker = verseBlock.querySelector('.verse-num-marker');
+        if (numMarker) {
+            const noteIndicator = document.createElement('span');
+            noteIndicator.className = 'verse-note-indicator';
+            noteIndicator.innerHTML = `
+                <svg viewBox="0 0 24 24" width="10" height="10" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path></svg>
+                <span>Nota</span>
+            `;
+            noteIndicator.title = appState.notes[refKey];
+            
+            // Abre a nota ao clicar no indicador diretamente
+            noteIndicator.addEventListener('click', (e) => {
+                e.stopPropagation();
+                // Simula que clicou no versículo e abre direto a nota
+                appState.activeVerseElement = verseBlock;
+                appState.activeVerseNum = parseInt(verseBlock.id.replace('verse-', ''));
+                checkPremiumAccess(() => {
+                    openNoteModal();
+                });
+            });
+            
+            numMarker.appendChild(noteIndicator);
+        }
+    }
+}
+
+// --- Variável global para controle de Swipe ---
+let swipeDirection = null;
+
+// --- Histórico de Leituras Recentes (Premium) ---
+function addToReadingHistory(bookSlug, chapterNum) {
+    if (!appState.isPremium) return;
+    
+    // Remove duplicatas
+    appState.history = appState.history.filter(item => !(item.bookSlug === bookSlug && parseInt(item.chapterNum) === parseInt(chapterNum)));
+    
+    // Insere no topo
+    appState.history.unshift({
+        bookSlug,
+        chapterNum,
+        timestamp: Date.now()
+    });
+    
+    // Limita aos 5 mais recentes
+    if (appState.history.length > 5) {
+        appState.history.pop();
+    }
+    
+    localStorage.setItem('nb-reading-history', JSON.stringify(appState.history));
+    renderRecentChapters();
+}
+
+function renderRecentChapters() {
+    if (!DOM.recentChaptersList || !DOM.recentChaptersSection) return;
+    
+    if (!appState.isPremium || appState.history.length === 0) {
+        DOM.recentChaptersSection.style.display = 'none';
+        return;
+    }
+    
+    DOM.recentChaptersSection.style.display = 'block';
+    DOM.recentChaptersList.innerHTML = '';
+    
+    appState.history.forEach(item => {
+        const bookName = item.bookSlug.replace(/-/g, ' ');
+        const chip = document.createElement('button');
+        chip.className = 'recent-chip';
+        chip.innerHTML = `${bookName} ${item.chapterNum}`;
+        chip.addEventListener('click', () => {
+            loadChapter(item.bookSlug, item.chapterNum);
+            closeSidebar();
+        });
+        DOM.recentChaptersList.appendChild(chip);
+    });
+}
+
+// --- Player de Áudio Inteligente (Premium / TTS) ---
+let audioState = {
+    isPlaying: false,
+    currentVerseIndex: -1,
+    verses: [],
+    utterance: null,
+    speed: 1.0
+};
+
+function toggleAudioPlayerPanel() {
+    if (!DOM.audioPlayerPanel) return;
+    
+    const isOpen = DOM.audioPlayerPanel.classList.contains('open');
+    if (isOpen) {
+        closeAudioPlayerPanel();
+    } else {
+        DOM.audioPlayerPanel.classList.add('open');
+        loadAudioVerses();
+        updateAudioUI();
+    }
+}
+
+function closeAudioPlayerPanel() {
+    if (DOM.audioPlayerPanel) {
+        DOM.audioPlayerPanel.classList.remove('open');
+    }
+    stopAudio();
+}
+
+function loadAudioVerses() {
+    audioState.verses = [];
+    audioState.currentVerseIndex = -1;
+    
+    if (!appState.currentChapterData || !appState.currentChapterData.verses) return;
+    
+    appState.currentChapterData.verses.forEach((verse, index) => {
+        const block = document.getElementById(`verse-${verse.number}`);
+        audioState.verses.push({
+            index: index,
+            element: block,
+            number: verse.number,
+            text: verse.text
+        });
+    });
+}
+
+function playAudio() {
+    if (audioState.verses.length === 0) return;
+    
+    // Se o índice de versículo atual não for válido, começa do primeiro
+    if (audioState.currentVerseIndex < 0 || audioState.currentVerseIndex >= audioState.verses.length) {
+        audioState.currentVerseIndex = 0;
+    }
+    
+    audioState.isPlaying = true;
+    updateAudioUI();
+    
+    // Cancela qualquer fala anterior
+    window.speechSynthesis.cancel();
+    
+    const currentVerse = audioState.verses[audioState.currentVerseIndex];
+    
+    // Highlight do versículo em reprodução
+    document.querySelectorAll('.verse-block').forEach(block => block.classList.remove('reading'));
+    currentVerse.element.classList.add('reading');
+    currentVerse.element.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    
+    // Configura o sintetizador de voz nativo do navegador
+    audioState.utterance = new SpeechSynthesisUtterance(currentVerse.text);
+    audioState.utterance.lang = 'pt-BR';
+    audioState.utterance.rate = audioState.speed;
+    
+    // Evento ao finalizar a fala do versículo
+    audioState.utterance.onend = () => {
+        if (audioState.isPlaying) {
+            audioState.currentVerseIndex++;
+            if (audioState.currentVerseIndex < audioState.verses.length) {
+                playAudio();
+            } else {
+                stopAudio();
+                // Passa para o próximo capítulo automaticamente se houver
+                setTimeout(() => {
+                    navigateToNextChapter();
+                }, 1000);
+            }
+        }
+    };
+    
+    audioState.utterance.onerror = (e) => {
+        console.error('SpeechSynthesisUtterance erro:', e);
+        if (e.error !== 'interrupted') {
+            audioState.isPlaying = false;
+            updateAudioUI();
+        }
+    };
+    
+    window.speechSynthesis.speak(audioState.utterance);
+}
+
+function pauseAudio() {
+    audioState.isPlaying = false;
+    window.speechSynthesis.cancel();
+    updateAudioUI();
+}
+
+function stopAudio() {
+    audioState.isPlaying = false;
+    window.speechSynthesis.cancel();
+    audioState.currentVerseIndex = -1;
+    document.querySelectorAll('.verse-block').forEach(block => block.classList.remove('reading'));
+    updateAudioUI();
+}
+
+function playNextVerseAudio() {
+    if (audioState.verses.length === 0) return;
+    
+    if (audioState.currentVerseIndex < audioState.verses.length - 1) {
+        audioState.currentVerseIndex++;
+        playAudio();
+    } else {
+        stopAudio();
+        navigateToNextChapter();
+    }
+}
+
+function playPreviousVerseAudio() {
+    if (audioState.verses.length === 0) return;
+    
+    if (audioState.currentVerseIndex > 0) {
+        audioState.currentVerseIndex--;
+        playAudio();
+    }
+}
+
+function updateAudioUI() {
+    if (!DOM.audioPlayPauseBtn || !DOM.audioStatus) return;
+    
+    const playIcon = DOM.audioPlayPauseBtn.querySelector('.play-icon');
+    const pauseIcon = DOM.audioPlayPauseBtn.querySelector('.pause-icon');
+    
+    if (audioState.isPlaying) {
+        if (playIcon) playIcon.style.display = 'none';
+        if (pauseIcon) pauseIcon.style.display = 'block';
+        
+        const currentVerse = audioState.verses[audioState.currentVerseIndex];
+        const bookName = appState.currentChapterData ? appState.currentChapterData.book_name : appState.currentBook;
+        DOM.audioStatus.textContent = `Lendo: ${bookName} ${appState.currentChapterNum}:${currentVerse ? currentVerse.number : 1}`;
+    } else {
+        if (playIcon) playIcon.style.display = 'block';
+        if (pauseIcon) pauseIcon.style.display = 'none';
+        
+        if (audioState.currentVerseIndex >= 0) {
+            DOM.audioStatus.textContent = 'Leitura pausada';
+        } else {
+            DOM.audioStatus.textContent = 'Pronto para ler o capítulo';
+        }
+    }
+}
+
+// --- Gerador de Cards de Versículos (Premium) ---
+function openShareModal() {
+    if (!appState.activeVerseNum || !appState.currentChapterData) return;
+    
+    // Fecha o popover das ações
+    DOM.verseActionsPopover.classList.remove('open');
+    
+    const verseData = appState.currentChapterData.verses.find(v => v.number === appState.activeVerseNum);
+    const verseText = verseData ? verseData.text : '';
+    
+    const bookName = appState.currentChapterData.book_name;
+    const reference = `${bookName} ${appState.currentChapterNum}:${appState.activeVerseNum}`;
+    
+    // Preenche os dados no preview do Modal
+    if (DOM.cardText) DOM.cardText.textContent = `"${verseText}"`;
+    if (DOM.cardReference) DOM.cardReference.textContent = reference;
+    
+    // Abre o modal
+    if (DOM.shareModal) DOM.shareModal.classList.add('open');
+}
+
+function generateAndDownloadCard() {
+    const cardTextVal = DOM.cardText.textContent;
+    const cardRefVal = DOM.cardReference.textContent;
+    
+    // Identifica o tema e fonte ativos no preview
+    const activeThemeBtn = document.querySelector('.theme-opt.active');
+    const activeFontBtn = document.querySelector('.font-opt.active');
+    
+    const themeBgClass = activeThemeBtn ? activeThemeBtn.dataset.bg : 'bg-grad-purple';
+    const fontClass = activeFontBtn ? activeFontBtn.dataset.font : 'font-lora';
+    
+    // Cria um Canvas de alta resolução (1080x1080 - perfeito para instagram)
+    const canvas = document.createElement('canvas');
+    canvas.width = 1080;
+    canvas.height = 1080;
+    const ctx = canvas.getContext('2d');
+    
+    // 1. Desenha o fundo de acordo com o tema selecionado
+    if (themeBgClass === 'bg-grad-purple') {
+        const grad = ctx.createLinearGradient(0, 0, 1080, 1080);
+        grad.addColorStop(0, '#667eea');
+        grad.addColorStop(1, '#764ba2');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0, 0, 1080, 1080);
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.08)'; // cor da aspa
+    } else if (themeBgClass === 'bg-grad-sunset') {
+        const grad = ctx.createLinearGradient(0, 0, 1080, 1080);
+        grad.addColorStop(0, '#f857a6');
+        grad.addColorStop(1, '#ff5858');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0, 0, 1080, 1080);
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.08)';
+    } else if (themeBgClass === 'bg-grad-forest') {
+        const grad = ctx.createLinearGradient(0, 0, 1080, 1080);
+        grad.addColorStop(0, '#11998e');
+        grad.addColorStop(1, '#38ef7d');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0, 0, 1080, 1080);
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.08)';
+    } else if (themeBgClass === 'bg-grad-ocean') {
+        const grad = ctx.createLinearGradient(0, 0, 1080, 1080);
+        grad.addColorStop(0, '#2b5876');
+        grad.addColorStop(1, '#4e4376');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0, 0, 1080, 1080);
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.08)';
+    } else if (themeBgClass === 'bg-minimal-dark') {
+        ctx.fillStyle = '#1e1e24';
+        ctx.fillRect(0, 0, 1080, 1080);
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.06)';
+    } else { // bg-minimal-light
+        ctx.fillStyle = '#f7f5f0';
+        ctx.fillRect(0, 0, 1080, 1080);
+        
+        // Borda elegante
+        ctx.strokeStyle = 'rgba(0, 0, 0, 0.06)';
+        ctx.lineWidth = 20;
+        ctx.strokeRect(10, 10, 1060, 1060);
+        ctx.fillStyle = 'rgba(0, 0, 0, 0.04)';
+    }
+    
+    // 2. Desenha a aspa de fundo gigante
+    let fontName = 'Georgia';
+    if (fontClass === 'font-sans') fontName = '"Plus Jakarta Sans", sans-serif';
+    if (fontClass === 'font-playfair') fontName = '"Playfair Display", serif';
+    
+    ctx.font = `italic 320px ${fontName}`;
+    ctx.fillText('“', 100, 320);
+    
+    // 3. Configura cores do texto
+    let textColor = '#ffffff';
+    let subColor = 'rgba(255, 255, 255, 0.7)';
+    if (themeBgClass === 'bg-minimal-light') {
+        textColor = '#2c2520';
+        subColor = 'rgba(44, 37, 32, 0.6)';
+    }
+    
+    // 4. Desenha o texto do versículo com Word Wrap
+    ctx.fillStyle = textColor;
+    ctx.textAlign = 'center';
+    
+    const padding = 100;
+    const maxWidth = 880;
+    let fontSize = 48;
+    
+    // Ajusta o tamanho da fonte com base na extensão do versículo
+    if (cardTextVal.length > 250) {
+        fontSize = 36;
+    } else if (cardTextVal.length > 150) {
+        fontSize = 42;
+    }
+    
+    ctx.font = `italic ${fontSize}px ${fontName}`;
+    const lineHeight = fontSize * 1.5;
+    
+    // Desenha o bloco do texto e pega a altura total ocupada
+    const textHeight = drawTextWithWordWrap(ctx, cardTextVal, 540, 540, maxWidth, lineHeight);
+    
+    // 5. Desenha a referência do versículo
+    ctx.fillStyle = textColor;
+    ctx.font = `bold 32px ${fontName}`;
+    
+    // Coloca a referência um pouco abaixo do bloco do texto centralizado
+    const refY = 540 + (textHeight / 2) + 60;
+    ctx.fillText(cardRefVal, 540, refY);
+    
+    // 6. Desenha a marca d'água no rodapé
+    ctx.fillStyle = subColor;
+    ctx.font = `900 24px "Plus Jakarta Sans", sans-serif`;
+    ctx.letterSpacing = '2px';
+    ctx.fillText('NOSSA BÍBLIA LIVRE', 540, 980);
+    
+    // Dispara o download da imagem em PNG
+    const link = document.createElement('a');
+    link.download = `nossa-biblia-livre-${cardRefVal.replace(/\s+/g, '-').replace(/:/g, '-')}.png`;
+    link.href = canvas.toDataURL('image/png');
+    link.click();
+}
+
+function drawTextWithWordWrap(ctx, text, x, y, maxWidth, lineHeight) {
+    const words = text.split(' ');
+    let line = '';
+    let lines = [];
+    
+    for (let n = 0; n < words.length; n++) {
+        let testLine = line + words[n] + ' ';
+        let metrics = ctx.measureText(testLine);
+        let testWidth = metrics.width;
+        if (testWidth > maxWidth && n > 0) {
+            lines.push(line);
+            line = words[n] + ' ';
+        } else {
+            line = testLine;
+        }
+    }
+    lines.push(line);
+    
+    const totalHeight = lines.length * lineHeight;
+    let currentY = y - (totalHeight / 2) + (lineHeight / 2);
+    
+    for (let i = 0; i < lines.length; i++) {
+        ctx.fillText(lines[i].trim(), x, currentY);
+        currentY += lineHeight;
+    }
+    
+    return totalHeight;
+}
+
