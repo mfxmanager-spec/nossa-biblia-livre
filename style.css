@@ -848,7 +848,7 @@ body.theme-dark .chapters-grid {
     }
 
     .toolbar {
-        gap: 8px;
+        gap: 6px;
     }
 
     .toolbar .divider {
@@ -861,17 +861,31 @@ body.theme-dark .chapters-grid {
 
     .toolbar-toggle {
         padding: 0;
-        width: 32px;
+        width: 28px;
+        height: 28px;
+        border-radius: 5px;
         justify-content: center;
     }
 
+    .toolbar-toggle svg {
+        width: 16px;
+        height: 16px;
+    }
+
+    .text-size-btn {
+        width: 28px;
+        height: 28px;
+        font-size: 0.75rem;
+        border-radius: 5px;
+    }
+
     .theme-selector {
-        gap: 6px;
+        gap: 4px;
     }
 
     .theme-dot {
-        width: 18px;
-        height: 18px;
+        width: 16px;
+        height: 16px;
     }
 
     .reader-view {
