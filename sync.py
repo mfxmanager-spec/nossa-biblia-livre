@@ -470,6 +470,28 @@ def export_json():
         with open(ch_file_path, "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, indent=2)
             
+    # 3. Export search index
+    print("Generating search-index.json index for offline search...")
+    cursor.execute("""
+    SELECT v.number as verse_num, v.text as verse_text, c.number as chapter_num, b.slug as book_slug, b.name as book_name
+    FROM verses v
+    JOIN chapters c ON v.chapter_id = c.id
+    JOIN books b ON c.book_id = b.id
+    """)
+    search_rows = cursor.fetchall()
+    search_index = []
+    for r in search_rows:
+        search_index.append({
+            "b": r["book_slug"],
+            "n": r["book_name"],
+            "c": r["chapter_num"],
+            "v": r["verse_num"],
+            "t": r["verse_text"]
+        })
+    with open(os.path.join(DATA_DIR, "search-index.json"), "w", encoding="utf-8") as f:
+        json.dump(search_index, f, ensure_ascii=False)
+    print(f"Saved search-index.json with {len(search_index)} verses.")
+            
     conn.close()
     print("Static JSON files export complete!")
 

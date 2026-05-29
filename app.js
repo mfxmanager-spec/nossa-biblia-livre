@@ -6,7 +6,9 @@ let appState = {
     currentChapterData: null,
     fontSize: 1.15, // in rem
     showNotes: true,
-    theme: 'sepia'
+    theme: 'sepia',
+    searchFilter: 'book',
+    searchIndex: null
 };
 
 // Touch Gestures Coordinates
@@ -36,7 +38,11 @@ const DOM = {
     toggleNotes: document.getElementById('toggleNotes'),
     themeDots: document.querySelectorAll('.theme-dot'),
     readerView: document.getElementById('readerView'),
-    syncBtn: document.getElementById('syncBtn')
+    syncBtn: document.getElementById('syncBtn'),
+    searchResultsPanel: document.getElementById('searchResultsPanel'),
+    searchResultsList: document.getElementById('searchResultsList'),
+    resultsCount: document.getElementById('resultsCount'),
+    clearSearchBtn: document.getElementById('clearSearchBtn')
 };
 
 // Initialize App
@@ -165,6 +171,75 @@ function initEventListeners() {
     if (DOM.syncBtn) {
         DOM.syncBtn.addEventListener('click', handleSync);
     }
+
+    // Configurar escutas para os botões de filtro de pesquisa
+    const filterBtns = document.querySelectorAll('.search-filter-btn');
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            filterBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            appState.searchFilter = btn.dataset.filter;
+            performSearch(DOM.bookSearch.value);
+        });
+    });
+
+    // Configurar escuta para o botão de limpar pesquisa
+    if (DOM.clearSearchBtn) {
+        DOM.clearSearchBtn.addEventListener('click', () => {
+            DOM.bookSearch.value = '';
+            performSearch('');
+        });
+    }
+}
+
+// Fetch helper with local/Web intelligent caching
+async function fetchWithCache(url) {
+    let cache;
+    try {
+        cache = await caches.open('nb-chapters-cache');
+    } catch (e) {
+        console.warn('CacheStorage não suportado ou bloqueado:', e);
+    }
+
+    try {
+        // Se estiver rodando em localhost, não tenta bater na URL de produção externa
+        const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+        const webUrl = (url.startsWith('http') || isLocal) ? url : `https://biblialivre.mf.app.br/${url}`;
+        
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 3000);
+        
+        const response = await fetch(webUrl, { signal: controller.signal });
+        clearTimeout(timeoutId);
+        
+        if (response.ok) {
+            // Prevenir falsos-positivos caso o servidor retorne HTML de SPA em rota 404
+            const contentType = response.headers.get('content-type');
+            if (url.endsWith('.json') && contentType && contentType.includes('text/html')) {
+                throw new Error('Servidor retornou HTML em vez de JSON para ' + url);
+            }
+
+            if (cache) {
+                try {
+                    await cache.put(url, response.clone());
+                } catch (cacheErr) {
+                    console.error('Falha ao gravar no cache:', cacheErr);
+                }
+            }
+            return response;
+        }
+    } catch (netErr) {
+        console.log(`Falha ao buscar da rede (${url}), tentando cache...`, netErr);
+    }
+
+    if (cache) {
+        const cachedResponse = await cache.match(url);
+        if (cachedResponse) {
+            return cachedResponse;
+        }
+    }
+
+    return fetch(url);
 }
 
 // UI Drawer triggers
@@ -226,12 +301,24 @@ function loadDefaultChapter() {
 
 // Fetch Books list index
 async function loadBooks() {
+    if (DOM.currentLocation) {
+        DOM.currentLocation.classList.add('loading');
+    }
     try {
-        const response = await fetch('data/books.json');
+        const response = await fetchWithCache('data/books.json');
         if (!response.ok) throw new Error('Falha ao carregar índice de livros');
         
         appState.books = await response.json();
         renderSidebar();
+
+        // Recuperar última leitura salva no localStorage
+        const lastBook = localStorage.getItem('nb-last-book');
+        const lastChapter = localStorage.getItem('nb-last-chapter');
+        if (lastBook && lastChapter) {
+            await loadChapter(lastBook, parseInt(lastChapter));
+        } else {
+            loadDefaultChapter();
+        }
     } catch (error) {
         console.error(error);
         DOM.bookNav.innerHTML = `
@@ -239,6 +326,10 @@ async function loadBooks() {
                 <p style="color: red; text-align: center;">Erro ao carregar os livros. Recarregue a página.</p>
             </div>
         `;
+    } finally {
+        if (DOM.currentLocation) {
+            DOM.currentLocation.classList.remove('loading');
+        }
     }
 }
 
@@ -323,42 +414,169 @@ function renderSidebar() {
 
 // Search filtering logic
 function handleSearch(e) {
-    const query = e.target.value.toLowerCase().trim();
-    const bookItems = document.querySelectorAll('.book-item');
+    const query = e.target.value;
+    performSearch(query);
+}
+
+// Execute global search based on filter option
+async function performSearch(query) {
+    query = query.toLowerCase().trim();
     
-    bookItems.forEach(item => {
-        const bookTitle = item.querySelector('.book-title-btn span').textContent.toLowerCase();
+    // Se o filtro for 'book' (livros)
+    if (appState.searchFilter === 'book') {
+        DOM.bookNav.style.display = 'block';
+        DOM.searchResultsPanel.style.display = 'none';
         
-        if (query === '') {
-            item.style.display = 'block';
-            item.classList.remove('expanded');
-        } else if (bookTitle.includes(query)) {
-            item.style.display = 'block';
-            item.classList.add('expanded'); // Auto expand matches
-        } else {
-            item.style.display = 'none';
+        const bookItems = document.querySelectorAll('.book-item');
+        bookItems.forEach(item => {
+            const bookTitle = item.querySelector('.book-title-btn span').textContent.toLowerCase();
+            if (query === '') {
+                item.style.display = 'block';
+                item.classList.remove('expanded');
+            } else if (bookTitle.includes(query)) {
+                item.style.display = 'block';
+                item.classList.add('expanded');
+            } else {
+                item.style.display = 'none';
+            }
+        });
+        return;
+    }
+    
+    // Busca avançada por versículo ou palavra
+    DOM.bookNav.style.display = 'none';
+    DOM.searchResultsPanel.style.display = 'flex';
+    
+    if (query === '') {
+        DOM.searchResultsList.innerHTML = '<p class="nav-loading">Digite palavras para buscar...</p>';
+        DOM.resultsCount.textContent = '0 resultados';
+        return;
+    }
+    
+    // Carrega o search-index.json se ainda não foi carregado
+    if (!appState.searchIndex) {
+        DOM.searchResultsList.innerHTML = `
+            <div class="nav-loading">
+                <div class="spinner"></div>
+                <span>Carregando índice de busca...</span>
+            </div>
+        `;
+        try {
+            const response = await fetchWithCache('data/search-index.json');
+            if (!response.ok) throw new Error('Falha ao baixar índice de busca');
+            appState.searchIndex = await response.json();
+        } catch (err) {
+            console.error(err);
+            DOM.searchResultsList.innerHTML = '<p style="color: red; padding: 20px; text-align: center;">Erro ao carregar índice de busca offline.</p>';
+            return;
         }
+    }
+    
+    DOM.searchResultsList.innerHTML = `
+        <div class="nav-loading">
+            <div class="spinner"></div>
+            <span>Pesquisando...</span>
+        </div>
+    `;
+    
+    let results = [];
+    const isWordSearch = appState.searchFilter === 'word';
+    
+    // Escapar caracteres especiais para regex e criar padrão de busca
+    const escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    
+    // Regex para palavra inteira ou substring
+    const regex = isWordSearch 
+        ? new RegExp(`\\b${escapedQuery}\\b`, 'i') 
+        : new RegExp(escapedQuery, 'i');
+        
+    for (const item of appState.searchIndex) {
+        if (regex.test(item.t)) {
+            results.push(item);
+        }
+    }
+    
+    const limit = 50;
+    const paginatedResults = results.slice(0, limit);
+    DOM.resultsCount.textContent = `${results.length} resultado(s)`;
+    
+    if (results.length === 0) {
+        DOM.searchResultsList.innerHTML = '<p class="nav-loading">Nenhum resultado encontrado.</p>';
+        return;
+    }
+    
+    DOM.searchResultsList.innerHTML = '';
+    paginatedResults.forEach(res => {
+        const div = document.createElement('div');
+        div.className = 'search-result-item';
+        
+        // Destacar termo correspondente
+        const highlightedText = res.t.replace(
+            new RegExp(`(${escapedQuery})`, 'gi'), 
+            '<mark>$1</mark>'
+        );
+        
+        div.innerHTML = `
+            <div class="result-meta">${res.n} ${res.c}:${res.v}</div>
+            <div class="result-text">${highlightedText}</div>
+        `;
+        
+        div.addEventListener('click', () => {
+            loadChapter(res.b, res.c);
+            
+            // Rolar e destacar o versículo após carregar a página
+            setTimeout(() => {
+                const verseEl = document.getElementById(`verse-${res.v}`);
+                if (verseEl) {
+                    verseEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    verseEl.classList.add('highlight-flash');
+                    setTimeout(() => verseEl.classList.remove('highlight-flash'), 3000);
+                }
+            }, 500);
+            
+            // Fecha sidebar em telas menores
+            if (window.innerWidth <= 1024) {
+                closeSidebar();
+            }
+        });
+        
+        DOM.searchResultsList.appendChild(div);
     });
+    
+    if (results.length > limit) {
+        const moreDiv = document.createElement('p');
+        moreDiv.className = 'nav-loading';
+        moreDiv.style.fontSize = '0.8rem';
+        moreDiv.textContent = `Mostrando os primeiros ${limit} de ${results.length} resultados. Refine sua busca.`;
+        DOM.searchResultsList.appendChild(moreDiv);
+    }
 }
 
 // Fetch Chapter Content
 async function loadChapter(bookSlug, chapterNum) {
+    if (DOM.currentLocation) {
+        DOM.currentLocation.classList.add('loading');
+    }
     // Show reader loading indicator
     DOM.readerContainer.innerHTML = `
         <div class="nav-loading" style="min-height: 40vh;">
             <div class="spinner"></div>
-            <span>Carregando ${bookSlug.replace('-', ' ')} ${chapterNum}...</span>
+            <span>Carregando ${bookSlug.replace(/-/g, ' ')} ${chapterNum}...</span>
         </div>
     `;
 
     try {
-        const response = await fetch(`data/chapters/${bookSlug}/${chapterNum}.json`);
+        const response = await fetchWithCache(`data/chapters/${bookSlug}/${chapterNum}.json`);
         if (!response.ok) throw new Error('Falha ao carregar o capítulo');
         
         const data = await response.json();
         appState.currentBook = bookSlug;
         appState.currentChapterNum = chapterNum;
         appState.currentChapterData = data;
+
+        // Salvar última leitura no localStorage
+        localStorage.setItem('nb-last-book', bookSlug);
+        localStorage.setItem('nb-last-chapter', chapterNum.toString());
         
         renderChapter(data);
         highlightActiveChapterInSidebar(bookSlug, chapterNum);
@@ -371,6 +589,10 @@ async function loadChapter(bookSlug, chapterNum) {
                 <button class="btn btn-primary" onclick="loadDefaultChapter()">Voltar ao início</button>
             </div>
         `;
+    } finally {
+        if (DOM.currentLocation) {
+            DOM.currentLocation.classList.remove('loading');
+        }
     }
 }
 
