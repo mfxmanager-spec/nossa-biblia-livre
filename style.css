@@ -923,3 +923,43 @@ body.theme-dark .chapters-grid {
         font-size: 0.9rem;
     }
 }
+
+/* Sidebar Footer & Sync Button */
+.sidebar-footer {
+    padding: 16px 20px;
+    border-top: 1px solid var(--border-color);
+    background-color: var(--bg-sidebar);
+}
+
+.btn-sync {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background-color: transparent;
+    color: var(--text-muted);
+    border: 1px dashed var(--border-color);
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 0.9rem;
+    font-family: var(--font-sans);
+    cursor: pointer;
+    transition: all var(--transition-speed) var(--transition-ease);
+}
+
+.btn-sync:hover {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+    background-color: rgba(140, 98, 57, 0.08);
+}
+
+/* Spinner class for rotation when syncing */
+.btn-sync.syncing svg {
+    animation: spin 1.5s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}

@@ -35,7 +35,8 @@ const DOM = {
     textSizeInc: document.getElementById('textSizeInc'),
     toggleNotes: document.getElementById('toggleNotes'),
     themeDots: document.querySelectorAll('.theme-dot'),
-    readerView: document.getElementById('readerView')
+    readerView: document.getElementById('readerView'),
+    syncBtn: document.getElementById('syncBtn')
 };
 
 // Initialize App
@@ -158,6 +159,11 @@ function initEventListeners() {
     if (DOM.readerView) {
         DOM.readerView.addEventListener('touchstart', handleTouchStart, { passive: true });
         DOM.readerView.addEventListener('touchend', handleTouchEnd, { passive: true });
+    }
+
+    // Sync Button click
+    if (DOM.syncBtn) {
+        DOM.syncBtn.addEventListener('click', handleSync);
     }
 }
 
@@ -559,5 +565,45 @@ function navigateToPreviousChapter() {
                 loadChapter(prevBook.slug, lastCh.number);
             }
         }
+    }
+}
+
+// Trigger the backend workflow synchronization
+async function handleSync() {
+    if (DOM.syncBtn.classList.contains('syncing')) return;
+
+    // Change UI state to syncing
+    DOM.syncBtn.classList.add('syncing');
+    const syncText = DOM.syncBtn.querySelector('span');
+    const originalText = syncText ? syncText.textContent : 'Sincronizar Textos';
+    if (syncText) {
+        syncText.textContent = 'Verificando...';
+    }
+
+    try {
+        const response = await fetch('/api/sync', {
+            method: 'POST'
+        });
+
+        const data = await response.json();
+
+        if (response.ok && data.success) {
+            alert('Sincronização iniciada com sucesso no GitHub! Novos capítulos estarão online em cerca de 2 minutos.');
+            if (syncText) syncText.textContent = 'Sincronizando...';
+            
+            setTimeout(() => {
+                DOM.syncBtn.classList.remove('syncing');
+                if (syncText) syncText.textContent = originalText;
+            }, 5000);
+        } else {
+            alert(`Erro na sincronização: ${data.error || 'Erro desconhecido'}`);
+            DOM.syncBtn.classList.remove('syncing');
+            if (syncText) syncText.textContent = originalText;
+        }
+    } catch (error) {
+        console.error('Erro na requisição de sincronização:', error);
+        alert('Erro de conexão ao tentar sincronizar. Verifique se o servidor está online.');
+        DOM.syncBtn.classList.remove('syncing');
+        if (syncText) syncText.textContent = originalText;
     }
 }
