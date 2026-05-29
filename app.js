@@ -119,6 +119,36 @@ function updateNotesVisibility() {
     saveSettings('show-notes', appState.showNotes);
 }
 
+// Auxiliar robusto para copiar texto para a área de transferência
+function copyToClipboard(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+        return navigator.clipboard.writeText(text);
+    } else {
+        return new Promise((resolve, reject) => {
+            try {
+                const textArea = document.createElement("textarea");
+                textArea.value = text;
+                textArea.style.top = "0";
+                textArea.style.left = "0";
+                textArea.style.position = "fixed";
+                textArea.style.opacity = "0";
+                document.body.appendChild(textArea);
+                textArea.focus();
+                textArea.select();
+                const successful = document.execCommand('copy');
+                document.body.removeChild(textArea);
+                if (successful) {
+                    resolve();
+                } else {
+                    reject(new Error('Falha no fallback de cópia'));
+                }
+            } catch (err) {
+                reject(err);
+            }
+        });
+    }
+}
+
 // Initialize Event Listeners
 function initEventListeners() {
     // Sidebar drawer toggles
@@ -220,7 +250,8 @@ function initEventListeners() {
     
     if (DOM.copyPixBtn && DOM.pixKeyValue) {
         DOM.copyPixBtn.addEventListener('click', () => {
-            navigator.clipboard.writeText(DOM.pixKeyValue.textContent).then(() => {
+            const textToCopy = DOM.pixKeyValue.textContent.trim();
+            copyToClipboard(textToCopy).then(() => {
                 if (DOM.pixCopySuccess) {
                     DOM.pixCopySuccess.style.display = 'block';
                     setTimeout(() => {
@@ -229,6 +260,8 @@ function initEventListeners() {
                 }
             }).catch(err => {
                 console.error('Falha ao copiar chave pix:', err);
+                // Fallback secundário visual se ambos falharem
+                alert('Chave PIX: ' + textToCopy);
             });
         });
     }
