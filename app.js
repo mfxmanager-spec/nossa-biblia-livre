@@ -16,7 +16,8 @@ let appState = {
     notes: JSON.parse(localStorage.getItem('nb-user-notes')) || {},
     history: JSON.parse(localStorage.getItem('nb-reading-history')) || [],
     activeVerseElement: null,
-    activeVerseNum: null
+    activeVerseNum: null,
+    activeSelection: null
 };
 
 // Touch Gestures Coordinates
@@ -438,11 +439,19 @@ function initEventListeners() {
     // Ações de Popover do Versículo e Notas
     if (DOM.readerContainer) {
         DOM.readerContainer.addEventListener('click', (e) => {
+            const selection = window.getSelection();
+            if (selection && !selection.isCollapsed && selection.toString().trim().length >= 2) {
+                return;
+            }
             const verseBlock = e.target.closest('.verse-block');
             if (verseBlock && !e.target.closest('sup a') && !e.target.closest('.verse-note-indicator')) {
+                appState.activeSelection = null;
                 openVerseMenu(verseBlock, e);
             }
         });
+
+        DOM.readerContainer.addEventListener('mouseup', handleTextSelection);
+        DOM.readerContainer.addEventListener('touchend', handleTextSelection);
     }
 
     document.addEventListener('click', (e) => {
@@ -1171,9 +1180,9 @@ function renderChapter(data) {
 
         const refKey = `${appState.currentBook}-${data.chapter_number}-${verse.number}`;
         
-        // Aplica destaque salvo se houver
+        // Aplica destaque salvo se for bloco inteiro
         const savedColor = appState.highlights[refKey];
-        if (savedColor) {
+        if (savedColor && typeof savedColor === 'string') {
             block.classList.add(`highlight-${savedColor}`);
         }
 
@@ -1215,6 +1224,11 @@ function renderChapter(data) {
             lineEl.innerHTML = line.raw_html;
             linesContainer.appendChild(lineEl);
         });
+
+        // Se houver destaques parciais (array de trechos)
+        if (Array.isArray(savedColor)) {
+            highlightTextNodes(linesContainer, savedColor);
+        }
 
         block.appendChild(linesContainer);
         versesContainer.appendChild(block);
@@ -1411,23 +1425,184 @@ function applyVerseHighlight(color) {
     
     const refKey = `${appState.currentBook}-${appState.currentChapterNum}-${appState.activeVerseNum}`;
     
-    // Remove qualquer classe de highlight anterior no elemento
-    appState.activeVerseElement.classList.remove('highlight-yellow', 'highlight-green', 'highlight-blue', 'highlight-pink');
-    
-    if (color) {
-        // Aplica o novo destaque no DOM
-        appState.activeVerseElement.classList.add(`highlight-${color}`);
-        appState.highlights[refKey] = color;
+    if (appState.activeSelection) {
+        const selectedText = appState.activeSelection.text;
+        
+        if (color) {
+            // Remove destaque de bloco se houver
+            appState.activeVerseElement.classList.remove('highlight-yellow', 'highlight-green', 'highlight-blue', 'highlight-pink');
+            
+            if (!Array.isArray(appState.highlights[refKey])) {
+                appState.highlights[refKey] = [];
+            }
+            
+            // Adiciona a nova marcação se não existir idêntica
+            const exists = appState.highlights[refKey].some(h => h.text.toLowerCase() === selectedText.toLowerCase());
+            if (!exists) {
+                appState.highlights[refKey].push({
+                    text: selectedText,
+                    color: color
+                });
+            }
+            
+            // Aplica no DOM reconstruindo as linhas
+            const linesContainer = appState.activeVerseElement.querySelector('.verse-lines');
+            if (linesContainer) {
+                const verseData = appState.currentChapterData.verses.find(v => v.number === appState.activeVerseNum);
+                if (verseData) {
+                    linesContainer.innerHTML = '';
+                    verseData.lines.forEach(line => {
+                        const lineEl = document.createElement('div');
+                        lineEl.className = 'verse-line';
+                        lineEl.innerHTML = line.raw_html;
+                        linesContainer.appendChild(lineEl);
+                    });
+                    highlightTextNodes(linesContainer, appState.highlights[refKey]);
+                }
+            }
+        } else {
+            // Limpa tudo do versículo
+            delete appState.highlights[refKey];
+            appState.activeVerseElement.classList.remove('highlight-yellow', 'highlight-green', 'highlight-blue', 'highlight-pink');
+            
+            const linesContainer = appState.activeVerseElement.querySelector('.verse-lines');
+            if (linesContainer) {
+                const verseData = appState.currentChapterData.verses.find(v => v.number === appState.activeVerseNum);
+                if (verseData) {
+                    linesContainer.innerHTML = '';
+                    verseData.lines.forEach(line => {
+                        const lineEl = document.createElement('div');
+                        lineEl.className = 'verse-line';
+                        lineEl.innerHTML = line.raw_html;
+                        linesContainer.appendChild(lineEl);
+                    });
+                }
+            }
+        }
+        appState.activeSelection = null;
     } else {
-        // Remove do armazenamento
-        delete appState.highlights[refKey];
+        // Destaque de bloco (versículo inteiro)
+        appState.activeVerseElement.classList.remove('highlight-yellow', 'highlight-green', 'highlight-blue', 'highlight-pink');
+        
+        // Restaura linhas sem tags mark antes de aplicar no bloco
+        const linesContainer = appState.activeVerseElement.querySelector('.verse-lines');
+        if (linesContainer) {
+            const verseData = appState.currentChapterData.verses.find(v => v.number === appState.activeVerseNum);
+            if (verseData) {
+                linesContainer.innerHTML = '';
+                verseData.lines.forEach(line => {
+                    const lineEl = document.createElement('div');
+                    lineEl.className = 'verse-line';
+                    lineEl.innerHTML = line.raw_html;
+                    linesContainer.appendChild(lineEl);
+                });
+            }
+        }
+
+        if (color) {
+            appState.activeVerseElement.classList.add(`highlight-${color}`);
+            appState.highlights[refKey] = color;
+        } else {
+            delete appState.highlights[refKey];
+        }
     }
     
     // Salva no localStorage
     localStorage.setItem('nb-highlights', JSON.stringify(appState.highlights));
     
+    // Limpa a seleção visual
+    window.getSelection().removeAllRanges();
+    
     // Fecha o popover
     DOM.verseActionsPopover.classList.remove('open');
+}
+
+// Helper para destacar trechos de nós de texto de forma segura
+function highlightTextNodes(element, highlights) {
+    if (!highlights || highlights.length === 0) return;
+    
+    const childNodes = Array.from(element.childNodes);
+    
+    for (let node of childNodes) {
+        if (node.nodeType === Node.TEXT_NODE) {
+            let text = node.textContent;
+            let matchFound = false;
+            
+            for (let highlight of highlights) {
+                const index = text.toLowerCase().indexOf(highlight.text.toLowerCase());
+                if (index !== -1) {
+                    const matchedText = text.substring(index, index + highlight.text.length);
+                    const before = text.substring(0, index);
+                    const after = text.substring(index + highlight.text.length);
+                    
+                    const beforeNode = document.createTextNode(before);
+                    const markNode = document.createElement('mark');
+                    markNode.className = `highlight-${highlight.color} inline-highlight`;
+                    markNode.textContent = matchedText;
+                    const afterNode = document.createTextNode(after);
+                    
+                    node.parentNode.insertBefore(beforeNode, node);
+                    node.parentNode.insertBefore(markNode, node);
+                    node.parentNode.insertBefore(afterNode, node);
+                    node.parentNode.removeChild(node);
+                    
+                    highlightTextNodes(element, highlights);
+                    matchFound = true;
+                    break;
+                }
+            }
+            if (matchFound) break;
+        } else if (node.nodeType === Node.ELEMENT_NODE && node.tagName !== 'MARK') {
+            highlightTextNodes(node, highlights);
+        }
+    }
+}
+
+// Handler de seleção de texto
+function handleTextSelection(e) {
+    setTimeout(() => {
+        const selection = window.getSelection();
+        if (!selection || selection.isCollapsed || selection.toString().trim() === '') {
+            return;
+        }
+
+        const range = selection.getRangeAt(0);
+        const container = range.commonAncestorContainer;
+        
+        const verseBlock = container.nodeType === Node.ELEMENT_NODE ? container.closest('.verse-block') : container.parentElement.closest('.verse-block');
+        if (!verseBlock) return;
+
+        const selectedText = selection.toString().trim();
+        if (selectedText.length < 2) return;
+
+        appState.activeSelection = {
+            text: selectedText,
+            verseBlock: verseBlock,
+            verseNum: parseInt(verseBlock.id.replace('verse-', '')),
+            range: range.cloneRange()
+        };
+
+        appState.activeVerseElement = verseBlock;
+        appState.activeVerseNum = appState.activeSelection.verseNum;
+
+        DOM.verseActionsPopover.classList.add('open');
+        
+        const rect = range.getBoundingClientRect();
+        const popoverHeight = DOM.verseActionsPopover.offsetHeight || 80;
+        const popoverWidth = DOM.verseActionsPopover.offsetWidth || 230;
+
+        let top = rect.top + window.scrollY - popoverHeight - 8;
+        let left = rect.left + window.scrollX + (rect.width / 2) - (popoverWidth / 2);
+
+        if (rect.width === 0 || rect.height === 0) {
+            const blockRect = verseBlock.getBoundingClientRect();
+            top = blockRect.top + window.scrollY - popoverHeight - 8;
+            left = blockRect.left + window.scrollX + (blockRect.width / 2) - (popoverWidth / 2);
+        }
+
+        DOM.verseActionsPopover.style.top = `${top}px`;
+        DOM.verseActionsPopover.style.left = `${left}px`;
+    }, 10);
 }
 
 function copyActiveVerse() {

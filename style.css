@@ -1605,6 +1605,31 @@ body.theme-dark .chapters-grid {
     border-radius: 0 4px 4px 0;
 }
 
+/* Inline Highlights (Marcação de trechos específicos) */
+mark.inline-highlight {
+    background-color: transparent;
+    color: inherit;
+    border-radius: 3px;
+    padding: 1px 2px;
+    transition: background-color 0.2s ease;
+}
+
+mark.inline-highlight.highlight-yellow {
+    background-color: rgba(250, 219, 20, 0.45);
+}
+
+mark.inline-highlight.highlight-green {
+    background-color: rgba(82, 196, 26, 0.38);
+}
+
+mark.inline-highlight.highlight-blue {
+    background-color: rgba(24, 144, 255, 0.35);
+}
+
+mark.inline-highlight.highlight-pink {
+    background-color: rgba(245, 34, 45, 0.35);
+}
+
 /* Verse Note Indicator */
 .verse-note-indicator {
     display: inline-flex;
