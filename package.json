@@ -5,6 +5,7 @@
   "main": "index.html",
   "scripts": {
     "dev": "vite --host",
+    "dev:api": "wrangler pages dev .",
     "build": "vite build",
     "preview": "vite preview",
     "sync": "python3 sync.py"

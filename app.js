@@ -585,7 +585,15 @@ async function handleSync() {
             method: 'POST'
         });
 
-        const data = await response.json();
+        let data = {};
+        const contentType = response.headers.get("content-type");
+        if (contentType && contentType.includes("application/json")) {
+            data = await response.json();
+        } else {
+            // Se não for JSON (ex: erro 404 do Vite ou 500 sem formato JSON)
+            const textResponse = await response.text();
+            throw new Error(textResponse.substring(0, 100) || `Status ${response.status}`);
+        }
 
         if (response.ok && data.success) {
             alert('Sincronização iniciada com sucesso no GitHub! Novos capítulos estarão online em cerca de 2 minutos.');
@@ -602,7 +610,7 @@ async function handleSync() {
         }
     } catch (error) {
         console.error('Erro na requisição de sincronização:', error);
-        alert('Erro de conexão ao tentar sincronizar. Verifique se o servidor está online.');
+        alert(`Erro de conexão ao tentar sincronizar: ${error.message || 'Verifique se o servidor está online.'}`);
         DOM.syncBtn.classList.remove('syncing');
         if (syncText) syncText.textContent = originalText;
     }
