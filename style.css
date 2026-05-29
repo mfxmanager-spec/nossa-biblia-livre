@@ -1117,7 +1117,7 @@ body.theme-dark .chapters-grid {
 }
 
 .pix-modal-card {
-    background-color: var(--bg-card);
+    background-color: var(--bg-sidebar);
     border: 1px solid var(--border-color);
     border-radius: 12px;
     width: 90%;
