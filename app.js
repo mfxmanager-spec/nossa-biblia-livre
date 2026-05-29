@@ -450,8 +450,7 @@ function initEventListeners() {
             }
         });
 
-        DOM.readerContainer.addEventListener('mouseup', handleTextSelection);
-        DOM.readerContainer.addEventListener('touchend', handleTextSelection);
+        document.addEventListener('selectionchange', handleTextSelectionChange);
     }
 
     document.addEventListener('click', (e) => {
@@ -1558,9 +1557,15 @@ function highlightTextNodes(element, highlights) {
     }
 }
 
-// Handler de seleção de texto
-function handleTextSelection(e) {
-    setTimeout(() => {
+let selectionTimeout = null;
+
+// Handler de seleção de texto com debounce (universal para desktop e mobile)
+function handleTextSelectionChange() {
+    if (selectionTimeout) {
+        clearTimeout(selectionTimeout);
+    }
+
+    selectionTimeout = setTimeout(() => {
         const selection = window.getSelection();
         if (!selection || selection.isCollapsed || selection.toString().trim() === '') {
             return;
@@ -1569,11 +1574,16 @@ function handleTextSelection(e) {
         const range = selection.getRangeAt(0);
         const container = range.commonAncestorContainer;
         
+        // Verifica se a seleção está ocorrendo dentro de um verse-block
         const verseBlock = container.nodeType === Node.ELEMENT_NODE ? container.closest('.verse-block') : container.parentElement.closest('.verse-block');
         if (!verseBlock) return;
 
         const selectedText = selection.toString().trim();
+        // Ignora seleções acidentais ou muito pequenas
         if (selectedText.length < 2) return;
+
+        // Se o paywall ou outro modal estiver aberto, ignora
+        if (DOM.paywallModal && DOM.paywallModal.classList.contains('open')) return;
 
         appState.activeSelection = {
             text: selectedText,
@@ -1602,7 +1612,7 @@ function handleTextSelection(e) {
 
         DOM.verseActionsPopover.style.top = `${top}px`;
         DOM.verseActionsPopover.style.left = `${left}px`;
-    }, 10);
+    }, 350);
 }
 
 function copyActiveVerse() {
