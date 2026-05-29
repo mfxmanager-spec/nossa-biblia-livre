@@ -418,6 +418,25 @@ function handleSearch(e) {
     performSearch(query);
 }
 
+// Limpa notas explicativas de rodapé misturadas no meio do texto do versículo
+function cleanVerseText(text) {
+    if (!text) return '';
+    // Remove notas explicativas do tipo (( ... ))
+    let cleaned = text.replace(/\(\(.*?\)\)/g, '');
+    // Remove notas explicativas com parenteses alternativos se houver (como （ ... ）)
+    cleaned = cleaned.replace(/（.*?））/g, '');
+    cleaned = cleaned.replace(/（.*?）/g, '');
+    // Remove notas explicativas que começam com (“ e terminam com ))
+    cleaned = cleaned.replace(/\(“.*?\)\)/g, '');
+    // Remove notas que começam com ( e terminam com ) contendo referências a livros e capítulos
+    // Ex: (Cf. Gênesis 1,3; ...) ou referências de notas
+    cleaned = cleaned.replace(/\(Cf\..*?\)/gi, '');
+    cleaned = cleaned.replace(/\(Somente em.*?\)/gi, '');
+    // Remove espaços duplicados
+    cleaned = cleaned.replace(/\s+/g, ' ').trim();
+    return cleaned;
+}
+
 // Execute global search based on filter option
 async function performSearch(query) {
     query = query.toLowerCase().trim();
@@ -427,17 +446,56 @@ async function performSearch(query) {
         DOM.bookNav.style.display = 'block';
         DOM.searchResultsPanel.style.display = 'none';
         
+        // Tenta identificar se o usuário busca um capítulo específico (ex: "12" ou "1 reis 12")
+        const match = query.match(/^(.*?)\s*(\d+)$/);
+        let targetChapter = null;
+        let bookQuery = query;
+        
+        if (match) {
+            const txt = match[1].trim();
+            const num = parseInt(match[2]);
+            // Apenas filtra por capítulo se houver nome de livro ou se for número com mais de 1 dígito (evita confundir query "1" ou "2" de livros)
+            if (txt !== '' || match[2].length > 1) {
+                bookQuery = txt;
+                targetChapter = num;
+            }
+        }
+        
         const bookItems = document.querySelectorAll('.book-item');
         bookItems.forEach(item => {
             const bookTitle = item.querySelector('.book-title-btn span').textContent.toLowerCase();
-            if (query === '') {
+            const chapterBtns = item.querySelectorAll('.chapter-btn');
+            
+            let hasMatchingChapter = false;
+            
+            // Filtra os botões de capítulos dentro do livro
+            chapterBtns.forEach(btn => {
+                const chNum = parseInt(btn.textContent);
+                if (targetChapter !== null) {
+                    if (chNum === targetChapter) {
+                        btn.style.display = 'block';
+                        hasMatchingChapter = true;
+                    } else {
+                        btn.style.display = 'none';
+                    }
+                } else {
+                    btn.style.display = 'block';
+                }
+            });
+            
+            // Verifica correspondência do nome do livro
+            const matchesBookName = bookQuery === '' || bookTitle.includes(bookQuery);
+            
+            if (matchesBookName && (targetChapter === null || hasMatchingChapter)) {
                 item.style.display = 'block';
-                item.classList.remove('expanded');
-            } else if (bookTitle.includes(query)) {
-                item.style.display = 'block';
-                item.classList.add('expanded');
+                if (query !== '') {
+                    item.classList.add('expanded');
+                } else {
+                    item.classList.remove('expanded');
+                }
             } else {
                 item.style.display = 'none';
+                item.classList.remove('expanded');
             }
         });
         return;
@@ -491,8 +549,10 @@ async function performSearch(query) {
         : new RegExp(escapedQuery, 'i');
         
     for (const item of appState.searchIndex) {
-        if (regex.test(item.t)) {
-            results.push(item);
+        // Limpar anotações explicativas antes de testar
+        const cleanText = cleanVerseText(item.t);
+        if (regex.test(cleanText)) {
+            results.push({ ...item, cleanText });
         }
     }
     
@@ -510,8 +570,8 @@ async function performSearch(query) {
         const div = document.createElement('div');
         div.className = 'search-result-item';
         
-        // Destacar termo correspondente
-        const highlightedText = res.t.replace(
+        // Destacar termo correspondente no texto limpo de notas explicativas
+        const highlightedText = res.cleanText.replace(
             new RegExp(`(${escapedQuery})`, 'gi'), 
             '<mark>$1</mark>'
         );
