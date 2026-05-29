@@ -1,0 +1,15 @@
+{
+  "name": "nossa-biblia-livre",
+  "version": "1.0.0",
+  "description": "Nossa Bíblia Livre Reader",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "sync": "python3 sync.py"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
