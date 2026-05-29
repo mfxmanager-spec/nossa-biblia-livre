@@ -1,3 +1,5 @@
+import { BillingManager } from './billing.js';
+
 // State Management
 let appState = {
     books: [],
@@ -8,7 +10,8 @@ let appState = {
     showNotes: true,
     theme: 'sepia',
     searchFilter: 'book',
-    searchIndex: null
+    searchIndex: null,
+    isPremium: false
 };
 
 // Touch Gestures Coordinates
@@ -48,7 +51,15 @@ const DOM = {
     closePixModal: document.getElementById('closePixModal'),
     copyPixBtn: document.getElementById('copyPixBtn'),
     pixKeyValue: document.getElementById('pixKeyValue'),
-    pixCopySuccess: document.getElementById('pixCopySuccess')
+    pixCopySuccess: document.getElementById('pixCopySuccess'),
+    testPremiumBtn: document.getElementById('testPremiumBtn'),
+    testPremiumStatus: document.getElementById('testPremiumStatus'),
+    paywallModal: document.getElementById('paywallModal'),
+    closePaywall: document.getElementById('closePaywall'),
+    subscribeBtn: document.getElementById('subscribeBtn'),
+    restoreBtn: document.getElementById('restoreBtn'),
+    planMonthly: document.getElementById('planMonthly'),
+    planAnnual: document.getElementById('planAnnual')
 };
 
 // Initialize App
@@ -56,7 +67,45 @@ document.addEventListener('DOMContentLoaded', () => {
     loadSettings();
     initEventListeners();
     loadBooks();
+    
+    // Inicializa o sistema de cobrança/assinaturas
+    BillingManager.init((isPremium) => {
+        appState.isPremium = isPremium;
+        updatePremiumUI();
+    });
 });
+
+// Update Premium UI indicators
+function updatePremiumUI() {
+    if (DOM.testPremiumBtn && DOM.testPremiumStatus) {
+        if (appState.isPremium) {
+            DOM.testPremiumBtn.classList.add('active');
+            DOM.testPremiumStatus.innerHTML = `
+                <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6-5c1.66 0 3 1.34 3 3v2H9V6c0-1.66 1.34-3 3-3zm6 17H6V10h12v10z"/></svg>
+                <span>PRO: Ativo 👑</span>
+            `;
+        } else {
+            DOM.testPremiumBtn.classList.remove('active');
+            DOM.testPremiumStatus.innerHTML = `
+                <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6-5c1.66 0 3 1.34 3 3v2H9V6c0-1.66 1.34-3 3-3zm6 17H6V10h12v10z"/></svg>
+                <span>PRO: Não 🔒</span>
+            `;
+        }
+    }
+}
+
+// Helper to check premium access before running features
+export function checkPremiumAccess(actionCallback) {
+    if (appState.isPremium) {
+        actionCallback();
+    } else {
+        if (DOM.paywallModal) {
+            DOM.paywallModal.classList.add('open');
+        } else {
+            alert('Esta funcionalidade requer assinatura Premium.');
+        }
+    }
+}
 
 // Load settings from localStorage
 function loadSettings() {
@@ -262,6 +311,85 @@ function initEventListeners() {
                 console.error('Falha ao copiar chave pix:', err);
                 // Fallback secundário visual se ambos falharem
                 alert('Chave PIX: ' + textToCopy);
+            });
+        });
+    }
+
+    // Ações do Botão de Teste Premium
+    if (DOM.testPremiumBtn) {
+        DOM.testPremiumBtn.addEventListener('click', () => {
+            appState.isPremium = !appState.isPremium;
+            localStorage.setItem('nb-premium-status', appState.isPremium ? 'true' : 'false');
+            updatePremiumUI();
+            
+            // Notifica o usuário do estado alternado
+            const statusMsg = appState.isPremium ? 'Premium Ativado (Simulação)' : 'Premium Desativado';
+            console.log(`[Billing Test] ${statusMsg}`);
+        });
+    }
+
+    // Ações do Modal Paywall (Assinatura)
+    let selectedPlan = 'monthly';
+    if (DOM.planMonthly && DOM.planAnnual) {
+        DOM.planMonthly.addEventListener('click', () => {
+            DOM.planMonthly.classList.add('active');
+            DOM.planAnnual.classList.remove('active');
+            selectedPlan = 'monthly';
+        });
+        DOM.planAnnual.addEventListener('click', () => {
+            DOM.planAnnual.classList.add('active');
+            DOM.planMonthly.classList.remove('active');
+            selectedPlan = 'annual';
+        });
+    }
+
+    if (DOM.closePaywall && DOM.paywallModal) {
+        DOM.closePaywall.addEventListener('click', () => {
+            DOM.paywallModal.classList.remove('open');
+        });
+        
+        DOM.paywallModal.addEventListener('click', (e) => {
+            if (e.target === DOM.paywallModal) {
+                DOM.paywallModal.classList.remove('open');
+            }
+        });
+    }
+
+    if (DOM.subscribeBtn) {
+        DOM.subscribeBtn.addEventListener('click', () => {
+            DOM.subscribeBtn.textContent = 'Processando...';
+            DOM.subscribeBtn.disabled = true;
+            BillingManager.purchase(selectedPlan).then((res) => {
+                DOM.subscribeBtn.textContent = 'Assinar Agora';
+                DOM.subscribeBtn.disabled = false;
+                if (res.success) {
+                    appState.isPremium = true;
+                    localStorage.setItem('nb-premium-status', 'true');
+                    updatePremiumUI();
+                    if (DOM.paywallModal) {
+                        DOM.paywallModal.classList.remove('open');
+                    }
+                    alert('Obrigado pelo seu apoio! Recursos Premium desbloqueados. 🎉');
+                }
+            }).catch(err => {
+                console.error('[Billing Test] Erro ao assinar:', err);
+                DOM.subscribeBtn.textContent = 'Assinar Agora';
+                DOM.subscribeBtn.disabled = false;
+            });
+        });
+    }
+
+    if (DOM.restoreBtn) {
+        DOM.restoreBtn.addEventListener('click', () => {
+            DOM.restoreBtn.textContent = 'Restaurando...';
+            BillingManager.restore().then((res) => {
+                DOM.restoreBtn.textContent = 'Restaurar Compra';
+                if (res.success) {
+                    alert('Assinaturas restauradas com sucesso!');
+                }
+            }).catch(err => {
+                console.error('[Billing Test] Erro ao restaurar:', err);
+                DOM.restoreBtn.textContent = 'Restaurar Compra';
             });
         });
     }

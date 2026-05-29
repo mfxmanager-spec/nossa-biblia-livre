@@ -176,6 +176,65 @@
             </div>
         </div>
 
+        <!-- Modal Paywall (Assinatura Premium) -->
+        <div class="paywall-modal" id="paywallModal">
+            <div class="paywall-card">
+                <button class="icon-btn close-paywall-btn" id="closePaywall" aria-label="Fechar modal">
+                    <svg viewBox="0 0 24 24" width="24" height="24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z" fill="currentColor"/></svg>
+                </button>
+                <div class="paywall-header">
+                    <div class="paywall-badge">PRO</div>
+                    <h3>Nossa Bíblia Premium</h3>
+                    <p>Desbloqueie todos os recursos exclusivos e apoie a continuidade do projeto.</p>
+                </div>
+                <div class="paywall-features">
+                    <div class="paywall-feature-item">
+                        <span class="feature-icon">🎨</span>
+                        <div class="feature-info">
+                            <h4>Marcador de Versículos</h4>
+                            <p>Destaque passagens importantes com cores personalizadas.</p>
+                        </div>
+                    </div>
+                    <div class="paywall-feature-item">
+                        <span class="feature-icon">✍️</span>
+                        <div class="feature-info">
+                            <h4>Notas Pessoais</h4>
+                            <p>Adicione anotações e reflexões diretamente nos versículos.</p>
+                        </div>
+                    </div>
+                    <div class="paywall-feature-item">
+                        <span class="feature-icon">🔊</span>
+                        <div class="feature-info">
+                            <h4>Áudio Offline</h4>
+                            <p>Ouça os capítulos narrados por voz inteligente sem gastar internet.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="paywall-plans">
+                    <div class="paywall-plan-card active" id="planMonthly" data-plan="monthly">
+                        <span class="plan-badge-pop">Popular</span>
+                        <h4>Mensal</h4>
+                        <div class="plan-price">R$ 4,90<span>/mês</span></div>
+                        <p>Apoio contínuo e acesso imediato.</p>
+                    </div>
+                    <div class="paywall-plan-card" id="planAnnual" data-plan="annual">
+                        <h4>Anual</h4>
+                        <div class="plan-price">R$ 39,90<span>/ano</span></div>
+                        <p>Economize 32% sobre o mensal.</p>
+                    </div>
+                </div>
+                <button class="paywall-btn" id="subscribeBtn">Assinar Agora</button>
+                <button class="paywall-restore-btn" id="restoreBtn">Restaurar Compra</button>
+                <p class="paywall-footer-text">Gerenciado de forma segura pelo Google Play Billing.</p>
+            </div>
+        </div>
+
+        <!-- Botão Flutuante de Teste de Assinatura (Somente Desenvolvimento/Teste) -->
+        <button class="test-premium-btn" id="testPremiumBtn" title="Alternar Modo Premium (Teste)">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6-5c1.66 0 3 1.34 3 3v2H9V6c0-1.66 1.34-3 3-3zm6 17H6V10h12v10z"/></svg>
+            <span id="testPremiumStatus">PRO: Não</span>
+        </button>
+
         <!-- Backdrop for mobile drawers -->
         <div class="backdrop" id="backdrop"></div>
     </div>
