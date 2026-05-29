@@ -27,8 +27,8 @@
 body.theme-light {
     --bg-color: #fcfbf9;
     --bg-sidebar: #f5f4f0;
-    --text-color: #24292f;
-    --text-muted: #57606a;
+    --text-color: #111111;
+    --text-muted: #444444;
     --primary-color: #8c6239;
     --primary-light: #f5ede3;
     --accent-color: #b7791f;
