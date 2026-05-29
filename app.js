@@ -2012,7 +2012,7 @@ function generateAndDownloadCard() {
         ctx.fillRect(0, 0, 1080, 1080);
         ctx.fillStyle = 'rgba(255, 255, 255, 0.08)';
     } else if (themeBgClass === 'bg-minimal-dark') {
-        ctx.fillStyle = '#1e1e24';
+        ctx.fillStyle = '#070e17';
         ctx.fillRect(0, 0, 1080, 1080);
         ctx.fillStyle = 'rgba(255, 255, 255, 0.06)';
     } else { // bg-minimal-light
