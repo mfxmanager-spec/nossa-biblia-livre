@@ -42,7 +42,13 @@ const DOM = {
     searchResultsPanel: document.getElementById('searchResultsPanel'),
     searchResultsList: document.getElementById('searchResultsList'),
     resultsCount: document.getElementById('resultsCount'),
-    clearSearchBtn: document.getElementById('clearSearchBtn')
+    clearSearchBtn: document.getElementById('clearSearchBtn'),
+    pixBtn: document.getElementById('pixBtn'),
+    pixModal: document.getElementById('pixModal'),
+    closePixModal: document.getElementById('closePixModal'),
+    copyPixBtn: document.getElementById('copyPixBtn'),
+    pixKeyValue: document.getElementById('pixKeyValue'),
+    pixCopySuccess: document.getElementById('pixCopySuccess')
 };
 
 // Initialize App
@@ -188,6 +194,42 @@ function initEventListeners() {
         DOM.clearSearchBtn.addEventListener('click', () => {
             DOM.bookSearch.value = '';
             performSearch('');
+        });
+    }
+
+    // Ações do Modal PIX de Contribuição
+    if (DOM.pixBtn && DOM.pixModal) {
+        DOM.pixBtn.addEventListener('click', () => {
+            DOM.pixModal.classList.add('open');
+        });
+    }
+    
+    if (DOM.closePixModal && DOM.pixModal) {
+        DOM.closePixModal.addEventListener('click', () => {
+            DOM.pixModal.classList.remove('open');
+            if (DOM.pixCopySuccess) DOM.pixCopySuccess.style.display = 'none';
+        });
+        
+        DOM.pixModal.addEventListener('click', (e) => {
+            if (e.target === DOM.pixModal) {
+                DOM.pixModal.classList.remove('open');
+                if (DOM.pixCopySuccess) DOM.pixCopySuccess.style.display = 'none';
+            }
+        });
+    }
+    
+    if (DOM.copyPixBtn && DOM.pixKeyValue) {
+        DOM.copyPixBtn.addEventListener('click', () => {
+            navigator.clipboard.writeText(DOM.pixKeyValue.textContent).then(() => {
+                if (DOM.pixCopySuccess) {
+                    DOM.pixCopySuccess.style.display = 'block';
+                    setTimeout(() => {
+                        DOM.pixCopySuccess.style.display = 'none';
+                    }, 3000);
+                }
+            }).catch(err => {
+                console.error('Falha ao copiar chave pix:', err);
+            });
         });
     }
 }
