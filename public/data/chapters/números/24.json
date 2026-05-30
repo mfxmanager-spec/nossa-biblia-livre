@@ -637,7 +637,7 @@
     },
     {
       "number": 16,
-      "text": "Declaração do ouvidor dos dizeres de ‘El. E conhecedor do conhecimento de ‘Elyon. A divisamento de Shadday. Divisa ele. Caído e descoberto de olhos.",
+      "text": "Declaração do ouvidor dos dizeres de ‘El. E conhecedor do conhecimento de ‘Elyon. A divisação de Shadday divisa ele. Caído e descoberto de olhos.",
       "lines": [
         {
           "line_index": 0,
@@ -651,16 +651,11 @@
         },
         {
           "line_index": 2,
-          "text": "A divisamento de Shadday.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A divisamento de Shadday.</p>"
+          "text": "A divisação de Shadday divisa ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A divisação de Shadday divisa ele.</p>"
         },
         {
           "line_index": 3,
-          "text": "Divisa ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Divisa ele.</p>"
-        },
-        {
-          "line_index": 4,
           "text": "Caído e descoberto de olhos.",
           "raw_html": "<p class=\"wp-block-paragraph\">Caído e descoberto de olhos<a name=\"rf129-12450\"></a><sup><a href=\"#fn129-12450\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup>.</p>"
         }
