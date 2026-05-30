@@ -1534,50 +1534,7 @@ body.theme-dark .chapters-grid {
     text-align: center;
 }
 
-/* Botão Flutuante de Teste Premium (Desenvolvimento) */
-.test-premium-btn {
-    position: fixed;
-    bottom: 24px;
-    right: 24px;
-    width: 46px;
-    height: 46px;
-    background-color: #e53e3e;
-    color: #ffffff;
-    border: 2px solid #ffffff;
-    border-radius: 50%;
-    padding: 0;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 1999;
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
 
-.test-premium-btn:hover {
-    transform: scale(1.08);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
-}
-
-.test-premium-btn.active {
-    background: linear-gradient(135deg, #2e7d32 0%, #4caf50 100%);
-    color: #ffffff;
-    border-color: #ffffff;
-}
-
-@media (max-width: 480px) {
-    .test-premium-btn {
-        bottom: 84px; /* Move o botão para cima para não colidir com o player de áudio */
-        right: 16px;
-        width: 40px;
-        height: 40px;
-    }
-    .test-premium-btn svg {
-        width: 18px;
-        height: 18px;
-    }
-}
 
 /* Verse Highlight Colors (Suaves, preservando o contraste) */
 .verse-block.highlight-yellow .verse-lines {

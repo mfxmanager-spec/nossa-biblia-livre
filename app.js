@@ -11,7 +11,7 @@ let appState = {
     theme: 'sepia',
     searchFilter: 'book',
     searchIndex: null,
-    isPremium: false,
+    isPremium: true,
     highlights: JSON.parse(localStorage.getItem('nb-highlights')) || {},
     notes: JSON.parse(localStorage.getItem('nb-user-notes')) || {},
     history: JSON.parse(localStorage.getItem('nb-reading-history')) || [],
@@ -105,11 +105,10 @@ document.addEventListener('DOMContentLoaded', () => {
     
     renderRecentChapters();
     
-    // Inicializa o sistema de cobrança/assinaturas
-    BillingManager.init((isPremium) => {
-        appState.isPremium = isPremium;
-        updatePremiumUI();
-    });
+    // O aplicativo é totalmente gratuito com todos os recursos liberados
+    appState.isPremium = true;
+    updatePremiumUI();
+    loadHistory();
 });
 
 // Update Premium UI indicators
@@ -136,17 +135,9 @@ function updatePremiumUI() {
     renderRecentChapters();
 }
 
-// Helper to check premium access before running features
+// Helper para verificar acesso (todos os recursos estão liberados gratuitamente)
 export function checkPremiumAccess(actionCallback) {
-    if (appState.isPremium) {
-        actionCallback();
-    } else {
-        if (DOM.paywallModal) {
-            DOM.paywallModal.classList.add('open');
-        } else {
-            alert('Esta funcionalidade requer assinatura Premium.');
-        }
-    }
+    actionCallback();
 }
 
 // Load settings from localStorage
@@ -357,84 +348,7 @@ function initEventListeners() {
         });
     }
 
-    // Ações do Botão de Teste Premium
-    if (DOM.testPremiumBtn) {
-        DOM.testPremiumBtn.addEventListener('click', () => {
-            appState.isPremium = !appState.isPremium;
-            localStorage.setItem('nb-premium-status', appState.isPremium ? 'true' : 'false');
-            updatePremiumUI();
-            
-            // Notifica o usuário do estado alternado
-            const statusMsg = appState.isPremium ? 'Premium Ativado (Simulação)' : 'Premium Desativado';
-            console.log(`[Billing Test] ${statusMsg}`);
-        });
-    }
 
-    // Ações do Modal Paywall (Assinatura)
-    let selectedPlan = 'monthly';
-    if (DOM.planMonthly && DOM.planAnnual) {
-        DOM.planMonthly.addEventListener('click', () => {
-            DOM.planMonthly.classList.add('active');
-            DOM.planAnnual.classList.remove('active');
-            selectedPlan = 'monthly';
-        });
-        DOM.planAnnual.addEventListener('click', () => {
-            DOM.planAnnual.classList.add('active');
-            DOM.planMonthly.classList.remove('active');
-            selectedPlan = 'annual';
-        });
-    }
-
-    if (DOM.closePaywall && DOM.paywallModal) {
-        DOM.closePaywall.addEventListener('click', () => {
-            DOM.paywallModal.classList.remove('open');
-        });
-        
-        DOM.paywallModal.addEventListener('click', (e) => {
-            if (e.target === DOM.paywallModal) {
-                DOM.paywallModal.classList.remove('open');
-            }
-        });
-    }
-
-    if (DOM.subscribeBtn) {
-        DOM.subscribeBtn.addEventListener('click', () => {
-            DOM.subscribeBtn.textContent = 'Processando...';
-            DOM.subscribeBtn.disabled = true;
-            BillingManager.purchase(selectedPlan).then((res) => {
-                DOM.subscribeBtn.textContent = 'Assinar Agora';
-                DOM.subscribeBtn.disabled = false;
-                if (res.success) {
-                    appState.isPremium = true;
-                    localStorage.setItem('nb-premium-status', 'true');
-                    updatePremiumUI();
-                    if (DOM.paywallModal) {
-                        DOM.paywallModal.classList.remove('open');
-                    }
-                    alert('Obrigado pelo seu apoio! Recursos Premium desbloqueados. 🎉');
-                }
-            }).catch(err => {
-                console.error('[Billing Test] Erro ao assinar:', err);
-                DOM.subscribeBtn.textContent = 'Assinar Agora';
-                DOM.subscribeBtn.disabled = false;
-            });
-        });
-    }
-
-    if (DOM.restoreBtn) {
-        DOM.restoreBtn.addEventListener('click', () => {
-            DOM.restoreBtn.textContent = 'Restaurando...';
-            BillingManager.restore().then((res) => {
-                DOM.restoreBtn.textContent = 'Restaurar Compra';
-                if (res.success) {
-                    alert('Assinaturas restauradas com sucesso!');
-                }
-            }).catch(err => {
-                console.error('[Billing Test] Erro ao restaurar:', err);
-                DOM.restoreBtn.textContent = 'Restaurar Compra';
-            });
-        });
-    }
 
     // Ações de Popover do Versículo e Notas
     if (DOM.readerContainer) {
