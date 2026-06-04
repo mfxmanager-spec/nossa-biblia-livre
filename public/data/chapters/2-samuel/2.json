@@ -1842,7 +1842,7 @@
         {
           "line_index": 4,
           "text": "Três de centenas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Três de centenas<a name=\"rf217-25130\"></a><sup><a href=\"#fn217-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 217\">217</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Três de<a name=\"rf217-25130\"></a><sup><a href=\"#fn217-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 217\">217</a></sup> centenas<a name=\"rf218-25130\"></a><sup><a href=\"#fn218-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 218\">218</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1852,12 +1852,12 @@
         {
           "line_index": 6,
           "text": "Homem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Homem<a name=\"rf218-25130\"></a><sup><a href=\"#fn218-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 218\">218</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Homem<a name=\"rf219-25130\"></a><sup><a href=\"#fn219-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 219\">219</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Morrem eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Morrem eles<a name=\"rf219-25130\"></a><sup><a href=\"#fn219-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 219\">219</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Morrem eles<a name=\"rf220-25130\"></a><sup><a href=\"#fn220-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 220\">220</a></sup>.</p>"
         }
       ]
     },
@@ -1883,7 +1883,7 @@
         {
           "line_index": 3,
           "text": "No sepulcro do pai dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No sepulcro do pai<a name=\"rf220-25130\"></a><sup><a href=\"#fn220-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 220\">220</a></sup> dele<a name=\"rf221-25130\"></a><sup><a href=\"#fn221-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 221\">221</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No sepulcro do pai<a name=\"rf221-25130\"></a><sup><a href=\"#fn221-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 221\">221</a></sup> dele<a name=\"rf222-25130\"></a><sup><a href=\"#fn222-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 222\">222</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -1903,17 +1903,17 @@
         {
           "line_index": 7,
           "text": "O total da noite.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O total da<a name=\"rf222-25130\"></a><sup><a href=\"#fn222-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 222\">222</a></sup> noite.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O total da<a name=\"rf223-25130\"></a><sup><a href=\"#fn223-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 223\">223</a></sup> noite.</p>"
         },
         {
           "line_index": 8,
           "text": "Yo’ab.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Yo’ab<a name=\"rf223-25130\"></a><sup><a href=\"#fn223-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 223\">223</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Yo’ab<a name=\"rf224-25130\"></a><sup><a href=\"#fn224-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 224\">224</a></sup>.</p>"
         },
         {
           "line_index": 9,
           "text": "E os homens dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os homens<a name=\"rf224-25130\"></a><sup><a href=\"#fn224-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 224\">224</a></sup><a name=\"rf225-25130\"></a><sup><a href=\"#fn225-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 225\">225</a></sup> dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E os homens<a name=\"rf225-25130\"></a><sup><a href=\"#fn225-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 225\">225</a></sup><a name=\"rf226-25130\"></a><sup><a href=\"#fn226-25130\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 226\">226</a></sup> dele.</p>"
         },
         {
           "line_index": 10,
@@ -3233,54 +3233,60 @@
     {
       "ref_id": "fn217-25130",
       "number": 217,
-      "text": "“Centenas” (me’ot).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas</a>” (<em>me’ot</em>). </span>"
+      "text": "“Três de” (shelosh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00121\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00121\">Três de</a>” (<em>shelosh</em>). </span>"
     },
     {
       "ref_id": "fn218-25130",
       "number": 218,
-      "text": "“Homem” (‘ish).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJZ\" rel=\"noreferrer noopener\" target=\"_blank\">Homem</a>” (<em>‘ish</em>). </span>"
+      "text": "“Centenas” (me’ot).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas</a>” (<em>me’ot</em>). </span>"
     },
     {
       "ref_id": "fn219-25130",
       "number": 219,
-      "text": "“Morrem eles” (mwt).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAABC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAABC\" rel=\"noreferrer noopener\" target=\"_blank\">Morrem eles</a>” (<em>mwt</em>). </span>"
+      "text": "“Homem” (‘ish).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJZ\" rel=\"noreferrer noopener\" target=\"_blank\">Homem</a>” (<em>‘ish</em>). </span>"
     },
     {
       "ref_id": "fn220-25130",
       "number": 220,
-      "text": "“Pai” (‘ab).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAID\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAID\" rel=\"noreferrer noopener\" target=\"_blank\">Pai</a>” (<em>‘ab</em>). </span>"
+      "text": "“Morrem eles” (mwt).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAABC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAABC\" rel=\"noreferrer noopener\" target=\"_blank\">Morrem eles</a>” (<em>mwt</em>). </span>"
     },
     {
       "ref_id": "fn221-25130",
       "number": 221,
-      "text": "“O pai dele” (‘abiw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIC\" rel=\"noreferrer noopener\" target=\"_blank\">O pai dele</a>” (<em>‘abiw</em>). </span>"
+      "text": "“Pai” (‘ab).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAID\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAID\" rel=\"noreferrer noopener\" target=\"_blank\">Pai</a>” (<em>‘ab</em>). </span>"
     },
     {
       "ref_id": "fn222-25130",
       "number": 222,
-      "text": "“O total da” (kol).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/##AAAJD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJD\" rel=\"noreferrer noopener\" target=\"_blank\">O total da</a>” (<em>kol</em>). </span>"
+      "text": "“O pai dele” (‘abiw).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIC\" rel=\"noreferrer noopener\" target=\"_blank\">O pai dele</a>” (<em>‘abiw</em>). </span>"
     },
     {
       "ref_id": "fn223-25130",
       "number": 223,
-      "text": "“Yo’ab” (yo’ab).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAKQ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKQ\" rel=\"noreferrer noopener\" target=\"_blank\">Yo’ab</a>” (<em>yo’ab</em>). </span>"
+      "text": "“O total da” (kol).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/##AAAJD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJD\" rel=\"noreferrer noopener\" target=\"_blank\">O total da</a>” (<em>kol</em>). </span>"
     },
     {
       "ref_id": "fn224-25130",
       "number": 224,
-      "text": "“Homens” (‘anashim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJY\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJY\" rel=\"noreferrer noopener\" target=\"_blank\">Homens</a>” (<em>‘anashim</em>). </span>"
+      "text": "“Yo’ab” (yo’ab).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAKQ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKQ\" rel=\"noreferrer noopener\" target=\"_blank\">Yo’ab</a>” (<em>yo’ab</em>). </span>"
     },
     {
       "ref_id": "fn225-25130",
       "number": 225,
+      "text": "“Homens” (‘anashim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJY\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJY\" rel=\"noreferrer noopener\" target=\"_blank\">Homens</a>” (<em>‘anashim</em>). </span>"
+    },
+    {
+      "ref_id": "fn226-25130",
+      "number": 226,
       "text": "“Homem” (‘ish).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJZ\" rel=\"noreferrer noopener\" target=\"_blank\">Homem</a>” (<em>‘ish</em>). </span>"
     }
