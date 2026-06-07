@@ -999,12 +999,12 @@
         {
           "line_index": 2,
           "text": "Três de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Três de<a name=\"rf116-1689\"></a><sup><a href=\"#fn116-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup> centenas de mudança<a name=\"rf117-1689\"></a><sup><a href=\"#fn117-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Três de centenas de mudança<a name=\"rf116-1689\"></a><sup><a href=\"#fn116-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E cinquenta mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cinquenta<a name=\"rf118-1689\"></a><sup><a href=\"#fn118-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup> mudança<a name=\"rf119-1689\"></a><sup><a href=\"#fn119-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cinquenta<a name=\"rf117-1689\"></a><sup><a href=\"#fn117-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup> mudança<a name=\"rf118-1689\"></a><sup><a href=\"#fn118-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
         }
       ]
     },
@@ -1015,7 +1015,7 @@
         {
           "line_index": 0,
           "text": "E estão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles<a name=\"rf120-1689\"></a><sup><a href=\"#fn120-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles<a name=\"rf119-1689\"></a><sup><a href=\"#fn119-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1025,17 +1025,17 @@
         {
           "line_index": 2,
           "text": "Nove de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nove de centenas de mudança<a name=\"rf121-1689\"></a><sup><a href=\"#fn121-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Nove de centenas de mudança<a name=\"rf120-1689\"></a><sup><a href=\"#fn120-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E cinquenta mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cinquenta<a name=\"rf122-1689\"></a><sup><a href=\"#fn122-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup> mudança<a name=\"rf123-1689\"></a><sup><a href=\"#fn123-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cinquenta<a name=\"rf121-1689\"></a><sup><a href=\"#fn121-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup> mudança<a name=\"rf122-1689\"></a><sup><a href=\"#fn122-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E morre ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E morre ele<a name=\"rf124-1689\"></a><sup><a href=\"#fn124-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E morre ele<a name=\"rf123-1689\"></a><sup><a href=\"#fn123-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
         }
       ]
     }
@@ -1734,54 +1734,48 @@
     {
       "ref_id": "fn116-1689",
       "number": 116,
-      "text": "“Três de” (shelosh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00121\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00121\">Três de</a>” (<em>shelosh</em>). </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn117-1689",
       "number": 117,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
-    },
-    {
-      "ref_id": "fn118-1689",
-      "number": 118,
       "text": "“E cinquenta” (wahamishshim). Primeira de 44 ocorrências.",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALC\" rel=\"noreferrer noopener\" target=\"_blank\">E cinquenta</a>” (<em>wahamishshim</em>). Primeira de 44 ocorrências. </span>"
     },
     {
-      "ref_id": "fn119-1689",
-      "number": 119,
+      "ref_id": "fn118-1689",
+      "number": 118,
       "text": "A conta é simples: três de cem, 300, mais cinquenta, 350 anos.",
       "raw_html": "<span>A conta é simples: três de cem, 300, mais cinquenta, 350 anos. </span>"
     },
     {
-      "ref_id": "fn120-1689",
-      "number": 120,
+      "ref_id": "fn119-1689",
+      "number": 119,
       "text": "“E estão eles” (wayyihyu).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACF\" rel=\"noreferrer noopener\" target=\"_blank\">E estão eles</a>” (<em>wayyihyu</em>). </span>"
     },
     {
-      "ref_id": "fn121-1689",
-      "number": 121,
+      "ref_id": "fn120-1689",
+      "number": 120,
       "text": "“Centenas de mudança” (me’ot shanah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
-      "ref_id": "fn122-1689",
-      "number": 122,
+      "ref_id": "fn121-1689",
+      "number": 121,
       "text": "“E cinquenta” (wahamishshim).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALC\" rel=\"noreferrer noopener\" target=\"_blank\">E cinquenta</a>” (<em>wahamishshim</em>). </span>"
     },
     {
-      "ref_id": "fn123-1689",
-      "number": 123,
+      "ref_id": "fn122-1689",
+      "number": 122,
       "text": "Pela mesma razão, 950.",
       "raw_html": "<span>Pela mesma razão, 950. </span>"
     },
     {
-      "ref_id": "fn124-1689",
-      "number": 124,
+      "ref_id": "fn123-1689",
+      "number": 123,
       "text": "A construção é rigorosamente a mesma que acompanhamos em Gênesis 5. Um escriba a reproduz aqui? Esse final pertence na verdade ao manuscrito de Gênesis 5, e agora se encontra aqui, distante dele, por força de terem sido incrustadas onde agora estão, de sorte que Gênesis 6,1-9,27 constitui incrustação narrativa no final original de Gênesis 5? Ou um hábil escriba apenas arrematou aqui um final que ligue formalmente o conjunto dos capítulos 6 a 9 na genealogia de Gênesis 5, para gerar unidade narrativa e efeito retórico?",
       "raw_html": "<span>A construção é rigorosamente a mesma que acompanhamos em Gênesis 5. Um escriba a reproduz aqui? Esse final pertence na verdade ao manuscrito de Gênesis 5, e agora se encontra aqui, distante dele, por força de terem sido incrustadas onde agora estão, de sorte que Gênesis 6,1-9,27 constitui incrustação narrativa no final original de Gênesis 5? Ou um hábil escriba apenas arrematou aqui um final que ligue formalmente o conjunto dos capítulos 6 a 9 na genealogia de Gênesis 5, para gerar unidade narrativa e efeito retórico? </span>"
     }
