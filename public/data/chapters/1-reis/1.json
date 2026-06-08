@@ -3264,7 +3264,7 @@
         {
           "line_index": 12,
           "text": "Para o lar de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o lar de<a name=\"rf271-30101\"></a><sup><a href=\"#fn271-30101\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 271\">271</a></sup> ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o lar de ti.</p>"
         }
       ]
     }
@@ -4889,12 +4889,6 @@
       "number": 270,
       "text": "“Shelomoh“ (shelomoh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0000008\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0000008\" rel=\"noopener\" target=\"_blank\">Shelomoh</a>“<em> </em>(<em>shelomoh</em>). </span>"
-    },
-    {
-      "ref_id": "fn271-30101",
-      "number": 271,
-      "text": "“O lar de” (bet).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00112\" rel=\"noopener\" target=\"_blank\">O lar de</a>” (<em>bet</em>). </span>"
     }
   ]
 }

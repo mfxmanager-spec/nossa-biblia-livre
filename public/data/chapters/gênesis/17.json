@@ -1051,7 +1051,7 @@
     },
     {
       "number": 25,
-      "text": "E Yishma’e’l. O filho dele. Filho de três de dez. Mudança. No ser circuncidado dele. A carne do prepúcio dele.",
+      "text": "E Yishma’e’l. O filho dele. É filho de três de dez anos. Ao ser circuncidado dele a carne do prepúcio dele.",
       "lines": [
         {
           "line_index": 0,
@@ -1065,23 +1065,13 @@
         },
         {
           "line_index": 2,
-          "text": "Filho de três de dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Filho de três de dez.</p>"
+          "text": "É filho de três de dez anos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">É filho de três de dez anos<a name=\"rf92-2050\"></a><sup><a href=\"#fn92-2050\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "Mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mudança<a name=\"rf92-2050\"></a><sup><a href=\"#fn92-2050\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
-        },
-        {
-          "line_index": 4,
-          "text": "No ser circuncidado dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No ser circuncidado dele.</p>"
-        },
-        {
-          "line_index": 5,
-          "text": "A carne do prepúcio dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A carne do prepúcio dele.</p>"
+          "text": "Ao ser circuncidado dele a carne do prepúcio dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao ser circuncidado dele a carne do prepúcio dele.</p>"
         }
       ]
     },
@@ -1693,8 +1683,8 @@
     {
       "ref_id": "fn92-2050",
       "number": 92,
-      "text": "“Três de dez. Mudança” (shelosh ‘esreh shanah). Primeira de 3 ocorrências. 13 anos. Uma construção bastante estranha, mesmo para as formas testemunhadas nos textos bíblicos. Com construto, “três de dez” sugere 30, e não 13. A rigor, sigo a tradição aqui.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00115\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00115\" rel=\"noopener\" target=\"_blank\">Três de dez. Mudança</a>” (<em>shelosh ‘esreh shanah</em>). Primeira de 3 ocorrências. 13 anos. Uma construção bastante estranha, mesmo para as formas testemunhadas nos textos bíblicos. Com construto, “três de dez” sugere 30, e não 13. A rigor, sigo a tradição aqui. </span>"
+      "text": "13 anos. Uma construção bastante estranha, mesmo para as formas testemunhadas nos textos bíblicos. Com construto, “três de dez” sugere 30, e não 13. A rigor, sigo a tradição aqui.",
+      "raw_html": "<span>13 anos. Uma construção bastante estranha, mesmo para as formas testemunhadas nos textos bíblicos. Com construto, “três de dez” sugere 30, e não 13. A rigor, sigo a tradição aqui. </span>"
     },
     {
       "ref_id": "fn93-2050",
