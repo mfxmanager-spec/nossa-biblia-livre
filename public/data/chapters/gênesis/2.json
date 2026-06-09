@@ -7,15 +7,25 @@
   "verses": [
     {
       "number": 1,
-      "text": "E são feitos acabaros céuse a terra. E o total do regimento deles.",
+      "text": "E sobre-acabados estão. Os céus. E a terra. E o total do regimento deles.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E são feitos acabaros céuse a terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\"><a name=\"rf1-1052\"></a><sup><a href=\"#fn1-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup><a name=\"rf2-1052\"></a><sup><a href=\"#fn2-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup><a name=\"rf3-1052\"></a><sup><a href=\"#fn3-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup>E são feitos acabar<a name=\"rf4-1052\"></a><sup><a href=\"#fn4-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup>os céus<a name=\"rf5-1052\"></a><sup><a href=\"#fn5-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup>e a terra<a name=\"rf6-1052\"></a><sup><a href=\"#fn6-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup>.</p>"
+          "text": "E sobre-acabados estão.",
+          "raw_html": "<p class=\"wp-block-paragraph\"><a name=\"rf1-1052\"></a><sup><a href=\"#fn1-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup><a name=\"rf2-1052\"></a><sup><a href=\"#fn2-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup><a name=\"rf3-1052\"></a><sup><a href=\"#fn3-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup> E sobre-acabados estão<a name=\"rf4-1052\"></a><sup><a href=\"#fn4-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup>.</p>"
         },
         {
           "line_index": 1,
+          "text": "Os céus.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Os céus<a name=\"rf5-1052\"></a><sup><a href=\"#fn5-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "E a terra.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E a terra<a name=\"rf6-1052\"></a><sup><a href=\"#fn6-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "E o total do regimento deles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o total do regimento<a name=\"rf7-1052\"></a><sup><a href=\"#fn7-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup> deles<a name=\"rf8-1052\"></a><sup><a href=\"#fn8-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
         }
@@ -963,8 +973,8 @@
     {
       "ref_id": "fn4-1052",
       "number": 4,
-      "text": "“São feitos acabar” traduz forma verbal intensiva passiva da raiz klh. Primeira 202 de ocorrências da raiz. Cf. Gênesis 2,2; 6,16; 11,31; 17.22; 18,21.33; 21,15; 24,15.19.22; Êxodo 5,14.",
-      "raw_html": "<span>“São feitos acabar” traduz forma verbal intensiva passiva da raiz <em>klh</em>. Primeira 202 de ocorrências da raiz. Cf. Gênesis 2,2; 6,16; 11,31; 17.22; 18,21.33; 21,15; 24,15.19.22; Êxodo 5,14. </span>"
+      "text": "“Sobre-acabados estão” (klh). Forma intensiva passiva da raiz. Primeira de 202 ocorrências. A raiz klh atualiza-se tanto na forma simples quanto na forma intensiva. Na forma simples, já assume o sentido de “acabar”. Como não é possível “acabar” pela metade, a forma intensiva não faz sentido. Porque “acabar” é “acabar”. Todavia, pode-se pensar em ênfase: “acabar completamente”, “acabar totalmente”. Para exprimir essa ideia e diferenciar a forma intensiva da forma simples, a forma intensiva é atualizada com o prefixo “sobre”. Logo, na forma simples, klh se traduz “acabar”, e na forma intensiva, “sobre-acabar”.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/00221\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/00221\">Sobre-acabados estão</a>” (<em>klh</em>). Forma intensiva passiva da raiz. Primeira de 202 ocorrências. A raiz <em>klh</em> atualiza-se tanto na forma simples quanto na forma intensiva. Na forma simples, já assume o sentido de “acabar”. Como não é possível “acabar” pela metade, a forma intensiva não faz sentido. Porque “acabar” é “acabar”. Todavia, pode-se pensar em ênfase: “acabar completamente”, “acabar totalmente”. Para exprimir essa ideia e diferenciar a forma intensiva da forma simples, a forma intensiva é atualizada com o prefixo “sobre”. Logo, na forma simples, <em>klh</em> se traduz “acabar”, e na forma intensiva, “sobre-acabar”. </span>"
     },
     {
       "ref_id": "fn5-1052",

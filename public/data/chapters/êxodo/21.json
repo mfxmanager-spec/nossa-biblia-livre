@@ -327,20 +327,30 @@
     },
     {
       "number": 11,
-      "text": "E se essas trêsele não faz para ela. E sai ela de graça. Sem prata!",
+      "text": "E se as três dessas. Não faz ele. Para ela. E sai ela de graça. Sem prata!",
       "lines": [
         {
           "line_index": 0,
-          "text": "E se essas trêsele não faz para ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E se essas três<a name=\"rf40-5535\"></a><sup><a href=\"#fn40-5535\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>ele não faz para ela.</p>"
+          "text": "E se as três dessas.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E se as três dessas<a name=\"rf40-5535\"></a><sup><a href=\"#fn40-5535\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>.</p>"
         },
         {
           "line_index": 1,
+          "text": "Não faz ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não faz ele.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Para ela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ela.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "E sai ela de graça.",
           "raw_html": "<p class=\"wp-block-paragraph\">E sai ela<a name=\"rf41-5535\"></a><sup><a href=\"#fn41-5535\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> de graça<a name=\"rf42-5535\"></a><sup><a href=\"#fn42-5535\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 4,
           "text": "Sem prata!",
           "raw_html": "<p class=\"wp-block-paragraph\">Sem prata<a name=\"rf43-5535\"></a><sup><a href=\"#fn43-5535\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>!</p>"
         }
@@ -1321,8 +1331,8 @@
     {
       "ref_id": "fn40-5535",
       "number": 40,
-      "text": "“Essas três (shelash-‘elleh): “as três obrigações do contrato”.",
-      "raw_html": "<span>“Essas três (<em>shelash-‘elleh</em>): “as três obrigações do contrato”. </span>"
+      "text": "“As três de” (shelosh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00121\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00121\">As três de</a>” (<em>shelosh</em>). </span>"
     },
     {
       "ref_id": "fn41-5535",

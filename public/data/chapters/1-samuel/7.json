@@ -750,7 +750,7 @@
     },
     {
       "number": 14,
-      "text": "E voltam as cidades. Que tomam pelishtim. Desde com Yisra’el. Para Yisra’el. Desde ‘Eqron. E até Gat. E o limite delas. E faz ele tirar Yisra’el. Desde mão de pelishim. E está fartura. Entre Yisra’el. E entre o ‘emori.",
+      "text": "E voltam as cidades. Que tomam pelishtim. Desde com Yisra’el. Para Yisra’el. Desde ‘Eqron. E até Gat. E o limite delas. E faz ele tirar Yisra’el. Desde mão de pelishim. E está fartura. Entre Yisra’el. E entre o ’emori.",
       "lines": [
         {
           "line_index": 0,
@@ -809,8 +809,8 @@
         },
         {
           "line_index": 11,
-          "text": "E entre o ‘emori.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E entre o ‘emori.</p>"
+          "text": "E entre o ’emori.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E entre o ’emori.</p>"
         }
       ]
     },
@@ -873,7 +873,7 @@
     },
     {
       "number": 17,
-      "text": "E a volta dele. Para a Ramah. Que lá. O lar dele. E lá. Julga ele Yisra’el. E constrói ele lá. Sacrificiatório para Yahweh.",
+      "text": "E a volta dele. Para a Ramah. Que lá. O lar dele. E lá. Julga ele Yisra’el. E constrói ele. Lá. Sacrificiatório. Para Yahweh.",
       "lines": [
         {
           "line_index": 0,
@@ -907,13 +907,23 @@
         },
         {
           "line_index": 6,
-          "text": "E constrói ele lá.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E constrói ele lá.</p>"
+          "text": "E constrói ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E constrói ele<a name=\"rf103-21182\"></a><sup><a href=\"#fn103-21182\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
         },
         {
           "line_index": 7,
-          "text": "Sacrificiatório para Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sacrificiatório para Yahweh.</p>"
+          "text": "Lá.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Lá.</p>"
+        },
+        {
+          "line_index": 8,
+          "text": "Sacrificiatório.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sacrificiatório.</p>"
+        },
+        {
+          "line_index": 9,
+          "text": "Para Yahweh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para Yahweh.</p>"
         }
       ]
     }
@@ -1530,6 +1540,12 @@
       "number": 102,
       "text": "“E lá” (wesham).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAMA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAMA\" rel=\"noreferrer noopener\" target=\"_blank\">E lá</a>” (<em>wesham</em>). </span>"
+    },
+    {
+      "ref_id": "fn103-21182",
+      "number": 103,
+      "text": "“Constrói ele” (bnh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00114\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00114\" rel=\"noopener\" target=\"_blank\">Constrói ele</a>” (<em>bnh</em>). </span>"
     }
   ]
 }

@@ -465,7 +465,7 @@
     },
     {
       "number": 19,
-      "text": "O encabeçamento dos primários do solo de ti. Fazes tu ir ao lar de Yahweh. O deus de ti. Não cozinharáscabritono leiteda mãe dele.",
+      "text": "O encabeçamento dos primários do solo de ti. Fazes tu ir. O lar de Yahweh. O deus de ti. Não cozinharáscabritono leiteda mãe dele.",
       "lines": [
         {
           "line_index": 0,
@@ -474,16 +474,21 @@
         },
         {
           "line_index": 1,
-          "text": "Fazes tu ir ao lar de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fazes tu ir ao lar de Yahweh<a name=\"rf123-5713\"></a><sup><a href=\"#fn123-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
+          "text": "Fazes tu ir.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Fazes tu ir.</p>"
         },
         {
           "line_index": 2,
+          "text": "O lar de Yahweh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O lar de Yahweh<a name=\"rf123-5713\"></a><sup><a href=\"#fn123-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "O deus de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">O deus de ti.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "Não cozinharáscabritono leiteda mãe dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Não cozinharás<a name=\"rf124-5713\"></a><sup><a href=\"#fn124-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup>cabrito<a name=\"rf125-5713\"></a><sup><a href=\"#fn125-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>no leite<a name=\"rf126-5713\"></a><sup><a href=\"#fn126-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>da mãe dele<a name=\"rf127-5713\"></a><sup><a href=\"#fn127-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup><a name=\"rf128-5713\"></a><sup><a href=\"#fn128-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>.</p>"
         }
@@ -599,7 +604,7 @@
     },
     {
       "number": 23,
-      "text": "Que caminha o mensageiro de mim para as faces de ti. E ele faz ir tu ao ‘emori. E hiti. E perizi. E o kena’ani. O hiwwi. E yebusi. E eu os farei desaparecer.",
+      "text": "Que caminha o mensageiro de mim para as faces de ti. E ele faz ir tu ao ’emori. E hiti. E perizi. E o kena’ani. O hiwwi. E yebusi. E eu os farei desaparecer.",
       "lines": [
         {
           "line_index": 0,
@@ -608,8 +613,8 @@
         },
         {
           "line_index": 1,
-          "text": "E ele faz ir tu ao ‘emori.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele faz ir tu<a name=\"rf139-5713\"></a><sup><a href=\"#fn139-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup> ao ‘emori<a name=\"rf140-5713\"></a><sup><a href=\"#fn140-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
+          "text": "E ele faz ir tu ao ’emori.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele faz ir tu<a name=\"rf139-5713\"></a><sup><a href=\"#fn139-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup> ao ’emori<a name=\"rf140-5713\"></a><sup><a href=\"#fn140-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1670,8 +1675,8 @@
     {
       "ref_id": "fn123-5713",
       "number": 123,
-      "text": "“Lar de Yahweh” (beth yehwah). Primeira de 175 ocorrências. Cf. Êxodo 23,19; 34,26; Deuteronômio 23,19; Josué 6,24. Apesar de raro na Torá, a expressão parece pressupor aqui o templo de Jerusalém. E dado o contexto de centralização do culto, a narrativa igualmente parece ser pós-exílica.",
-      "raw_html": "<span>“Lar de Yahweh” (<em>beth yehwah</em>). Primeira de 175 ocorrências. Cf. Êxodo 23,19; 34,26; Deuteronômio 23,19; Josué 6,24. Apesar de raro na Torá, a expressão parece pressupor aqui o templo de Jerusalém. E dado o contexto de centralização do culto, a narrativa igualmente parece ser pós-exílica. </span>"
+      "text": "“O lar de Yahweh” (bet yehwah). Primeira de 175 ocorrências. Apesar de rara na Torá, a expressão parece pressupor aqui o templo de Jerusalém. E dado o contexto de centralização do culto, a narrativa igualmente parece ser pós-exílica.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00227\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00227\" rel=\"noopener\" target=\"_blank\">O lar de Yahweh</a>” (<em>bet yehwah</em>). Primeira de 175 ocorrências. Apesar de rara na Torá, a expressão parece pressupor aqui o templo de Jerusalém. E dado o contexto de centralização do culto, a narrativa igualmente parece ser pós-exílica. </span>"
     },
     {
       "ref_id": "fn124-5713",
@@ -1910,8 +1915,8 @@
     {
       "ref_id": "fn163-5713",
       "number": 163,
-      "text": "“Pavor”(‘emah). Cf. Gênesis 15,12; Êxodo 15,16.",
-      "raw_html": "<span>“Pavor”(<em>‘emah</em>). Cf. Gênesis 15,12; Êxodo 15,16. </span>"
+      "text": "“Pavor”(’emah). Cf. Gênesis 15,12; Êxodo 15,16.",
+      "raw_html": "<span>“Pavor”(<em>’emah</em>). Cf. Gênesis 15,12; Êxodo 15,16. </span>"
     },
     {
       "ref_id": "fn164-5713",
@@ -1934,8 +1939,8 @@
     {
       "ref_id": "fn167-5713",
       "number": 167,
-      "text": "“Fobia” (tsir’ah). O sentido é incerto e disputado. Há duas correntes principais: ou se trata de “vespa” (hornet) ou “terror”. Não tenho capacidade para resolver o conflito. Opto por “fobia”, em razão de emoções dessa monta terem sido empregadas em textos até aqui traduzidos para expressar uma ação divina sobre populações que, de outro modo, ameaçariam os protegidos do deus (cf. ‘emah (“pavor”) no v. 27). A “fobia” representaria a ação divina. Para a disputa, cf. Koehler-Baumgartner.",
-      "raw_html": "<span>“Fobia” (<em>tsir’ah</em>). O sentido é incerto e disputado. Há duas correntes principais: ou se trata de “vespa” (<em>hornet</em>) ou “terror”. Não tenho capacidade para resolver o conflito. Opto por “fobia”, em razão de emoções dessa monta terem sido empregadas em textos até aqui traduzidos para expressar uma ação divina sobre populações que, de outro modo, ameaçariam os protegidos do deus (cf. <em>‘emah</em> (“pavor”) no v. 27). A “fobia” representaria a ação divina. Para a disputa, cf. Koehler-Baumgartner. </span>"
+      "text": "“Fobia” (tsir’ah). O sentido é incerto e disputado. Há duas correntes principais: ou se trata de “vespa” (hornet) ou “terror”. Não tenho capacidade para resolver o conflito. Opto por “fobia”, em razão de emoções dessa monta terem sido empregadas em textos até aqui traduzidos para expressar uma ação divina sobre populações que, de outro modo, ameaçariam os protegidos do deus (cf. ’emah (“pavor”) no v. 27). A “fobia” representaria a ação divina. Para a disputa, cf. Koehler-Baumgartner.",
+      "raw_html": "<span>“Fobia” (<em>tsir’ah</em>). O sentido é incerto e disputado. Há duas correntes principais: ou se trata de “vespa” (<em>hornet</em>) ou “terror”. Não tenho capacidade para resolver o conflito. Opto por “fobia”, em razão de emoções dessa monta terem sido empregadas em textos até aqui traduzidos para expressar uma ação divina sobre populações que, de outro modo, ameaçariam os protegidos do deus (cf. <em>’emah</em> (“pavor”) no v. 27). A “fobia” representaria a ação divina. Para a disputa, cf. Koehler-Baumgartner. </span>"
     },
     {
       "ref_id": "fn168-5713",
