@@ -695,7 +695,7 @@
     },
     {
       "number": 14,
-      "text": "E diz Yahweh a Mosheh. Ei. Aproximam os dias de ti. Para morrer. Grita Yehoshua’. E posicionai-vos vós. Na tenda de período. E mando eu ele. E anda Mosheh. E Yehoshua’. E posicionam-se eles. Na tenda de período.",
+      "text": "E diz Yahweh a Mosheh. Ei. Aproximam os dias de ti. Para morrer. Grita Yehoshua’. E posicionai-vos vós. Na tenda de período. E mando eu ele. E anda Mosheh. E Yehoshua’. E posicionam-se eles. Na tenda de período. 15 E é visto Yahweh. Na tenda. Em coluna de nuvem. E acoluna a coluna da nuvem. Sobre a abertura da tenda.",
       "lines": [
         {
           "line_index": 0,
@@ -756,35 +756,29 @@
           "line_index": 11,
           "text": "Na tenda de período.",
           "raw_html": "<p class=\"wp-block-paragraph\">Na tenda<a name=\"rf148-16782\"></a><sup><a href=\"#fn148-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup> de período<a name=\"rf149-16782\"></a><sup><a href=\"#fn149-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup><a name=\"rf150-16782\"></a><sup><a href=\"#fn150-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
-        }
-      ]
-    },
-    {
-      "number": 15,
-      "text": "E visto está Yahweh. Na tenda. Em coluna de nuvem. E acoluna a coluna da nuvem. Sobre a abertura da tenda.",
-      "lines": [
-        {
-          "line_index": 0,
-          "text": "E visto está Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E visto está Yahweh<a name=\"rf151-16782\"></a><sup><a href=\"#fn151-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
         },
         {
-          "line_index": 1,
+          "line_index": 12,
+          "text": "15 E é visto Yahweh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">15 E é visto Yahweh<a name=\"rf151-16782\"></a><sup><a href=\"#fn151-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
+        },
+        {
+          "line_index": 13,
           "text": "Na tenda.",
           "raw_html": "<p class=\"wp-block-paragraph\">Na tenda<a name=\"rf152-16782\"></a><sup><a href=\"#fn152-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 14,
           "text": "Em coluna de nuvem.",
           "raw_html": "<p class=\"wp-block-paragraph\">Em coluna de nuvem<a name=\"rf153-16782\"></a><sup><a href=\"#fn153-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 15,
           "text": "E acoluna a coluna da nuvem.",
           "raw_html": "<p class=\"wp-block-paragraph\">E acoluna<a name=\"rf154-16782\"></a><sup><a href=\"#fn154-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup> a coluna da nuvem<a name=\"rf155-16782\"></a><sup><a href=\"#fn155-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 16,
           "text": "Sobre a abertura da tenda.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre a abertura da tenda<a name=\"rf156-16782\"></a><sup><a href=\"#fn156-16782\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup>.</p>"
         }
@@ -2455,8 +2449,8 @@
     {
       "ref_id": "fn151-16782",
       "number": 151,
-      "text": "“E visto está Yahweh” (wayyera’ yehwah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00251\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00251\" rel=\"noopener\" target=\"_blank\">E visto está Yahweh</a>” (<em>wayyera’ yehwah</em>). </span>"
+      "text": "“E é visto Yahweh” (wayyera’ yehwah). Cf. Gênesis 6,5.",
+      "raw_html": "<span>“E é visto Yahweh” (<em>wayyera’ yehwah</em>). Cf. Gênesis 6,5. </span>"
     },
     {
       "ref_id": "fn152-16782",
