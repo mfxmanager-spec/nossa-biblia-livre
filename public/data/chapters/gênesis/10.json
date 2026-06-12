@@ -507,7 +507,7 @@
     },
     {
       "number": 16,
-      "text": "E o yebusi. E o ‘emori. E o girgasheu.",
+      "text": "E o yebusi. E o ’emori. E o girgasheu.",
       "lines": [
         {
           "line_index": 0,
@@ -516,8 +516,8 @@
         },
         {
           "line_index": 1,
-          "text": "E o ‘emori.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o ‘emori<a name=\"rf70-1764\"></a><sup><a href=\"#fn70-1764\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup><a name=\"rf71-1764\"></a><sup><a href=\"#fn71-1764\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
+          "text": "E o ’emori.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E o ’emori<a name=\"rf70-1764\"></a><sup><a href=\"#fn70-1764\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup><a name=\"rf71-1764\"></a><sup><a href=\"#fn71-1764\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1476,8 +1476,8 @@
     {
       "ref_id": "fn70-1764",
       "number": 70,
-      "text": "“O ‘emori” (ha’emori). Primeira de 70 ocorrências. Cf. Gênesis 10,16; Josué 2,10.",
-      "raw_html": "<span>“O ‘emori” (<em>ha’emori</em>). Primeira de 70 ocorrências. Cf. Gênesis 10,16; Josué 2,10. </span>"
+      "text": "“O ’emori” (ha’emori). Primeira de 70 ocorrências. Cf. Gênesis 10,16; Josué 2,10.",
+      "raw_html": "<span>“O ’emori” (<em>ha’emori</em>). Primeira de 70 ocorrências. Cf. Gênesis 10,16; Josué 2,10. </span>"
     },
     {
       "ref_id": "fn71-1764",
