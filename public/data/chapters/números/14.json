@@ -606,7 +606,7 @@
         {
           "line_index": 3,
           "text": "Que ouvem elas o ouvidamento de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf150-11329\"></a><sup><a href=\"#fn150-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup> ouvem elas<a name=\"rf151-11329\"></a><sup><a href=\"#fn151-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup> o ouvidamento<a name=\"rf152-11329\"></a><sup><a href=\"#fn152-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup> de ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf150-11329\"></a><sup><a href=\"#fn150-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup> ouvem elas<a name=\"rf151-11329\"></a><sup><a href=\"#fn151-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup> o ouvidamento de<a name=\"rf152-11329\"></a><sup><a href=\"#fn152-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup> ti.</p>"
         },
         {
           "line_index": 4,
@@ -2641,8 +2641,8 @@
     {
       "ref_id": "fn152-11329",
       "number": 152,
-      "text": "“Ouvidamento” (shema’). Cf. Gênesis 29,13; Êxodo 23,1; Números 14,15.",
-      "raw_html": "<span>“Ouvidamento” (<em>shema’</em>). Cf. Gênesis 29,13; Êxodo 23,1; Números 14,15. </span>"
+      "text": "“O ouvidamento de” (shema’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00262\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00262\" rel=\"noopener\" target=\"_blank\">O ouvidamento de</a>” (<em>shema’</em>). </span>"
     },
     {
       "ref_id": "fn153-11329",
