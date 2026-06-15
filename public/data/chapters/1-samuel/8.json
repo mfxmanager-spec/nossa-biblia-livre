@@ -860,7 +860,7 @@
     },
     {
       "number": 19,
-      "text": "E recusam eles. O povo. Para ouvir. Na voz de Shemu’el. E dizem eles. Não. Que sim. Rei. Está ele. Para nós.",
+      "text": "E recusam eles. O povo. Para ouvir. Na voz de Shemu’el. E dizem eles. Não. Que se rei. Está ele. Para nós.",
       "lines": [
         {
           "line_index": 0,
@@ -894,21 +894,16 @@
         },
         {
           "line_index": 6,
-          "text": "Que sim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sim<a name=\"rf91-21222\"></a><sup><a href=\"#fn91-21222\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>.</p>"
+          "text": "Que se rei.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que se<a name=\"rf91-21222\"></a><sup><a href=\"#fn91-21222\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup> rei<a name=\"rf92-21222\"></a><sup><a href=\"#fn92-21222\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
         },
         {
           "line_index": 7,
-          "text": "Rei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Rei<a name=\"rf92-21222\"></a><sup><a href=\"#fn92-21222\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
-        },
-        {
-          "line_index": 8,
           "text": "Está ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Está ele<a name=\"rf93-21222\"></a><sup><a href=\"#fn93-21222\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 8,
           "text": "Para nós.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para nós.</p>"
         }
@@ -1192,8 +1187,8 @@
     {
       "ref_id": "fn26-21222",
       "number": 26,
-      "text": "“Rei” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“Rei” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn27-21222",
@@ -1216,8 +1211,8 @@
     {
       "ref_id": "fn30-21222",
       "number": 30,
-      "text": "“Rei” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“Rei” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn31-21222",
@@ -1354,8 +1349,8 @@
     {
       "ref_id": "fn53-21222",
       "number": 53,
-      "text": "“Rei” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“Rei” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn54-21222",
@@ -1378,8 +1373,8 @@
     {
       "ref_id": "fn57-21222",
       "number": 57,
-      "text": "“Rei” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“Rei” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn58-21222",
@@ -1402,8 +1397,8 @@
     {
       "ref_id": "fn61-21222",
       "number": 61,
-      "text": "“Rei” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“Rei” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn62-21222",
@@ -1540,8 +1535,8 @@
     {
       "ref_id": "fn84-21222",
       "number": 84,
-      "text": "“O rei de” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“O rei de” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn85-21222",
@@ -1588,8 +1583,8 @@
     {
       "ref_id": "fn92-21222",
       "number": 92,
-      "text": "“O rei de” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“O rei de” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn93-21222",
@@ -1606,8 +1601,8 @@
     {
       "ref_id": "fn95-21222",
       "number": 95,
-      "text": "“O rei de” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“O rei de” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn96-21222",
@@ -1654,8 +1649,8 @@
     {
       "ref_id": "fn103-21222",
       "number": 103,
-      "text": "“O rei de” (melek). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8.",
-      "raw_html": "<span>“O rei de” (<em>melek</em>). Cf. Gênesis 14,1 (…); 1 Samuel 2,10; 8,5.6.9.10.11.18.19.20.22; 10,19.24; 21,1.2.9.12.13.14.17.19.25; 14,47; 15,1.8.11.17.20.23.26.32; 16,1; 17,25.55.56; 18,6.18.22.23.25.26.27; 19,4; 20,5.24.25.29; 21,3.9.11.13; 22,3.4.11.14.15.16.17.18; 23,20; 24,9.15; 25,36; 26,14.15.16.17.19.20.22; 27,2.6; 28,13; 29,3.8. </span>"
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn104-21222",
