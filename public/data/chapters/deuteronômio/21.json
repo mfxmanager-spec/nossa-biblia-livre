@@ -541,40 +541,70 @@
     },
     {
       "number": 15,
-      "text": "Que estão para homem. Duas de mulheres. A uma é amada. E a uma é odiada. E parem elas para ele filhos. A amada e a odiada. E é o filho primogênito para a odiada.",
+      "text": "Que estão. Para homem. Duas de mulheres. A uma. Sido amada. E a uma. Sido odiada. E parem elas. Para ele. Filhos. A sido amada. E a sido odiada. E é o filho primogênito para a odiada.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Que estão para homem.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Que estão<a name=\"rf150-15009\"></a><sup><a href=\"#fn150-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup> para homem<a name=\"rf151-15009\"></a><sup><a href=\"#fn151-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
+          "text": "Que estão.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> Que estão<a name=\"rf150-15009\"></a><sup><a href=\"#fn150-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
         },
         {
           "line_index": 1,
+          "text": "Para homem.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para homem<a name=\"rf151-15009\"></a><sup><a href=\"#fn151-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "Duas de mulheres.",
           "raw_html": "<p class=\"wp-block-paragraph\">Duas de mulheres<a name=\"rf152-15009\"></a><sup><a href=\"#fn152-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>.</p>"
         },
         {
-          "line_index": 2,
-          "text": "A uma é amada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A uma<a name=\"rf153-15009\"></a><sup><a href=\"#fn153-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup> é amada<a name=\"rf154-15009\"></a><sup><a href=\"#fn154-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>.</p>"
-        },
-        {
           "line_index": 3,
-          "text": "E a uma é odiada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a uma<a name=\"rf155-15009\"></a><sup><a href=\"#fn155-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup> é odiada<a name=\"rf156-15009\"></a><sup><a href=\"#fn156-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup>.</p>"
+          "text": "A uma.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A uma<a name=\"rf153-15009\"></a><sup><a href=\"#fn153-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>.</p>"
         },
         {
           "line_index": 4,
-          "text": "E parem elas para ele filhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E parem elas<a name=\"rf157-15009\"></a><sup><a href=\"#fn157-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup> para ele filhos<a name=\"rf158-15009\"></a><sup><a href=\"#fn158-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>.</p>"
+          "text": "Sido amada.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sido amada<a name=\"rf154-15009\"></a><sup><a href=\"#fn154-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>.</p>"
         },
         {
           "line_index": 5,
-          "text": "A amada e a odiada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A amada<a name=\"rf159-15009\"></a><sup><a href=\"#fn159-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup> e a odiada<a name=\"rf160-15009\"></a><sup><a href=\"#fn160-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup>.</p>"
+          "text": "E a uma.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E a uma<a name=\"rf155-15009\"></a><sup><a href=\"#fn155-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup>.</p>"
         },
         {
           "line_index": 6,
+          "text": "Sido odiada.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sido odiada<a name=\"rf156-15009\"></a><sup><a href=\"#fn156-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup>.</p>"
+        },
+        {
+          "line_index": 7,
+          "text": "E parem elas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E parem elas<a name=\"rf157-15009\"></a><sup><a href=\"#fn157-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>.</p>"
+        },
+        {
+          "line_index": 8,
+          "text": "Para ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ele.</p>"
+        },
+        {
+          "line_index": 9,
+          "text": "Filhos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Filhos<a name=\"rf158-15009\"></a><sup><a href=\"#fn158-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>.</p>"
+        },
+        {
+          "line_index": 10,
+          "text": "A sido amada.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A sido amada<a name=\"rf159-15009\"></a><sup><a href=\"#fn159-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
+        },
+        {
+          "line_index": 11,
+          "text": "E a sido odiada.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E a sido odiada<a name=\"rf160-15009\"></a><sup><a href=\"#fn160-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup>.</p>"
+        },
+        {
+          "line_index": 12,
           "text": "E é o filho primogênito para a odiada.",
           "raw_html": "<p class=\"wp-block-paragraph\">E é o filho primogênito para a odiada <a name=\"rf161-15009\"></a><sup><a href=\"#fn161-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
         }
@@ -582,7 +612,7 @@
     },
     {
       "number": 16,
-      "text": "E é no dia do fazer herdar dele os filhos dele. Que está para ele. Não é capaz ele para primogenitar o filho da amada. Sobre as faces do filho da odiada. O primogênito.",
+      "text": "E é no dia do fazer herdar dele os filhos dele. Que está para ele. Não é capaz ele. Para primogenitar. O filho da sido amada. Sobre as faces do filho da odiada. O primogênito.",
       "lines": [
         {
           "line_index": 0,
@@ -596,16 +626,26 @@
         },
         {
           "line_index": 2,
-          "text": "Não é capaz ele para primogenitar o filho da amada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não é capaz ele<a name=\"rf166-15009\"></a><sup><a href=\"#fn166-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup> para primogenitar<a name=\"rf167-15009\"></a><sup><a href=\"#fn167-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup> o filho da<a name=\"rf168-15009\"></a><sup><a href=\"#fn168-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup> amada<a name=\"rf169-15009\"></a><sup><a href=\"#fn169-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>.</p>"
+          "text": "Não é capaz ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não é capaz ele<a name=\"rf166-15009\"></a><sup><a href=\"#fn166-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup>.</p>"
         },
         {
           "line_index": 3,
+          "text": "Para primogenitar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para primogenitar<a name=\"rf167-15009\"></a><sup><a href=\"#fn167-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "O filho da sido amada.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O filho da<a name=\"rf168-15009\"></a><sup><a href=\"#fn168-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup> sido amada<a name=\"rf169-15009\"></a><sup><a href=\"#fn169-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Sobre as faces do filho da odiada.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre as faces do<a name=\"rf170-15009\"></a><sup><a href=\"#fn170-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup> filho da odiada<a name=\"rf171-15009\"></a><sup><a href=\"#fn171-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
           "text": "O primogênito.",
           "raw_html": "<p class=\"wp-block-paragraph\">O primogênito<a name=\"rf172-15009\"></a><sup><a href=\"#fn172-15009\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup>.</p>"
         }
@@ -1841,8 +1881,8 @@
     {
       "ref_id": "fn154-15009",
       "number": 154,
-      "text": "“Amada” (‘hb). Forma passiva participial da raiz. Cf. Gênesis 22,2; Deuteronômio 21,15.16.",
-      "raw_html": "<span>“Amada” (<em>‘hb</em>). Forma passiva participial da raiz. Cf. Gênesis 22,2; Deuteronômio 21,15.16. </span>"
+      "text": "“Sido amada” (‘hb). Forma passiva participial da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKN\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKN\" rel=\"noopener\" target=\"_blank\">Sido amada</a>” (<em>‘hb</em>). Forma passiva participial da raiz. </span>"
     },
     {
       "ref_id": "fn155-15009",
@@ -1871,8 +1911,8 @@
     {
       "ref_id": "fn159-15009",
       "number": 159,
-      "text": "“Amada” (‘hb). Forma passiva participial da raiz. Cf. acima.",
-      "raw_html": "<span>“Amada” (<em>‘hb</em>). Forma passiva participial da raiz. Cf. acima. </span>"
+      "text": "“Sido amada” (‘hb). Forma passiva participial da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKN\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKN\" rel=\"noopener\" target=\"_blank\">Sido amada</a>” (<em>‘hb</em>). Forma passiva participial da raiz. </span>"
     },
     {
       "ref_id": "fn160-15009",
@@ -1931,8 +1971,8 @@
     {
       "ref_id": "fn169-15009",
       "number": 169,
-      "text": "“Amada” (‘hb). Forma passiva participial da raiz. Cf. Gênesis 22,2; Deuteronômio 21,15.16.",
-      "raw_html": "<span>“Amada” (<em>‘hb</em>). Forma passiva participial da raiz. Cf. Gênesis 22,2; Deuteronômio 21,15.16. </span>"
+      "text": "“Sido amada” (‘hb). Forma passivo participial da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKN\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKN\" rel=\"noopener\" target=\"_blank\">Sido amada</a>” (<em>‘hb</em>). Forma passivo participial da raiz. </span>"
     },
     {
       "ref_id": "fn170-15009",
