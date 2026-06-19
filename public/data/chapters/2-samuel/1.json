@@ -1387,7 +1387,7 @@
     },
     {
       "number": 26,
-      "text": "Ensaca ele. Para mim. Sobre ti. O irmão de mim. Yehonatan. Está agradável ele. Para mim. Muito. Excedida está a amoração de ti. Para mim. Desde amoração de mulheres",
+      "text": "Ensaca ele. Para mim. Sobre ti. O irmão de mim. Yehonatan. Está agradável ele. Para mim. Muito. Excedida está a amoração de ti. Para mim. Desde amoração de mulheres.",
       "lines": [
         {
           "line_index": 0,
@@ -1441,8 +1441,8 @@
         },
         {
           "line_index": 10,
-          "text": "Desde amoração de mulheres",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde amoração de mulheres<a name=\"rf121-24884\"></a><sup><a href=\"#fn121-24884\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup><a name=\"rf122-24884\"></a><sup><a href=\"#fn122-24884\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup></p>"
+          "text": "Desde amoração de mulheres.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde amoração de mulheres.</p>"
         }
       ]
     },
@@ -2183,18 +2183,6 @@
       "number": 120,
       "text": "“Yehonatan” (yehonatan).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACK\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACK\" rel=\"noreferrer noopener\" target=\"_blank\">Yehonatan</a>” (<em>yehonatan</em>). </span>"
-    },
-    {
-      "ref_id": "fn121-24884",
-      "number": 121,
-      "text": "“Mulheres” (nashim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00281\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00281\" rel=\"noopener\" target=\"_blank\">Mulheres</a>” (<em>nashim</em>). </span>"
-    },
-    {
-      "ref_id": "fn122-24884",
-      "number": 122,
-      "text": "“Mulher” (‘ishshah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00282\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00282\" rel=\"noopener\" target=\"_blank\">Mulher</a>” (<em>‘ishshah</em>). </span>"
     }
   ]
 }

@@ -1025,12 +1025,12 @@
         {
           "line_index": 1,
           "text": "O total dos reis.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O total dos<a name=\"rf178-27577\"></a><sup><a href=\"#fn178-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup> reis<a name=\"rf179-27577\"></a><sup><a href=\"#fn179-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup><a name=\"rf180-27577\"></a><sup><a href=\"#fn180-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O total dos<a name=\"rf178-27577\"></a><sup><a href=\"#fn178-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup> reis<a name=\"rf179-27577\"></a><sup><a href=\"#fn179-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Os servos de Hadad’ezer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os servos<a name=\"rf181-27577\"></a><sup><a href=\"#fn181-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup> de<a name=\"rf182-27577\"></a><sup><a href=\"#fn182-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup> Hadad’ezer.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os servos<a name=\"rf180-27577\"></a><sup><a href=\"#fn180-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup> de<a name=\"rf181-27577\"></a><sup><a href=\"#fn181-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup> Hadad’ezer.</p>"
         },
         {
           "line_index": 3,
@@ -1040,7 +1040,7 @@
         {
           "line_index": 4,
           "text": "Para as faces de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces<a name=\"rf183-27577\"></a><sup><a href=\"#fn183-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup> de Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces<a name=\"rf182-27577\"></a><sup><a href=\"#fn182-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup> de Yisra’el.</p>"
         },
         {
           "line_index": 5,
@@ -1055,7 +1055,7 @@
         {
           "line_index": 7,
           "text": "E servem eles eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E servem eles<a name=\"rf184-27577\"></a><sup><a href=\"#fn184-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 184\">184</a></sup> eles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E servem eles<a name=\"rf183-27577\"></a><sup><a href=\"#fn183-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup> eles.</p>"
         },
         {
           "line_index": 8,
@@ -1080,7 +1080,7 @@
         {
           "line_index": 12,
           "text": "Os filhos de ‘Amon.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os filhos de<a name=\"rf185-27577\"></a><sup><a href=\"#fn185-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 185\">185</a></sup> ‘Amon<a name=\"rf186-27577\"></a><sup><a href=\"#fn186-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 186\">186</a></sup><a name=\"rf187-27577\"></a><sup><a href=\"#fn187-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 187\">187</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os filhos de<a name=\"rf184-27577\"></a><sup><a href=\"#fn184-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 184\">184</a></sup> ‘Amon<a name=\"rf185-27577\"></a><sup><a href=\"#fn185-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 185\">185</a></sup><a name=\"rf186-27577\"></a><sup><a href=\"#fn186-27577\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 186\">186</a></sup>.</p>"
         }
       ]
     }
@@ -2163,48 +2163,42 @@
     {
       "ref_id": "fn180-27577",
       "number": 180,
-      "text": "“Rei” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn181-27577",
-      "number": 181,
       "text": "“Servo” (‘ebed).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIP\" rel=\"noreferrer noopener\" target=\"_blank\">Servo</a>” (<em>‘ebed</em>). </span>"
     },
     {
-      "ref_id": "fn182-27577",
-      "number": 182,
+      "ref_id": "fn181-27577",
+      "number": 181,
       "text": "“Os servos de” (‘abde).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIO\" rel=\"noreferrer noopener\" target=\"_blank\">Os servos de</a>” (<em>‘abde</em>). </span>"
     },
     {
-      "ref_id": "fn183-27577",
-      "number": 183,
+      "ref_id": "fn182-27577",
+      "number": 182,
       "text": "“Face” (paneh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALG\" rel=\"noreferrer noopener\" target=\"_blank\">Face</a>” (<em>paneh</em>). </span>"
     },
     {
-      "ref_id": "fn184-27577",
-      "number": 184,
+      "ref_id": "fn183-27577",
+      "number": 183,
       "text": "“Servem eles” (‘bd).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0052\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0052\" rel=\"noopener\" target=\"_blank\">Servem eles</a>” (<em>‘bd</em>). </span>"
     },
     {
-      "ref_id": "fn185-27577",
-      "number": 185,
+      "ref_id": "fn184-27577",
+      "number": 184,
       "text": "“Os filhos de” (ben).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAKO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKO\" rel=\"noreferrer noopener\" target=\"_blank\">Os filhos de</a>” (<em>ben</em>). </span>"
     },
     {
-      "ref_id": "fn186-27577",
-      "number": 186,
+      "ref_id": "fn185-27577",
+      "number": 185,
       "text": "“Os filhos de ‘Ammon” (‘et-bene ‘ammon).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJF\" rel=\"noreferrer noopener\" target=\"_blank\">Os filhos de ‘Ammon</a>” (<em>‘et-bene ‘ammon</em>). </span>"
     },
     {
-      "ref_id": "fn187-27577",
-      "number": 187,
+      "ref_id": "fn186-27577",
+      "number": 186,
       "text": "“Os filhos de ‘Ammon” (bene ‘ammon).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHO\" rel=\"noreferrer noopener\" target=\"_blank\">Os filhos de ‘Ammon</a>” (<em>bene ‘ammon</em>). </span>"
     }
