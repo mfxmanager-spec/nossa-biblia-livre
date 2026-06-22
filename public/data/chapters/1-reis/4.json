@@ -731,7 +731,7 @@
         {
           "line_index": 0,
           "text": "Yehudah.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Yehudah.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Yehudah<a name=\"rf89-30384\"></a><sup><a href=\"#fn89-30384\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -751,7 +751,7 @@
         {
           "line_index": 4,
           "text": "Que sobre o mar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre<a name=\"rf89-30384\"></a><sup><a href=\"#fn89-30384\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup> o mar.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre<a name=\"rf90-30384\"></a><sup><a href=\"#fn90-30384\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup> o mar.</p>"
         },
         {
           "line_index": 5,
@@ -1308,6 +1308,12 @@
     {
       "ref_id": "fn89-30384",
       "number": 89,
+      "text": "“Yehudah” (yehudah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0307\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0307\" rel=\"noopener\" target=\"_blank\">Yehudah</a>” (<em>yehudah</em>). </span>"
+    },
+    {
+      "ref_id": "fn90-30384",
+      "number": 90,
       "text": "“Sobre” (‘al).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAALM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALM\" rel=\"noopener\" target=\"_blank\">Sobre</a>” (<em>‘al</em>). </span>"
     }

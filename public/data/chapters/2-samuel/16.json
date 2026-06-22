@@ -1404,7 +1404,7 @@
         {
           "line_index": 6,
           "text": "No falado do ‘elohim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No falado do <em>‘elohim</em>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No falado do<a name=\"rf114-29251\"></a><sup><a href=\"#fn114-29251\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup> <em>‘elohim</em>.</p>"
         },
         {
           "line_index": 7,
@@ -1414,7 +1414,7 @@
         {
           "line_index": 8,
           "text": "O total da opinião de ‘Ahitopel.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O total da<a name=\"rf114-29251\"></a><sup><a href=\"#fn114-29251\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup> opinião de ‘Ahitopel.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O total da<a name=\"rf115-29251\"></a><sup><a href=\"#fn115-29251\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup> opinião de ‘Ahitopel.</p>"
         },
         {
           "line_index": 9,
@@ -2111,6 +2111,12 @@
     {
       "ref_id": "fn114-29251",
       "number": 114,
+      "text": "“No falado do” (bidebar). Primeira de 20 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0309\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0309\" rel=\"noopener\" target=\"_blank\">No falado do</a>” (<em>bidebar</em>). Primeira de 20 ocorrências. </span>"
+    },
+    {
+      "ref_id": "fn115-29251",
+      "number": 115,
       "text": "“O total da” (kol).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJD\" rel=\"noopener\" target=\"_blank\">O total da</a>” (<em>kol</em>). </span>"
     }
