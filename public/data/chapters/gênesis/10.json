@@ -223,7 +223,7 @@
     },
     {
       "number": 7,
-      "text": "E os filhos de Kush. Seba’. E Hawilah. E Sabtah. E Ra’mah E Sabteka'. E os filhos de Ra’mah. Sheba' E Dedan.",
+      "text": "E os filhos de Kush. Seba'. E Hawilah. E Sabtah. E Ra’mah E Sabteka'. E os filhos de Ra’mah. Sheba' E Dedan.",
       "lines": [
         {
           "line_index": 0,
@@ -232,8 +232,8 @@
         },
         {
           "line_index": 1,
-          "text": "Seba’.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Seba’<a name=\"rf36-1764\"></a><sup><a href=\"#fn36-1764\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup>.</p>"
+          "text": "Seba'.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Seba'<a name=\"rf36-1764\"></a><sup><a href=\"#fn36-1764\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -894,7 +894,7 @@
     },
     {
       "number": 28,
-      "text": "E ‘Obal. E ‘Abima’el. E Sheba’.",
+      "text": "E ‘Obal. E ‘Abima’el. E Sheba'.",
       "lines": [
         {
           "line_index": 0,
@@ -908,8 +908,8 @@
         },
         {
           "line_index": 2,
-          "text": "E Sheba’.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E Sheba’<a name=\"rf114-1764\"></a><sup><a href=\"#fn114-1764\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
+          "text": "E Sheba'.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E Sheba'<a name=\"rf114-1764\"></a><sup><a href=\"#fn114-1764\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
         }
       ]
     },
@@ -1272,8 +1272,8 @@
     {
       "ref_id": "fn36-1764",
       "number": 36,
-      "text": "“Sheba’” (sheba’). Primeira de 23 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00261\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00261\" rel=\"noopener\" target=\"_blank\">Sheba’</a>” (<em>sheba’</em>). Primeira de 23 ocorrências. </span>"
+      "text": "Leia-se sebá’.",
+      "raw_html": "<span>Leia-se <em>sebá’</em>. </span>"
     },
     {
       "ref_id": "fn37-1764",
@@ -1740,8 +1740,8 @@
     {
       "ref_id": "fn114-1764",
       "number": 114,
-      "text": "“Sheba’” (sheba’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00261\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00261\" rel=\"noopener\" target=\"_blank\">Sheba’</a>” (<em>sheba’</em>). </span>"
+      "text": "leia-se shebá.",
+      "raw_html": "<span>leia-se <em>shebá</em>. </span>"
     },
     {
       "ref_id": "fn115-1764",

@@ -214,7 +214,7 @@
     },
     {
       "number": 8,
-      "text": "E agranda o parido. E desmamado está ele. E faz ‘Abraham. Banquete grande. No dia do ser desmamado de Yitshaq.",
+      "text": "E agranda o parido. E é ele desmamado. E faz ‘Abraham banquete grande. No dia do ser desmamado de Yitshaq.",
       "lines": [
         {
           "line_index": 0,
@@ -223,21 +223,16 @@
         },
         {
           "line_index": 1,
-          "text": "E desmamado está ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E desmamado está ele.</p>"
+          "text": "E é ele desmamado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E é ele desmamado.</p>"
         },
         {
           "line_index": 2,
-          "text": "E faz ‘Abraham.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz ‘Abraham.</p>"
+          "text": "E faz ‘Abraham banquete grande.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ‘Abraham banquete grande.</p>"
         },
         {
           "line_index": 3,
-          "text": "Banquete grande.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Banquete grande.</p>"
-        },
-        {
-          "line_index": 4,
           "text": "No dia do ser desmamado de Yitshaq.",
           "raw_html": "<p class=\"wp-block-paragraph\">No dia do ser desmamado de Yitshaq.</p>"
         }

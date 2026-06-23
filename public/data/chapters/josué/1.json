@@ -359,7 +359,7 @@
     },
     {
       "number": 8,
-      "text": "Não remove o rolo da instrução esse. Desde a boca de ti. E mussita nele. De dia e noite. Para que guardes tu. Para fazer. Conforme que total do sido escrito nele. Que então. Fazes tu prosperar. O caminho de ti. E então. Fazes tu apreender.",
+      "text": "Não remove o rolo da instrução esse. Desde a boca de ti. E mussita nele. De dia e noite. Para que guardes tu. Para fazer. Conforme que total do sido escrito nele. Que então fazes tu prosperar. O caminho de ti. E então fazes tu apreender.",
       "lines": [
         {
           "line_index": 0,
@@ -398,28 +398,18 @@
         },
         {
           "line_index": 7,
-          "text": "Que então.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que então<a name=\"rf132-17405\"></a><sup><a href=\"#fn132-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup>.</p>"
+          "text": "Que então fazes tu prosperar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que então<a name=\"rf132-17405\"></a><sup><a href=\"#fn132-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup> fazes tu prosperar<a name=\"rf133-17405\"></a><sup><a href=\"#fn133-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
         },
         {
           "line_index": 8,
-          "text": "Fazes tu prosperar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fazes tu prosperar<a name=\"rf133-17405\"></a><sup><a href=\"#fn133-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
-        },
-        {
-          "line_index": 9,
           "text": "O caminho de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">O caminho de ti<a name=\"rf134-17405\"></a><sup><a href=\"#fn134-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
         },
         {
-          "line_index": 10,
-          "text": "E então.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E então<a name=\"rf135-17405\"></a><sup><a href=\"#fn135-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
-        },
-        {
-          "line_index": 11,
-          "text": "Fazes tu apreender.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fazes tu apreender<a name=\"rf136-17405\"></a><sup><a href=\"#fn136-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
+          "line_index": 9,
+          "text": "E então fazes tu apreender.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E então<a name=\"rf135-17405\"></a><sup><a href=\"#fn135-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup> fazes tu apreender<a name=\"rf136-17405\"></a><sup><a href=\"#fn136-17405\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
         }
       ]
     },
@@ -1749,8 +1739,8 @@
     {
       "ref_id": "fn132-17405",
       "number": 132,
-      "text": "“Então” (‘az).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00200\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00200\" rel=\"noopener\" target=\"_blank\">Então</a>” (<em>‘az</em>). </span>"
+      "text": "“Então” (‘az). Cf. Gênesis 4,26; 12,6; 13,7; 24,41; 39,5; 49,4 e Êxodo 4,10; Josué 1,8.",
+      "raw_html": "<span>“Então” (<em>‘az</em>). Cf. Gênesis 4,26; 12,6; 13,7; 24,41; 39,5; 49,4 e Êxodo 4,10; Josué 1,8. </span>"
     },
     {
       "ref_id": "fn133-17405",
@@ -1767,8 +1757,8 @@
     {
       "ref_id": "fn135-17405",
       "number": 135,
-      "text": "“Então” (‘az).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00200\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00200\" rel=\"noopener\" target=\"_blank\">Então</a>” (<em>‘az</em>). </span>"
+      "text": "“Então” (‘az). Cf. acima.",
+      "raw_html": "<span>“Então” (<em>‘az</em>). Cf. acima. </span>"
     },
     {
       "ref_id": "fn136-17405",

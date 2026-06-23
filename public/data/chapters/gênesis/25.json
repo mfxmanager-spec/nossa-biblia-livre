@@ -69,35 +69,30 @@
     },
     {
       "number": 3,
-      "text": "E Yoqshan. Para ele Sheba’. E Dedan. E os filhos de Dedan são ‘ashshurim. E letushim. E le’ummim.",
+      "text": "E Yoqshanpare Sheba'. E Dedan. E os filhos de Dedan são ‘ashshurim. E letushim. E le’ummim.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E Yoqshan.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E Yoqshan<a name=\"rf11-2388\"></a><sup><a href=\"#fn11-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup>.</p>"
+          "text": "E Yoqshanpare Sheba'.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E Yoqshan<a name=\"rf11-2388\"></a><sup><a href=\"#fn11-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup>pare Sheba'<a name=\"rf12-2388\"></a><sup><a href=\"#fn12-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup>.</p>"
         },
         {
           "line_index": 1,
-          "text": "Para ele Sheba’.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ele Sheba’<a name=\"rf12-2388\"></a><sup><a href=\"#fn12-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup>.</p>"
-        },
-        {
-          "line_index": 2,
           "text": "E Dedan.",
           "raw_html": "<p class=\"wp-block-paragraph\">E Dedan<a name=\"rf13-2388\"></a><sup><a href=\"#fn13-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup>.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 2,
           "text": "E os filhos de Dedan são ‘ashshurim.",
           "raw_html": "<p class=\"wp-block-paragraph\">E os filhos de<a name=\"rf14-2388\"></a><sup><a href=\"#fn14-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup> Dedan são ‘ashshurim<a name=\"rf15-2388\"></a><sup><a href=\"#fn15-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 3,
           "text": "E letushim.",
           "raw_html": "<p class=\"wp-block-paragraph\">E letushim.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 4,
           "text": "E le’ummim.",
           "raw_html": "<p class=\"wp-block-paragraph\">E le’ummim.</p>"
         }
@@ -1375,8 +1370,8 @@
     {
       "ref_id": "fn12-2388",
       "number": 12,
-      "text": "“Sheba’” (sheba’). (Leia-se xebá. É o mesmo nome com que se designa a famosa rainha: malkut sheba’ (“rainha de Sheba’). Ao mesmo tempo, é o mesmo nome de um dos filhos de Ra’mah em Gênesis 10,7, bem como de Yoqtan em Gênesis 10,26.28. Qual desses estaria pretensamente vinculado à nação da famosa rainha? Cf. a nota seguinte.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00261\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00261\" rel=\"noopener\" target=\"_blank\">Sheba’</a>” (<em>sheba’</em>). (Leia-se <em>xebá</em>. É o mesmo nome com que se designa a famosa rainha: <em>malkut sheba’</em> (“rainha de Sheba’). Ao mesmo tempo, é o mesmo nome de um dos filhos de Ra’mah em Gênesis 10,7, bem como de Yoqtan em Gênesis 10,26.28. Qual desses estaria pretensamente vinculado à nação da famosa rainha? Cf. a nota seguinte. </span>"
+      "text": "Leia-se xebá. É o mesmo nome com que se designa a famosa rainha: malkut sheba’ (“rainha de Sheba’). Ao mesmo tempo, é o mesmo nome de um dos filhos de Ra’mah em Gênesis 10,7, bem como de Yoqtan em Gênesis 10,26.28. Qual desses estaria pretensamente vinculado à nação da famosa rainha? Cf. a nota seguinte.",
+      "raw_html": "<span>Leia-se <em>xebá</em>. É o mesmo nome com que se designa a famosa rainha: <em>malkut sheba’</em> (“rainha de Sheba’). Ao mesmo tempo, é o mesmo nome de um dos filhos de Ra’mah em Gênesis 10,7, bem como de Yoqtan em Gênesis 10,26.28. Qual desses estaria pretensamente vinculado à nação da famosa rainha? Cf. a nota seguinte. </span>"
     },
     {
       "ref_id": "fn13-2388",

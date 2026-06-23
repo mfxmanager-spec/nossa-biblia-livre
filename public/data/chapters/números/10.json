@@ -148,20 +148,15 @@
     },
     {
       "number": 7,
-      "text": "E no assemblear da assembleia. Bateisvós. E não aclamais.",
+      "text": "E no assembleiarda assembleiabateisvós. E não aclamais.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E no assemblear da assembleia.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E no assemblear<a name=\"rf42-10887\"></a><sup><a href=\"#fn42-10887\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup> da assembleia<a name=\"rf43-10887\"></a><sup><a href=\"#fn43-10887\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+          "text": "E no assembleiarda assembleiabateisvós.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E no assembleiar<a name=\"rf42-10887\"></a><sup><a href=\"#fn42-10887\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>da assembleia<a name=\"rf43-10887\"></a><sup><a href=\"#fn43-10887\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>bateis<a name=\"rf44-10887\"></a><sup><a href=\"#fn44-10887\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>vós.</p>"
         },
         {
           "line_index": 1,
-          "text": "Bateisvós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Bateis<a name=\"rf44-10887\"></a><sup><a href=\"#fn44-10887\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>vós.</p>"
-        },
-        {
-          "line_index": 2,
           "text": "E não aclamais.",
           "raw_html": "<p class=\"wp-block-paragraph\">E não aclamais<a name=\"rf45-10887\"></a><sup><a href=\"#fn45-10887\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>.</p>"
         }
@@ -1392,8 +1387,8 @@
     {
       "ref_id": "fn42-10887",
       "number": 42,
-      "text": "“Assemblear” (qhl). Forma infinitiva da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00201\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00201\" rel=\"noopener\" target=\"_blank\">Assemblear</a>” (<em>qhl</em>). Forma infinitiva da raiz. </span>"
+      "text": "“Assembleiar” (qhl). Forma infinitiva da raiz. Cf. Êxodo 32,1; 35,1; Levítico 8,3.4; Números 1,18; 8,9; 10,7.",
+      "raw_html": "<span>“Assembleiar” (<em>qhl</em>). Forma infinitiva da raiz. Cf. Êxodo 32,1; 35,1; Levítico 8,3.4; Números 1,18; 8,9; 10,7. </span>"
     },
     {
       "ref_id": "fn43-10887",

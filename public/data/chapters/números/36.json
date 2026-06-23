@@ -227,50 +227,45 @@
     },
     {
       "number": 6,
-      "text": "Esse. O falado. Que mandaYahweh. Para as filhasdeTselapehad. Para dizer. Para o bomnos olhos deles. São elaspara mulheres. Somente para o clã dogalhodo pai deles. São elaspara mulheres.",
+      "text": "Essa é a fala. Que mandaYahweh. Para as filhasdeTselapehad. Para dizer. Para o bomnos olhos deles. São elaspara mulheres. Somente para o clã dogalhodo pai deles. São elaspara mulheres.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Esse.</p>"
+          "text": "Essa é a fala.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> Essa é a fala.</p>"
         },
         {
           "line_index": 1,
-          "text": "O falado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O falado.</p>"
-        },
-        {
-          "line_index": 2,
           "text": "Que mandaYahweh.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que manda<a name=\"rf65-13238\"></a><sup><a href=\"#fn65-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>Yahweh<a name=\"rf66-13238\"></a><sup><a href=\"#fn66-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup><a name=\"rf67-13238\"></a><sup><a href=\"#fn67-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 2,
           "text": "Para as filhasdeTselapehad.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para as filhas<a name=\"rf68-13238\"></a><sup><a href=\"#fn68-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>de<a name=\"rf69-13238\"></a><sup><a href=\"#fn69-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>Tselapehad<a name=\"rf70-13238\"></a><sup><a href=\"#fn70-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 3,
           "text": "Para dizer.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf71-13238\"></a><sup><a href=\"#fn71-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 4,
           "text": "Para o bomnos olhos deles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para o bom<a name=\"rf72-13238\"></a><sup><a href=\"#fn72-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>nos olhos deles<a name=\"rf73-13238\"></a><sup><a href=\"#fn73-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 5,
           "text": "São elaspara mulheres.",
           "raw_html": "<p class=\"wp-block-paragraph\">São elas<a name=\"rf74-13238\"></a><sup><a href=\"#fn74-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>para mulheres.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 6,
           "text": "Somente para o clã dogalhodo pai deles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Somente para o clã do<a name=\"rf75-13238\"></a><sup><a href=\"#fn75-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>galho<a name=\"rf76-13238\"></a><sup><a href=\"#fn76-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>do pai deles.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 7,
           "text": "São elaspara mulheres.",
           "raw_html": "<p class=\"wp-block-paragraph\">São elas<a name=\"rf77-13238\"></a><sup><a href=\"#fn77-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>para mulheres<a name=\"rf78-13238\"></a><sup><a href=\"#fn78-13238\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
         }
