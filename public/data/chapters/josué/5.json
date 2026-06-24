@@ -619,7 +619,7 @@
     },
     {
       "number": 13,
-      "text": "E está. No estar de Yehoshua’ em Yeriho. E levanta ele os olhos dele. E vê ele. E eis. Homem. Acolunado. Para ante dele. E a espada dele. Arrancada. Na mão dele. E anda Yehoshua’. A ele. E diz ele. Para ele. Acaso para nós tu? Se para os agressores de nós?",
+      "text": "E está. No estar de Yehoshua’ em Yeriho. E levanta ele os olhos dele. E vê ele. E eis. Homem acolunado. Para ante dele. E a espada dele. Arrancada. Na mão dele. E anda Yehoshua’. A ele. E diz ele. Para ele. Acaso para nós tu? Se para os agressores de nós?",
       "lines": [
         {
           "line_index": 0,
@@ -648,63 +648,58 @@
         },
         {
           "line_index": 5,
-          "text": "Homem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Homem<a name=\"rf175-17992\"></a><sup><a href=\"#fn175-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup><a name=\"rf176-17992\"></a><sup><a href=\"#fn176-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup>.</p>"
+          "text": "Homem acolunado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Homem<a name=\"rf175-17992\"></a><sup><a href=\"#fn175-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup> acolunado<a name=\"rf176-17992\"></a><sup><a href=\"#fn176-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup>.</p>"
         },
         {
           "line_index": 6,
-          "text": "Acolunado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Acolunado<a name=\"rf177-17992\"></a><sup><a href=\"#fn177-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
+          "text": "Para ante dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ante<a name=\"rf177-17992\"></a><sup><a href=\"#fn177-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup> dele<a name=\"rf178-17992\"></a><sup><a href=\"#fn178-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>.</p>"
         },
         {
           "line_index": 7,
-          "text": "Para ante dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ante<a name=\"rf178-17992\"></a><sup><a href=\"#fn178-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup> dele<a name=\"rf179-17992\"></a><sup><a href=\"#fn179-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
+          "text": "E a espada dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E a espada dele<a name=\"rf179-17992\"></a><sup><a href=\"#fn179-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
         },
         {
           "line_index": 8,
-          "text": "E a espada dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a espada dele<a name=\"rf180-17992\"></a><sup><a href=\"#fn180-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup>.</p>"
-        },
-        {
-          "line_index": 9,
           "text": "Arrancada.",
           "raw_html": "<p class=\"wp-block-paragraph\">Arrancada.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 9,
           "text": "Na mão dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na mão dele<a name=\"rf181-17992\"></a><sup><a href=\"#fn181-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup><a name=\"rf182-17992\"></a><sup><a href=\"#fn182-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na mão dele<a name=\"rf180-17992\"></a><sup><a href=\"#fn180-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup><a name=\"rf181-17992\"></a><sup><a href=\"#fn181-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup>.</p>"
+        },
+        {
+          "line_index": 10,
+          "text": "E anda Yehoshua’.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E anda<a name=\"rf182-17992\"></a><sup><a href=\"#fn182-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup> Yehoshua’.</p>"
         },
         {
           "line_index": 11,
-          "text": "E anda Yehoshua’.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E anda<a name=\"rf183-17992\"></a><sup><a href=\"#fn183-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup> Yehoshua’.</p>"
+          "text": "A ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A ele<a name=\"rf183-17992\"></a><sup><a href=\"#fn183-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup>.</p>"
         },
         {
           "line_index": 12,
-          "text": "A ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A ele<a name=\"rf184-17992\"></a><sup><a href=\"#fn184-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 184\">184</a></sup>.</p>"
+          "text": "E diz ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E diz ele<a name=\"rf184-17992\"></a><sup><a href=\"#fn184-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 184\">184</a></sup>.</p>"
         },
         {
           "line_index": 13,
-          "text": "E diz ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E diz ele<a name=\"rf185-17992\"></a><sup><a href=\"#fn185-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 185\">185</a></sup>.</p>"
+          "text": "Para ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<a name=\"rf185-17992\"></a><sup><a href=\"#fn185-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 185\">185</a></sup><a name=\"rf186-17992\"></a><sup><a href=\"#fn186-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 186\">186</a></sup>.</p>"
         },
         {
           "line_index": 14,
-          "text": "Para ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<a name=\"rf186-17992\"></a><sup><a href=\"#fn186-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 186\">186</a></sup><a name=\"rf187-17992\"></a><sup><a href=\"#fn187-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 187\">187</a></sup>.</p>"
+          "text": "Acaso para nós tu?",
+          "raw_html": "<p class=\"wp-block-paragraph\">Acaso para nós<a name=\"rf187-17992\"></a><sup><a href=\"#fn187-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 187\">187</a></sup> tu<a name=\"rf188-17992\"></a><sup><a href=\"#fn188-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 188\">188</a></sup>?</p>"
         },
         {
           "line_index": 15,
-          "text": "Acaso para nós tu?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Acaso para nós<a name=\"rf188-17992\"></a><sup><a href=\"#fn188-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 188\">188</a></sup> tu<a name=\"rf189-17992\"></a><sup><a href=\"#fn189-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 189\">189</a></sup>?</p>"
-        },
-        {
-          "line_index": 16,
           "text": "Se para os agressores de nós?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Se<a name=\"rf190-17992\"></a><sup><a href=\"#fn190-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 190\">190</a></sup> para os agressores<a name=\"rf191-17992\"></a><sup><a href=\"#fn191-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 191\">191</a></sup> de nós?</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Se<a name=\"rf189-17992\"></a><sup><a href=\"#fn189-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 189\">189</a></sup> para os agressores<a name=\"rf190-17992\"></a><sup><a href=\"#fn190-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 190\">190</a></sup> de nós?</p>"
         }
       ]
     },
@@ -725,37 +720,37 @@
         {
           "line_index": 2,
           "text": "Que eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf192-17992\"></a><sup><a href=\"#fn192-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 192\">192</a></sup> eu <a name=\"rf193-17992\"></a><sup><a href=\"#fn193-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 193\">193</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf191-17992\"></a><sup><a href=\"#fn191-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 191\">191</a></sup> eu <a name=\"rf192-17992\"></a><sup><a href=\"#fn192-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 192\">192</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "O príncipe do regimento de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O príncipe do regimento<a name=\"rf194-17992\"></a><sup><a href=\"#fn194-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 194\">194</a></sup><a name=\"rf195-17992\"></a><sup><a href=\"#fn195-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 195\">195</a></sup> de Yahweh<a name=\"rf196-17992\"></a><sup><a href=\"#fn196-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 196\">196</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O príncipe do regimento<a name=\"rf193-17992\"></a><sup><a href=\"#fn193-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 193\">193</a></sup><a name=\"rf194-17992\"></a><sup><a href=\"#fn194-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 194\">194</a></sup> de Yahweh<a name=\"rf195-17992\"></a><sup><a href=\"#fn195-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 195\">195</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Agora vou eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Agora vou eu<a name=\"rf197-17992\"></a><sup><a href=\"#fn197-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 197\">197</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Agora vou eu<a name=\"rf196-17992\"></a><sup><a href=\"#fn196-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 196\">196</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E cai Yehoshua’.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cai<a name=\"rf198-17992\"></a><sup><a href=\"#fn198-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 198\">198</a></sup><a name=\"rf199-17992\"></a><sup><a href=\"#fn199-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 199\">199</a></sup> Yehoshua’.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cai<a name=\"rf197-17992\"></a><sup><a href=\"#fn197-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 197\">197</a></sup><a name=\"rf198-17992\"></a><sup><a href=\"#fn198-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 198\">198</a></sup> Yehoshua’.</p>"
         },
         {
           "line_index": 6,
           "text": "Às faces dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Às faces dele<a name=\"rf200-17992\"></a><sup><a href=\"#fn200-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 200\">200</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Às faces dele<a name=\"rf199-17992\"></a><sup><a href=\"#fn199-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 199\">199</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Para terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para terra<a name=\"rf201-17992\"></a><sup><a href=\"#fn201-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 201\">201</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para terra<a name=\"rf200-17992\"></a><sup><a href=\"#fn200-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 200\">200</a></sup>.</p>"
         },
         {
           "line_index": 8,
           "text": "E prosta-se ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E prosta-se ele<a name=\"rf202-17992\"></a><sup><a href=\"#fn202-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 202\">202</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E prosta-se ele<a name=\"rf201-17992\"></a><sup><a href=\"#fn201-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 201\">201</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -765,27 +760,27 @@
         {
           "line_index": 10,
           "text": "Para ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<a name=\"rf203-17992\"></a><sup><a href=\"#fn203-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 203\">203</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<a name=\"rf202-17992\"></a><sup><a href=\"#fn202-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 202\">202</a></sup>.</p>"
         },
         {
           "line_index": 11,
           "text": "Qual.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Qual<a name=\"rf204-17992\"></a><sup><a href=\"#fn204-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 204\">204</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Qual<a name=\"rf203-17992\"></a><sup><a href=\"#fn203-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 203\">203</a></sup>.</p>"
         },
         {
           "line_index": 12,
           "text": "Senhor de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Senhor de mim<a name=\"rf205-17992\"></a><sup><a href=\"#fn205-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 205\">205</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Senhor de mim<a name=\"rf204-17992\"></a><sup><a href=\"#fn204-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 204\">204</a></sup>.</p>"
         },
         {
           "line_index": 13,
           "text": "Falador.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Falador<a name=\"rf206-17992\"></a><sup><a href=\"#fn206-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 206\">206</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Falador<a name=\"rf205-17992\"></a><sup><a href=\"#fn205-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 205\">205</a></sup>.</p>"
         },
         {
           "line_index": 14,
           "text": "Ao servo dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao servo dele<a name=\"rf207-17992\"></a><sup><a href=\"#fn207-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 207\">207</a></sup><a name=\"rf208-17992\"></a><sup><a href=\"#fn208-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao servo dele<a name=\"rf206-17992\"></a><sup><a href=\"#fn206-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 206\">206</a></sup><a name=\"rf207-17992\"></a><sup><a href=\"#fn207-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 207\">207</a></sup>.</p>"
         }
       ]
     },
@@ -796,7 +791,7 @@
         {
           "line_index": 0,
           "text": "E diz o príncipe do regimento de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E diz o príncipe do regimento<a name=\"rf209-17992\"></a><sup><a href=\"#fn209-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 209\">209</a></sup><a name=\"rf210-17992\"></a><sup><a href=\"#fn210-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup> de Yahweh<a name=\"rf211-17992\"></a><sup><a href=\"#fn211-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E diz o príncipe do regimento<a name=\"rf208-17992\"></a><sup><a href=\"#fn208-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup><a name=\"rf209-17992\"></a><sup><a href=\"#fn209-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 209\">209</a></sup> de Yahweh<a name=\"rf210-17992\"></a><sup><a href=\"#fn210-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -806,12 +801,12 @@
         {
           "line_index": 2,
           "text": "Tira a sandália de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Tira<a name=\"rf212-17992\"></a><sup><a href=\"#fn212-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 212\">212</a></sup> a sandália de ti<a name=\"rf213-17992\"></a><sup><a href=\"#fn213-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 213\">213</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Tira<a name=\"rf211-17992\"></a><sup><a href=\"#fn211-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup> a sandália de ti<a name=\"rf212-17992\"></a><sup><a href=\"#fn212-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 212\">212</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Desde sobre o pé de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde sobre o pé de ti<a name=\"rf214-17992\"></a><sup><a href=\"#fn214-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 214\">214</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde sobre o pé de ti<a name=\"rf213-17992\"></a><sup><a href=\"#fn213-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 213\">213</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -821,22 +816,22 @@
         {
           "line_index": 5,
           "text": "Que acolunado estás tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf215-17992\"></a><sup><a href=\"#fn215-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 215\">215</a></sup> acolunado estás tu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf214-17992\"></a><sup><a href=\"#fn214-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 214\">214</a></sup> acolunado estás tu.</p>"
         },
         {
           "line_index": 6,
           "text": "Sobre ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre ele<a name=\"rf216-17992\"></a><sup><a href=\"#fn216-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 216\">216</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre ele<a name=\"rf215-17992\"></a><sup><a href=\"#fn215-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 215\">215</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Sacralidade ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sacralidade ele <a name=\"rf217-17992\"></a><sup><a href=\"#fn217-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 217\">217</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sacralidade ele <a name=\"rf216-17992\"></a><sup><a href=\"#fn216-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 216\">216</a></sup>.</p>"
         },
         {
           "line_index": 8,
           "text": "E faz Yehoshua’ assim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz Yehoshua’ assim<a name=\"rf218-17992\"></a><sup><a href=\"#fn218-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 218\">218</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz Yehoshua’ assim<a name=\"rf217-17992\"></a><sup><a href=\"#fn217-17992\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 217\">217</a></sup>.</p>"
         }
       ]
     }
@@ -1889,264 +1884,258 @@
     {
       "ref_id": "fn175-17992",
       "number": 175,
-      "text": "“E eis. Homem” (wenihheh ‘ish).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0300\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0300\" rel=\"noopener\" target=\"_blank\">E eis. Homem</a>” (<em>wenihheh ‘ish</em>). </span>"
-    },
-    {
-      "ref_id": "fn176-17992",
-      "number": 176,
       "text": "“Homem” (‘ish).",
       "raw_html": "<span>“Homem” (<em>‘ish</em>). </span>"
     },
     {
-      "ref_id": "fn177-17992",
-      "number": 177,
+      "ref_id": "fn176-17992",
+      "number": 176,
       "text": "“Acolunado” (‘md). Forma participial da raiz. Cf. Gênesis 18,8; Josué 5,13.15.",
       "raw_html": "<span>“Acolunado” (<em>‘md</em>). Forma participial da raiz. Cf. Gênesis 18,8; Josué 5,13.15. </span>"
     },
     {
-      "ref_id": "fn178-17992",
-      "number": 178,
+      "ref_id": "fn177-17992",
+      "number": 177,
       "text": "“Ante” (neged). Cf. Gênesis 21,16.",
       "raw_html": "<span>“Ante” (<em>neged</em>). Cf. Gênesis 21,16. </span>"
     },
     {
-      "ref_id": "fn179-17992",
-      "number": 179,
+      "ref_id": "fn178-17992",
+      "number": 178,
       "text": "“Para ante dele” (lenegdo). Somente aqui.",
       "raw_html": "<span>“Para ante dele” (<em>lenegdo</em>). Somente aqui. </span>"
     },
     {
-      "ref_id": "fn180-17992",
-      "number": 180,
+      "ref_id": "fn179-17992",
+      "number": 179,
       "text": "“E a espada dele” (weharbo). Primeira de 6 ocorrências. Cf. Números 22,23.31; Josué 5,13.",
       "raw_html": "<span>“E a espada dele” (<em>weharbo</em>). Primeira de 6 ocorrências. Cf. Números 22,23.31; Josué 5,13. </span>"
     },
     {
-      "ref_id": "fn181-17992",
-      "number": 181,
+      "ref_id": "fn180-17992",
+      "number": 180,
       "text": "“E a espada dele. Sido arrancada. Na mão dele” (weharbo shelupah beyado). Primeira de 4 ocorrências. Primeira de 4 ocorrências. Cf. Números 22,23.31; Josué 5,13; 1 Crônicas 21,16.",
       "raw_html": "<span>“E a espada dele. Sido arrancada. Na mão dele” (<em>weharbo shelupah beyado</em>). Primeira de 4 ocorrências. Primeira de 4 ocorrências. Cf. Números 22,23.31; Josué 5,13; 1 Crônicas 21,16. </span>"
     },
     {
-      "ref_id": "fn182-17992",
-      "number": 182,
+      "ref_id": "fn181-17992",
+      "number": 181,
       "text": "“Na mão dele” (beyado). Cf. Gênesis 19,16; Josué 5,13; 8,18; 20,5; Juízes 1,2.",
       "raw_html": "<span>“Na mão dele” (<em>beyado</em>). Cf. Gênesis 19,16; Josué 5,13; 8,18; 20,5; Juízes 1,2. </span>"
     },
     {
-      "ref_id": "fn183-17992",
-      "number": 183,
+      "ref_id": "fn182-17992",
+      "number": 182,
       "text": "“Anda” (hlk). Cf. Gênesis 2,14; Josué 5,6.13.",
       "raw_html": "<span>“Anda” (<em>hlk</em>). Cf. Gênesis 2,14; Josué 5,6.13. </span>"
     },
     {
-      "ref_id": "fn184-17992",
-      "number": 184,
+      "ref_id": "fn183-17992",
+      "number": 183,
       "text": "“A ele” (‘elayw).",
       "raw_html": "<span>“A ele” (<em>‘elayw</em>). </span>"
     },
     {
-      "ref_id": "fn185-17992",
-      "number": 185,
+      "ref_id": "fn184-17992",
+      "number": 184,
       "text": "“A ele. E diz ele” (‘elayw wayyo’mer).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJV\" rel=\"noreferrer noopener\" target=\"_blank\">A ele. E diz ele</a>” (<em>‘elayw wayyo’mer</em>). </span>"
     },
     {
-      "ref_id": "fn186-17992",
-      "number": 186,
+      "ref_id": "fn185-17992",
+      "number": 185,
       "text": "“A ele. E diz ele. Para ele” (‘elayw wayyo’mer lo). Primeira de 4 ocorrências.",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJU\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJU\" rel=\"noreferrer noopener\" target=\"_blank\">A ele. E diz ele. Para ele</a>” (<em>‘elayw wayyo’mer lo</em>). Primeira de 4 ocorrências. </span>"
     },
     {
-      "ref_id": "fn187-17992",
-      "number": 187,
+      "ref_id": "fn186-17992",
+      "number": 186,
       "text": "“E diz ele para ele” (wayyomer lo). Cf. Gênesis 3,9; 4,15; 15,5; 20,3; Números 22,20; 23,17; Josué 3,9; 5,13.14.",
       "raw_html": "<span>“E diz ele para ele” (<em>wayyomer lo</em>). Cf. Gênesis 3,9; 4,15; 15,5; 20,3; Números 22,20; 23,17; Josué 3,9; 5,13.14. </span>"
     },
     {
-      "ref_id": "fn188-17992",
-      "number": 188,
+      "ref_id": "fn187-17992",
+      "number": 187,
       "text": "“Para nós” (lanu). Cf. Gênesis 11,4; Josué 5,6.13.",
       "raw_html": "<span>“Para nós” (<em>lanu</em>). Cf. Gênesis 11,4; Josué 5,6.13. </span>"
     },
     {
-      "ref_id": "fn189-17992",
-      "number": 189,
+      "ref_id": "fn188-17992",
+      "number": 188,
       "text": "“Acaso para nós tu” (halanu ‘atah). Somente aqui.",
       "raw_html": "<span>“Acaso para nós tu” (<em>halanu ‘atah</em>). Somente aqui. </span>"
     },
     {
-      "ref_id": "fn190-17992",
-      "number": 190,
+      "ref_id": "fn189-17992",
+      "number": 189,
       "text": "“Se” (‘im).",
       "raw_html": "<span>“Se” (<em>‘im</em>). </span>"
     },
     {
-      "ref_id": "fn191-17992",
-      "number": 191,
+      "ref_id": "fn190-17992",
+      "number": 190,
       "text": "“Agressores” (tsar). Cf. Gênesis 14,20.",
       "raw_html": "<span>“Agressores” (<em>tsar</em>). Cf. Gênesis 14,20. </span>"
     },
     {
-      "ref_id": "fn192-17992",
-      "number": 192,
+      "ref_id": "fn191-17992",
+      "number": 191,
       "text": "“E diz ele. Não. Que” (wayyo’mer lo’ ki). Cf. Gênesis 18,15; Josué 5,14.",
       "raw_html": "<span>“E diz ele. Não. Que” (<em>wayyo’mer lo’ ki</em>). Cf. Gênesis 18,15; Josué 5,14. </span>"
     },
     {
-      "ref_id": "fn193-17992",
-      "number": 193,
+      "ref_id": "fn192-17992",
+      "number": 192,
       "text": "“Que eu” (ki ‘ani). Cf. Êxodo 6,7; Josué 5,14.",
       "raw_html": "<span>“Que eu” (<em>ki ‘ani</em>). Cf. Êxodo 6,7; Josué 5,14. </span>"
     },
     {
-      "ref_id": "fn194-17992",
-      "number": 194,
+      "ref_id": "fn193-17992",
+      "number": 193,
       "text": "“O príncipe do regimento” (sar-tseba’). Primeira de 11 ocorrências. Cf. Josué 5,14.15.",
       "raw_html": "<span>“O príncipe do regimento” (<em>sar-tseba’</em>). Primeira de 11 ocorrências. Cf. Josué 5,14.15. </span>"
     },
     {
-      "ref_id": "fn195-17992",
-      "number": 195,
+      "ref_id": "fn194-17992",
+      "number": 194,
       "text": "“Regimento” (tsaba’). Cf. Gênesis 2,1 (…) Josué 4,13; 5,14.15; 22,12.33; Juízes 4,2.7; 8,6; 9,29; 1 Samuel 1,3.11; 4,4; 12,9; 14,50; 15,2; 17,45.55; 26,5; 28,1.",
       "raw_html": "<span>“Regimento” (<em>tsaba’</em>). Cf. Gênesis 2,1 (…) Josué 4,13; 5,14.15; 22,12.33; Juízes 4,2.7; 8,6; 9,29; 1 Samuel 1,3.11; 4,4; 12,9; 14,50; 15,2; 17,45.55; 26,5; 28,1. </span>"
+    },
+    {
+      "ref_id": "fn195-17992",
+      "number": 195,
+      "text": "“O príncipe do regimento de Yahweh” (sar-tseba’-yehwah). Somente em Josué 5,14.15.",
+      "raw_html": "<span>“O príncipe do regimento de Yahweh” (<em>sar-tseba’-yehwah</em>). Somente em Josué 5,14.15. </span>"
     },
     {
       "ref_id": "fn196-17992",
       "number": 196,
-      "text": "“O príncipe do regimento de Yahweh” (sar-tseba’-yehwah). Somente em Josué 5,14.15.",
-      "raw_html": "<span>“O príncipe do regimento de Yahweh” (<em>sar-tseba’-yehwah</em>). Somente em Josué 5,14.15. </span>"
-    },
-    {
-      "ref_id": "fn197-17992",
-      "number": 197,
       "text": "“Agora vou eu” (‘attah ba’ti). Somente aqui.",
       "raw_html": "<span>“Agora vou eu” (<em>‘attah ba’ti</em>). Somente aqui. </span>"
     },
     {
-      "ref_id": "fn198-17992",
-      "number": 198,
+      "ref_id": "fn197-17992",
+      "number": 197,
       "text": "“E cai” (wayyappol).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADD\" rel=\"noreferrer noopener\" target=\"_blank\">E cai</a>” (<em>wayyappol</em>). </span>"
     },
     {
-      "ref_id": "fn199-17992",
-      "number": 199,
+      "ref_id": "fn198-17992",
+      "number": 198,
       "text": "“Cai” (npl).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADC\" rel=\"noreferrer noopener\" target=\"_blank\">Cai</a>” (<em>npl</em>). </span>"
     },
     {
-      "ref_id": "fn200-17992",
-      "number": 200,
+      "ref_id": "fn199-17992",
+      "number": 199,
       "text": "“Às faces dele” (‘el-panayw). Cf. Deuteronômio 7,10; Josué 5,14.",
       "raw_html": "<span>“Às faces dele” (<em>‘el-panayw</em>). Cf. Deuteronômio 7,10; Josué 5,14. </span>"
     },
     {
-      "ref_id": "fn201-17992",
-      "number": 201,
+      "ref_id": "fn200-17992",
+      "number": 200,
       "text": "“Para terra” (‘artsah). Cf. Gênesis 11,31; Josué 5,14; 7,6; Juízes 3,25; 13,20; 20,21.25; Rute 2,10; 1 Samuel 3,19; 5,3.4; 14,32.45; 17,49; 20,41; 24,9; 25,41; 26,20.",
       "raw_html": "<span>“Para terra” (<em>‘artsah</em>). Cf. Gênesis 11,31; Josué 5,14; 7,6; Juízes 3,25; 13,20; 20,21.25; Rute 2,10; 1 Samuel 3,19; 5,3.4; 14,32.45; 17,49; 20,41; 24,9; 25,41; 26,20. </span>"
     },
     {
-      "ref_id": "fn202-17992",
-      "number": 202,
+      "ref_id": "fn201-17992",
+      "number": 201,
       "text": "“Às faces dele. Para a terra. E prostra-se ele” (‘el-panayw ‘artsah wayyoshtahu). Somente em Josué 5,14; 2 Samuel 14,22.",
       "raw_html": "<span>“Às faces dele. Para a terra. E prostra-se ele” (<em>‘el-panayw ‘artsah wayyoshtahu</em>). Somente em Josué 5,14; 2 Samuel 14,22. </span>"
     },
     {
-      "ref_id": "fn203-17992",
-      "number": 203,
+      "ref_id": "fn202-17992",
+      "number": 202,
       "text": "“E diz ele para ele” (wayyomer lo). Cf. Gênesis 3,9; 4,15; 15,5; 20,3; Números 22,20; 23,17; Josué 3,9; 5,13,14",
       "raw_html": "<span>“E diz ele para ele” (<em>wayyomer lo</em>). Cf. Gênesis 3,9; 4,15; 15,5; 20,3; Números 22,20; 23,17; Josué 3,9; 5,13,14 </span>"
     },
     {
-      "ref_id": "fn204-17992",
-      "number": 204,
+      "ref_id": "fn203-17992",
+      "number": 203,
       "text": "“Qual” (mah).",
       "raw_html": "<span>“Qual” (<em>mah</em>). </span>"
     },
     {
-      "ref_id": "fn205-17992",
-      "number": 205,
+      "ref_id": "fn204-17992",
+      "number": 204,
       "text": "“Senhor de mim” (‘adoni). Cf. Gênesis 15,2.",
       "raw_html": "<span>“Senhor de mim” (<em>‘adoni</em>). Cf. Gênesis 15,2. </span>"
     },
     {
-      "ref_id": "fn206-17992",
-      "number": 206,
+      "ref_id": "fn205-17992",
+      "number": 205,
       "text": "“Falador” (dbr). Forma participial da raiz. Cf. Gênesis 8,15.",
       "raw_html": "<span>“Falador” (<em>dbr</em>). Forma participial da raiz. Cf. Gênesis 8,15. </span>"
     },
     {
-      "ref_id": "fn207-17992",
-      "number": 207,
+      "ref_id": "fn206-17992",
+      "number": 206,
       "text": "“Ao servo dele” (‘el-‘abdo). Somente em Gênesis 24,2; Josué 5,14; 2 Samuel 24,21.",
       "raw_html": "<span>“Ao servo dele” (<em>‘el-‘abdo</em>). Somente em Gênesis 24,2; Josué 5,14; 2 Samuel 24,21. </span>"
     },
     {
-      "ref_id": "fn208-17992",
-      "number": 208,
+      "ref_id": "fn207-17992",
+      "number": 207,
       "text": "“O servo de” (‘ebed). Cf. Gênesis 9,25; Josué 1,1.2.7.13.15; 5,14; 8,31.33; 9,8.9.11.23.24; 10,6; 11,12.15; 12,6; 13,8; 14,7; 18,7; 22,2.4.5.17.29; Juízes 2,8; 3,24; 6,8.27; 15,18; 19,19; 1 Samuel 3,19.10; 8,14.15.16.17; 12,19; 16,15.16.17; 17,8.9.32.34.36.58; 18,5.22.23.24.26.30; 19,1.4.7; 20,7,8; 21,8.12.15; 22,6.7.8.9.14.15.17; 23,10.11; 25,8.10.39.40.41; 26,18.19; 27,5; 27,12; 28,2.7.23.25.",
       "raw_html": "<span>“O servo de” (<em>‘ebed</em>). Cf. Gênesis 9,25; Josué 1,1.2.7.13.15; 5,14; 8,31.33; 9,8.9.11.23.24; 10,6; 11,12.15; 12,6; 13,8; 14,7; 18,7; 22,2.4.5.17.29; Juízes 2,8; 3,24; 6,8.27; 15,18; 19,19; 1 Samuel 3,19.10; 8,14.15.16.17; 12,19; 16,15.16.17; 17,8.9.32.34.36.58; 18,5.22.23.24.26.30; 19,1.4.7; 20,7,8; 21,8.12.15; 22,6.7.8.9.14.15.17; 23,10.11; 25,8.10.39.40.41; 26,18.19; 27,5; 27,12; 28,2.7.23.25. </span>"
     },
     {
-      "ref_id": "fn209-17992",
-      "number": 209,
+      "ref_id": "fn208-17992",
+      "number": 208,
       "text": "“Regimento” (tsaba’). Cf. Gênesis 2,1 (…) Josué 4,13; 5,14.15; 22,12.33; Juízes 4,2.7; 8,6; 9,29; 1 Samuel 1,3.11; 4,4; 12,9; 14,50; 15,2; 17,45.55; 26,5; 28,1.",
       "raw_html": "<span>“Regimento” (<em>tsaba’</em>). Cf. Gênesis 2,1 (…) Josué 4,13; 5,14.15; 22,12.33; Juízes 4,2.7; 8,6; 9,29; 1 Samuel 1,3.11; 4,4; 12,9; 14,50; 15,2; 17,45.55; 26,5; 28,1. </span>"
     },
     {
-      "ref_id": "fn210-17992",
-      "number": 210,
+      "ref_id": "fn209-17992",
+      "number": 209,
       "text": "“O príncipe do regimento” (sar-tseba’). Cf. Josué 5,14.15.",
       "raw_html": "<span>“O príncipe do regimento” (<em>sar-tseba’</em>). Cf. Josué 5,14.15. </span>"
     },
     {
-      "ref_id": "fn211-17992",
-      "number": 211,
+      "ref_id": "fn210-17992",
+      "number": 210,
       "text": "“O príncipe do regimento de Yahweh” (sar-tseba’-yehwah). Somente em Josué 5,14.15.",
       "raw_html": "<span>“O príncipe do regimento de Yahweh” (<em>sar-tseba’-yehwah</em>). Somente em Josué 5,14.15. </span>"
     },
     {
-      "ref_id": "fn212-17992",
-      "number": 212,
+      "ref_id": "fn211-17992",
+      "number": 211,
       "text": "“Tira tu” (nsl). Forma imperativa da raiz. Cf. Êxodo 3,5; Deuteronômio 7,1.22; 19,5; 28,40; Josué 5,15; 2 Reis 16,6.",
       "raw_html": "<span>“Tira tu” (<em>nsl</em>). Forma imperativa da raiz. Cf. Êxodo 3,5; Deuteronômio 7,1.22; 19,5; 28,40; Josué 5,15; 2 Reis 16,6. </span>"
     },
     {
-      "ref_id": "fn213-17992",
-      "number": 213,
+      "ref_id": "fn212-17992",
+      "number": 212,
       "text": "“A sandália de ti” (na’alka). Em Êxodo 3,5, “as sandálias de ti”. Somente aqui.",
       "raw_html": "<span>“A sandália de ti” (<em>na’alka</em>). Em Êxodo 3,5, “as sandálias de ti”. Somente aqui. </span>"
     },
     {
-      "ref_id": "fn214-17992",
-      "number": 214,
+      "ref_id": "fn213-17992",
+      "number": 213,
       "text": "“Desde sobre o pé de ti” (me’al ragleka). Em Êxodo 3,5, “os pés de ti”. Somente aqui.",
       "raw_html": "<span>“Desde sobre o pé de ti” (<em>me’al ragleka</em>). Em Êxodo 3,5, “os pés de ti”. Somente aqui. </span>"
     },
     {
-      "ref_id": "fn215-17992",
-      "number": 215,
+      "ref_id": "fn214-17992",
+      "number": 214,
       "text": "“O lugar. Que” (hammaqom ‘asher). Cf. Gênesis 13,3; Josué 5,15; 9,27; 1 Samuel 20,19; 26,5.",
       "raw_html": "<span>“O lugar. Que” (<em>hammaqom ‘asher</em>). Cf. Gênesis 13,3; Josué 5,15; 9,27; 1 Samuel 20,19; 26,5. </span>"
     },
     {
-      "ref_id": "fn216-17992",
-      "number": 216,
+      "ref_id": "fn215-17992",
+      "number": 215,
       "text": "“Que o lugar. Que acolunado estás tu. Sobre ele” (ki hammaqom ‘asher ‘attah). Somente em Êxodo 3,5; Josué 5,15.",
       "raw_html": "<span>“Que o lugar. Que acolunado estás tu. Sobre ele” (<em>ki hammaqom ‘asher ‘attah</em>). Somente em Êxodo 3,5; Josué 5,15. </span>"
     },
     {
-      "ref_id": "fn217-17992",
-      "number": 217,
+      "ref_id": "fn216-17992",
+      "number": 216,
       "text": "“Sacralidade ele” (qodesh hu’). Cf. Êxodo 3,5; 29,34; 30,32; 31,14; Levítico 21,7; Números 6,8.20; Josué 5,15.",
       "raw_html": "<span>“Sacralidade ele” (<em>qodesh hu’</em>). Cf. Êxodo 3,5; 29,34; 30,32; 31,14; Levítico 21,7; Números 6,8.20; Josué 5,15. </span>"
     },
     {
-      "ref_id": "fn218-17992",
-      "number": 218,
+      "ref_id": "fn217-17992",
+      "number": 217,
       "text": "“Assim” (ken).",
       "raw_html": "<span>“Assim” (<em>ken</em>). </span>"
     }
