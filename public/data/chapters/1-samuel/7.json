@@ -918,7 +918,7 @@
         {
           "line_index": 8,
           "text": "Sacrificiatório.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sacrificiatório.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sacrificiatório<a name=\"rf104-21182\"></a><sup><a href=\"#fn104-21182\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -1546,6 +1546,12 @@
       "number": 103,
       "text": "“Constrói ele” (bnh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00114\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00114\" rel=\"noopener\" target=\"_blank\">Constrói ele</a>” (<em>bnh</em>). </span>"
+    },
+    {
+      "ref_id": "fn104-21182",
+      "number": 104,
+      "text": "“Sacrificiatório” (mizbeah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0322\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0322\" rel=\"noopener\" target=\"_blank\">Sacrificiatório</a>” (<em>mizbeah</em>). </span>"
     }
   ]
 }
