@@ -815,27 +815,37 @@
     },
     {
       "number": 19,
-      "text": "E grita ele o nome do lugar aquele. Bet-‘el. E porém. Luzera o nome da cidade para o começo.",
+      "text": "E grita ele. O nome do lugar. O ele. Bet-‘el. E porém. Luzera o nome da cidade para o começo.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E grita ele o nome do lugar aquele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E grita ele o nome do lugar aquele<a name=\"rf46-2590\"></a><sup><a href=\"#fn46-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
+          "text": "E grita ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E grita ele.</p>"
         },
         {
           "line_index": 1,
-          "text": "Bet-‘el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Bet-‘el.</p>"
+          "text": "O nome do lugar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome do lugar.</p>"
         },
         {
           "line_index": 2,
-          "text": "E porém.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E porém<a name=\"rf47-2590\"></a><sup><a href=\"#fn47-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+          "text": "O ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf46-2590\"></a><sup><a href=\"#fn46-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
         },
         {
           "line_index": 3,
+          "text": "Bet-‘el.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Bet-‘el<a name=\"rf47-2590\"></a><sup><a href=\"#fn47-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "E porém.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E porém<a name=\"rf48-2590\"></a><sup><a href=\"#fn48-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Luzera o nome da cidade para o começo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Luz<a name=\"rf48-2590\"></a><sup><a href=\"#fn48-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>era o nome da cidade para o começo<a name=\"rf49-2590\"></a><sup><a href=\"#fn49-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.<strong><sub><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\"> </mark></sub></strong></p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Luz<a name=\"rf49-2590\"></a><sup><a href=\"#fn49-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>era o nome da cidade para o começo<a name=\"rf50-2590\"></a><sup><a href=\"#fn50-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>.<strong><sub><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\"> </mark></sub></strong></p>"
         }
       ]
     },
@@ -846,7 +856,7 @@
         {
           "line_index": 0,
           "text": "E vota Ya’aqob voto.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E vota<a name=\"rf50-2590\"></a><sup><a href=\"#fn50-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup> Ya’aqob voto<a name=\"rf51-2590\"></a><sup><a href=\"#fn51-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E vota<a name=\"rf51-2590\"></a><sup><a href=\"#fn51-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup> Ya’aqob voto<a name=\"rf52-2590\"></a><sup><a href=\"#fn52-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -856,7 +866,7 @@
         {
           "line_index": 2,
           "text": "Se está ‘Elohim comigo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Se está<a name=\"rf52-2590\"></a><sup><a href=\"#fn52-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup> ‘Elohim comigo<a name=\"rf53-2590\"></a><sup><a href=\"#fn53-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Se está<a name=\"rf53-2590\"></a><sup><a href=\"#fn53-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup> ‘Elohim comigo<a name=\"rf54-2590\"></a><sup><a href=\"#fn54-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -866,7 +876,7 @@
         {
           "line_index": 4,
           "text": "No caminho esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No caminho esse<a name=\"rf54-2590\"></a><sup><a href=\"#fn54-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No caminho esse<a name=\"rf55-2590\"></a><sup><a href=\"#fn55-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -881,7 +891,7 @@
         {
           "line_index": 7,
           "text": "E vestepara enroupar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E veste<a name=\"rf55-2590\"></a><sup><a href=\"#fn55-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>para enroupar<a name=\"rf56-2590\"></a><sup><a href=\"#fn56-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E veste<a name=\"rf56-2590\"></a><sup><a href=\"#fn56-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>para enroupar<a name=\"rf57-2590\"></a><sup><a href=\"#fn57-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
         }
       ]
     },
@@ -902,7 +912,7 @@
         {
           "line_index": 2,
           "text": "Ao lar do pai de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao lar do<a name=\"rf57-2590\"></a><sup><a href=\"#fn57-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup> pai de mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao lar do<a name=\"rf58-2590\"></a><sup><a href=\"#fn58-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup> pai de mim.</p>"
         },
         {
           "line_index": 3,
@@ -917,7 +927,7 @@
         {
           "line_index": 5,
           "text": "Para ‘elohim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para <em>‘elohim</em><a name=\"rf58-2590\"></a><sup><a href=\"#fn58-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.<strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\"></mark></strong></p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para <em>‘elohim</em><a name=\"rf59-2590\"></a><sup><a href=\"#fn59-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.<strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\"></mark></strong></p>"
         }
       ]
     },
@@ -958,7 +968,7 @@
         {
           "line_index": 6,
           "text": "Dizimar dizimo eu ele para ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dizimar<a name=\"rf59-2590\"></a><sup><a href=\"#fn59-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup> dizimo eu ele para ti<a name=\"rf60-2590\"></a><sup><a href=\"#fn60-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dizimar<a name=\"rf60-2590\"></a><sup><a href=\"#fn60-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup> dizimo eu ele para ti<a name=\"rf61-2590\"></a><sup><a href=\"#fn61-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
         }
       ]
     }
@@ -1243,84 +1253,90 @@
     {
       "ref_id": "fn47-2590",
       "number": 47,
-      "text": "“E porém” (we’ulam). Primeira de 18 ocorrências. Cf. Gênesis 48,19; Êxodo 9,16; Números 14,21.",
-      "raw_html": "<span>“E porém” (<em>we’ulam</em>). Primeira de 18 ocorrências. Cf. Gênesis 48,19; Êxodo 9,16; Números 14,21. </span>"
+      "text": "“Bet-‘El” (bet-‘el).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHH\" rel=\"noopener\" target=\"_blank\">Bet-‘El</a>” (<em>bet-‘el</em>). </span>"
     },
     {
       "ref_id": "fn48-2590",
       "number": 48,
-      "text": "Não há nenhuma relação entre “Luz”, nome da cidade, e “luz”, palavra da língua portuguesa.",
-      "raw_html": "<span>Não há nenhuma relação entre “Luz”, nome da cidade, e “luz”, palavra da língua portuguesa. </span>"
+      "text": "“E porém” (we’ulam). Primeira de 18 ocorrências. Cf. Gênesis 48,19; Êxodo 9,16; Números 14,21.",
+      "raw_html": "<span>“E porém” (<em>we’ulam</em>). Primeira de 18 ocorrências. Cf. Gênesis 48,19; Êxodo 9,16; Números 14,21. </span>"
     },
     {
       "ref_id": "fn49-2590",
       "number": 49,
-      "text": "“Começo” (ri’shonah). Cf. Gênesis 8,13.",
-      "raw_html": "<span>“Começo” (<em>ri’shonah</em>). Cf. Gênesis 8,13. </span>"
+      "text": "Não há nenhuma relação entre “Luz”, nome da cidade, e “luz”, palavra da língua portuguesa.",
+      "raw_html": "<span>Não há nenhuma relação entre “Luz”, nome da cidade, e “luz”, palavra da língua portuguesa. </span>"
     },
     {
       "ref_id": "fn50-2590",
       "number": 50,
-      "text": "“Vota” traduz forma verbal da raiz ndr. Primeira de 66 ocorrências. Cf. Gênesis 28,20; 31,13; Levítico 7,16.",
-      "raw_html": "<span>“Vota” traduz forma verbal da raiz <em>ndr</em>. Primeira de 66 ocorrências. Cf. Gênesis 28,20; 31,13; Levítico 7,16. </span>"
+      "text": "“Começo” (ri’shonah). Cf. Gênesis 8,13.",
+      "raw_html": "<span>“Começo” (<em>ri’shonah</em>). Cf. Gênesis 8,13. </span>"
     },
     {
       "ref_id": "fn51-2590",
       "number": 51,
-      "text": "“Voto”. Cf. nota anterior.",
-      "raw_html": "<span>“Voto”. Cf. nota anterior. </span>"
+      "text": "“Vota” traduz forma verbal da raiz ndr. Primeira de 66 ocorrências. Cf. Gênesis 28,20; 31,13; Levítico 7,16.",
+      "raw_html": "<span>“Vota” traduz forma verbal da raiz <em>ndr</em>. Primeira de 66 ocorrências. Cf. Gênesis 28,20; 31,13; Levítico 7,16. </span>"
     },
     {
       "ref_id": "fn52-2590",
       "number": 52,
-      "text": "“Se está” (‘im-yihyeh. Primeira de 11 ocorrências. Cf. Gênesis 28,20; Números 12,6.",
-      "raw_html": "<span>“Se está” (<em>‘im-yihyeh</em>. Primeira de 11 ocorrências. Cf. Gênesis 28,20; Números 12,6. </span>"
+      "text": "“Voto”. Cf. nota anterior.",
+      "raw_html": "<span>“Voto”. Cf. nota anterior. </span>"
     },
     {
       "ref_id": "fn53-2590",
       "number": 53,
-      "text": "“‘Deus ‘Elohim” (‘elohim ‘immadi). Somente em Gênesis 28,20; Deuteronômio 32,39.",
-      "raw_html": "<span>“‘Deus ‘Elohim” (<em>‘elohim ‘immadi</em>). Somente em Gênesis 28,20; Deuteronômio 32,39. </span>"
+      "text": "“Se está” (‘im-yihyeh. Primeira de 11 ocorrências. Cf. Gênesis 28,20; Números 12,6.",
+      "raw_html": "<span>“Se está” (<em>‘im-yihyeh</em>. Primeira de 11 ocorrências. Cf. Gênesis 28,20; Números 12,6. </span>"
     },
     {
       "ref_id": "fn54-2590",
       "number": 54,
-      "text": "“No caminho esse” (badderek hazzeh). Somente em Gênesis 28,20; Deuteronômio 17,16.",
-      "raw_html": "<span>“No caminho esse” (<em>badderek hazzeh</em>). Somente em Gênesis 28,20; Deuteronômio 17,16. </span>"
+      "text": "“‘Deus ‘Elohim” (‘elohim ‘immadi). Somente em Gênesis 28,20; Deuteronômio 32,39.",
+      "raw_html": "<span>“‘Deus ‘Elohim” (<em>‘elohim ‘immadi</em>). Somente em Gênesis 28,20; Deuteronômio 32,39. </span>"
     },
     {
       "ref_id": "fn55-2590",
       "number": 55,
-      "text": "“Veste” (beged). Cf. Gênesis 24,53; 27,27; 37,29.",
-      "raw_html": "<span>“Veste” (<em>beged</em>). Cf. Gênesis 24,53; 27,27; 37,29. </span>"
+      "text": "“No caminho esse” (badderek hazzeh). Somente em Gênesis 28,20; Deuteronômio 17,16.",
+      "raw_html": "<span>“No caminho esse” (<em>badderek hazzeh</em>). Somente em Gênesis 28,20; Deuteronômio 17,16. </span>"
     },
     {
       "ref_id": "fn56-2590",
       "number": 56,
-      "text": "Também não há semelhança sonora entre beged (“veste”) e lebosh (“enroupar”). Cf. Gênesis 3,21 (e nota); 27,15.16.",
-      "raw_html": "<span>Também não há semelhança sonora entre <em>beged</em> (“veste”) e <em>lebosh</em> (“enroupar”). Cf. Gênesis 3,21 (e nota); 27,15.16. </span>"
+      "text": "“Veste” (beged). Cf. Gênesis 24,53; 27,27; 37,29.",
+      "raw_html": "<span>“Veste” (<em>beged</em>). Cf. Gênesis 24,53; 27,27; 37,29. </span>"
     },
     {
       "ref_id": "fn57-2590",
       "number": 57,
-      "text": "“Ao lar do” (‘el-bet).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADM\" rel=\"noreferrer noopener\" target=\"_blank\">Ao lar do</a>” (<em>‘el-bet</em>). </span>"
+      "text": "Também não há semelhança sonora entre beged (“veste”) e lebosh (“enroupar”). Cf. Gênesis 3,21 (e nota); 27,15.16.",
+      "raw_html": "<span>Também não há semelhança sonora entre <em>beged</em> (“veste”) e <em>lebosh</em> (“enroupar”). Cf. Gênesis 3,21 (e nota); 27,15.16. </span>"
     },
     {
       "ref_id": "fn58-2590",
       "number": 58,
-      "text": "Gramaticalmente, o sentido é “Yahweh servirá de deus para mim”. No texto, le’lohim poderia tanto ser tratado como nome próprio (não leva artigo definido), como substantivo comum. Esta é a opção: Yahweh será um deus para Jacó, diz o narrador.",
-      "raw_html": "<span>Gramaticalmente, o sentido é “Yahweh servirá de deus para mim”. No texto, <em>le’lohim</em> poderia tanto ser tratado como nome próprio (não leva artigo definido), como substantivo comum. Esta é a opção: Yahweh será um deus para Jacó, diz o narrador. </span>"
+      "text": "“Ao lar do” (‘el-bet).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADM\" rel=\"noreferrer noopener\" target=\"_blank\">Ao lar do</a>” (<em>‘el-bet</em>). </span>"
     },
     {
       "ref_id": "fn59-2590",
       "number": 59,
-      "text": "“Dizimar” traduz forma infinitiva da raiz ‘sr. Primeira de 8 ocorrências. Cf. Gênesis 28,22; Deuteronômio 14,22; 26,12.",
-      "raw_html": "<span>“Dizimar” traduz forma infinitiva da raiz <em>‘sr</em>. Primeira de 8 ocorrências. Cf. Gênesis 28,22; Deuteronômio 14,22; 26,12. </span>"
+      "text": "Gramaticalmente, o sentido é “Yahweh servirá de deus para mim”. No texto, le’lohim poderia tanto ser tratado como nome próprio (não leva artigo definido), como substantivo comum. Esta é a opção: Yahweh será um deus para Jacó, diz o narrador.",
+      "raw_html": "<span>Gramaticalmente, o sentido é “Yahweh servirá de deus para mim”. No texto, <em>le’lohim</em> poderia tanto ser tratado como nome próprio (não leva artigo definido), como substantivo comum. Esta é a opção: Yahweh será um deus para Jacó, diz o narrador. </span>"
     },
     {
       "ref_id": "fn60-2590",
       "number": 60,
+      "text": "“Dizimar” traduz forma infinitiva da raiz ‘sr. Primeira de 8 ocorrências. Cf. Gênesis 28,22; Deuteronômio 14,22; 26,12.",
+      "raw_html": "<span>“Dizimar” traduz forma infinitiva da raiz <em>‘sr</em>. Primeira de 8 ocorrências. Cf. Gênesis 28,22; Deuteronômio 14,22; 26,12. </span>"
+    },
+    {
+      "ref_id": "fn61-2590",
+      "number": 61,
       "text": "Aqui temos uma pista potencial para a datação do texto. Se não se trata de uma glosa, deve-se considerar que a referência ao dízimo a “Betel” seja uma cooptação da tradição de Jacó para a prática de dízimos ao templo de Jerusalém. Pode-se assumir que não havia prática de dízimo em Israel, porque o templo era mantido pelos impostos reais. A prática parece ter sido criada pelos sacerdotes de Jerusalém, para diferenciar os impostos aos imperadores (persas, gregos, romanos) e os recursos para o templo. Se a análise estiver correta, o texto não pode ser pré-exílico, ou esse trecho constitui uma glosa. O “ti” também chama atenção, já que no texto a divindade aparece como terceira pessoa: tudo que ele, o deus, me der. O que isso quer dizer?",
       "raw_html": "<span>Aqui temos uma pista potencial para a datação do texto. Se não se trata de uma glosa, deve-se considerar que a referência ao dízimo a “Betel” seja uma cooptação da tradição de Jacó para a prática de dízimos ao templo de Jerusalém. Pode-se assumir que não havia prática de dízimo em Israel, porque o templo era mantido pelos impostos reais. A prática parece ter sido criada pelos sacerdotes de Jerusalém, para diferenciar os impostos aos imperadores (persas, gregos, romanos) e os recursos para o templo. Se a análise estiver correta, o texto não pode ser pré-exílico, ou esse trecho constitui uma glosa. O “ti” também chama atenção, já que no texto a divindade aparece como terceira pessoa: tudo que ele, o deus, me der. O que isso quer dizer? </span>"
     }
