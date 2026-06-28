@@ -1268,7 +1268,7 @@
     },
     {
       "number": 27,
-      "text": "Lembratu. Para os servos de ti. Para ‘Abraham. Para Yitshaq. E para Ya’aqob. Não enfaceies tu. À obstinação do povo esse. E ao crime dele. E à pecação dele.",
+      "text": "Lembratu. Para os servos de ti. Para ‘Abraham. Para Yitshaq. E para Ya’aqob. Não enfaceies tu. Ao culpamento do povo esse. E ao crime dele. E à pecação dele.",
       "lines": [
         {
           "line_index": 0,
@@ -1302,8 +1302,8 @@
         },
         {
           "line_index": 6,
-          "text": "À obstinação do povo esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">À obstinação do povo esse.</p>"
+          "text": "Ao culpamento do povo esse.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao culpamento<a name=\"rf254-13942\"></a><sup><a href=\"#fn254-13942\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 254\">254</a></sup> do povo esse.</p>"
         },
         {
           "line_index": 7,
@@ -1324,7 +1324,7 @@
         {
           "line_index": 0,
           "text": "Para que não digam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Para que não digam eles<a name=\"rf254-13942\"></a><sup><a href=\"#fn254-13942\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 254\">254</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Para que não digam eles<a name=\"rf255-13942\"></a><sup><a href=\"#fn255-13942\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 255\">255</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1364,7 +1364,7 @@
         {
           "line_index": 8,
           "text": "Com eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Com eles<a name=\"rf255-13942\"></a><sup><a href=\"#fn255-13942\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 255\">255</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Com eles<a name=\"rf256-13942\"></a><sup><a href=\"#fn256-13942\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 256\">256</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -1379,7 +1379,7 @@
         {
           "line_index": 11,
           "text": "No deserto.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No deserto<a name=\"rf256-13942\"></a><sup><a href=\"#fn256-13942\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 256\">256</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No deserto<a name=\"rf257-13942\"></a><sup><a href=\"#fn257-13942\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 257\">257</a></sup>.</p>"
         }
       ]
     },
@@ -2947,18 +2947,24 @@
     {
       "ref_id": "fn254-13942",
       "number": 254,
-      "text": "“Para que não digam” (pen-yo’meru). Somente em Deuteronômio 9,28; Deuteronômio 32,27; Juízes 9,54.",
-      "raw_html": "<span>“Para que não digam” (<em>pen-yo’meru</em>). Somente em Deuteronômio 9,28; Deuteronômio 32,27; Juízes 9,54. </span>"
+      "text": "“Culpamento” (resha’). Trata-se da mesma raiz de rasha’ (“culpa” [cf. Gênesis 18,23].",
+      "raw_html": "<span>“Culpamento” (<em>resha’</em>). Trata-se da mesma raiz de <em>rasha’</em> (“culpa” [cf. Gênesis 18,23]. </span>"
     },
     {
       "ref_id": "fn255-13942",
       "number": 255,
-      "text": "“Com eles” (‘otam).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGA\" rel=\"noreferrer noopener\" target=\"_blank\">Com eles</a>” (<em>‘otam</em>). </span>"
+      "text": "“Para que não digam” (pen-yo’meru). Somente em Deuteronômio 9,28; Deuteronômio 32,27; Juízes 9,54.",
+      "raw_html": "<span>“Para que não digam” (<em>pen-yo’meru</em>). Somente em Deuteronômio 9,28; Deuteronômio 32,27; Juízes 9,54. </span>"
     },
     {
       "ref_id": "fn256-13942",
       "number": 256,
+      "text": "“Com eles” (‘otam).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGA\" rel=\"noreferrer noopener\" target=\"_blank\">Com eles</a>” (<em>‘otam</em>). </span>"
+    },
+    {
+      "ref_id": "fn257-13942",
+      "number": 257,
       "text": "“No deserto” (bammidbar). Cf. Gênesis 16,7; Deuteronômio 9,7.28.",
       "raw_html": "<span>“No deserto” (<em>bammidbar</em>). Cf. Gênesis 16,7; Deuteronômio 9,7.28. </span>"
     }

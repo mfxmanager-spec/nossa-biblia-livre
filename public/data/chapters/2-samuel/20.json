@@ -1011,7 +1011,7 @@
     },
     {
       "number": 15,
-      "text": "E vão eles. E cercam eles. Sobre ele. Em para ‘Abel Bet Hamma’akah. E derramam eles rampa. À cidade. E acoluna ela. No baluarte. E o total do povo. Que com Yo’ab. Fazedores de corromper. Para fazer cair. A muralha.",
+      "text": "E vão eles. E cercam eles. Sobre ele. Em para ‘Abel. Bet Hamma’akah. E derramam eles rampa. À cidade. E acoluna ela. No baluarte. E o total do povo. Que com Yo’ab. Fazedores de corromper. Para fazer cair. A muralha.",
       "lines": [
         {
           "line_index": 0,
@@ -1030,51 +1030,56 @@
         },
         {
           "line_index": 3,
-          "text": "Em para ‘Abel Bet Hamma’akah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Em para ‘Abel Bet Hamma’akah.</p>"
+          "text": "Em para ‘Abel.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Em para ‘Abel.</p>"
         },
         {
           "line_index": 4,
+          "text": "Bet Hamma’akah.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Bet Hamma’akah.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "E derramam eles rampa.",
           "raw_html": "<p class=\"wp-block-paragraph\">E derramam eles rampa.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "À cidade.",
           "raw_html": "<p class=\"wp-block-paragraph\">À cidade.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "E acoluna ela.",
           "raw_html": "<p class=\"wp-block-paragraph\">E acoluna ela<a name=\"rf112-29606\"></a><sup><a href=\"#fn112-29606\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "No baluarte.",
           "raw_html": "<p class=\"wp-block-paragraph\">No baluarte.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "E o total do povo.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o total do<a name=\"rf113-29606\"></a><sup><a href=\"#fn113-29606\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup> povo.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Que com Yo’ab.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que com Yo’ab.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "Fazedores de corromper.",
           "raw_html": "<p class=\"wp-block-paragraph\">Fazedores de corromper.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "Para fazer cair.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para fazer cair.</p>"
         },
         {
-          "line_index": 12,
+          "line_index": 13,
           "text": "A muralha.",
           "raw_html": "<p class=\"wp-block-paragraph\">A muralha.</p>"
         }
