@@ -895,7 +895,7 @@
     },
     {
       "number": 24,
-      "text": "Sobre assim. Deixa homem. O pai dele. E a mãe dele. E une ele na mulher dele. E estão eles para carne uma.",
+      "text": "Sobre assim. Deixa homem. O pai dele. E a mãe dele. E une ele. Na mulher dele. E estão eles para carne uma.",
       "lines": [
         {
           "line_index": 0,
@@ -919,34 +919,44 @@
         },
         {
           "line_index": 4,
-          "text": "E une ele na mulher dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E une ele na mulher dele.</p>"
+          "text": "E une ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E une ele.</p>"
         },
         {
           "line_index": 5,
+          "text": "Na mulher dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Na mulher dele<a name=\"rf161-1052\"></a><sup><a href=\"#fn161-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
           "text": "E estão eles para carne uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E estão eles para carne uma<a name=\"rf161-1052\"></a><sup><a href=\"#fn161-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E estão eles para carne uma<a name=\"rf162-1052\"></a><sup><a href=\"#fn162-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 25,
-      "text": "E estãoos dois delesnus. O homem e a mulher dele. E não envergonham eles.",
+      "text": "E estãoos dois delesnus. O homem. E a mulher dele. E não envergonham eles.",
       "lines": [
         {
           "line_index": 0,
           "text": "E estãoos dois delesnus.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E estão<a name=\"rf162-1052\"></a><sup><a href=\"#fn162-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup>os dois deles<a name=\"rf163-1052\"></a><sup><a href=\"#fn163-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup>nus.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E estão<a name=\"rf163-1052\"></a><sup><a href=\"#fn163-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup>os dois deles<a name=\"rf164-1052\"></a><sup><a href=\"#fn164-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>nus.</p>"
         },
         {
           "line_index": 1,
-          "text": "O homem e a mulher dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O homem e a mulher dele.</p>"
+          "text": "O homem.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O homem.</p>"
         },
         {
           "line_index": 2,
+          "text": "E a mulher dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E a mulher dele<a name=\"rf165-1052\"></a><sup><a href=\"#fn165-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 165\">165</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "E não envergonham eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não envergonham eles<a name=\"rf164-1052\"></a><sup><a href=\"#fn164-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E não envergonham eles<a name=\"rf166-1052\"></a><sup><a href=\"#fn166-1052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup>.</p>"
         }
       ]
     }
@@ -1915,24 +1925,36 @@
     {
       "ref_id": "fn161-1052",
       "number": 161,
-      "text": "Com o que estamos diante do fato de que se trata de redigir narrativas para intervenção na sociedade, já que Adão não tem nem pai nem mãe para deixar e ir embora com a mulher que agora é dita dele. O mito elaborado destina-se a construir relações normativas e justificativas de comportamento para a sociedade a que se endereça.",
-      "raw_html": "<span>Com o que estamos diante do fato de que se trata de redigir narrativas para intervenção na sociedade, já que Adão não tem nem pai nem mãe para deixar e ir embora com a mulher que agora é dita dele. O mito elaborado destina-se a construir relações normativas e justificativas de comportamento para a sociedade a que se endereça. </span>"
+      "text": "“A mulher dele” (‘ishto). Primeira de 81 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0482\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0482\" rel=\"noopener\" target=\"_blank\">A mulher dele</a>” (<em>‘ishto</em>). Primeira de 81 ocorrências. </span>"
     },
     {
       "ref_id": "fn162-1052",
       "number": 162,
-      "text": "“E estão” (wayyihyu). Primeira de 115 ocorrências. Cf. Gênesis 2,25; Êxodo 7,12; Números 1,20; 26,10.",
-      "raw_html": "<span>“E estão” (<em>wayyihyu</em>). Primeira de 115 ocorrências. Cf. Gênesis 2,25; Êxodo 7,12; Números 1,20; 26,10. </span>"
+      "text": "Com o que estamos diante do fato de que se trata de redigir narrativas para intervenção na sociedade, já que Adão não tem nem pai nem mãe para deixar e ir embora com a mulher que agora é dita dele. O mito elaborado destina-se a construir relações normativas e justificativas de comportamento para a sociedade a que se endereça.",
+      "raw_html": "<span>Com o que estamos diante do fato de que se trata de redigir narrativas para intervenção na sociedade, já que Adão não tem nem pai nem mãe para deixar e ir embora com a mulher que agora é dita dele. O mito elaborado destina-se a construir relações normativas e justificativas de comportamento para a sociedade a que se endereça. </span>"
     },
     {
       "ref_id": "fn163-1052",
       "number": 163,
-      "text": "“Os dois deles” (shenehem). Primeira de 60 ocorrências. Cf. Gênesis 2,25; Números 25,8.",
-      "raw_html": "<span>“Os dois deles” (<em>shenehem</em>). Primeira de 60 ocorrências. Cf. Gênesis 2,25; Números 25,8. </span>"
+      "text": "“E estão” (wayyihyu). Primeira de 115 ocorrências. Cf. Gênesis 2,25; Êxodo 7,12; Números 1,20; 26,10.",
+      "raw_html": "<span>“E estão” (<em>wayyihyu</em>). Primeira de 115 ocorrências. Cf. Gênesis 2,25; Êxodo 7,12; Números 1,20; 26,10. </span>"
     },
     {
       "ref_id": "fn164-1052",
       "number": 164,
+      "text": "“Os dois deles” (shenehem). Primeira de 60 ocorrências. Cf. Gênesis 2,25; Números 25,8.",
+      "raw_html": "<span>“Os dois deles” (<em>shenehem</em>). Primeira de 60 ocorrências. Cf. Gênesis 2,25; Números 25,8. </span>"
+    },
+    {
+      "ref_id": "fn165-1052",
+      "number": 165,
+      "text": "“A mulher dele” (‘ishto).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0482\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0482\" rel=\"noopener\" target=\"_blank\">A mulher dele</a>” (<em>‘ishto</em>). </span>"
+    },
+    {
+      "ref_id": "fn166-1052",
+      "number": 166,
       "text": "Estarem nus e não precisarem de “cobertura” expressa a intenção teológica do autor do texto de declarar a condição de ainda não infratores do casal, o que lhes poupa da necessidade de cobrir a nudez. “Cobrir” a nudez significa lidar com a condenação, adiando a pena pelo tempo que durar a eficiência da “cobertura”. O que se costuma considerar como “perdão”, é, para todos os efeitos, o cobrimento, sempre provisório, da condenação pela culpa transgressora. O autor está dizendo que até esse momento, o casal não transgredira nenhuma ordem, e por isso, prescindia de cobrir-se.",
       "raw_html": "<span>Estarem nus e não precisarem de “cobertura” expressa a intenção teológica do autor do texto de declarar a condição de ainda não infratores do casal, o que lhes poupa da necessidade de cobrir a nudez. “Cobrir” a nudez significa lidar com a condenação, adiando a pena pelo tempo que durar a eficiência da “cobertura”. O que se costuma considerar como “perdão”, é, para todos os efeitos, o cobrimento, sempre provisório, da condenação pela culpa transgressora. O autor está dizendo que até esse momento, o casal não transgredira nenhuma ordem, e por isso, prescindia de cobrir-se. </span>"
     }

@@ -424,7 +424,7 @@
     },
     {
       "number": 13,
-      "text": "Zebulum. Para costa de mares. Estabelece ele. E ele. Para costa de navios. E a lateral dele. Sobre Tsidon.",
+      "text": "Zebulum. Para costa de mares. Estabelece ele. E ele. Para costa de barcarias. E a lateral dele. Sobre Tsidon.",
       "lines": [
         {
           "line_index": 0,
@@ -448,8 +448,8 @@
         },
         {
           "line_index": 4,
-          "text": "Para costa de navios.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para<a name=\"rf62-3780\"></a><sup><a href=\"#fn62-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup> costa de navios<a name=\"rf63-3780\"></a><sup><a href=\"#fn63-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "text": "Para costa de barcarias.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para<a name=\"rf62-3780\"></a><sup><a href=\"#fn62-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup> costa de barcarias<a name=\"rf63-3780\"></a><sup><a href=\"#fn63-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1032,7 +1032,7 @@
         {
           "line_index": 3,
           "text": "A mulher dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A mulher dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A mulher dele<a name=\"rf145-3780\"></a><sup><a href=\"#fn145-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -1042,7 +1042,7 @@
         {
           "line_index": 5,
           "text": "Sepultam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sepultam eles<a name=\"rf145-3780\"></a><sup><a href=\"#fn145-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sepultam eles<a name=\"rf146-3780\"></a><sup><a href=\"#fn146-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -1057,7 +1057,7 @@
         {
           "line_index": 8,
           "text": "A mulher dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A mulher dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A mulher dele<a name=\"rf147-3780\"></a><sup><a href=\"#fn147-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -1067,7 +1067,7 @@
         {
           "line_index": 10,
           "text": "Sepulto eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sepulto eu<a name=\"rf146-3780\"></a><sup><a href=\"#fn146-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sepulto eu<a name=\"rf148-3780\"></a><sup><a href=\"#fn148-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>.</p>"
         },
         {
           "line_index": 11,
@@ -1083,7 +1083,7 @@
         {
           "line_index": 0,
           "text": "Sido comprado o campo.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Sido comprado<a name=\"rf147-3780\"></a><sup><a href=\"#fn147-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup> o campo.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Sido comprado<a name=\"rf149-3780\"></a><sup><a href=\"#fn149-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup> o campo.</p>"
         },
         {
           "line_index": 1,
@@ -1109,12 +1109,12 @@
         {
           "line_index": 0,
           "text": "E acabaYa’aqob de mandaros filhos dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E acaba<a name=\"rf148-3780\"></a><sup><a href=\"#fn148-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>Ya’aqob de mandar<a name=\"rf149-3780\"></a><sup><a href=\"#fn149-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>os filhos dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E acaba<a name=\"rf150-3780\"></a><sup><a href=\"#fn150-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>Ya’aqob de mandar<a name=\"rf151-3780\"></a><sup><a href=\"#fn151-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>os filhos dele.</p>"
         },
         {
           "line_index": 1,
           "text": "E ele reúneos pés dele sobre a cama.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele reúne<a name=\"rf150-3780\"></a><sup><a href=\"#fn150-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>os pés dele sobre a cama. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele reúne<a name=\"rf152-3780\"></a><sup><a href=\"#fn152-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>os pés dele sobre a cama. </p>"
         },
         {
           "line_index": 2,
@@ -1997,36 +1997,48 @@
     {
       "ref_id": "fn145-3780",
       "number": 145,
-      "text": "“Sepultam eles” (qrb). Cf. acima.",
-      "raw_html": "<span>“Sepultam eles” (<em>qrb</em>). Cf. acima. </span>"
+      "text": "“A mulher dele” (‘ishto).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0482\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0482\" rel=\"noopener\" target=\"_blank\">A mulher dele</a>” (<em>‘ishto</em>). </span>"
     },
     {
       "ref_id": "fn146-3780",
       "number": 146,
-      "text": "“Sepulto eu” (qrb). Cf. Gênesis 15,15; 23,4.6.8.9.11.13.15.19.20; 25,9.10; 35,8.19.29; 47,29.30; 48,7; 49,29.30.31; 50,5.6.7.13.14; Êxodo 14,11; Números 11,34; 19,16,18; 20,1; 33,4; Deuteronômio 10,6; 21,23; 34,6; Josué 24,30.32.33; Juízes 2,9; 8,32; 10,2.5; 12,7.10.12.15; 16,31; Rute 1,17; 1 Samuel 25,1; 28,3.",
-      "raw_html": "<span>“Sepulto eu” (<em>qrb</em>). Cf. Gênesis 15,15; 23,4.6.8.9.11.13.15.19.20; 25,9.10; 35,8.19.29; 47,29.30; 48,7; 49,29.30.31; 50,5.6.7.13.14; Êxodo 14,11; Números 11,34; 19,16,18; 20,1; 33,4; Deuteronômio 10,6; 21,23; 34,6; Josué 24,30.32.33; Juízes 2,9; 8,32; 10,2.5; 12,7.10.12.15; 16,31; Rute 1,17; 1 Samuel 25,1; 28,3. </span>"
+      "text": "“Sepultam eles” (qrb). Cf. acima.",
+      "raw_html": "<span>“Sepultam eles” (<em>qrb</em>). Cf. acima. </span>"
     },
     {
       "ref_id": "fn147-3780",
       "number": 147,
-      "text": "“Sido comprado” pressupõe aqui que mqnh constitua alguma forma de passivo participial de qnh (“comprar”), verbo usado no v. anterior. No texto propriamente dito, “rebanho”.",
-      "raw_html": "<span>“Sido comprado” pressupõe aqui que <em>mqnh</em> constitua alguma forma de passivo participial de <em>qnh</em> (“comprar”), verbo usado no v. anterior. No texto propriamente dito, “rebanho”. </span>"
+      "text": "“A mulher dele” (‘ishto).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0482\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0482\" rel=\"noopener\" target=\"_blank\">A mulher dele</a>” (<em>‘ishto</em>). </span>"
     },
     {
       "ref_id": "fn148-3780",
       "number": 148,
-      "text": "“Acaba” (klh). Cf. Gênesis 2,1.2; 6,16; 17,22; 18,33; 21,15; 24,19.",
-      "raw_html": "<span>“Acaba” (<em>klh</em>). Cf. Gênesis 2,1.2; 6,16; 17,22; 18,33; 21,15; 24,19. </span>"
+      "text": "“Sepulto eu” (qrb). Cf. Gênesis 15,15; 23,4.6.8.9.11.13.15.19.20; 25,9.10; 35,8.19.29; 47,29.30; 48,7; 49,29.30.31; 50,5.6.7.13.14; Êxodo 14,11; Números 11,34; 19,16,18; 20,1; 33,4; Deuteronômio 10,6; 21,23; 34,6; Josué 24,30.32.33; Juízes 2,9; 8,32; 10,2.5; 12,7.10.12.15; 16,31; Rute 1,17; 1 Samuel 25,1; 28,3.",
+      "raw_html": "<span>“Sepulto eu” (<em>qrb</em>). Cf. Gênesis 15,15; 23,4.6.8.9.11.13.15.19.20; 25,9.10; 35,8.19.29; 47,29.30; 48,7; 49,29.30.31; 50,5.6.7.13.14; Êxodo 14,11; Números 11,34; 19,16,18; 20,1; 33,4; Deuteronômio 10,6; 21,23; 34,6; Josué 24,30.32.33; Juízes 2,9; 8,32; 10,2.5; 12,7.10.12.15; 16,31; Rute 1,17; 1 Samuel 25,1; 28,3. </span>"
     },
     {
       "ref_id": "fn149-3780",
       "number": 149,
-      "text": "Cf. v. 29.",
-      "raw_html": "<span>Cf. v. 29. </span>"
+      "text": "“Sido comprado” pressupõe aqui que mqnh constitua alguma forma de passivo participial de qnh (“comprar”), verbo usado no v. anterior. No texto propriamente dito, “rebanho”.",
+      "raw_html": "<span>“Sido comprado” pressupõe aqui que <em>mqnh</em> constitua alguma forma de passivo participial de <em>qnh</em> (“comprar”), verbo usado no v. anterior. No texto propriamente dito, “rebanho”. </span>"
     },
     {
       "ref_id": "fn150-3780",
       "number": 150,
+      "text": "“Acaba” (klh). Cf. Gênesis 2,1.2; 6,16; 17,22; 18,33; 21,15; 24,19.",
+      "raw_html": "<span>“Acaba” (<em>klh</em>). Cf. Gênesis 2,1.2; 6,16; 17,22; 18,33; 21,15; 24,19. </span>"
+    },
+    {
+      "ref_id": "fn151-3780",
+      "number": 151,
+      "text": "Cf. v. 29.",
+      "raw_html": "<span>Cf. v. 29. </span>"
+    },
+    {
+      "ref_id": "fn152-3780",
+      "number": 152,
       "text": "Cf. Gênesis 6,21 e nota. Aqui o sentido de “reunir” não é tão adequado quanto seria “recolher”.",
       "raw_html": "<span>Cf. Gênesis 6,21 e nota. Aqui o sentido de “reunir” não é tão adequado quanto seria “recolher”. </span>"
     }

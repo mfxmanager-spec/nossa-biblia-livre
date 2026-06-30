@@ -1142,7 +1142,7 @@
     },
     {
       "number": 36,
-      "text": "E os sido ficados. Em vós. E faço eu ir desespero. No coração deles. Nas terras dos inimigos deles. E persegue. Eles. Vozeado de folhado sido secado. E fogem eles. Fuga de espada. E caem eles. E não está perseguidor.",
+      "text": "E os sido ficados. Em vós. E faço eu ir desespero. No coração deles. Nas terras dos inimigos deles. E persegue. Eles. Vozeado de folhado. Sido repelido. E fogem eles. Fuga de espada. E caem eles. E não está perseguidor.",
       "lines": [
         {
           "line_index": 0,
@@ -1181,26 +1181,31 @@
         },
         {
           "line_index": 7,
-          "text": "Vozeado de folhado sido secado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vozeado<a name=\"rf394-9686\"></a><sup><a href=\"#fn394-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 394\">394</a></sup> de folhado<a name=\"rf395-9686\"></a><sup><a href=\"#fn395-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 395\">395</a></sup> sido secado<a name=\"rf396-9686\"></a><sup><a href=\"#fn396-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 396\">396</a></sup>.</p>"
+          "text": "Vozeado de folhado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Vozeado<a name=\"rf394-9686\"></a><sup><a href=\"#fn394-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 394\">394</a></sup> de folhado<a name=\"rf395-9686\"></a><sup><a href=\"#fn395-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 395\">395</a></sup>.</p>"
         },
         {
           "line_index": 8,
+          "text": "Sido repelido.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sido repelido<a name=\"rf396-9686\"></a><sup><a href=\"#fn396-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 396\">396</a></sup>.</p>"
+        },
+        {
+          "line_index": 9,
           "text": "E fogem eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E fogem eles<a name=\"rf397-9686\"></a><sup><a href=\"#fn397-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 397\">397</a></sup>.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Fuga de espada.",
           "raw_html": "<p class=\"wp-block-paragraph\">Fuga<a name=\"rf398-9686\"></a><sup><a href=\"#fn398-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 398\">398</a></sup> de espada<a name=\"rf399-9686\"></a><sup><a href=\"#fn399-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 399\">399</a></sup>.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "E caem eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E caem eles<a name=\"rf400-9686\"></a><sup><a href=\"#fn400-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 400\">400</a></sup>.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "E não está perseguidor.",
           "raw_html": "<p class=\"wp-block-paragraph\">E não está perseguidor<a name=\"rf401-9686\"></a><sup><a href=\"#fn401-9686\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 401\">401</a></sup>.</p>"
         }
@@ -4061,8 +4066,8 @@
     {
       "ref_id": "fn396-9686",
       "number": 396,
-      "text": "“Secada” traduz provisoriamente forma verbal passiva da raiz ndp. Primeira de 8 ocorrências.",
-      "raw_html": "<span>“Secada” traduz provisoriamente forma verbal passiva da raiz <em>ndp</em>. Primeira de 8 ocorrências. </span>"
+      "text": "“Sido repelido” traduz provisoriamente forma verbal passiva da raiz ndp. Primeira de 8 ocorrências.",
+      "raw_html": "<span>“Sido repelido” traduz provisoriamente forma verbal passiva da raiz <em>ndp</em>. Primeira de 8 ocorrências. </span>"
     },
     {
       "ref_id": "fn397-9686",

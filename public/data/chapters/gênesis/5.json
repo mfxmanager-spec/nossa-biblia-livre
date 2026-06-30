@@ -95,7 +95,7 @@
     },
     {
       "number": 4,
-      "text": "E são os dias de ‘Adam. Depois do fazer parir dele Shet. Oito cem de ano. E faz ele parir filhos e filhas.",
+      "text": "E são os dias de ‘Adam. Depois do fazer parir dele Shet. Oito centenas. Mudança. E faz ele parir filhos e filhas.",
       "lines": [
         {
           "line_index": 0,
@@ -109,11 +109,16 @@
         },
         {
           "line_index": 2,
-          "text": "Oito cem de ano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Oito cem de ano<a name=\"rf28-1203\"></a><sup><a href=\"#fn28-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
+          "text": "Oito centenas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Oito centenas<a name=\"rf28-1203\"></a><sup><a href=\"#fn28-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
         },
         {
           "line_index": 3,
+          "text": "Mudança.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Mudança.</p>"
+        },
+        {
+          "line_index": 4,
           "text": "E faz ele parir filhos e filhas.",
           "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir filhos e filhas.<sub> </sub></p>"
         }
@@ -214,7 +219,7 @@
     },
     {
       "number": 8,
-      "text": "E são eles. O total dos dias de Shet. Duas dez mudança. E nove de centenas de mudança. E morre ele.",
+      "text": "E são eles. O total dos dias de Shet. Duas de dez. Mudança. E nove de centenas de mudança. E morre ele.",
       "lines": [
         {
           "line_index": 0,
@@ -228,16 +233,21 @@
         },
         {
           "line_index": 2,
-          "text": "Duas dez mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Duas dez<a name=\"rf38-1203\"></a><sup><a href=\"#fn38-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup> mudança<a name=\"rf39-1203\"></a><sup><a href=\"#fn39-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>.</p>"
+          "text": "Duas de dez.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Duas de dez<a name=\"rf38-1203\"></a><sup><a href=\"#fn38-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup><a name=\"rf39-1203\"></a><sup><a href=\"#fn39-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "E nove de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E nove de<a name=\"rf40-1203\"></a><sup><a href=\"#fn40-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup> centenas de mudança<a name=\"rf41-1203\"></a><sup><a href=\"#fn41-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup><a name=\"rf42-1203\"></a><sup><a href=\"#fn42-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
+          "text": "Mudança.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Mudança<a name=\"rf40-1203\"></a><sup><a href=\"#fn40-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>.</p>"
         },
         {
           "line_index": 4,
+          "text": "E nove de centenas de mudança.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E nove de<a name=\"rf41-1203\"></a><sup><a href=\"#fn41-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> centenas de mudança<a name=\"rf42-1203\"></a><sup><a href=\"#fn42-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup><a name=\"rf43-1203\"></a><sup><a href=\"#fn43-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "E morre ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E morre ele.</p>"
         }
@@ -255,7 +265,7 @@
         {
           "line_index": 1,
           "text": "Noventa ano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Noventa ano<a name=\"rf43-1203\"></a><sup><a href=\"#fn43-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Noventa ano<a name=\"rf44-1203\"></a><sup><a href=\"#fn44-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -281,12 +291,12 @@
         {
           "line_index": 2,
           "text": "Cinco de dezano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cinco de dez<a name=\"rf44-1203\"></a><sup><a href=\"#fn44-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>ano<a name=\"rf45-1203\"></a><sup><a href=\"#fn45-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cinco de dez<a name=\"rf45-1203\"></a><sup><a href=\"#fn45-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>ano<a name=\"rf46-1203\"></a><sup><a href=\"#fn46-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E oito centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E oito centenas de mudança<a name=\"rf46-1203\"></a><sup><a href=\"#fn46-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup><a name=\"rf47-1203\"></a><sup><a href=\"#fn47-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E oito centenas de mudança<a name=\"rf47-1203\"></a><sup><a href=\"#fn47-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup><a name=\"rf48-1203\"></a><sup><a href=\"#fn48-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -312,12 +322,12 @@
         {
           "line_index": 2,
           "text": "Cinco mudanças.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cinco mudanças<a name=\"rf48-1203\"></a><sup><a href=\"#fn48-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup><a name=\"rf49-1203\"></a><sup><a href=\"#fn49-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cinco mudanças<a name=\"rf49-1203\"></a><sup><a href=\"#fn49-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup><a name=\"rf50-1203\"></a><sup><a href=\"#fn50-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E nove de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E nove de centenas de mudança<a name=\"rf50-1203\"></a><sup><a href=\"#fn50-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup><a name=\"rf51-1203\"></a><sup><a href=\"#fn51-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E nove de centenas de mudança<a name=\"rf51-1203\"></a><sup><a href=\"#fn51-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup><a name=\"rf52-1203\"></a><sup><a href=\"#fn52-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -338,7 +348,7 @@
         {
           "line_index": 1,
           "text": "Setenta ano..",
-          "raw_html": "<p class=\"wp-block-paragraph\">Setenta ano.<a name=\"rf52-1203\"></a><sup><a href=\"#fn52-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Setenta ano.<a name=\"rf53-1203\"></a><sup><a href=\"#fn53-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
         }
       ]
     },
@@ -359,12 +369,12 @@
         {
           "line_index": 2,
           "text": "Quarenta mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quarenta<a name=\"rf53-1203\"></a><sup><a href=\"#fn53-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup> mudança<a name=\"rf54-1203\"></a><sup><a href=\"#fn54-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup><a name=\"rf55-1203\"></a><sup><a href=\"#fn55-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quarenta<a name=\"rf54-1203\"></a><sup><a href=\"#fn54-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup> mudança<a name=\"rf55-1203\"></a><sup><a href=\"#fn55-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup><a name=\"rf56-1203\"></a><sup><a href=\"#fn56-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E oito centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E oito centenas de mudança<a name=\"rf56-1203\"></a><sup><a href=\"#fn56-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup><a name=\"rf57-1203\"></a><sup><a href=\"#fn57-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E oito centenas de mudança<a name=\"rf57-1203\"></a><sup><a href=\"#fn57-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup><a name=\"rf58-1203\"></a><sup><a href=\"#fn58-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -390,12 +400,12 @@
         {
           "line_index": 2,
           "text": "Dez anos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dez anos<a name=\"rf58-1203\"></a><sup><a href=\"#fn58-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dez anos<a name=\"rf59-1203\"></a><sup><a href=\"#fn59-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E nove de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E nove de centenas de mudança<a name=\"rf59-1203\"></a><sup><a href=\"#fn59-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup><a name=\"rf60-1203\"></a><sup><a href=\"#fn60-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E nove de centenas de mudança<a name=\"rf60-1203\"></a><sup><a href=\"#fn60-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup><a name=\"rf61-1203\"></a><sup><a href=\"#fn61-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -416,17 +426,17 @@
         {
           "line_index": 1,
           "text": "Cinco mudanças.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cinco mudanças<a name=\"rf61-1203\"></a><sup><a href=\"#fn61-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup><a name=\"rf62-1203\"></a><sup><a href=\"#fn62-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cinco mudanças<a name=\"rf62-1203\"></a><sup><a href=\"#fn62-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup><a name=\"rf63-1203\"></a><sup><a href=\"#fn63-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E sessenta mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sessenta mudança<a name=\"rf63-1203\"></a><sup><a href=\"#fn63-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E sessenta mudança<a name=\"rf64-1203\"></a><sup><a href=\"#fn64-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E faz ele parir Yered.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir Yered<a name=\"rf64-1203\"></a><sup><a href=\"#fn64-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir Yered<a name=\"rf65-1203\"></a><sup><a href=\"#fn65-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
         }
       ]
     },
@@ -447,12 +457,12 @@
         {
           "line_index": 2,
           "text": "Trinta ano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Trinta ano<a name=\"rf65-1203\"></a><sup><a href=\"#fn65-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Trinta ano<a name=\"rf66-1203\"></a><sup><a href=\"#fn66-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E oito centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E oito centenas de mudança<a name=\"rf66-1203\"></a><sup><a href=\"#fn66-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup><a name=\"rf67-1203\"></a><sup><a href=\"#fn67-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E oito centenas de mudança<a name=\"rf67-1203\"></a><sup><a href=\"#fn67-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup><a name=\"rf68-1203\"></a><sup><a href=\"#fn68-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -468,7 +478,7 @@
         {
           "line_index": 0,
           "text": "E estão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles<a name=\"rf68-1203\"></a><sup><a href=\"#fn68-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles<a name=\"rf69-1203\"></a><sup><a href=\"#fn69-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -483,12 +493,12 @@
         {
           "line_index": 3,
           "text": "E noventa mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E noventa mudança<a name=\"rf69-1203\"></a><sup><a href=\"#fn69-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E noventa mudança<a name=\"rf70-1203\"></a><sup><a href=\"#fn70-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E oito centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E oito centenas de mudança<a name=\"rf70-1203\"></a><sup><a href=\"#fn70-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup><a name=\"rf71-1203\"></a><sup><a href=\"#fn71-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E oito centenas de mudança<a name=\"rf71-1203\"></a><sup><a href=\"#fn71-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup><a name=\"rf72-1203\"></a><sup><a href=\"#fn72-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -509,17 +519,17 @@
         {
           "line_index": 1,
           "text": "Dois e sessenta ano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dois e sessenta ano<a name=\"rf72-1203\"></a><sup><a href=\"#fn72-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dois e sessenta ano<a name=\"rf73-1203\"></a><sup><a href=\"#fn73-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E cem de ano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cem de ano<a name=\"rf73-1203\"></a><sup><a href=\"#fn73-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cem de ano<a name=\"rf74-1203\"></a><sup><a href=\"#fn74-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E faz ele parir Hanok.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir Hanok<a name=\"rf74-1203\"></a><sup><a href=\"#fn74-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir Hanok<a name=\"rf75-1203\"></a><sup><a href=\"#fn75-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         }
       ]
     },
@@ -540,7 +550,7 @@
         {
           "line_index": 2,
           "text": "Oito centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Oito centenas de mudança<a name=\"rf75-1203\"></a><sup><a href=\"#fn75-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup><a name=\"rf76-1203\"></a><sup><a href=\"#fn76-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Oito<a name=\"rf76-1203\"></a><sup><a href=\"#fn76-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup> centenas de mudança<a name=\"rf77-1203\"></a><sup><a href=\"#fn77-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup><a name=\"rf78-1203\"></a><sup><a href=\"#fn78-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -556,7 +566,7 @@
         {
           "line_index": 0,
           "text": "E estão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles<a name=\"rf77-1203\"></a><sup><a href=\"#fn77-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles<a name=\"rf79-1203\"></a><sup><a href=\"#fn79-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -571,7 +581,7 @@
         {
           "line_index": 3,
           "text": "E nove de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E nove de centenas de mudança<a name=\"rf78-1203\"></a><sup><a href=\"#fn78-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup><a name=\"rf79-1203\"></a><sup><a href=\"#fn79-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E nove de centenas de mudança<a name=\"rf80-1203\"></a><sup><a href=\"#fn80-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup><a name=\"rf81-1203\"></a><sup><a href=\"#fn81-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -597,7 +607,7 @@
         {
           "line_index": 2,
           "text": "E faz ele parir Metushelah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir Metushelah<a name=\"rf80-1203\"></a><sup><a href=\"#fn80-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir Metushelah<a name=\"rf82-1203\"></a><sup><a href=\"#fn82-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
         }
       ]
     },
@@ -608,17 +618,17 @@
         {
           "line_index": 0,
           "text": "E anda-seHanok com o deus.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E anda-se<a name=\"rf81-1203\"></a><sup><a href=\"#fn81-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>Hanok com o deus<a name=\"rf82-1203\"></a><sup><a href=\"#fn82-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E anda-se<a name=\"rf83-1203\"></a><sup><a href=\"#fn83-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>Hanok com o deus<a name=\"rf84-1203\"></a><sup><a href=\"#fn84-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Depois do fazer parir dele Metushelah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Depois do fazer parir dele Metushelah<a name=\"rf83-1203\"></a><sup><a href=\"#fn83-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Depois do fazer parir dele Metushelah<a name=\"rf85-1203\"></a><sup><a href=\"#fn85-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Três de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Três de<a name=\"rf84-1203\"></a><sup><a href=\"#fn84-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup> centenas de mudança<a name=\"rf85-1203\"></a><sup><a href=\"#fn85-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup><a name=\"rf86-1203\"></a><sup><a href=\"#fn86-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Três de<a name=\"rf86-1203\"></a><sup><a href=\"#fn86-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup> centenas de mudança<a name=\"rf87-1203\"></a><sup><a href=\"#fn87-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup><a name=\"rf88-1203\"></a><sup><a href=\"#fn88-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -634,7 +644,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf87-1203\"></a><sup><a href=\"#fn87-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf89-1203\"></a><sup><a href=\"#fn89-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -649,7 +659,7 @@
         {
           "line_index": 3,
           "text": "E três de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E três de centenas de mudança<a name=\"rf88-1203\"></a><sup><a href=\"#fn88-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup><a name=\"rf89-1203\"></a><sup><a href=\"#fn89-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E três de centenas de mudança<a name=\"rf90-1203\"></a><sup><a href=\"#fn90-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup><a name=\"rf91-1203\"></a><sup><a href=\"#fn91-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>.</p>"
         }
       ]
     },
@@ -660,17 +670,17 @@
         {
           "line_index": 0,
           "text": "E anda-seHanok com o deus.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E anda-se<a name=\"rf90-1203\"></a><sup><a href=\"#fn90-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>Hanok com o deus<a name=\"rf91-1203\"></a><sup><a href=\"#fn91-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E anda-se<a name=\"rf92-1203\"></a><sup><a href=\"#fn92-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>Hanok com o deus<a name=\"rf93-1203\"></a><sup><a href=\"#fn93-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "E não estáele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não está<a name=\"rf92-1203\"></a><sup><a href=\"#fn92-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup><a name=\"rf93-1203\"></a><sup><a href=\"#fn93-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E não está<a name=\"rf94-1203\"></a><sup><a href=\"#fn94-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup><a name=\"rf95-1203\"></a><sup><a href=\"#fn95-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>ele.</p>"
         },
         {
           "line_index": 2,
           "text": "Quetoma ele ‘Elohim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf94-1203\"></a><sup><a href=\"#fn94-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>toma ele ‘Elohim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf96-1203\"></a><sup><a href=\"#fn96-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>toma ele ‘Elohim.</p>"
         }
       ]
     },
@@ -686,17 +696,17 @@
         {
           "line_index": 1,
           "text": "Sete e oitentaano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sete e oitenta<a name=\"rf95-1203\"></a><sup><a href=\"#fn95-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>ano.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sete e oitenta<a name=\"rf97-1203\"></a><sup><a href=\"#fn97-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>ano.</p>"
         },
         {
           "line_index": 2,
           "text": "E cem de ano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cem de ano<a name=\"rf96-1203\"></a><sup><a href=\"#fn96-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cem de ano<a name=\"rf98-1203\"></a><sup><a href=\"#fn98-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E faz ele parir Lemek.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir Lemek<a name=\"rf97-1203\"></a><sup><a href=\"#fn97-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele parir Lemek<a name=\"rf99-1203\"></a><sup><a href=\"#fn99-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
         }
       ]
     },
@@ -722,7 +732,7 @@
         {
           "line_index": 3,
           "text": "E oitenta.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E oitenta<a name=\"rf98-1203\"></a><sup><a href=\"#fn98-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E oitenta<a name=\"rf100-1203\"></a><sup><a href=\"#fn100-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -732,7 +742,7 @@
         {
           "line_index": 5,
           "text": "E sete de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sete de centenas<a name=\"rf99-1203\"></a><sup><a href=\"#fn99-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup> de mudança<a name=\"rf100-1203\"></a><sup><a href=\"#fn100-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup><a name=\"rf101-1203\"></a><sup><a href=\"#fn101-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E sete de centenas<a name=\"rf101-1203\"></a><sup><a href=\"#fn101-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup> de mudança<a name=\"rf102-1203\"></a><sup><a href=\"#fn102-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup><a name=\"rf103-1203\"></a><sup><a href=\"#fn103-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -773,7 +783,7 @@
         {
           "line_index": 3,
           "text": "E nove de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E nove de centenas de mudança<a name=\"rf102-1203\"></a><sup><a href=\"#fn102-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup><a name=\"rf103-1203\"></a><sup><a href=\"#fn103-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E nove de centenas de mudança<a name=\"rf104-1203\"></a><sup><a href=\"#fn104-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup><a name=\"rf105-1203\"></a><sup><a href=\"#fn105-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -799,7 +809,7 @@
         {
           "line_index": 2,
           "text": "E cem de ano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cem de ano<a name=\"rf104-1203\"></a><sup><a href=\"#fn104-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cem de ano<a name=\"rf106-1203\"></a><sup><a href=\"#fn106-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -820,7 +830,7 @@
         {
           "line_index": 1,
           "text": "Noah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Noah<a name=\"rf105-1203\"></a><sup><a href=\"#fn105-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Noah<a name=\"rf107-1203\"></a><sup><a href=\"#fn107-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>. </p>"
         },
         {
           "line_index": 2,
@@ -835,27 +845,27 @@
         {
           "line_index": 4,
           "text": "Consola ele nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Consola ele<a name=\"rf106-1203\"></a><sup><a href=\"#fn106-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup> nós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Consola ele<a name=\"rf108-1203\"></a><sup><a href=\"#fn108-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup> nós.</p>"
         },
         {
           "line_index": 5,
           "text": "Desde o afazer de nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o afazer<a name=\"rf107-1203\"></a><sup><a href=\"#fn107-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup> de nós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o afazer<a name=\"rf109-1203\"></a><sup><a href=\"#fn109-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup> de nós.</p>"
         },
         {
           "line_index": 6,
           "text": "E desde o sofrimentodas mãos de nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E desde o sofrimento<a name=\"rf108-1203\"></a><sup><a href=\"#fn108-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup>das mãos de nós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E desde o sofrimento<a name=\"rf110-1203\"></a><sup><a href=\"#fn110-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>das mãos de nós.</p>"
         },
         {
           "line_index": 7,
           "text": "Desdea ‘adamah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde<a name=\"rf109-1203\"></a><sup><a href=\"#fn109-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup>a <em>‘adamah</em>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde<a name=\"rf111-1203\"></a><sup><a href=\"#fn111-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>a <em>‘adamah</em>.</p>"
         },
         {
           "line_index": 8,
           "text": "Que esconjurouela Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que esconjurou<a name=\"rf110-1203\"></a><sup><a href=\"#fn110-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>ela Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que esconjurou<a name=\"rf112-1203\"></a><sup><a href=\"#fn112-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>ela Yahweh.</p>"
         }
       ]
     },
@@ -881,7 +891,7 @@
         {
           "line_index": 3,
           "text": "E cinco de cem de ano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cinco de cem de ano<a name=\"rf111-1203\"></a><sup><a href=\"#fn111-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cinco de cem de ano<a name=\"rf113-1203\"></a><sup><a href=\"#fn113-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -897,7 +907,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf112-1203\"></a><sup><a href=\"#fn112-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf114-1203\"></a><sup><a href=\"#fn114-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -907,12 +917,12 @@
         {
           "line_index": 2,
           "text": "Sete e setenta mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sete e setenta<a name=\"rf113-1203\"></a><sup><a href=\"#fn113-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup> mudança.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sete e setenta<a name=\"rf115-1203\"></a><sup><a href=\"#fn115-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup> mudança.</p>"
         },
         {
           "line_index": 3,
           "text": "E sete de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sete de centenas de mudança<a name=\"rf114-1203\"></a><sup><a href=\"#fn114-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup><a name=\"rf115-1203\"></a><sup><a href=\"#fn115-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E sete de centenas de mudança<a name=\"rf116-1203\"></a><sup><a href=\"#fn116-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup><a name=\"rf117-1203\"></a><sup><a href=\"#fn117-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -938,7 +948,7 @@
         {
           "line_index": 2,
           "text": "Filho de cinco de centenas de mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Filho de cinco de centenas de mudança<a name=\"rf116-1203\"></a><sup><a href=\"#fn116-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Filho de cinco de centenas de mudança<a name=\"rf118-1203\"></a><sup><a href=\"#fn118-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -953,12 +963,12 @@
         {
           "line_index": 5,
           "text": "Ham.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ham<a name=\"rf117-1203\"></a><sup><a href=\"#fn117-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ham<a name=\"rf119-1203\"></a><sup><a href=\"#fn119-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "E Yepet.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E Yepet<a name=\"rf118-1203\"></a><sup><a href=\"#fn118-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E Yepet<a name=\"rf120-1203\"></a><sup><a href=\"#fn120-1203\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
         }
       ]
     }
@@ -1189,392 +1199,392 @@
     {
       "ref_id": "fn38-1203",
       "number": 38,
-      "text": "“Duas dez” (shtem-‘esreh). “Doze”. Primeira de 28 ocorrências (Gênesis 5,8; 14,4; Êxodo 15,27; 28,21; 39,14; Levítico 24,5. Josué 4,3.20.",
-      "raw_html": "<span>“Duas dez” (<em>shtem-‘esreh</em>). “Doze”. Primeira de 28 ocorrências (Gênesis 5,8; 14,4; Êxodo 15,27; 28,21; 39,14; Levítico 24,5. Josué 4,3.20. </span>"
+      "text": "“Duas de dez” (shtem-‘esreh). “Doze”. Primeira de 28 ocorrências (Gênesis 5,8; 14,4; Êxodo 15,27; 28,21; 39,14; Levítico 24,5. Josué 4,3.20.",
+      "raw_html": "<span>“Duas de dez” (<em>shtem-‘esreh</em>). “Doze”. Primeira de 28 ocorrências (Gênesis 5,8; 14,4; Êxodo 15,27; 28,21; 39,14; Levítico 24,5. Josué 4,3.20. </span>"
     },
     {
       "ref_id": "fn39-1203",
       "number": 39,
-      "text": "“Mudança” (shanah). Singular mesmo.",
-      "raw_html": "<span>“Mudança” (<em>shanah</em>). Singular mesmo. </span>"
+      "text": "“Dez” (‘esreh). Primeira de 126 ocorrências. Os léxicos afirmam que a forma ‘esreh ocorre apenas na formação dos números 11 a 19 no hebraico bíblico.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0504\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0504\" rel=\"noopener\" target=\"_blank\">Dez</a>” (<em>‘esreh</em>). Primeira de 126 ocorrências. Os léxicos afirmam que a forma <em>‘esreh</em> ocorre apenas na formação dos números 11 a 19 no hebraico bíblico. </span>"
     },
     {
       "ref_id": "fn40-1203",
       "number": 40,
-      "text": "“Nove de” (tesha’). Os massoretas vocalizaram como construto. Não parece ser o padrão do que até aqui se viu.",
-      "raw_html": "<span>“Nove de” (<em>tesha’</em>). Os massoretas vocalizaram como construto. Não parece ser o padrão do que até aqui se viu. </span>"
+      "text": "“Mudança” (shanah). Singular mesmo.",
+      "raw_html": "<span>“Mudança” (<em>shanah</em>). Singular mesmo. </span>"
     },
     {
       "ref_id": "fn41-1203",
       "number": 41,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“Nove de” (tesha’). Os massoretas vocalizaram como construto. Não parece ser o padrão do que até aqui se viu.",
+      "raw_html": "<span>“Nove de” (<em>tesha’</em>). Os massoretas vocalizaram como construto. Não parece ser o padrão do que até aqui se viu. </span>"
     },
     {
       "ref_id": "fn42-1203",
       "number": 42,
-      "text": "“Ano” (shanah). No singular mesmo. 912 anos.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). No singular mesmo. 912 anos. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn43-1203",
       "number": 43,
-      "text": "“Ano” (shanah). No singular mesmo.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). No singular mesmo. </span>"
+      "text": "“Ano” (shanah). No singular mesmo. 912 anos.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). No singular mesmo. 912 anos. </span>"
     },
     {
       "ref_id": "fn44-1203",
       "number": 44,
-      "text": "“Cinco de” (hamesh). O termos está no construto. Parece não haver padrão, já que a construção de numerais equivalentes era feita com a forma absoluta e não a forma construta.",
-      "raw_html": "<span>“Cinco de” (<em>hamesh</em>). O termos está no construto. Parece não haver padrão, já que a construção de numerais equivalentes era feita com a forma absoluta e não a forma construta. </span>"
-    },
-    {
-      "ref_id": "fn45-1203",
-      "number": 45,
       "text": "“Ano” (shanah). No singular mesmo.",
       "raw_html": "<span>“Ano” (<em>shanah</em>). No singular mesmo. </span>"
     },
     {
+      "ref_id": "fn45-1203",
+      "number": 45,
+      "text": "“Cinco de” (hamesh). O termos está no construto. Parece não haver padrão, já que a construção de numerais equivalentes era feita com a forma absoluta e não a forma construta.",
+      "raw_html": "<span>“Cinco de” (<em>hamesh</em>). O termos está no construto. Parece não haver padrão, já que a construção de numerais equivalentes era feita com a forma absoluta e não a forma construta. </span>"
+    },
+    {
       "ref_id": "fn46-1203",
       "number": 46,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“Ano” (shanah). No singular mesmo.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). No singular mesmo. </span>"
     },
     {
       "ref_id": "fn47-1203",
       "number": 47,
-      "text": "“Ano” (shanah). Singular mesmo. No total, 815 anos.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. No total, 815 anos. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn48-1203",
       "number": 48,
-      "text": "“Cinco mudanças” (hamesh shanim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACR\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACR\" rel=\"noreferrer noopener\" target=\"_blank\">Cinco mudanças</a>” (<em>hamesh shanim</em>). </span>"
+      "text": "“Ano” (shanah). Singular mesmo. No total, 815 anos.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. No total, 815 anos. </span>"
     },
     {
       "ref_id": "fn49-1203",
       "number": 49,
-      "text": "“Mudanças” (shanim).",
-      "raw_html": "<span>“Mudanças” (<em>shanim</em>). </span>"
-    },
-    {
-      "ref_id": "fn50-1203",
-      "number": 50,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
-    },
-    {
-      "ref_id": "fn51-1203",
-      "number": 51,
-      "text": "“Ano” (shanah). Singular mesmo. Parece não haver qualquer padrão. Aqui singular, ali plural, e parece que tanto faz. 905 anos totais.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. Parece não haver qualquer padrão. Aqui singular, ali plural, e parece que tanto faz. 905 anos totais. </span>"
-    },
-    {
-      "ref_id": "fn52-1203",
-      "number": 52,
-      "text": "“Ano” (shanah). E ele faz parir Mahalal’el. Lê-se marra-lal-él.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). E ele faz parir Mahalal’el. Lê-se <em>marra-lal-él</em>. </span>"
-    },
-    {
-      "ref_id": "fn53-1203",
-      "number": 53,
-      "text": "“Quarenta” (‘arba’im). Cf. Gênesis 7,4.",
-      "raw_html": "<span>“Quarenta” (<em>‘arba’im</em>). Cf. Gênesis 7,4. </span>"
-    },
-    {
-      "ref_id": "fn54-1203",
-      "number": 54,
-      "text": "“Quarenta mudança” (‘arba’im shanah). “Quarenta anos”. Primeira de 31 ocorrências. Cf. Gênesis 5,13; 25,20; 26,34; Êxodo 16,35; Números 14,33.34; 32,13; Deuteronômio 2,7; 8,2.4; 29,4; Josué 5,6.",
-      "raw_html": "<span>“Quarenta mudança” (<em>‘arba’im shanah</em>). “Quarenta anos”. Primeira de 31 ocorrências. Cf. Gênesis 5,13; 25,20; 26,34; Êxodo 16,35; Números 14,33.34; 32,13; Deuteronômio 2,7; 8,2.4; 29,4; Josué 5,6. </span>"
-    },
-    {
-      "ref_id": "fn55-1203",
-      "number": 55,
-      "text": "“Mudança” (shanah). “Ano”. Singular mesmo.",
-      "raw_html": "<span>“Mudança” (<em>shanah</em>). “Ano”. Singular mesmo. </span>"
-    },
-    {
-      "ref_id": "fn56-1203",
-      "number": 56,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
-    },
-    {
-      "ref_id": "fn57-1203",
-      "number": 57,
-      "text": "“Ano” (shanah). Singular mesmo. 840 anos.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. 840 anos. </span>"
-    },
-    {
-      "ref_id": "fn58-1203",
-      "number": 58,
-      "text": "“Anos” (shanim). Aqui, no plural.",
-      "raw_html": "<span>“Anos” (<em>shanim</em>). Aqui, no plural. </span>"
-    },
-    {
-      "ref_id": "fn59-1203",
-      "number": 59,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
-    },
-    {
-      "ref_id": "fn60-1203",
-      "number": 60,
-      "text": "“Ano” (shanah). Já aqui, no singular. 910 anos totais.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). Já aqui, no singular. 910 anos totais. </span>"
-    },
-    {
-      "ref_id": "fn61-1203",
-      "number": 61,
       "text": "“Cinco mudanças” (hamesh shanim).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACR\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACR\" rel=\"noreferrer noopener\" target=\"_blank\">Cinco mudanças</a>” (<em>hamesh shanim</em>). </span>"
     },
     {
+      "ref_id": "fn50-1203",
+      "number": 50,
+      "text": "“Mudanças” (shanim).",
+      "raw_html": "<span>“Mudanças” (<em>shanim</em>). </span>"
+    },
+    {
+      "ref_id": "fn51-1203",
+      "number": 51,
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+    },
+    {
+      "ref_id": "fn52-1203",
+      "number": 52,
+      "text": "“Ano” (shanah). Singular mesmo. Parece não haver qualquer padrão. Aqui singular, ali plural, e parece que tanto faz. 905 anos totais.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. Parece não haver qualquer padrão. Aqui singular, ali plural, e parece que tanto faz. 905 anos totais. </span>"
+    },
+    {
+      "ref_id": "fn53-1203",
+      "number": 53,
+      "text": "“Ano” (shanah). E ele faz parir Mahalal’el. Lê-se marra-lal-él.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). E ele faz parir Mahalal’el. Lê-se <em>marra-lal-él</em>. </span>"
+    },
+    {
+      "ref_id": "fn54-1203",
+      "number": 54,
+      "text": "“Quarenta” (‘arba’im). Cf. Gênesis 7,4.",
+      "raw_html": "<span>“Quarenta” (<em>‘arba’im</em>). Cf. Gênesis 7,4. </span>"
+    },
+    {
+      "ref_id": "fn55-1203",
+      "number": 55,
+      "text": "“Quarenta mudança” (‘arba’im shanah). “Quarenta anos”. Primeira de 31 ocorrências. Cf. Gênesis 5,13; 25,20; 26,34; Êxodo 16,35; Números 14,33.34; 32,13; Deuteronômio 2,7; 8,2.4; 29,4; Josué 5,6.",
+      "raw_html": "<span>“Quarenta mudança” (<em>‘arba’im shanah</em>). “Quarenta anos”. Primeira de 31 ocorrências. Cf. Gênesis 5,13; 25,20; 26,34; Êxodo 16,35; Números 14,33.34; 32,13; Deuteronômio 2,7; 8,2.4; 29,4; Josué 5,6. </span>"
+    },
+    {
+      "ref_id": "fn56-1203",
+      "number": 56,
+      "text": "“Mudança” (shanah). “Ano”. Singular mesmo.",
+      "raw_html": "<span>“Mudança” (<em>shanah</em>). “Ano”. Singular mesmo. </span>"
+    },
+    {
+      "ref_id": "fn57-1203",
+      "number": 57,
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+    },
+    {
+      "ref_id": "fn58-1203",
+      "number": 58,
+      "text": "“Ano” (shanah). Singular mesmo. 840 anos.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. 840 anos. </span>"
+    },
+    {
+      "ref_id": "fn59-1203",
+      "number": 59,
+      "text": "“Anos” (shanim). Aqui, no plural.",
+      "raw_html": "<span>“Anos” (<em>shanim</em>). Aqui, no plural. </span>"
+    },
+    {
+      "ref_id": "fn60-1203",
+      "number": 60,
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+    },
+    {
+      "ref_id": "fn61-1203",
+      "number": 61,
+      "text": "“Ano” (shanah). Já aqui, no singular. 910 anos totais.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). Já aqui, no singular. 910 anos totais. </span>"
+    },
+    {
       "ref_id": "fn62-1203",
       "number": 62,
-      "text": "“Mudanças” (shanim). Plural.",
-      "raw_html": "<span>“Mudanças” (<em>shanim</em>). Plural. </span>"
+      "text": "“Cinco mudanças” (hamesh shanim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACR\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACR\" rel=\"noreferrer noopener\" target=\"_blank\">Cinco mudanças</a>” (<em>hamesh shanim</em>). </span>"
     },
     {
       "ref_id": "fn63-1203",
       "number": 63,
-      "text": "“Mudança” (shanah). Singular. 65 anos.",
-      "raw_html": "<span>“Mudança” (<em>shanah</em>). Singular. 65 anos. </span>"
+      "text": "“Mudanças” (shanim). Plural.",
+      "raw_html": "<span>“Mudanças” (<em>shanim</em>). Plural. </span>"
     },
     {
       "ref_id": "fn64-1203",
       "number": 64,
-      "text": "Lê-se iéred.",
-      "raw_html": "<span>Lê-se <em>iéred</em>. </span>"
+      "text": "“Mudança” (shanah). Singular. 65 anos.",
+      "raw_html": "<span>“Mudança” (<em>shanah</em>). Singular. 65 anos. </span>"
     },
     {
       "ref_id": "fn65-1203",
       "number": 65,
-      "text": "“Ano” (shanah). Singular mesmo.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. </span>"
+      "text": "Lê-se iéred.",
+      "raw_html": "<span>Lê-se <em>iéred</em>. </span>"
     },
     {
       "ref_id": "fn66-1203",
       "number": 66,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“Ano” (shanah). Singular mesmo.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. </span>"
     },
     {
       "ref_id": "fn67-1203",
       "number": 67,
-      "text": "“Ano” (shanah). Singular mesmo. 830 anos.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. 830 anos. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn68-1203",
       "number": 68,
-      "text": "“E estão eles” (wayyihyu). Primeira de 115 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACF\" rel=\"noreferrer noopener\" target=\"_blank\">E estão eles</a>” (<em>wayyihyu</em>). Primeira de 115 ocorrências. </span>"
+      "text": "“Ano” (shanah). Singular mesmo. 830 anos.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. 830 anos. </span>"
     },
     {
       "ref_id": "fn69-1203",
       "number": 69,
-      "text": "“Cinco e noventa mudança” é mais uma forma inusitada da grafia de quantidades numéricas no texto hebraico. O uso do waw (“e”) aqui é inesperado. Por sua vez, “mudança” (shanah) no singular não surpreende mais.",
-      "raw_html": "<span>“Cinco e noventa mudança” é mais uma forma inusitada da grafia de quantidades numéricas no texto hebraico. O uso do <em>waw</em> (“e”) aqui é inesperado. Por sua vez, “mudança” (<em>shanah</em>) no singular não surpreende mais. </span>"
+      "text": "“E estão eles” (wayyihyu). Primeira de 115 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACF\" rel=\"noreferrer noopener\" target=\"_blank\">E estão eles</a>” (<em>wayyihyu</em>). Primeira de 115 ocorrências. </span>"
     },
     {
       "ref_id": "fn70-1203",
       "number": 70,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“Cinco e noventa mudança” é mais uma forma inusitada da grafia de quantidades numéricas no texto hebraico. O uso do waw (“e”) aqui é inesperado. Por sua vez, “mudança” (shanah) no singular não surpreende mais.",
+      "raw_html": "<span>“Cinco e noventa mudança” é mais uma forma inusitada da grafia de quantidades numéricas no texto hebraico. O uso do <em>waw</em> (“e”) aqui é inesperado. Por sua vez, “mudança” (<em>shanah</em>) no singular não surpreende mais. </span>"
     },
     {
       "ref_id": "fn71-1203",
       "number": 71,
-      "text": "“Mudança” (shanah). Singular mesmo. 895 anos.",
-      "raw_html": "<span>“Mudança” (<em>shanah</em>). Singular mesmo. 895 anos. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn72-1203",
       "number": 72,
-      "text": "“Dois e sessenta ano”. A mesma forma inusual do v. 17.",
-      "raw_html": "<span>“Dois e sessenta ano”. A mesma forma inusual do v. 17. </span>"
+      "text": "“Mudança” (shanah). Singular mesmo. 895 anos.",
+      "raw_html": "<span>“Mudança” (<em>shanah</em>). Singular mesmo. 895 anos. </span>"
     },
     {
       "ref_id": "fn73-1203",
       "number": 73,
-      "text": "“Ano” (shanah). Singular mesmo. 162 anos.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. 162 anos. </span>"
+      "text": "“Dois e sessenta ano”. A mesma forma inusual do v. 17.",
+      "raw_html": "<span>“Dois e sessenta ano”. A mesma forma inusual do v. 17. </span>"
     },
     {
       "ref_id": "fn74-1203",
       "number": 74,
-      "text": "Trata-se de nosso famoso Enoque. A pronúncia seria oxítona: rranór, com o r final gutural.",
-      "raw_html": "<span>Trata-se de nosso famoso Enoque. A pronúncia seria oxítona:<em> rranór</em>, com o <em>r</em> final gutural. </span>"
+      "text": "“Ano” (shanah). Singular mesmo. 162 anos.",
+      "raw_html": "<span>“Ano” (<em>shanah</em>). Singular mesmo. 162 anos. </span>"
     },
     {
       "ref_id": "fn75-1203",
       "number": 75,
-      "text": "800 anos.",
-      "raw_html": "<span>800 anos. </span>"
+      "text": "Trata-se de nosso famoso Enoque. A pronúncia seria oxítona: rranór, com o r final gutural.",
+      "raw_html": "<span>Trata-se de nosso famoso Enoque. A pronúncia seria oxítona:<em> rranór</em>, com o <em>r</em> final gutural. </span>"
     },
     {
       "ref_id": "fn76-1203",
       "number": 76,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“Oito” (shemoneh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0503\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0503\" rel=\"noopener\" target=\"_blank\">Oito</a>” (<em>shemoneh</em>). </span>"
     },
     {
       "ref_id": "fn77-1203",
       "number": 77,
-      "text": "“E estão eles” (wayyihyu).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACF\" rel=\"noreferrer noopener\" target=\"_blank\">E estão eles</a>” (<em>wayyihyu</em>). </span>"
+      "text": "800 anos.",
+      "raw_html": "<span>800 anos. </span>"
     },
     {
       "ref_id": "fn78-1203",
       "number": 78,
-      "text": "962 anos totais.",
-      "raw_html": "<span>962 anos totais. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn79-1203",
       "number": 79,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“E estão eles” (wayyihyu).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACF\" rel=\"noreferrer noopener\" target=\"_blank\">E estão eles</a>” (<em>wayyihyu</em>). </span>"
     },
     {
       "ref_id": "fn80-1203",
       "number": 80,
-      "text": "Permitam o trocadilho: nosso “velho” Matusalém. Lê-se metushalár",
-      "raw_html": "<span>Permitam o trocadilho: nosso “velho” Matusalém. Lê-se <em>metushalár</em> </span>"
+      "text": "962 anos totais.",
+      "raw_html": "<span>962 anos totais. </span>"
     },
     {
       "ref_id": "fn81-1203",
       "number": 81,
-      "text": "“Anda-se” (hlk). Cf. Gênesis 2,14; 3,8; 5,24; 7,18; 8,3.5; 9,23. Aqui, trata-se da forma reflexiva da raiz. A mesma declaração será feita a respeito de Noé em Gênesis 6,9.",
-      "raw_html": "<span>“Anda-se” (<em>hlk</em>). Cf. Gênesis 2,14; 3,8; 5,24; 7,18; 8,3.5; 9,23. Aqui, trata-se da forma reflexiva da raiz. A mesma declaração será feita a respeito de Noé em Gênesis 6,9. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn82-1203",
       "number": 82,
-      "text": "“Com o deus” traduz o hebraico ‘et-ha’eolohim“. O artigo prefixado a ‘elohim indica que o termo foi usado não como nome próprio, mas como termo designativo de categoria de identidade: “um deus” (ou “deuses”). Mas, como é determinado, tem artigo, “o deus” (ou “os deuses”). Certamente se trata, a despeito da estratégia sintática, de Elohim. Estamos diante de uma questão relevante. Vimos acima que Gênesis 5 depende ao mesmo tempo de Gênesis 1 e de Gênesis 2-3. Em Gênesis 1, o termo que designa a divindade é Elohim, e em Gênesis 2-3, Yahweh Elohim. Se o redator de Gênesis 5 conhece Gênesis 2-3, por que ele não emprega o nome Yahweh em sua redação? Por que ele se obriga a empregar o termo ‘elohim tanto quanto nome (Gênesis 5,1: Elohim) quanto como termo designativo de identidade (Gênesis 5,22.24: ha’elohim, “o deus”)? Arrisco uma hipótese: será correto especular que a presença de Yahweh ao lado do termo ‘elohim na fórmula de Gênesis 2,4b-3,24, Yahweh Elohim, não é original, e apenas constasse do texto original empregado pelo redator de Gênesis 5 a mesma expressão de Gênesis 1,1-2,4a (Elohim)?",
-      "raw_html": "<span>“Com o deus” traduz o hebraico <em>‘et-ha’eolohim</em>“. O artigo prefixado a <em>‘elohim</em> indica que o termo foi usado não como nome próprio, mas como termo designativo de categoria de identidade: “um deus” (ou “deuses”). Mas, como é determinado, tem artigo, “o deus” (ou “os deuses”). Certamente se trata, a despeito da estratégia sintática, de Elohim. Estamos diante de uma questão relevante. Vimos acima que Gênesis 5 depende ao mesmo tempo de Gênesis 1 e de Gênesis 2-3. Em Gênesis 1, o termo que designa a divindade é Elohim, e em Gênesis 2-3, Yahweh Elohim. Se o redator de Gênesis 5 conhece Gênesis 2-3, por que ele não emprega o nome Yahweh em sua redação? Por que ele se obriga a empregar o termo <em>‘elohim</em> tanto quanto nome (Gênesis 5,1: Elohim) quanto como termo designativo de identidade (Gênesis 5,22.24: <em>ha’elohim</em>, “o deus”)? Arrisco uma hipótese: será correto especular que a presença de Yahweh ao lado do termo <em>‘elohim</em> na fórmula de Gênesis 2,4b-3,24, Yahweh Elohim, não é original, e apenas constasse do texto original empregado pelo redator de Gênesis 5 a mesma expressão de Gênesis 1,1-2,4a (Elohim)? </span>"
+      "text": "Permitam o trocadilho: nosso “velho” Matusalém. Lê-se metushalár",
+      "raw_html": "<span>Permitam o trocadilho: nosso “velho” Matusalém. Lê-se <em>metushalár</em> </span>"
     },
     {
       "ref_id": "fn83-1203",
       "number": 83,
-      "text": "A grafia diverge ligeiramente da forma grafada no v. 21.",
-      "raw_html": "<span>A grafia diverge ligeiramente da forma grafada no v. 21. </span>"
+      "text": "“Anda-se” (hlk). Cf. Gênesis 2,14; 3,8; 5,24; 7,18; 8,3.5; 9,23. Aqui, trata-se da forma reflexiva da raiz. A mesma declaração será feita a respeito de Noé em Gênesis 6,9.",
+      "raw_html": "<span>“Anda-se” (<em>hlk</em>). Cf. Gênesis 2,14; 3,8; 5,24; 7,18; 8,3.5; 9,23. Aqui, trata-se da forma reflexiva da raiz. A mesma declaração será feita a respeito de Noé em Gênesis 6,9. </span>"
     },
     {
       "ref_id": "fn84-1203",
       "number": 84,
-      "text": "“Três de” (shelosh). Primeira de 60 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00121\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00121\">Três de</a>” (<em>shelosh</em>). Primeira de 60 ocorrências. </span>"
+      "text": "“Com o deus” traduz o hebraico ‘et-ha’eolohim“. O artigo prefixado a ‘elohim indica que o termo foi usado não como nome próprio, mas como termo designativo de categoria de identidade: “um deus” (ou “deuses”). Mas, como é determinado, tem artigo, “o deus” (ou “os deuses”). Certamente se trata, a despeito da estratégia sintática, de Elohim. Estamos diante de uma questão relevante. Vimos acima que Gênesis 5 depende ao mesmo tempo de Gênesis 1 e de Gênesis 2-3. Em Gênesis 1, o termo que designa a divindade é Elohim, e em Gênesis 2-3, Yahweh Elohim. Se o redator de Gênesis 5 conhece Gênesis 2-3, por que ele não emprega o nome Yahweh em sua redação? Por que ele se obriga a empregar o termo ‘elohim tanto quanto nome (Gênesis 5,1: Elohim) quanto como termo designativo de identidade (Gênesis 5,22.24: ha’elohim, “o deus”)? Arrisco uma hipótese: será correto especular que a presença de Yahweh ao lado do termo ‘elohim na fórmula de Gênesis 2,4b-3,24, Yahweh Elohim, não é original, e apenas constasse do texto original empregado pelo redator de Gênesis 5 a mesma expressão de Gênesis 1,1-2,4a (Elohim)?",
+      "raw_html": "<span>“Com o deus” traduz o hebraico <em>‘et-ha’eolohim</em>“. O artigo prefixado a <em>‘elohim</em> indica que o termo foi usado não como nome próprio, mas como termo designativo de categoria de identidade: “um deus” (ou “deuses”). Mas, como é determinado, tem artigo, “o deus” (ou “os deuses”). Certamente se trata, a despeito da estratégia sintática, de Elohim. Estamos diante de uma questão relevante. Vimos acima que Gênesis 5 depende ao mesmo tempo de Gênesis 1 e de Gênesis 2-3. Em Gênesis 1, o termo que designa a divindade é Elohim, e em Gênesis 2-3, Yahweh Elohim. Se o redator de Gênesis 5 conhece Gênesis 2-3, por que ele não emprega o nome Yahweh em sua redação? Por que ele se obriga a empregar o termo <em>‘elohim</em> tanto quanto nome (Gênesis 5,1: Elohim) quanto como termo designativo de identidade (Gênesis 5,22.24: <em>ha’elohim</em>, “o deus”)? Arrisco uma hipótese: será correto especular que a presença de Yahweh ao lado do termo <em>‘elohim</em> na fórmula de Gênesis 2,4b-3,24, Yahweh Elohim, não é original, e apenas constasse do texto original empregado pelo redator de Gênesis 5 a mesma expressão de Gênesis 1,1-2,4a (Elohim)? </span>"
     },
     {
       "ref_id": "fn85-1203",
       "number": 85,
-      "text": "“Três de centenas de ano” (shelosh me’ot). 300 anos. Primeira de 47 ocorrências. Cf. Gênesis 5,22; 6,15; 9,28; 45,22; Números 26,25.",
-      "raw_html": "<span>“Três de centenas de ano” (<em>shelosh me’ot</em>). 300 anos. Primeira de 47 ocorrências. Cf. Gênesis 5,22; 6,15; 9,28; 45,22; Números 26,25. </span>"
+      "text": "A grafia diverge ligeiramente da forma grafada no v. 21.",
+      "raw_html": "<span>A grafia diverge ligeiramente da forma grafada no v. 21. </span>"
     },
     {
       "ref_id": "fn86-1203",
       "number": 86,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“Três de” (shelosh). Primeira de 60 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00121\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00121\">Três de</a>” (<em>shelosh</em>). Primeira de 60 ocorrências. </span>"
     },
     {
       "ref_id": "fn87-1203",
       "number": 87,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“Três de centenas de ano” (shelosh me’ot). 300 anos. Primeira de 47 ocorrências. Cf. Gênesis 5,22; 6,15; 9,28; 45,22; Números 26,25.",
+      "raw_html": "<span>“Três de centenas de ano” (<em>shelosh me’ot</em>). 300 anos. Primeira de 47 ocorrências. Cf. Gênesis 5,22; 6,15; 9,28; 45,22; Números 26,25. </span>"
     },
     {
       "ref_id": "fn88-1203",
       "number": 88,
-      "text": "365 anos. Chama a atenção tratar-se de uma possível referência ao calendário solar.",
-      "raw_html": "<span>365 anos. Chama a atenção tratar-se de uma possível referência ao calendário solar. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn89-1203",
       "number": 89,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn90-1203",
       "number": 90,
-      "text": "“Anda-se” (hlk). Cf. v. 22.",
-      "raw_html": "<span>“Anda-se” (<em>hlk</em>). Cf. v. 22. </span>"
+      "text": "365 anos. Chama a atenção tratar-se de uma possível referência ao calendário solar.",
+      "raw_html": "<span>365 anos. Chama a atenção tratar-se de uma possível referência ao calendário solar. </span>"
     },
     {
       "ref_id": "fn91-1203",
       "number": 91,
-      "text": "Cf. v. 22.",
-      "raw_html": "<span>Cf. v. 22. </span>"
-    },
-    {
-      "ref_id": "fn92-1203",
-      "number": 92,
-      "text": "“Não está” (‘ayin). Cf. Gênesis 2,5; 7,8; 11,30; 19,31; 20,7.11.",
-      "raw_html": "<span>“Não está” (<em>‘ayin</em>). Cf. Gênesis 2,5; 7,8; 11,30; 19,31; 20,7.11. </span>"
-    },
-    {
-      "ref_id": "fn93-1203",
-      "number": 93,
-      "text": "A expressão ve’enennu significaria literalmente “e não (está) ele”. Não se trata de uma expressão ontológica, mas concreta, que aponta para o fato de que Enoque agora está ali, e, depois, não está mais, porque Elohim o tomou para si. Trata-se literalmente da ideia de que Elohim não permite a Enoque morrer. Todos os mencionados em Gênesis 5, cuja história termina no próprio capítulo, morrem, exceto Enoque. Isso só pode significar que Elohim o levou para si. Não se trata, absolutamente, aqui, da ideia doutrinária moderna de Enoque “ter ido para o céu”, pensando-se a ideia como o destino dos “salvos”. No Antigo Testamento, o homem não vai para o céu. Enquanto perdura a crença na vida além da sepultura, os homens destinam-se ao sheol. Enoque é levado por Elohim para a morada do próprio Elohim. Estamos diante de um fato que só não é inédito na Bíblia Hebraica por conta do mesmo que será dito de Elias: Enoque vai para o mundo dos ‘elohim, para o mundo de Elohim, para o mundo celeste, onde homem algum vai e pode ir. Para além dessa particular constatação, anote-se que Enoque furta-se à condenação de Yahweh Elohim em Gênesis 2,4b-3,24. Ao narrador pareceu possível imaginar (porque se trata de mito, obviamente, a história toda) ser possível para Elohim contornar sua própria acusação, condenação e sentença, de morte, aos homens, a saber, aos judeus, já que tais narrativas são, na origem e para todos os fins, a eles destinados.",
-      "raw_html": "<span>A expressão <em>ve’enennu</em> significaria literalmente “e não (está) ele”. Não se trata de uma expressão ontológica, mas concreta, que aponta para o fato de que Enoque agora está ali, e, depois, não está mais, porque Elohim o tomou para si. Trata-se literalmente da ideia de que Elohim não permite a Enoque morrer. Todos os mencionados em Gênesis 5, cuja história termina no próprio capítulo, morrem, exceto Enoque. Isso só pode significar que Elohim o levou para si. Não se trata, absolutamente, aqui, da ideia doutrinária moderna de Enoque “ter ido para o céu”, pensando-se a ideia como o destino dos “salvos”. No Antigo Testamento, o homem não vai para o céu. Enquanto perdura a crença na vida além da sepultura, os homens destinam-se ao <em>sheol</em>. Enoque é levado por Elohim para a morada do próprio Elohim. Estamos diante de um fato que só não é inédito na Bíblia Hebraica por conta do mesmo que será dito de Elias: Enoque vai para o mundo dos <em>‘elohim</em>, para o mundo de Elohim, para o mundo celeste, onde homem algum vai e pode ir. Para além dessa particular constatação, anote-se que Enoque furta-se à condenação de Yahweh Elohim em Gênesis 2,4b-3,24. Ao narrador pareceu possível imaginar (porque se trata de mito, obviamente, a história toda) ser possível para Elohim contornar sua própria acusação, condenação e sentença, de morte, aos homens, a saber, aos judeus, já que tais narrativas são, na origem e para todos os fins, a eles destinados. </span>"
-    },
-    {
-      "ref_id": "fn94-1203",
-      "number": 94,
-      "text": "“Que” (ki). Cf. Gênesis 1,4.10.12.18.21.25; 2.3.5.17.23; 3,1.5.6.7.10.11.14.17.19.20; 4,12.23.24.25.",
-      "raw_html": "<span>“Que” (<em>ki</em>). Cf. Gênesis 1,4.10.12.18.21.25; 2.3.5.17.23; 3,1.5.6.7.10.11.14.17.19.20; 4,12.23.24.25. </span>"
-    },
-    {
-      "ref_id": "fn95-1203",
-      "number": 95,
-      "text": "“E oitenta” (ushemonim). Primeira de 11 ocorrências. Cf. Gênesis 2,5.28; 35,28; Êxodo 7,7; Números 2,9; 4,48.",
-      "raw_html": "<span>“E oitenta” (<em>ushemonim</em>). Primeira de 11 ocorrências. Cf. Gênesis 2,5.28; 35,28; Êxodo 7,7; Números 2,9; 4,48. </span>"
-    },
-    {
-      "ref_id": "fn96-1203",
-      "number": 96,
-      "text": "187 anos.",
-      "raw_html": "<span>187 anos. </span>"
-    },
-    {
-      "ref_id": "fn97-1203",
-      "number": 97,
-      "text": "Lê-se lêmer.",
-      "raw_html": "<span>Lê-se <em>lêmer</em>. </span>"
-    },
-    {
-      "ref_id": "fn98-1203",
-      "number": 98,
-      "text": "“Oitenta” (shemonim). Primeira de 16 ocorrências. O termo shemonim (“oitenta”) é formado com o plural do termo shemoneh (“oito”). Fico tentado a traduzir o último como “oito” e o primeiro como “oitos” (= oitenta).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0064\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0064\" rel=\"noopener\" target=\"_blank\">Oitenta</a>” (<em>shemonim</em>). Primeira de 16 ocorrências. O termo <em>shemonim</em> (“oitenta”) é formado com o plural do termo <em>shemoneh </em>(“oito”). Fico tentado a traduzir o último como “oito” e o primeiro como “oitos” (= oitenta). </span>"
-    },
-    {
-      "ref_id": "fn99-1203",
-      "number": 99,
-      "text": "“Sete de centenas” (usheba’ me’ot). Cf. Gênesis 5,26.31; Êxodo 38,24.25; Números 1,39; 2,26; 17,14; 26,7.34.",
-      "raw_html": "<span>“Sete de centenas” (<em>usheba’ me’ot</em>). Cf. Gênesis 5,26.31; Êxodo 38,24.25; Números 1,39; 2,26; 17,14; 26,7.34. </span>"
-    },
-    {
-      "ref_id": "fn100-1203",
-      "number": 100,
-      "text": "782 anos.",
-      "raw_html": "<span>782 anos. </span>"
-    },
-    {
-      "ref_id": "fn101-1203",
-      "number": 101,
       "text": "“Centenas de mudança” (me’ot shanah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
+      "ref_id": "fn92-1203",
+      "number": 92,
+      "text": "“Anda-se” (hlk). Cf. v. 22.",
+      "raw_html": "<span>“Anda-se” (<em>hlk</em>). Cf. v. 22. </span>"
+    },
+    {
+      "ref_id": "fn93-1203",
+      "number": 93,
+      "text": "Cf. v. 22.",
+      "raw_html": "<span>Cf. v. 22. </span>"
+    },
+    {
+      "ref_id": "fn94-1203",
+      "number": 94,
+      "text": "“Não está” (‘ayin). Cf. Gênesis 2,5; 7,8; 11,30; 19,31; 20,7.11.",
+      "raw_html": "<span>“Não está” (<em>‘ayin</em>). Cf. Gênesis 2,5; 7,8; 11,30; 19,31; 20,7.11. </span>"
+    },
+    {
+      "ref_id": "fn95-1203",
+      "number": 95,
+      "text": "A expressão ve’enennu significaria literalmente “e não (está) ele”. Não se trata de uma expressão ontológica, mas concreta, que aponta para o fato de que Enoque agora está ali, e, depois, não está mais, porque Elohim o tomou para si. Trata-se literalmente da ideia de que Elohim não permite a Enoque morrer. Todos os mencionados em Gênesis 5, cuja história termina no próprio capítulo, morrem, exceto Enoque. Isso só pode significar que Elohim o levou para si. Não se trata, absolutamente, aqui, da ideia doutrinária moderna de Enoque “ter ido para o céu”, pensando-se a ideia como o destino dos “salvos”. No Antigo Testamento, o homem não vai para o céu. Enquanto perdura a crença na vida além da sepultura, os homens destinam-se ao sheol. Enoque é levado por Elohim para a morada do próprio Elohim. Estamos diante de um fato que só não é inédito na Bíblia Hebraica por conta do mesmo que será dito de Elias: Enoque vai para o mundo dos ‘elohim, para o mundo de Elohim, para o mundo celeste, onde homem algum vai e pode ir. Para além dessa particular constatação, anote-se que Enoque furta-se à condenação de Yahweh Elohim em Gênesis 2,4b-3,24. Ao narrador pareceu possível imaginar (porque se trata de mito, obviamente, a história toda) ser possível para Elohim contornar sua própria acusação, condenação e sentença, de morte, aos homens, a saber, aos judeus, já que tais narrativas são, na origem e para todos os fins, a eles destinados.",
+      "raw_html": "<span>A expressão <em>ve’enennu</em> significaria literalmente “e não (está) ele”. Não se trata de uma expressão ontológica, mas concreta, que aponta para o fato de que Enoque agora está ali, e, depois, não está mais, porque Elohim o tomou para si. Trata-se literalmente da ideia de que Elohim não permite a Enoque morrer. Todos os mencionados em Gênesis 5, cuja história termina no próprio capítulo, morrem, exceto Enoque. Isso só pode significar que Elohim o levou para si. Não se trata, absolutamente, aqui, da ideia doutrinária moderna de Enoque “ter ido para o céu”, pensando-se a ideia como o destino dos “salvos”. No Antigo Testamento, o homem não vai para o céu. Enquanto perdura a crença na vida além da sepultura, os homens destinam-se ao <em>sheol</em>. Enoque é levado por Elohim para a morada do próprio Elohim. Estamos diante de um fato que só não é inédito na Bíblia Hebraica por conta do mesmo que será dito de Elias: Enoque vai para o mundo dos <em>‘elohim</em>, para o mundo de Elohim, para o mundo celeste, onde homem algum vai e pode ir. Para além dessa particular constatação, anote-se que Enoque furta-se à condenação de Yahweh Elohim em Gênesis 2,4b-3,24. Ao narrador pareceu possível imaginar (porque se trata de mito, obviamente, a história toda) ser possível para Elohim contornar sua própria acusação, condenação e sentença, de morte, aos homens, a saber, aos judeus, já que tais narrativas são, na origem e para todos os fins, a eles destinados. </span>"
+    },
+    {
+      "ref_id": "fn96-1203",
+      "number": 96,
+      "text": "“Que” (ki). Cf. Gênesis 1,4.10.12.18.21.25; 2.3.5.17.23; 3,1.5.6.7.10.11.14.17.19.20; 4,12.23.24.25.",
+      "raw_html": "<span>“Que” (<em>ki</em>). Cf. Gênesis 1,4.10.12.18.21.25; 2.3.5.17.23; 3,1.5.6.7.10.11.14.17.19.20; 4,12.23.24.25. </span>"
+    },
+    {
+      "ref_id": "fn97-1203",
+      "number": 97,
+      "text": "“E oitenta” (ushemonim). Primeira de 11 ocorrências. Cf. Gênesis 2,5.28; 35,28; Êxodo 7,7; Números 2,9; 4,48.",
+      "raw_html": "<span>“E oitenta” (<em>ushemonim</em>). Primeira de 11 ocorrências. Cf. Gênesis 2,5.28; 35,28; Êxodo 7,7; Números 2,9; 4,48. </span>"
+    },
+    {
+      "ref_id": "fn98-1203",
+      "number": 98,
+      "text": "187 anos.",
+      "raw_html": "<span>187 anos. </span>"
+    },
+    {
+      "ref_id": "fn99-1203",
+      "number": 99,
+      "text": "Lê-se lêmer.",
+      "raw_html": "<span>Lê-se <em>lêmer</em>. </span>"
+    },
+    {
+      "ref_id": "fn100-1203",
+      "number": 100,
+      "text": "“Oitenta” (shemonim). Primeira de 16 ocorrências. O termo shemonim (“oitenta”) é formado com o plural do termo shemoneh (“oito”). Fico tentado a traduzir o último como “oito” e o primeiro como “oitos” (= oitenta).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0064\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0064\" rel=\"noopener\" target=\"_blank\">Oitenta</a>” (<em>shemonim</em>). Primeira de 16 ocorrências. O termo <em>shemonim</em> (“oitenta”) é formado com o plural do termo <em>shemoneh </em>(“oito”). Fico tentado a traduzir o último como “oito” e o primeiro como “oitos” (= oitenta). </span>"
+    },
+    {
+      "ref_id": "fn101-1203",
+      "number": 101,
+      "text": "“Sete de centenas” (usheba’ me’ot). Cf. Gênesis 5,26.31; Êxodo 38,24.25; Números 1,39; 2,26; 17,14; 26,7.34.",
+      "raw_html": "<span>“Sete de centenas” (<em>usheba’ me’ot</em>). Cf. Gênesis 5,26.31; Êxodo 38,24.25; Números 1,39; 2,26; 17,14; 26,7.34. </span>"
+    },
+    {
       "ref_id": "fn102-1203",
       "number": 102,
-      "text": "969 anos.",
-      "raw_html": "<span>969 anos. </span>"
+      "text": "782 anos.",
+      "raw_html": "<span>782 anos. </span>"
     },
     {
       "ref_id": "fn103-1203",
@@ -1585,90 +1595,102 @@
     {
       "ref_id": "fn104-1203",
       "number": 104,
-      "text": "182 anos.",
-      "raw_html": "<span>182 anos. </span>"
+      "text": "969 anos.",
+      "raw_html": "<span>969 anos. </span>"
     },
     {
       "ref_id": "fn105-1203",
       "number": 105,
-      "text": "Lê-se nôar.",
-      "raw_html": "<span>Lê-se <em>nôar</em>. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn106-1203",
       "number": 106,
-      "text": "“Consola ele” (nhm). Forma intensiva infinitiva da raiz. Primeira de 100 ocorrências. Grosso modo, a forma passiva se traduz “arrepender”, e a forma intensiva se traduz “consolar”. Mas há passagens em que o uso da forma passiva confunde-se com o sentido da intensiva, o que precisa ser determinado caso a caso.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAIK\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/AAAIK\">Consola ele</a>” (<em>nhm</em>). Forma intensiva infinitiva da raiz. Primeira de 100 ocorrências. Grosso modo, a forma passiva se traduz “arrepender”, e a forma intensiva se traduz “consolar”. Mas há passagens em que o uso da forma passiva confunde-se com o sentido da intensiva, o que precisa ser determinado caso a caso. </span>"
+      "text": "182 anos.",
+      "raw_html": "<span>182 anos. </span>"
     },
     {
       "ref_id": "fn107-1203",
       "number": 107,
-      "text": "“Afazer” (ma’aseh). Primeira ocorrência do termo. Cf. Gênesis 5,29; 20,9; 40,17; 44,15; 46,33; 47,3; Êxodo 5,4.",
-      "raw_html": "<span>“Afazer” (<em>ma’aseh</em>). Primeira ocorrência do termo. Cf. Gênesis 5,29; 20,9; 40,17; 44,15; 46,33; 47,3; Êxodo 5,4. </span>"
+      "text": "Lê-se nôar.",
+      "raw_html": "<span>Lê-se <em>nôar</em>. </span>"
     },
     {
       "ref_id": "fn108-1203",
       "number": 108,
-      "text": "“Sofrimento” (‘itstsabon). Cf. Gênesis 3,16.17.",
-      "raw_html": "<span>“Sofrimento” (<em>‘itstsabon</em>). Cf. Gênesis 3,16.17. </span>"
+      "text": "“Consola ele” (nhm). Forma intensiva infinitiva da raiz. Primeira de 100 ocorrências. Grosso modo, a forma passiva se traduz “arrepender”, e a forma intensiva se traduz “consolar”. Mas há passagens em que o uso da forma passiva confunde-se com o sentido da intensiva, o que precisa ser determinado caso a caso.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAIK\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/AAAIK\">Consola ele</a>” (<em>nhm</em>). Forma intensiva infinitiva da raiz. Primeira de 100 ocorrências. Grosso modo, a forma passiva se traduz “arrepender”, e a forma intensiva se traduz “consolar”. Mas há passagens em que o uso da forma passiva confunde-se com o sentido da intensiva, o que precisa ser determinado caso a caso. </span>"
     },
     {
       "ref_id": "fn109-1203",
       "number": 109,
-      "text": "“Desde” (min). Cf. Gênesis 1,7. Aqui, o sentido é “por causa de”.",
-      "raw_html": "<span>“Desde” (<em>min</em>). Cf. Gênesis 1,7. Aqui, o sentido é “por causa de”. </span>"
+      "text": "“Afazer” (ma’aseh). Primeira ocorrência do termo. Cf. Gênesis 5,29; 20,9; 40,17; 44,15; 46,33; 47,3; Êxodo 5,4.",
+      "raw_html": "<span>“Afazer” (<em>ma’aseh</em>). Primeira ocorrência do termo. Cf. Gênesis 5,29; 20,9; 40,17; 44,15; 46,33; 47,3; Êxodo 5,4. </span>"
     },
     {
       "ref_id": "fn110-1203",
       "number": 110,
-      "text": "“Esconjurou” (‘rr. Forma intensiva da raiz. Trata-se do mesmo verbo de Gênesis 3,14.17, repetido em Gênesis 4,11. Todavia, naquelas ocorrências se empregou a forma menos intensiva do verbo. Aqui é sua forma mais forte. Optei por “esconjurar”, ao menos para diferenciar de “amaldiçoar”. Estamos diante de evidência da dependência de Gênesis 5 em relação a Gênesis 2-3.",
-      "raw_html": "<span>“Esconjurou” (<em>‘rr</em>. Forma intensiva da raiz. Trata-se do mesmo verbo de Gênesis 3,14.17, repetido em Gênesis 4,11. Todavia, naquelas ocorrências se empregou a forma menos intensiva do verbo. Aqui é sua forma mais forte. Optei por “esconjurar”, ao menos para diferenciar de “amaldiçoar”. Estamos diante de evidência da dependência de Gênesis 5 em relação a Gênesis 2-3. </span>"
+      "text": "“Sofrimento” (‘itstsabon). Cf. Gênesis 3,16.17.",
+      "raw_html": "<span>“Sofrimento” (<em>‘itstsabon</em>). Cf. Gênesis 3,16.17. </span>"
     },
     {
       "ref_id": "fn111-1203",
       "number": 111,
-      "text": "595 anos.",
-      "raw_html": "<span>595 anos. </span>"
+      "text": "“Desde” (min). Cf. Gênesis 1,7. Aqui, o sentido é “por causa de”.",
+      "raw_html": "<span>“Desde” (<em>min</em>). Cf. Gênesis 1,7. Aqui, o sentido é “por causa de”. </span>"
     },
     {
       "ref_id": "fn112-1203",
       "number": 112,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“Esconjurou” (‘rr. Forma intensiva da raiz. Trata-se do mesmo verbo de Gênesis 3,14.17, repetido em Gênesis 4,11. Todavia, naquelas ocorrências se empregou a forma menos intensiva do verbo. Aqui é sua forma mais forte. Optei por “esconjurar”, ao menos para diferenciar de “amaldiçoar”. Estamos diante de evidência da dependência de Gênesis 5 em relação a Gênesis 2-3.",
+      "raw_html": "<span>“Esconjurou” (<em>‘rr</em>. Forma intensiva da raiz. Trata-se do mesmo verbo de Gênesis 3,14.17, repetido em Gênesis 4,11. Todavia, naquelas ocorrências se empregou a forma menos intensiva do verbo. Aqui é sua forma mais forte. Optei por “esconjurar”, ao menos para diferenciar de “amaldiçoar”. Estamos diante de evidência da dependência de Gênesis 5 em relação a Gênesis 2-3. </span>"
     },
     {
       "ref_id": "fn113-1203",
       "number": 113,
-      "text": "“E setenta” (weshib’im). Primeira de 24 ocorrências. Cf. Gênesis 5,31; 12,4; 25,7; Êxodo 15,27; 24,1.9; 38,25.28; Números 1,27; 2,4; 3,43; 7,85.",
-      "raw_html": "<span>“E setenta” (<em>weshib’im</em>). Primeira de 24 ocorrências. Cf. Gênesis 5,31; 12,4; 25,7; Êxodo 15,27; 24,1.9; 38,25.28; Números 1,27; 2,4; 3,43; 7,85. </span>"
+      "text": "595 anos.",
+      "raw_html": "<span>595 anos. </span>"
     },
     {
       "ref_id": "fn114-1203",
       "number": 114,
-      "text": "777 anos. Certamente fictício, é provavelmente um número simbólico.",
-      "raw_html": "<span>777 anos. Certamente fictício, é provavelmente um número simbólico. </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn115-1203",
       "number": 115,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "“E setenta” (weshib’im). Primeira de 24 ocorrências. Cf. Gênesis 5,31; 12,4; 25,7; Êxodo 15,27; 24,1.9; 38,25.28; Números 1,27; 2,4; 3,43; 7,85.",
+      "raw_html": "<span>“E setenta” (<em>weshib’im</em>). Primeira de 24 ocorrências. Cf. Gênesis 5,31; 12,4; 25,7; Êxodo 15,27; 24,1.9; 38,25.28; Números 1,27; 2,4; 3,43; 7,85. </span>"
     },
     {
       "ref_id": "fn116-1203",
       "number": 116,
-      "text": "“Centenas de mudança” (me’ot shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+      "text": "777 anos. Certamente fictício, é provavelmente um número simbólico.",
+      "raw_html": "<span>777 anos. Certamente fictício, é provavelmente um número simbólico. </span>"
     },
     {
       "ref_id": "fn117-1203",
       "number": 117,
-      "text": "Pronuncia-se rram, ou como o h em “house”, ou como j em “mujer”.",
-      "raw_html": "<span>Pronuncia-se <em>rram</em>, ou como o <em>h</em> em “house”, ou como <em>j</em> em “mujer”. </span>"
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
     },
     {
       "ref_id": "fn118-1203",
       "number": 118,
+      "text": "“Centenas de mudança” (me’ot shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0072\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0072\" rel=\"noopener\" target=\"_blank\">Centenas de mudança</a>” (<em>me’ot shanah</em>). </span>"
+    },
+    {
+      "ref_id": "fn119-1203",
+      "number": 119,
+      "text": "Pronuncia-se rram, ou como o h em “house”, ou como j em “mujer”.",
+      "raw_html": "<span>Pronuncia-se <em>rram</em>, ou como o <em>h</em> em “house”, ou como <em>j</em> em “mujer”. </span>"
+    },
+    {
+      "ref_id": "fn120-1203",
+      "number": 120,
       "text": "Pronuncia-se yéfet. Os mais do que famosos filhos de Noé: Sem, Cão e Jafé, em nossas traduções correntes.",
       "raw_html": "<span>Pronuncia-se <em>yéfet</em>. Os mais do que famosos filhos de Noé: Sem, Cão e Jafé, em nossas traduções correntes. </span>"
     }
