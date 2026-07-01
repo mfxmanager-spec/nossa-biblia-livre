@@ -1199,7 +1199,7 @@
     },
     {
       "number": 23,
-      "text": "E diz. Para ela. ‘Elqanah. O homem dela. Faze tu o bom. Nos olhos de ti. Assenta tu. Até o desmamar de ti ele. Somente faz erguer Yahweh. O falado dele. E assenta a mulher. E faz ela chupar. O filho dela. Até o desmamar dela ele.",
+      "text": "E diz. Para ela. ‘Elqanah. O homem dela. Faze tu. O bom. Nos olhos de ti. Assenta tu. Até o desmamar de ti ele. Somente faz erguer Yahweh. O falado dele. E assenta a mulher. E faz ela chupar. O filho dela. Até o desmamar dela ele.",
       "lines": [
         {
           "line_index": 0,
@@ -1223,51 +1223,56 @@
         },
         {
           "line_index": 4,
-          "text": "Faze tu o bom.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Faze tu<a name=\"rf168-20827\"></a><sup><a href=\"#fn168-20827\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup> o bom.</p>"
+          "text": "Faze tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Faze tu<a name=\"rf168-20827\"></a><sup><a href=\"#fn168-20827\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup>.</p>"
         },
         {
           "line_index": 5,
+          "text": "O bom.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O bom.</p>"
+        },
+        {
+          "line_index": 6,
           "text": "Nos olhos de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">Nos olhos de ti<a name=\"rf169-20827\"></a><sup><a href=\"#fn169-20827\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Assenta tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">Assenta tu<a name=\"rf170-20827\"></a><sup><a href=\"#fn170-20827\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "Até o desmamar de ti ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Até o desmamar de ti ele.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "Somente faz erguer Yahweh.",
           "raw_html": "<p class=\"wp-block-paragraph\">Somente faz erguer<a name=\"rf171-20827\"></a><sup><a href=\"#fn171-20827\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup> Yahweh.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "O falado dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">O falado dele.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "E assenta a mulher.",
           "raw_html": "<p class=\"wp-block-paragraph\">E assenta<a name=\"rf172-20827\"></a><sup><a href=\"#fn172-20827\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup> a mulher.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "E faz ela chupar.",
           "raw_html": "<p class=\"wp-block-paragraph\">E faz ela chupar.</p>"
         },
         {
-          "line_index": 12,
+          "line_index": 13,
           "text": "O filho dela.",
           "raw_html": "<p class=\"wp-block-paragraph\">O filho dela<a name=\"rf173-20827\"></a><sup><a href=\"#fn173-20827\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 173\">173</a></sup>.</p>"
         },
         {
-          "line_index": 13,
+          "line_index": 14,
           "text": "Até o desmamar dela ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Até o desmamar dela ele.</p>"
         }
@@ -1861,8 +1866,8 @@
     {
       "ref_id": "fn54-20827",
       "number": 54,
-      "text": "“Faz ele” (‘sh). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25.",
-      "raw_html": "<span>“Faz ele” (<em>‘sh</em>). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; <mark class=\"has-inline-color has-black-color\" style=\"background-color:rgba(0, 0, 0, 0)\">8,1.2.3.27.35</mark>; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25. </span>"
+      "text": "“Faz ele” (‘sh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAHA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHA\" rel=\"noopener\" target=\"_blank\">Faz ele</a>” (<em>‘sh</em>). </span>"
     },
     {
       "ref_id": "fn55-20827",
@@ -2545,8 +2550,8 @@
     {
       "ref_id": "fn168-20827",
       "number": 168,
-      "text": "“Faze tu” (‘sh). Forma imperativa da raiz. Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25.",
-      "raw_html": "<span>“Faze tu” (<em>‘sh</em>). Forma imperativa da raiz. Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; <mark class=\"has-inline-color has-black-color\" style=\"background-color:rgba(0, 0, 0, 0)\">8,1.2.3.27.35</mark>; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25. </span>"
+      "text": "“Faze tu” (‘sh). Forma imperativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAHA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHA\" rel=\"noopener\" target=\"_blank\">Faze tu</a>” (<em>‘sh</em>). Forma imperativa da raiz. </span>"
     },
     {
       "ref_id": "fn169-20827",

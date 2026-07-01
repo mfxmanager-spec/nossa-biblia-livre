@@ -345,7 +345,7 @@
     },
     {
       "number": 9,
-      "text": "O comprimento da cortina uma. Oito. E vinte. Na antebraçada. E largura. Quatro no antebraço a cortina uma. Medida uma para a totalidade das cortinas.",
+      "text": "O comprimento da cortina uma. Oito e vinte no antebraço. E largura. Quatro no antebraço a cortina uma. Medida uma para a totalidade das cortinas.",
       "lines": [
         {
           "line_index": 0,
@@ -354,33 +354,23 @@
         },
         {
           "line_index": 1,
-          "text": "Oito.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Oito<a name=\"rf95-7674\"></a><sup><a href=\"#fn95-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
+          "text": "Oito e vinte no antebraço.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Oito e vinte no antebraço<a name=\"rf95-7674\"></a><sup><a href=\"#fn95-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "E vinte.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E vinte.</p>"
+          "text": "E largura.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E largura<a name=\"rf96-7674\"></a><sup><a href=\"#fn96-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "Na antebraçada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na antebraçada<a name=\"rf96-7674\"></a><sup><a href=\"#fn96-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
+          "text": "Quatro no antebraço a cortina uma.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro no antebraço a cortina uma<a name=\"rf97-7674\"></a><sup><a href=\"#fn97-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
         },
         {
           "line_index": 4,
-          "text": "E largura.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E largura<a name=\"rf97-7674\"></a><sup><a href=\"#fn97-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
-        },
-        {
-          "line_index": 5,
-          "text": "Quatro no antebraço a cortina uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro no antebraço a cortina uma<a name=\"rf98-7674\"></a><sup><a href=\"#fn98-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
-        },
-        {
-          "line_index": 6,
           "text": "Medida uma para a totalidade das cortinas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Medida uma para a totalidade das cortinas<a name=\"rf99-7674\"></a><sup><a href=\"#fn99-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup><a name=\"rf100-7674\"></a><sup><a href=\"#fn100-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Medida uma para a totalidade das cortinas<a name=\"rf98-7674\"></a><sup><a href=\"#fn98-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup><a name=\"rf99-7674\"></a><sup><a href=\"#fn99-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
         }
       ]
     },
@@ -391,22 +381,22 @@
         {
           "line_index": 0,
           "text": "E ele unificacinco das cortinas.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E ele unifica<a name=\"rf101-7674\"></a><sup><a href=\"#fn101-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>cinco das cortinas<a name=\"rf102-7674\"></a><sup><a href=\"#fn102-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E ele unifica<a name=\"rf100-7674\"></a><sup><a href=\"#fn100-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>cinco das cortinas<a name=\"rf101-7674\"></a><sup><a href=\"#fn101-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Uma a uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Uma a uma<a name=\"rf103-7674\"></a><sup><a href=\"#fn103-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Uma a uma<a name=\"rf102-7674\"></a><sup><a href=\"#fn102-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E cinco cortinasele unifica.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cinco cortinas<a name=\"rf104-7674\"></a><sup><a href=\"#fn104-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>ele unifica<a name=\"rf105-7674\"></a><sup><a href=\"#fn105-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cinco cortinas<a name=\"rf103-7674\"></a><sup><a href=\"#fn103-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>ele unifica<a name=\"rf104-7674\"></a><sup><a href=\"#fn104-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Uma a uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Uma a uma<a name=\"rf106-7674\"></a><sup><a href=\"#fn106-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Uma a uma<a name=\"rf105-7674\"></a><sup><a href=\"#fn105-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
         }
       ]
     },
@@ -417,22 +407,22 @@
         {
           "line_index": 0,
           "text": "E eles fazemnós de tekelet sobre o lábio da cortina uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E eles fazem<a name=\"rf107-7674\"></a><sup><a href=\"#fn107-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>nós de <em>tekelet</em> sobre o lábio da cortina uma<a name=\"rf108-7674\"></a><sup><a href=\"#fn108-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E eles fazem<a name=\"rf106-7674\"></a><sup><a href=\"#fn106-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>nós de <em>tekelet</em> sobre o lábio da cortina uma<a name=\"rf107-7674\"></a><sup><a href=\"#fn107-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Desde o fimna união.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o fim<a name=\"rf109-7674\"></a><sup><a href=\"#fn109-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup>na união<a name=\"rf110-7674\"></a><sup><a href=\"#fn110-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o fim<a name=\"rf108-7674\"></a><sup><a href=\"#fn108-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup>na união<a name=\"rf109-7674\"></a><sup><a href=\"#fn109-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Assim ele fazno lábio da cortina final.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Assim ele faz<a name=\"rf111-7674\"></a><sup><a href=\"#fn111-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>no lábio da cortina final<a name=\"rf112-7674\"></a><sup><a href=\"#fn112-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Assim ele faz<a name=\"rf110-7674\"></a><sup><a href=\"#fn110-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>no lábio da cortina final<a name=\"rf111-7674\"></a><sup><a href=\"#fn111-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Na união da segunda.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na união da segunda<a name=\"rf113-7674\"></a><sup><a href=\"#fn113-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na união da segunda<a name=\"rf112-7674\"></a><sup><a href=\"#fn112-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
         }
       ]
     },
@@ -443,7 +433,7 @@
         {
           "line_index": 0,
           "text": "Cinquenta nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Cinquenta nós<a name=\"rf114-7674\"></a><sup><a href=\"#fn114-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Cinquenta nós<a name=\"rf113-7674\"></a><sup><a href=\"#fn113-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -453,12 +443,12 @@
         {
           "line_index": 2,
           "text": "Na cortina uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na cortina uma<a name=\"rf115-7674\"></a><sup><a href=\"#fn115-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na cortina uma<a name=\"rf114-7674\"></a><sup><a href=\"#fn114-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E cinquenta nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cinquenta<a name=\"rf116-7674\"></a><sup><a href=\"#fn116-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup> nós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cinquenta<a name=\"rf115-7674\"></a><sup><a href=\"#fn115-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup> nós.</p>"
         },
         {
           "line_index": 4,
@@ -473,12 +463,12 @@
         {
           "line_index": 6,
           "text": "Que na união da segunda.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que na união da segunda<a name=\"rf117-7674\"></a><sup><a href=\"#fn117-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que na união da segunda<a name=\"rf116-7674\"></a><sup><a href=\"#fn116-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Fazedoras de receber os nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fazedoras de receber os nós<a name=\"rf118-7674\"></a><sup><a href=\"#fn118-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Fazedoras de receber os nós<a name=\"rf117-7674\"></a><sup><a href=\"#fn117-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -488,7 +478,7 @@
         {
           "line_index": 9,
           "text": "A uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A uma<a name=\"rf119-7674\"></a><sup><a href=\"#fn119-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A uma<a name=\"rf118-7674\"></a><sup><a href=\"#fn118-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
         }
       ]
     },
@@ -504,12 +494,12 @@
         {
           "line_index": 1,
           "text": "Cinquenta ganchos de ouro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cinquenta ganchos de ouro<a name=\"rf120-7674\"></a><sup><a href=\"#fn120-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cinquenta ganchos de ouro<a name=\"rf119-7674\"></a><sup><a href=\"#fn119-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E unifica ele as cortinas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E unifica ele<a name=\"rf121-7674\"></a><sup><a href=\"#fn121-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup> as cortinas<a name=\"rf122-7674\"></a><sup><a href=\"#fn122-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E unifica ele<a name=\"rf120-7674\"></a><sup><a href=\"#fn120-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup> as cortinas<a name=\"rf121-7674\"></a><sup><a href=\"#fn121-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -519,17 +509,17 @@
         {
           "line_index": 4,
           "text": "A uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A uma<a name=\"rf123-7674\"></a><sup><a href=\"#fn123-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A uma<a name=\"rf122-7674\"></a><sup><a href=\"#fn122-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Nos ganchos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nos ganchos<a name=\"rf124-7674\"></a><sup><a href=\"#fn124-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Nos ganchos<a name=\"rf123-7674\"></a><sup><a href=\"#fn123-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf125-7674\"></a><sup><a href=\"#fn125-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf124-7674\"></a><sup><a href=\"#fn124-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -550,12 +540,12 @@
         {
           "line_index": 0,
           "text": "E ele faz cortinas de mohaíres para tenda sobre o estabelecimento.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E ele faz cortinas de mohaíres para tenda sobre o estabelecimento<a name=\"rf126-7674\"></a><sup><a href=\"#fn126-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E ele faz cortinas de mohaíres para tenda sobre o estabelecimento<a name=\"rf125-7674\"></a><sup><a href=\"#fn125-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Onze cortinasele as faz.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Onze cortinas<a name=\"rf127-7674\"></a><sup><a href=\"#fn127-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>ele as faz<a name=\"rf128-7674\"></a><sup><a href=\"#fn128-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Onze cortinas<a name=\"rf126-7674\"></a><sup><a href=\"#fn126-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>ele as faz<a name=\"rf127-7674\"></a><sup><a href=\"#fn127-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>.</p>"
         }
       ]
     },
@@ -571,17 +561,17 @@
         {
           "line_index": 1,
           "text": "Trinta no antebraço.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Trinta no antebraço<a name=\"rf129-7674\"></a><sup><a href=\"#fn129-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Trinta no antebraço<a name=\"rf128-7674\"></a><sup><a href=\"#fn128-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E quatro de antebraçosa largurada cortina uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E quatro<a name=\"rf130-7674\"></a><sup><a href=\"#fn130-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup> de<a name=\"rf131-7674\"></a><sup><a href=\"#fn131-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup> antebraços<a name=\"rf132-7674\"></a><sup><a href=\"#fn132-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup>a largura<a name=\"rf133-7674\"></a><sup><a href=\"#fn133-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>da cortina uma<a name=\"rf134-7674\"></a><sup><a href=\"#fn134-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E quatro<a name=\"rf129-7674\"></a><sup><a href=\"#fn129-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup> de<a name=\"rf130-7674\"></a><sup><a href=\"#fn130-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup> antebraços<a name=\"rf131-7674\"></a><sup><a href=\"#fn131-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup>a largura<a name=\"rf132-7674\"></a><sup><a href=\"#fn132-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup>da cortina uma<a name=\"rf133-7674\"></a><sup><a href=\"#fn133-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Medida uma para onze cortinas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Medida uma para onze cortinas<a name=\"rf135-7674\"></a><sup><a href=\"#fn135-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Medida uma para onze cortinas<a name=\"rf134-7674\"></a><sup><a href=\"#fn134-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
         }
       ]
     },
@@ -592,12 +582,12 @@
         {
           "line_index": 0,
           "text": "E ele unificaas cinco das cortinaspara separação.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E ele unifica<a name=\"rf136-7674\"></a><sup><a href=\"#fn136-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>as cinco das cortinas<a name=\"rf137-7674\"></a><sup><a href=\"#fn137-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>para separação.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E ele unifica<a name=\"rf135-7674\"></a><sup><a href=\"#fn135-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>as cinco das cortinas<a name=\"rf136-7674\"></a><sup><a href=\"#fn136-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>para separação.</p>"
         },
         {
           "line_index": 1,
           "text": "E as seis das cortinas para separação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as seis das cortinas para separação<a name=\"rf138-7674\"></a><sup><a href=\"#fn138-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as seis das cortinas para separação<a name=\"rf137-7674\"></a><sup><a href=\"#fn137-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>.</p>"
         }
       ]
     },
@@ -618,17 +608,17 @@
         {
           "line_index": 2,
           "text": "Sobre o lábio da cortina final.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o lábio da cortina final<a name=\"rf139-7674\"></a><sup><a href=\"#fn139-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o lábio da cortina final<a name=\"rf138-7674\"></a><sup><a href=\"#fn138-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Na união.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na união<a name=\"rf140-7674\"></a><sup><a href=\"#fn140-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na união<a name=\"rf139-7674\"></a><sup><a href=\"#fn139-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E cinquenta nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cinquenta<a name=\"rf141-7674\"></a><sup><a href=\"#fn141-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup> nós<a name=\"rf142-7674\"></a><sup><a href=\"#fn142-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cinquenta<a name=\"rf140-7674\"></a><sup><a href=\"#fn140-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup> nós<a name=\"rf141-7674\"></a><sup><a href=\"#fn141-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -638,12 +628,12 @@
         {
           "line_index": 6,
           "text": "Sobre o lábio da cortina.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o lábio da cortina<a name=\"rf143-7674\"></a><sup><a href=\"#fn143-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o lábio da cortina<a name=\"rf142-7674\"></a><sup><a href=\"#fn142-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "A unidade segunda.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A unidade segunda<a name=\"rf144-7674\"></a><sup><a href=\"#fn144-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A unidade segunda<a name=\"rf143-7674\"></a><sup><a href=\"#fn143-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
         }
       ]
     },
@@ -654,17 +644,17 @@
         {
           "line_index": 0,
           "text": "E ele faz também cinquenta ganchos de cobre.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E ele faz também cinquenta ganchos de cobre<a name=\"rf145-7674\"></a><sup><a href=\"#fn145-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E ele faz também cinquenta ganchos de cobre<a name=\"rf144-7674\"></a><sup><a href=\"#fn144-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Para unificara tenda.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para unificar<a name=\"rf146-7674\"></a><sup><a href=\"#fn146-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>a tenda<a name=\"rf147-7674\"></a><sup><a href=\"#fn147-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para unificar<a name=\"rf145-7674\"></a><sup><a href=\"#fn145-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>a tenda<a name=\"rf146-7674\"></a><sup><a href=\"#fn146-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Para estaruma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para estar<a name=\"rf148-7674\"></a><sup><a href=\"#fn148-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>uma<a name=\"rf149-7674\"></a><sup><a href=\"#fn149-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para estar<a name=\"rf147-7674\"></a><sup><a href=\"#fn147-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>uma<a name=\"rf148-7674\"></a><sup><a href=\"#fn148-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>.</p>"
         }
       ]
     },
@@ -690,7 +680,7 @@
         {
           "line_index": 3,
           "text": "Desde para acima.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde para acima<a name=\"rf150-7674\"></a><sup><a href=\"#fn150-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde para acima<a name=\"rf149-7674\"></a><sup><a href=\"#fn149-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>.</p>"
         }
       ]
     },
@@ -706,7 +696,7 @@
         {
           "line_index": 1,
           "text": "Árvores de acácias acolunadas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Árvores de acácias acolunadas<a name=\"rf151-7674\"></a><sup><a href=\"#fn151-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Árvores de acácias acolunadas<a name=\"rf150-7674\"></a><sup><a href=\"#fn150-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
         }
       ]
     },
@@ -722,7 +712,7 @@
         {
           "line_index": 1,
           "text": "E antebraço e dividido de antebraço a largura da prancha uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E antebraço e dividido de antebraço a largura da prancha uma<a name=\"rf152-7674\"></a><sup><a href=\"#fn152-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E antebraço e dividido de antebraço a largura da prancha uma<a name=\"rf151-7674\"></a><sup><a href=\"#fn151-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
         }
       ]
     },
@@ -733,17 +723,17 @@
         {
           "line_index": 0,
           "text": "Duas de mãos para a prancha uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Duas de mãos para a prancha uma<a name=\"rf153-7674\"></a><sup><a href=\"#fn153-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Duas de mãos para a prancha uma<a name=\"rf152-7674\"></a><sup><a href=\"#fn152-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Encaixadasuma a uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Encaixadas<a name=\"rf154-7674\"></a><sup><a href=\"#fn154-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>uma a uma<a name=\"rf155-7674\"></a><sup><a href=\"#fn155-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Encaixadas<a name=\"rf153-7674\"></a><sup><a href=\"#fn153-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>uma a uma<a name=\"rf154-7674\"></a><sup><a href=\"#fn154-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Assim ele fazpara o total das pranchas do estabelecimento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Assim ele faz<a name=\"rf156-7674\"></a><sup><a href=\"#fn156-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup>para o total das pranchas do estabelecimento<a name=\"rf157-7674\"></a><sup><a href=\"#fn157-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Assim ele faz<a name=\"rf155-7674\"></a><sup><a href=\"#fn155-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup>para o total das pranchas do estabelecimento<a name=\"rf156-7674\"></a><sup><a href=\"#fn156-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup>.</p>"
         }
       ]
     },
@@ -769,12 +759,12 @@
         {
           "line_index": 3,
           "text": "Para o canto do Negeb.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o canto do Negeb<a name=\"rf158-7674\"></a><sup><a href=\"#fn158-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o canto do Negeb<a name=\"rf157-7674\"></a><sup><a href=\"#fn157-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Para Teman.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para Teman<a name=\"rf159-7674\"></a><sup><a href=\"#fn159-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para Teman<a name=\"rf158-7674\"></a><sup><a href=\"#fn158-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>.</p>"
         }
       ]
     },
@@ -805,7 +795,7 @@
         {
           "line_index": 4,
           "text": "Para as duas das mãos dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as duas das mãos dela<a name=\"rf160-7674\"></a><sup><a href=\"#fn160-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as duas das mãos dela<a name=\"rf159-7674\"></a><sup><a href=\"#fn159-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
         }
       ]
     },
@@ -831,7 +821,7 @@
         {
           "line_index": 3,
           "text": "Ele faz vinte pranchas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ele faz vinte pranchas<a name=\"rf161-7674\"></a><sup><a href=\"#fn161-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ele faz vinte pranchas<a name=\"rf160-7674\"></a><sup><a href=\"#fn160-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup>.</p>"
         }
       ]
     },
@@ -857,7 +847,7 @@
         {
           "line_index": 3,
           "text": "E duas das bases debaixo da prancha uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E duas das bases debaixo da prancha uma<a name=\"rf162-7674\"></a><sup><a href=\"#fn162-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E duas das bases debaixo da prancha uma<a name=\"rf161-7674\"></a><sup><a href=\"#fn161-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
         }
       ]
     },
@@ -868,7 +858,7 @@
         {
           "line_index": 0,
           "text": "E para os flancos do estabelecimento para o mar ele faz seis pranchas.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E para os flancos do estabelecimento para o mar ele faz seis pranchas<a name=\"rf163-7674\"></a><sup><a href=\"#fn163-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E para os flancos do estabelecimento para o mar ele faz seis pranchas<a name=\"rf162-7674\"></a><sup><a href=\"#fn162-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup>.</p>"
         }
       ]
     },
@@ -884,7 +874,7 @@
         {
           "line_index": 1,
           "text": "Para ser arrematadoras do estabelecimento nos flancos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ser arrematadoras do estabelecimento nos flancos<a name=\"rf164-7674\"></a><sup><a href=\"#fn164-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ser arrematadoras do estabelecimento nos flancos<a name=\"rf163-7674\"></a><sup><a href=\"#fn163-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup>.</p>"
         }
       ]
     },
@@ -920,7 +910,7 @@
         {
           "line_index": 5,
           "text": "Para os dois dos arremates.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para os dois dos arremates<a name=\"rf165-7674\"></a><sup><a href=\"#fn165-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 165\">165</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para os dois dos arremates<a name=\"rf164-7674\"></a><sup><a href=\"#fn164-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
         }
       ]
     },
@@ -946,7 +936,7 @@
         {
           "line_index": 3,
           "text": "Seis dez bases.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Seis dez bases<a name=\"rf166-7674\"></a><sup><a href=\"#fn166-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Seis dez bases<a name=\"rf165-7674\"></a><sup><a href=\"#fn165-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 165\">165</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -956,12 +946,12 @@
         {
           "line_index": 5,
           "text": "Duas de bases.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Duas de bases<a name=\"rf167-7674\"></a><sup><a href=\"#fn167-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Duas de bases<a name=\"rf166-7674\"></a><sup><a href=\"#fn166-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Debaixo da prancha uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Debaixo da prancha uma<a name=\"rf168-7674\"></a><sup><a href=\"#fn168-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Debaixo da prancha uma<a name=\"rf167-7674\"></a><sup><a href=\"#fn167-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup>.</p>"
         }
       ]
     },
@@ -972,7 +962,7 @@
         {
           "line_index": 0,
           "text": "E ele faz traves de árvores de acácias.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E ele faz traves de árvores de acácias<a name=\"rf169-7674\"></a><sup><a href=\"#fn169-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E ele faz traves de árvores de acácias<a name=\"rf168-7674\"></a><sup><a href=\"#fn168-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -987,7 +977,7 @@
         {
           "line_index": 3,
           "text": "O um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O um<a name=\"rf170-7674\"></a><sup><a href=\"#fn170-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O um<a name=\"rf169-7674\"></a><sup><a href=\"#fn169-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>.</p>"
         }
       ]
     },
@@ -1013,7 +1003,7 @@
         {
           "line_index": 3,
           "text": "Para os flancos para mar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para os flancos para mar<a name=\"rf171-7674\"></a><sup><a href=\"#fn171-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para os flancos para mar<a name=\"rf170-7674\"></a><sup><a href=\"#fn170-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup>.</p>"
         }
       ]
     },
@@ -1034,7 +1024,7 @@
         {
           "line_index": 2,
           "text": "Para escampar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para escampar<a name=\"rf172-7674\"></a><sup><a href=\"#fn172-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para escampar<a name=\"rf171-7674\"></a><sup><a href=\"#fn171-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1049,7 +1039,7 @@
         {
           "line_index": 5,
           "text": "Ao fim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao fim<a name=\"rf173-7674\"></a><sup><a href=\"#fn173-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 173\">173</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao fim<a name=\"rf172-7674\"></a><sup><a href=\"#fn172-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup>.</p>"
         }
       ]
     },
@@ -1090,7 +1080,7 @@
         {
           "line_index": 6,
           "text": "Ouro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ouro<a name=\"rf174-7674\"></a><sup><a href=\"#fn174-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 174\">174</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ouro<a name=\"rf173-7674\"></a><sup><a href=\"#fn173-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 173\">173</a></sup>.</p>"
         }
       ]
     },
@@ -1131,7 +1121,7 @@
         {
           "line_index": 6,
           "text": "E ele faz com ela kerubim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele faz com ela <em>kerubim</em><a name=\"rf175-7674\"></a><sup><a href=\"#fn175-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele faz com ela <em>kerubim</em><a name=\"rf174-7674\"></a><sup><a href=\"#fn174-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 174\">174</a></sup>.</p>"
         }
       ]
     },
@@ -1167,7 +1157,7 @@
         {
           "line_index": 5,
           "text": "E ele derrama para elas quatro bases de prata.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele derrama para elas quatro bases de prata<a name=\"rf176-7674\"></a><sup><a href=\"#fn176-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele derrama para elas quatro bases de prata<a name=\"rf175-7674\"></a><sup><a href=\"#fn175-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup>.</p>"
         }
       ]
     },
@@ -1203,7 +1193,7 @@
         {
           "line_index": 5,
           "text": "Afazer de bordador.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Afazer de bordador<a name=\"rf177-7674\"></a><sup><a href=\"#fn177-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Afazer de bordador<a name=\"rf176-7674\"></a><sup><a href=\"#fn176-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup>.</p>"
         }
       ]
     },
@@ -1214,27 +1204,27 @@
         {
           "line_index": 0,
           "text": "E as colunasdele.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E as colunas<a name=\"rf178-7674\"></a><sup><a href=\"#fn178-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E as colunas<a name=\"rf177-7674\"></a><sup><a href=\"#fn177-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>dele.</p>"
         },
         {
           "line_index": 1,
           "text": "Cinco.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cinco<a name=\"rf179-7674\"></a><sup><a href=\"#fn179-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cinco<a name=\"rf178-7674\"></a><sup><a href=\"#fn178-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E os pregos delas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os pregos delas<a name=\"rf180-7674\"></a><sup><a href=\"#fn180-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E os pregos delas<a name=\"rf179-7674\"></a><sup><a href=\"#fn179-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E ele recobreas cabeçasdelas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele recobre<a name=\"rf181-7674\"></a><sup><a href=\"#fn181-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup>as cabeças<a name=\"rf182-7674\"></a><sup><a href=\"#fn182-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup>delas.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele recobre<a name=\"rf180-7674\"></a><sup><a href=\"#fn180-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup>as cabeças<a name=\"rf181-7674\"></a><sup><a href=\"#fn181-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup>delas.</p>"
         },
         {
           "line_index": 4,
           "text": "E os agarradores delas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os agarradores delas<a name=\"rf183-7674\"></a><sup><a href=\"#fn183-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E os agarradores delas<a name=\"rf182-7674\"></a><sup><a href=\"#fn182-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1244,7 +1234,7 @@
         {
           "line_index": 6,
           "text": "E as bases delas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as bases delas<a name=\"rf184-7674\"></a><sup><a href=\"#fn184-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 184\">184</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as bases delas<a name=\"rf183-7674\"></a><sup><a href=\"#fn183-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -1254,7 +1244,7 @@
         {
           "line_index": 8,
           "text": "Cobre.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cobre<a name=\"rf185-7674\"></a><sup><a href=\"#fn185-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 185\">185</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cobre<a name=\"rf184-7674\"></a><sup><a href=\"#fn184-7674\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 184\">184</a></sup>.</p>"
         }
       ]
     }
@@ -1827,56 +1817,56 @@
     {
       "ref_id": "fn95-7674",
       "number": 95,
-      "text": "“Oito” (shemoneh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0503\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0503\" rel=\"noopener\" target=\"_blank\">Oito</a>” (<em>shemoneh</em>). </span>"
-    },
-    {
-      "ref_id": "fn96-7674",
-      "number": 96,
       "text": "“Oito e vinte no antebraço” (shemoneh we’esrim ba’ammah). Cf. Êxodo 26,2.",
       "raw_html": "<span>“Oito e vinte no antebraço” (<em>shemoneh we’esrim ba’ammah</em>). Cf. Êxodo 26,2. </span>"
     },
     {
-      "ref_id": "fn97-7674",
-      "number": 97,
+      "ref_id": "fn96-7674",
+      "number": 96,
       "text": "“E largura” (werohab). Cf. Êxodo 26,2.8; 27,12.13.18.",
       "raw_html": "<span>“E largura” (<em>werohab</em>). Cf. Êxodo 26,2.8; 27,12.13.18. </span>"
     },
     {
-      "ref_id": "fn98-7674",
-      "number": 98,
+      "ref_id": "fn97-7674",
+      "number": 97,
       "text": "“Quatro no antebraço a cortina uma” (‘arbba’ ba’ammah hayeri’ah ha’ehat). Cf. Êxodo 26,2.8.",
       "raw_html": "<span>“Quatro no antebraço a cortina uma” (<em>‘arbba’ ba’ammah hayeri’ah ha’ehat</em>). Cf. Êxodo 26,2.8. </span>"
     },
     {
-      "ref_id": "fn99-7674",
-      "number": 99,
+      "ref_id": "fn98-7674",
+      "number": 98,
       "text": "“Medida uma para a totalidade das cortinas” (middah ‘ahat lekol-hayeri’ot). Cf. Êxodo 26,2",
       "raw_html": "<span>“Medida uma para a totalidade das cortinas” (<em>middah ‘ahat lekol-hayeri’ot</em>). Cf. Êxodo 26,2 </span>"
     },
     {
-      "ref_id": "fn100-7674",
-      "number": 100,
+      "ref_id": "fn99-7674",
+      "number": 99,
       "text": "Êxodo 36,9 reproduz integralmente Êxodo 26,2.",
       "raw_html": "<span>Êxodo 36,9 reproduz integralmente Êxodo 26,2. </span>"
     },
     {
-      "ref_id": "fn101-7674",
-      "number": 101,
+      "ref_id": "fn100-7674",
+      "number": 100,
       "text": "“Unifica” (hbr). Cf. Êxodo 26,11/ 28,7.",
       "raw_html": "<span>“Unifica” (<em>hbr</em>). Cf. Êxodo 26,11/ 28,7. </span>"
     },
     {
-      "ref_id": "fn102-7674",
-      "number": 102,
+      "ref_id": "fn101-7674",
+      "number": 101,
       "text": "“Cinco das cortinas” (hamesh hayeri’ot). Cf. Êxodo 26,3.9.",
       "raw_html": "<span>“Cinco das cortinas” (<em>hamesh hayeri’ot</em>). Cf. Êxodo 26,3.9. </span>"
     },
     {
-      "ref_id": "fn103-7674",
-      "number": 103,
+      "ref_id": "fn102-7674",
+      "number": 102,
       "text": "“Uma a uma” (‘ahat ‘el-‘ehat). Aqui e nos v. 12.13.22 e em Zacarias 8,21.",
       "raw_html": "<span>“Uma a uma” (<em>‘ahat ‘el-‘ehat</em>). Aqui e nos v. 12.13.22 e em Zacarias 8,21. </span>"
+    },
+    {
+      "ref_id": "fn103-7674",
+      "number": 103,
+      "text": "Cf. acima.",
+      "raw_html": "<span>Cf. acima. </span>"
     },
     {
       "ref_id": "fn104-7674",
@@ -1893,480 +1883,474 @@
     {
       "ref_id": "fn106-7674",
       "number": 106,
-      "text": "Cf. acima.",
-      "raw_html": "<span>Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn107-7674",
-      "number": 107,
       "text": "Cf. v. 1.2.3.4.5.6.7.8.",
       "raw_html": "<span>Cf. v. 1.2.3.4.5.6.7.8. </span>"
     },
     {
-      "ref_id": "fn108-7674",
-      "number": 108,
+      "ref_id": "fn107-7674",
+      "number": 107,
       "text": "“Nós de tekelet sobre o lábio da cortina uma”. Cf. Êxodo 26,4.",
       "raw_html": "<span>“Nós de <em>tekelet</em> sobre o lábio da cortina uma”. Cf. Êxodo 26,4. </span>"
     },
     {
-      "ref_id": "fn109-7674",
-      "number": 109,
+      "ref_id": "fn108-7674",
+      "number": 108,
       "text": "“Desde o fim” (miqqatsah). Cf. Gênesis 8,3; 19,4; 47,21; Êxodo 25,19; 26,4.",
       "raw_html": "<span>“Desde o fim” (<em>miqqatsah</em>). Cf. Gênesis 8,3; 19,4; 47,21; Êxodo 25,19; 26,4. </span>"
     },
     {
-      "ref_id": "fn110-7674",
-      "number": 110,
+      "ref_id": "fn109-7674",
+      "number": 109,
       "text": "“Na união” (bammahebaret). Cf. Êxodo 26,4.5.",
       "raw_html": "<span>“Na união” (<em>bammahebaret</em>). Cf. Êxodo 26,4.5. </span>"
     },
     {
-      "ref_id": "fn111-7674",
-      "number": 111,
+      "ref_id": "fn110-7674",
+      "number": 110,
       "text": "“Assim ele faz” (ken ‘asah). Cf. Gênesis 6,22.",
       "raw_html": "<span>“Assim ele faz” (<em>ken ‘asah</em>). Cf. Gênesis 6,22. </span>"
     },
     {
-      "ref_id": "fn112-7674",
-      "number": 112,
+      "ref_id": "fn111-7674",
+      "number": 111,
       "text": "“No lábio da cortina final” (bishpat hayeri’ah haqqitsonah). Cf. Êxodo 26,4.",
       "raw_html": "<span>“No lábio da cortina final” (<em>bishpat hayeri’ah haqqitsonah</em>). Cf. Êxodo 26,4. </span>"
     },
     {
-      "ref_id": "fn113-7674",
-      "number": 113,
+      "ref_id": "fn112-7674",
+      "number": 112,
       "text": "“Na união da segunda” (bammahberet hashshenit). Cf. Êxodo 26,4.5.",
       "raw_html": "<span>“Na união da segunda” (<em>bammahberet hashshenit</em>). Cf. Êxodo 26,4.5. </span>"
     },
     {
-      "ref_id": "fn114-7674",
-      "number": 114,
+      "ref_id": "fn113-7674",
+      "number": 113,
       "text": "Cf. Êxodo 26,5.10.",
       "raw_html": "<span>Cf. Êxodo 26,5.10. </span>"
     },
     {
-      "ref_id": "fn115-7674",
-      "number": 115,
+      "ref_id": "fn114-7674",
+      "number": 114,
       "text": "Cf. Êxodo 26,5.",
       "raw_html": "<span>Cf. Êxodo 26,5. </span>"
+    },
+    {
+      "ref_id": "fn115-7674",
+      "number": 115,
+      "text": "“E cinquenta” (wahamishshim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALC\" rel=\"noreferrer noopener\" target=\"_blank\">E cinquenta</a>” (<em>wahamishshim</em>). </span>"
     },
     {
       "ref_id": "fn116-7674",
       "number": 116,
-      "text": "“E cinquenta” (wahamishshim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALC\" rel=\"noreferrer noopener\" target=\"_blank\">E cinquenta</a>” (<em>wahamishshim</em>). </span>"
-    },
-    {
-      "ref_id": "fn117-7674",
-      "number": 117,
       "text": "“No final da cortina que está da união da segunda”. Cf. Êxodo 26,5.",
       "raw_html": "<span>“No final da cortina que está da união da segunda”. Cf. Êxodo 26,5. </span>"
     },
     {
-      "ref_id": "fn118-7674",
-      "number": 118,
+      "ref_id": "fn117-7674",
+      "number": 117,
       "text": "Cf. Êxodo 26,5.",
       "raw_html": "<span>Cf. Êxodo 26,5. </span>"
     },
     {
-      "ref_id": "fn119-7674",
-      "number": 119,
+      "ref_id": "fn118-7674",
+      "number": 118,
       "text": "“Uma a uma” (‘ahat ‘el-‘ehat). Cf. v. 10.",
       "raw_html": "<span>“Uma a uma” (<em>‘ahat ‘el-‘ehat</em>). Cf. v. 10. </span>"
     },
     {
-      "ref_id": "fn120-7674",
-      "number": 120,
+      "ref_id": "fn119-7674",
+      "number": 119,
       "text": "Cf. Êxodo 26,6.",
       "raw_html": "<span>Cf. Êxodo 26,6. </span>"
     },
     {
-      "ref_id": "fn121-7674",
-      "number": 121,
+      "ref_id": "fn120-7674",
+      "number": 120,
       "text": "“Unifica” (hbr). Cf. v. 10.",
       "raw_html": "<span>“Unifica” (<em>hbr</em>). Cf. v. 10. </span>"
     },
     {
-      "ref_id": "fn122-7674",
-      "number": 122,
+      "ref_id": "fn121-7674",
+      "number": 121,
       "text": "“As cortinas” (hayeriiot). Cf. Êxodo 26,2.3.4.5.6.7.8.9.10; 36,9.10.11.12.",
       "raw_html": "<span>“As cortinas” (<em>hayeriiot</em>). Cf. Êxodo 26,2.3.4.5.6.7.8.9.10; 36,9.10.11.12. </span>"
     },
     {
-      "ref_id": "fn123-7674",
-      "number": 123,
+      "ref_id": "fn122-7674",
+      "number": 122,
       "text": "“Uma a uma”. Cf. v. 10.12.",
       "raw_html": "<span>“Uma a uma”. Cf. v. 10.12. </span>"
     },
     {
-      "ref_id": "fn124-7674",
-      "number": 124,
+      "ref_id": "fn123-7674",
+      "number": 123,
       "text": "“Nos ganchos”. Cf. v. 6.",
       "raw_html": "<span>“Nos ganchos”. Cf. v. 6. </span>"
     },
     {
-      "ref_id": "fn125-7674",
-      "number": 125,
+      "ref_id": "fn124-7674",
+      "number": 124,
       "text": "“E está” (wayehi).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
-      "ref_id": "fn126-7674",
-      "number": 126,
+      "ref_id": "fn125-7674",
+      "number": 125,
       "text": "“Cortinas de mohaíres para tenda sobre o estabelecimento”. O trecho reproduz integralmente respectivo trecho de Êxodo 26,7.",
       "raw_html": "<span>“Cortinas de mohaíres para tenda sobre o estabelecimento”. O trecho reproduz integralmente respectivo trecho de Êxodo 26,7. </span>"
     },
     {
-      "ref_id": "fn127-7674",
-      "number": 127,
+      "ref_id": "fn126-7674",
+      "number": 126,
       "text": "“Onze cortinas”. Cf. Êxodo 26,7.",
       "raw_html": "<span>“Onze cortinas”. Cf. Êxodo 26,7. </span>"
     },
     {
-      "ref_id": "fn128-7674",
-      "number": 128,
+      "ref_id": "fn127-7674",
+      "number": 127,
       "text": "“Ele faz elas”. Cf. v. 8.",
       "raw_html": "<span>“Ele faz elas”. Cf. v. 8. </span>"
     },
     {
-      "ref_id": "fn129-7674",
-      "number": 129,
+      "ref_id": "fn128-7674",
+      "number": 128,
       "text": "“Comprimento da cortina uma. Trinta no antebraço”. Cf. Êxodo 26,8.",
       "raw_html": "<span>“Comprimento da cortina uma. Trinta no antebraço”. Cf. Êxodo 26,8. </span>"
     },
     {
-      "ref_id": "fn130-7674",
-      "number": 130,
+      "ref_id": "fn129-7674",
+      "number": 129,
       "text": "“Quatro”. Cf. v. 9.",
       "raw_html": "<span>“Quatro”. Cf. v. 9. </span>"
     },
     {
-      "ref_id": "fn131-7674",
-      "number": 131,
+      "ref_id": "fn130-7674",
+      "number": 130,
       "text": "“E quatro de” (we’arba’).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0068\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0068\" rel=\"noopener\" target=\"_blank\">E quatro de</a>” (<em>we’arba’</em>). </span>"
     },
     {
-      "ref_id": "fn132-7674",
-      "number": 132,
+      "ref_id": "fn131-7674",
+      "number": 131,
       "text": "“Antebraços” (‘ammot). Cf. Gênesis 26,9; 27,4; 45,28; Êxodo 26,16; 27,1.18.",
       "raw_html": "<span>“Antebraços” (<em>‘ammot</em>). Cf. Gênesis 26,9; 27,4; 45,28; Êxodo 26,16; 27,1.18. </span>"
     },
     {
-      "ref_id": "fn133-7674",
-      "number": 133,
+      "ref_id": "fn132-7674",
+      "number": 132,
       "text": "“Largura”. Cf. v. 9.",
       "raw_html": "<span>“Largura”. Cf. v. 9. </span>"
     },
     {
-      "ref_id": "fn134-7674",
-      "number": 134,
+      "ref_id": "fn133-7674",
+      "number": 133,
       "text": "“A cortina uma”. Cf. Êxodo 26,2.4.8.10; 36,9.11.",
       "raw_html": "<span>“A cortina uma”<em>.</em> Cf. Êxodo 26,2.4.8.10; 36,9.11. </span>"
     },
     {
-      "ref_id": "fn135-7674",
-      "number": 135,
+      "ref_id": "fn134-7674",
+      "number": 134,
       "text": "“Medida uma para onze cortinas”. Cf. Êxodo 26,8.",
       "raw_html": "<span>“Medida uma para onze cortinas”. Cf. Êxodo 26,8. </span>"
     },
     {
-      "ref_id": "fn136-7674",
-      "number": 136,
+      "ref_id": "fn135-7674",
+      "number": 135,
       "text": "Cf. v. 10.13.",
       "raw_html": "<span>Cf. v. 10.13. </span>"
     },
     {
-      "ref_id": "fn137-7674",
-      "number": 137,
+      "ref_id": "fn136-7674",
+      "number": 136,
       "text": "“E ele unifica as cinco das cortinas”. Cf. v. 10. Cf. Êxodo 26,9.",
       "raw_html": "<span>“E ele unifica as cinco das cortinas”. Cf. v. 10. Cf. Êxodo 26,9. </span>"
     },
     {
-      "ref_id": "fn138-7674",
-      "number": 138,
+      "ref_id": "fn137-7674",
+      "number": 137,
       "text": "“E as seis das cortinas para separação”. Cf. Êxodo 26,9.",
       "raw_html": "<span>“E as seis das cortinas para separação”. Cf. Êxodo 26,9. </span>"
     },
     {
-      "ref_id": "fn139-7674",
-      "number": 139,
+      "ref_id": "fn138-7674",
+      "number": 138,
       "text": "“Sobre o lábio da cortina final”. Cf. Êxodo 26,4.10.",
       "raw_html": "<span>“Sobre o lábio da cortina final”. Cf. Êxodo 26,4.10. </span>"
     },
     {
-      "ref_id": "fn140-7674",
-      "number": 140,
+      "ref_id": "fn139-7674",
+      "number": 139,
       "text": "“Na união”. Cf. Êxodo 26,4.5; 36,11.12.",
       "raw_html": "<span>“Na união”. Cf. Êxodo 26,4.5; 36,11.12. </span>"
     },
     {
-      "ref_id": "fn141-7674",
-      "number": 141,
+      "ref_id": "fn140-7674",
+      "number": 140,
       "text": "“E cinquenta” (wahamishshim).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALC\" rel=\"noreferrer noopener\" target=\"_blank\">E cinquenta</a>” (<em>wahamishshim</em>). </span>"
     },
     {
-      "ref_id": "fn142-7674",
-      "number": 142,
+      "ref_id": "fn141-7674",
+      "number": 141,
       "text": "“E cinquenta nós” (wahamishshim lula’ot). Cf. Êxodo 26,5.10; 36.12.",
       "raw_html": "<span>“E cinquenta nós” (<em>wahamishshim lula’ot</em>). Cf. Êxodo 26,5.10; 36.12. </span>"
     },
     {
-      "ref_id": "fn143-7674",
-      "number": 143,
+      "ref_id": "fn142-7674",
+      "number": 142,
       "text": "“Sobre o lábio da cortina” (‘al-shepat hayeri’ah). Cf. Êxodo 26,4.10; 36,11.",
       "raw_html": "<span>“Sobre o lábio da cortina” (<em>‘al-shepat hayeri’ah</em>). Cf. Êxodo 26,4.10; 36,11. </span>"
     },
     {
-      "ref_id": "fn144-7674",
-      "number": 144,
+      "ref_id": "fn143-7674",
+      "number": 143,
       "text": "“A unidade segunda” (hahoberet hashshenit). Cf. Êxodo 26,4.10.",
       "raw_html": "<span>“A unidade segunda” (<em>hahoberet hashshenit</em>). Cf. Êxodo 26,4.10. </span>"
     },
     {
-      "ref_id": "fn145-7674",
-      "number": 145,
+      "ref_id": "fn144-7674",
+      "number": 144,
       "text": "“Cinquenta ganchos de cobre” (qarse nehoshet hamishshim). Cf. Êxodo 26,11.",
       "raw_html": "<span>“Cinquenta ganchos de cobre” (<em>qarse nehoshet hamishshim</em>). Cf. Êxodo 26,11. </span>"
     },
     {
-      "ref_id": "fn146-7674",
-      "number": 146,
+      "ref_id": "fn145-7674",
+      "number": 145,
       "text": "“Unificar” (hbr). Cf. v. 10.13.16.",
       "raw_html": "<span>“Unificar” (<em>hbr</em>). Cf. v. 10.13.16. </span>"
     },
     {
-      "ref_id": "fn147-7674",
-      "number": 147,
+      "ref_id": "fn146-7674",
+      "number": 146,
       "text": "“A tenda” (ha’ohel). Cf. Gênesis 18,1; Êxodo 33,11,",
       "raw_html": "<span>“A tenda” (<em>ha’ohel</em>). Cf. Gênesis 18,1; Êxodo 33,11, </span>"
     },
     {
-      "ref_id": "fn148-7674",
-      "number": 148,
+      "ref_id": "fn147-7674",
+      "number": 147,
       "text": "“Para estar” (lihyot). Cf. Êxodo 23,1.",
       "raw_html": "<span>“Para estar” (<em>lihyot</em>). Cf. Êxodo 23,1. </span>"
     },
     {
-      "ref_id": "fn149-7674",
-      "number": 149,
+      "ref_id": "fn148-7674",
+      "number": 148,
       "text": "“Uma” (‘ehad). Cf. v. 9.10.11.12.13.15.",
       "raw_html": "<span>“Uma” (<em>‘ehad</em>). Cf. v. 9.10.11.12.13.15. </span>"
     },
     {
-      "ref_id": "fn150-7674",
-      "number": 150,
+      "ref_id": "fn149-7674",
+      "number": 149,
       "text": "Excetuando-se a pessoa verbal do verbo ‘sh (“fazer”), Êxodo 36,19 reproduz integralmente Êxodo 26,14.",
       "raw_html": "<span>Excetuando-se a pessoa verbal do verbo <em>‘sh</em> (“fazer”), Êxodo 36,19 reproduz integralmente Êxodo 26,14. </span>"
     },
     {
-      "ref_id": "fn151-7674",
-      "number": 151,
+      "ref_id": "fn150-7674",
+      "number": 150,
       "text": "Excetuando-se a pessoa verbal do verbo ‘sh (“fazer”), Êxodo 36,20 reproduz integralmente Êxodo 26,15.",
       "raw_html": "<span>Excetuando-se a pessoa verbal do verbo <em>‘sh</em> (“fazer”), Êxodo 36,20 reproduz integralmente Êxodo 26,15. </span>"
     },
     {
-      "ref_id": "fn152-7674",
-      "number": 152,
+      "ref_id": "fn151-7674",
+      "number": 151,
       "text": "Êxodo 36,21 reproduz integralmente Êxodo 26,16.",
       "raw_html": "<span>Êxodo 36,21 reproduz integralmente Êxodo 26,16. </span>"
     },
     {
-      "ref_id": "fn153-7674",
-      "number": 153,
+      "ref_id": "fn152-7674",
+      "number": 152,
       "text": "“Duas de mãos para a prancha uma”. Cf. Êxodo 26,17.",
       "raw_html": "<span>“Duas de mãos para a prancha uma”. Cf. Êxodo 26,17. </span>"
     },
     {
-      "ref_id": "fn154-7674",
-      "number": 154,
+      "ref_id": "fn153-7674",
+      "number": 153,
       "text": "“Encaixadas” (meshullabot). Cf. Êxodo 26,17.",
       "raw_html": "<span>“Encaixadas” (<em>meshullabot</em>). Cf. Êxodo 26,17. </span>"
     },
     {
-      "ref_id": "fn155-7674",
-      "number": 155,
+      "ref_id": "fn154-7674",
+      "number": 154,
       "text": "“Uma a uma” (‘ahat ‘el ‘ehat). Cf. v. 10.12.13.",
       "raw_html": "<span>“Uma a uma” (<em>‘ahat ‘el ‘ehat</em>). Cf. v. 10.12.13. </span>"
     },
     {
-      "ref_id": "fn156-7674",
-      "number": 156,
+      "ref_id": "fn155-7674",
+      "number": 155,
       "text": "“Assim ele faz” (ken ‘asah). Cf. Gênesis 6,22; 36,11.",
       "raw_html": "<span>“Assim ele faz” (<em>ken ‘asah</em>). Cf. Gênesis 6,22; 36,11. </span>"
     },
     {
-      "ref_id": "fn157-7674",
-      "number": 157,
+      "ref_id": "fn156-7674",
+      "number": 156,
       "text": "“Para o total das pranchas do estabelecimento”. Cf. Êxodo 26,17.",
       "raw_html": "<span>“Para o total das pranchas do estabelecimento”. Cf. Êxodo 26,17. </span>"
     },
     {
-      "ref_id": "fn158-7674",
-      "number": 158,
+      "ref_id": "fn157-7674",
+      "number": 157,
       "text": "“Negeb” (negeb).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAL\" rel=\"noreferrer noopener\" target=\"_blank\">Negeb</a>” (<em>negeb</em>). </span>"
     },
     {
-      "ref_id": "fn159-7674",
-      "number": 159,
+      "ref_id": "fn158-7674",
+      "number": 158,
       "text": "Com ligeiras alterações (pessoa verbal) de ‘sh (“fazer”) e pluralização de qeresh (“prancha”), Êxodo 36,23 reproduz Êxodo 26,18.",
       "raw_html": "<span>Com ligeiras alterações (pessoa verbal) de <em>‘sh</em> (“fazer”) e pluralização de <em>qeresh</em> (“prancha”), Êxodo 36,23 reproduz Êxodo 26,18. </span>"
     },
     {
-      "ref_id": "fn160-7674",
-      "number": 160,
+      "ref_id": "fn159-7674",
+      "number": 159,
       "text": "Com alteração da pessoa verbal, Êxodo 36,24 reproduz Êxodo 26,19.",
       "raw_html": "<span>Com alteração da pessoa verbal, Êxodo 36,24 reproduz Êxodo 26,19. </span>"
     },
     {
-      "ref_id": "fn161-7674",
-      "number": 161,
+      "ref_id": "fn160-7674",
+      "number": 160,
       "text": "Com ligeira alteração, Êxodo 36,25 reproduz Êxodo 26,20.",
       "raw_html": "<span>Com ligeira alteração, Êxodo 36,25 reproduz Êxodo 26,20. </span>"
     },
     {
-      "ref_id": "fn162-7674",
-      "number": 162,
+      "ref_id": "fn161-7674",
+      "number": 161,
       "text": "Êxodo 36,26 reproduz Êxodo 26,21.",
       "raw_html": "<span>Êxodo 36,26 reproduz Êxodo 26,21. </span>"
     },
     {
-      "ref_id": "fn163-7674",
-      "number": 163,
+      "ref_id": "fn162-7674",
+      "number": 162,
       "text": "Com alteração da pessoa verbal, Êxodo 36,27 reproduz Êxodo 26,22.",
       "raw_html": "<span>Com alteração da pessoa verbal, Êxodo 36,27 reproduz Êxodo 26,22. </span>"
     },
     {
-      "ref_id": "fn164-7674",
-      "number": 164,
+      "ref_id": "fn163-7674",
+      "number": 163,
       "text": "Com alteração da pessoa verbal, Êxodo 35,28 reproduz Êxodo 26,23.",
       "raw_html": "<span>Com alteração da pessoa verbal, Êxodo 35,28 reproduz Êxodo 26,23. </span>"
     },
     {
-      "ref_id": "fn165-7674",
-      "number": 165,
+      "ref_id": "fn164-7674",
+      "number": 164,
       "text": "Com ligeiras alterações, Êxodo 36,29 reproduz Êxodo 26,24.",
       "raw_html": "<span>Com ligeiras alterações, Êxodo 36,29 reproduz Êxodo 26,24. </span>"
     },
     {
-      "ref_id": "fn166-7674",
-      "number": 166,
+      "ref_id": "fn165-7674",
+      "number": 165,
       "text": "“E estão oito pranchas. E as bases delas. Prata. Seis dez bases” (Cf. Êxodo 26,25).",
       "raw_html": "<span>“E estão oito pranchas. E as bases delas. Prata. Seis dez bases” (Cf. Êxodo 26,25). </span>"
     },
     {
-      "ref_id": "fn167-7674",
-      "number": 167,
+      "ref_id": "fn166-7674",
+      "number": 166,
       "text": "“Duas de bases, duas de bases” (shene ‘adanim shene ‘adanim). A sintase de Êxodo 26,25 foi alterada aqui.",
       "raw_html": "<span>“Duas de bases, duas de bases” (<em>shene ‘adanim shene ‘adanim</em>). A sintase de Êxodo 26,25 foi alterada aqui. </span>"
     },
     {
-      "ref_id": "fn168-7674",
-      "number": 168,
+      "ref_id": "fn167-7674",
+      "number": 167,
       "text": "“Debaixo da prancha uma”. Cf. Êxodo 26,19.21..25; 36,24.26.",
       "raw_html": "<span>“Debaixo da prancha uma”. Cf. Êxodo 26,19.21..25; 36,24.26. </span>"
     },
     {
-      "ref_id": "fn169-7674",
-      "number": 169,
+      "ref_id": "fn168-7674",
+      "number": 168,
       "text": "O redator parece ter decidido alterar a sintaxe do trecho correspondente em Êxodo 26,26.",
       "raw_html": "<span>O redator parece ter decidido alterar a sintaxe do trecho correspondente em Êxodo 26,26. </span>"
     },
     {
-      "ref_id": "fn170-7674",
-      "number": 170,
+      "ref_id": "fn169-7674",
+      "number": 169,
       "text": "Com ligeiras alterações, Êxodo 36,31 reproduz Êxodo 26,26.",
       "raw_html": "<span>Com ligeiras alterações, Êxodo 36,31 reproduz Êxodo 26,26. </span>"
     },
     {
-      "ref_id": "fn171-7674",
-      "number": 171,
+      "ref_id": "fn170-7674",
+      "number": 170,
       "text": "Êxodo 36,32 reproduz Êxodo 26, 27.",
       "raw_html": "<span>Êxodo 36,32 reproduz Êxodo 26, 27. </span>"
     },
     {
-      "ref_id": "fn172-7674",
-      "number": 172,
+      "ref_id": "fn171-7674",
+      "number": 171,
       "text": "“Escampar” (brh). Forma infinitiva da raiz.",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACC\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACC\" rel=\"noreferrer noopener\" target=\"_blank\">Escampar</a>” (<em>brh</em>). Forma infinitiva da raiz. </span>"
     },
     {
-      "ref_id": "fn173-7674",
-      "number": 173,
+      "ref_id": "fn172-7674",
+      "number": 172,
       "text": "Com alterações um pouco mais sensíveis do que o presenciado até aqui na apropriação que Êxodo 36 faz de Êxodo 26, Êxodo 36,33 reproduz Êxodo 26,28.",
       "raw_html": "<span>Com alterações um pouco mais sensíveis do que o presenciado até aqui na apropriação que Êxodo 36 faz de Êxodo 26, Êxodo 36,33 reproduz Êxodo 26,28. </span>"
     },
     {
-      "ref_id": "fn174-7674",
-      "number": 174,
+      "ref_id": "fn173-7674",
+      "number": 173,
       "text": "Êxodo 36,34 reproduz Êxodo 26,29.",
       "raw_html": "<span>Êxodo 36,34 reproduz Êxodo 26,29. </span>"
     },
     {
-      "ref_id": "fn175-7674",
-      "number": 175,
+      "ref_id": "fn174-7674",
+      "number": 174,
       "text": "Êxodo 36,35 reproduz Êxodo 26,31.",
       "raw_html": "<span>Êxodo 36,35 reproduz Êxodo 26,31. </span>"
     },
     {
-      "ref_id": "fn176-7674",
-      "number": 176,
+      "ref_id": "fn175-7674",
+      "number": 175,
       "text": "Com  alterações sintáticas, Êxodo 36,36 reproduz Êxodo 26,32.",
       "raw_html": "<span>Com  alterações sintáticas, Êxodo 36,36 reproduz Êxodo 26,32. </span>"
     },
     {
-      "ref_id": "fn177-7674",
-      "number": 177,
+      "ref_id": "fn176-7674",
+      "number": 176,
       "text": "Êxodo 36,37 reproduz Êxodo 26,36.",
       "raw_html": "<span>Êxodo 36,37 reproduz Êxodo 26,36. </span>"
     },
     {
-      "ref_id": "fn178-7674",
-      "number": 178,
+      "ref_id": "fn177-7674",
+      "number": 177,
       "text": "“Colunas” (‘ammud). Cf. v. 36. Cf. Êxodo 13,21; 35,17.",
       "raw_html": "<span>“Colunas” (<em>‘ammud</em>). Cf. v. 36. Cf. Êxodo 13,21; 35,17. </span>"
     },
     {
-      "ref_id": "fn179-7674",
-      "number": 179,
+      "ref_id": "fn178-7674",
+      "number": 178,
       "text": "“Cinco” (hamishshah). Cf. Gênesis 18,28; 47,2; Êxodo 21,37; 26,26.37; 36,31.",
       "raw_html": "<span>“Cinco” (<em>hamishshah</em>). Cf. Gênesis 18,28; 47,2; Êxodo 21,37; 26,26.37; 36,31. </span>"
     },
     {
-      "ref_id": "fn180-7674",
-      "number": 180,
+      "ref_id": "fn179-7674",
+      "number": 179,
       "text": "“E os pregos delas” (wawehem). Cf. Êxodo 26,32.37; 27,17; 36,36.",
       "raw_html": "<span>“E os pregos delas” (<em>wawehem</em>). Cf. Êxodo 26,32.37; 27,17; 36,36. </span>"
     },
     {
-      "ref_id": "fn181-7674",
-      "number": 181,
+      "ref_id": "fn180-7674",
+      "number": 180,
       "text": "“Recobrir” (tsph). Cf. v. 34.36.",
       "raw_html": "<span>“Recobrir” (<em>tsph</em>). Cf. v. 34.36. </span>"
     },
     {
-      "ref_id": "fn182-7674",
-      "number": 182,
+      "ref_id": "fn181-7674",
+      "number": 181,
       "text": "“Cabeças” (ro’sh). Cf. Gênesis 2,10; Êxodo 36,29.",
       "raw_html": "<span>“Cabeças” (<em>ro’sh</em>). Cf. Gênesis 2,10; Êxodo 36,29. </span>"
     },
     {
-      "ref_id": "fn183-7674",
-      "number": 183,
+      "ref_id": "fn182-7674",
+      "number": 182,
       "text": "“E os agarradores delas” (wahashuqehem). Cf. Êxodo 27,10.11.",
       "raw_html": "<span>“E os agarradores delas” (<em>wahashuqehem</em>). Cf. Êxodo 27,10.11. </span>"
     },
     {
-      "ref_id": "fn184-7674",
-      "number": 184,
+      "ref_id": "fn183-7674",
+      "number": 183,
       "text": "“E as bases delas” (we’adnehem). Cf. Êxodo 26,25; 27,10.11.12.14.15.16.17.18; 36,30.",
       "raw_html": "<span>“E as bases delas” (<em>we’adnehem</em>). Cf. Êxodo 26,25; 27,10.11.12.14.15.16.17.18; 36,30. </span>"
     },
     {
-      "ref_id": "fn185-7674",
-      "number": 185,
+      "ref_id": "fn184-7674",
+      "number": 184,
       "text": "“Cobre” (nehoshet). Cf. v. 18.",
       "raw_html": "<span>“Cobre” (<em>nehoshet</em>). Cf. v. 18. </span>"
     }
