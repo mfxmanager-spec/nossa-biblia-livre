@@ -110,30 +110,40 @@
     },
     {
       "number": 4,
-      "text": "E envia Ya’aqob mensageirospara as faces dele. A ‘Esav. O irmão dele. Para a terra de Se’ir. O campo de ‘Edom.",
+      "text": "E envia Ya’aqob. Mensageiros. Para as faces dele. A ‘Esav. O irmão dele. Para a terra de Se’ir. O campo de ‘Edom.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E envia Ya’aqob mensageirospara as faces dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E envia Ya’aqob mensageiros<a name=\"rf7-2775\"></a><sup><a href=\"#fn7-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>para as faces dele<a name=\"rf8-2775\"></a><sup><a href=\"#fn8-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
+          "text": "E envia Ya’aqob.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E envia Ya’aqob.</p>"
         },
         {
           "line_index": 1,
+          "text": "Mensageiros.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Mensageiros<a name=\"rf7-2775\"></a><sup><a href=\"#fn7-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Para as faces dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces dele<a name=\"rf8-2775\"></a><sup><a href=\"#fn8-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "A ‘Esav.",
           "raw_html": "<p class=\"wp-block-paragraph\">A ‘Esav.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 4,
           "text": "O irmão dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">O irmão dele.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 5,
           "text": "Para a terra de Se’ir.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para a terra de Se’ir.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
           "text": "O campo de ‘Edom.",
           "raw_html": "<p class=\"wp-block-paragraph\">O campo de ‘Edom<a name=\"rf9-2775\"></a><sup><a href=\"#fn9-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup>. </p>"
         }
@@ -1555,8 +1565,8 @@
     {
       "ref_id": "fn8-2775",
       "number": 8,
-      "text": "A preposição é das mais ambíguas do hebraico bíblico. Pode ser traduzido de várias formas. Aqui, minha interpretação é que o referencial é o próprio sujeito: Jacó envia mensageiros na sua frente, para que cheguem antes diante de Esaú.",
-      "raw_html": "<span>A preposição é das mais ambíguas do hebraico bíblico. Pode ser traduzido de várias formas. Aqui, minha interpretação é que o referencial é o próprio sujeito: Jacó envia mensageiros na sua frente, para que cheguem antes diante de Esaú. </span>"
+      "text": "“Para as faces dele” (lepanayw).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALF\" rel=\"noopener\" target=\"_blank\">Para as faces dele</a>” (<em>lepanayw</em>). </span>"
     },
     {
       "ref_id": "fn9-2775",

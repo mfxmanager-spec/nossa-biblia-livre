@@ -710,7 +710,7 @@
     },
     {
       "number": 14,
-      "text": "Sobre assim. Está Hebron. Para Kaleb. O filho de Yepunneh. O qenizzi. Para herdade. Até o dia esse. Por-causa-de que. Repleta ele. Depois de Yahweh. O deus de Yisra’el.",
+      "text": "Sobre assim. Está Hebron. Para Kaleb. O filho de Yepunneh. O qenizzi. Para herdade. Até o dia esse. Por causa de que. Repleta ele. Depois de Yahweh. O deus de Yisra’el.",
       "lines": [
         {
           "line_index": 0,
@@ -749,8 +749,8 @@
         },
         {
           "line_index": 7,
-          "text": "Por-causa-de que.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Por-causa-de<a name=\"rf74-18536\"></a><sup><a href=\"#fn74-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup> que<a name=\"rf75-18536\"></a><sup><a href=\"#fn75-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
+          "text": "Por causa de que.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Por causa de que.</p>"
         },
         {
           "line_index": 8,
@@ -760,12 +760,12 @@
         {
           "line_index": 9,
           "text": "Depois de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Depois<a name=\"rf76-18536\"></a><sup><a href=\"#fn76-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup> de Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Depois<a name=\"rf74-18536\"></a><sup><a href=\"#fn74-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup> de Yahweh.</p>"
         },
         {
           "line_index": 10,
           "text": "O deus de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O deus de Yisra’el<a name=\"rf77-18536\"></a><sup><a href=\"#fn77-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O deus de Yisra’el<a name=\"rf75-18536\"></a><sup><a href=\"#fn75-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         }
       ]
     },
@@ -776,7 +776,7 @@
         {
           "line_index": 0,
           "text": "E o nome de Hebron.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E o nome de<a name=\"rf78-18536\"></a><sup><a href=\"#fn78-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup> Hebron.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E o nome de<a name=\"rf76-18536\"></a><sup><a href=\"#fn76-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup> Hebron.</p>"
         },
         {
           "line_index": 1,
@@ -1258,30 +1258,18 @@
     {
       "ref_id": "fn74-18536",
       "number": 74,
-      "text": "“Por-causa-de” (ya’an).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0560\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0560\" rel=\"noopener\" target=\"_blank\">Por-causa-de</a>” (<em>ya’an</em>). </span>"
-    },
-    {
-      "ref_id": "fn75-18536",
-      "number": 75,
-      "text": "“Por-causa-de que” (ya’an ‘asher).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0560\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0561\" rel=\"noopener\" target=\"_blank\">Por-causa-de que</a>” (<em>ya’an ‘asher</em>). </span>"
-    },
-    {
-      "ref_id": "fn76-18536",
-      "number": 76,
       "text": "“Depois” (‘ahare’). Cf. Gênesis 5,4; Josué 6,8.9.13; 7,8; 8,2.4.6.14.16.17.20.34; 9,16; 10,14.19.26; 14,8.9.14; 20,5.",
       "raw_html": "<span>“Depois” (<em>‘ahare’</em>). Cf. Gênesis 5,4; Josué 6,8.9.13; 7,8; 8,2.4.6.14.16.17.20.34; 9,16; 10,14.19.26; 14,8.9.14; 20,5. </span>"
     },
     {
-      "ref_id": "fn77-18536",
-      "number": 77,
+      "ref_id": "fn75-18536",
+      "number": 75,
       "text": "“Yahweh. O deus de Yisra’el” (yehwah ‘elohe yisra’el). Cf. Êxodo 5,1; 32,27; 34,23; Josué 7,13; 10,40.42; 13,14.33; 14,14.",
       "raw_html": "<span>“Yahweh. O deus de Yisra’el” (<em>yehwah ‘elohe yisra’el</em>). Cf. Êxodo 5,1; 32,27; 34,23; Josué 7,13; 10,40.42; 13,14.33; 14,14. </span>"
     },
     {
-      "ref_id": "fn78-18536",
-      "number": 78,
+      "ref_id": "fn76-18536",
+      "number": 76,
       "text": "“E o nome de” (weshem). Cf. Gênesis 2,13; Josué 14,15; 15,15; Juízes 1,1.23; 20,27; Rute 1.4.17; 1 Samuel 1,2.3.4; 6,14; 7,17; 8,2; 14,4.49.50; 17,13; 21,8; 24,4; 25,3.",
       "raw_html": "<span>“E o nome de” (<em>weshem</em>). Cf. Gênesis 2,13; Josué 14,15; 15,15; Juízes 1,1.23; 20,27; Rute 1.4.17; 1 Samuel 1,2.3.4; 6,14; 7,17; 8,2; 14,4.49.50; 17,13; 21,8; 24,4; 25,3. </span>"
     }
