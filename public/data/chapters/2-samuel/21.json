@@ -1108,12 +1108,12 @@
         {
           "line_index": 11,
           "text": "Para dizer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf98-29807\"></a><sup><a href=\"#fn98-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf98-29807\"></a><sup><a href=\"#fn98-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup><a name=\"rf99-29807\"></a><sup><a href=\"#fn99-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
         },
         {
           "line_index": 12,
           "text": "Não sais tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não sais tu<a name=\"rf99-29807\"></a><sup><a href=\"#fn99-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não sais tu<a name=\"rf100-29807\"></a><sup><a href=\"#fn100-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
         },
         {
           "line_index": 13,
@@ -1133,7 +1133,7 @@
         {
           "line_index": 16,
           "text": "E não apaga.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não<a name=\"rf100-29807\"></a><sup><a href=\"#fn100-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup> apaga.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E não<a name=\"rf101-29807\"></a><sup><a href=\"#fn101-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup> apaga.</p>"
         },
         {
           "line_index": 17,
@@ -1149,7 +1149,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf101-29807\"></a><sup><a href=\"#fn101-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup><a name=\"rf102-29807\"></a><sup><a href=\"#fn102-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf102-29807\"></a><sup><a href=\"#fn102-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup><a name=\"rf103-29807\"></a><sup><a href=\"#fn103-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1159,7 +1159,7 @@
         {
           "line_index": 2,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf103-29807\"></a><sup><a href=\"#fn103-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf104-29807\"></a><sup><a href=\"#fn104-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1179,12 +1179,12 @@
         {
           "line_index": 6,
           "text": "Com pelishtim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Com pelishtim<a name=\"rf104-29807\"></a><sup><a href=\"#fn104-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Com pelishtim<a name=\"rf105-29807\"></a><sup><a href=\"#fn105-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Então.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Então<a name=\"rf105-29807\"></a><sup><a href=\"#fn105-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Então<a name=\"rf106-29807\"></a><sup><a href=\"#fn106-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -1215,7 +1215,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf106-29807\"></a><sup><a href=\"#fn106-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf107-29807\"></a><sup><a href=\"#fn107-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1235,7 +1235,7 @@
         {
           "line_index": 4,
           "text": "Com pelishtim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Com pelishtim<a name=\"rf107-29807\"></a><sup><a href=\"#fn107-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Com pelishtim<a name=\"rf108-29807\"></a><sup><a href=\"#fn108-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1245,7 +1245,7 @@
         {
           "line_index": 6,
           "text": "O filho de Ya’re ‘Orgim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O filho de<a name=\"rf108-29807\"></a><sup><a href=\"#fn108-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup> Ya’re ‘Orgim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O filho de<a name=\"rf109-29807\"></a><sup><a href=\"#fn109-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup> Ya’re ‘Orgim.</p>"
         },
         {
           "line_index": 7,
@@ -1281,7 +1281,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf109-29807\"></a><sup><a href=\"#fn109-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup><a name=\"rf110-29807\"></a><sup><a href=\"#fn110-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf110-29807\"></a><sup><a href=\"#fn110-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup><a name=\"rf111-29807\"></a><sup><a href=\"#fn111-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1301,7 +1301,7 @@
         {
           "line_index": 4,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf111-29807\"></a><sup><a href=\"#fn111-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf112-29807\"></a><sup><a href=\"#fn112-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1336,7 +1336,7 @@
         {
           "line_index": 11,
           "text": "E quatro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E quatro<a name=\"rf112-29807\"></a><sup><a href=\"#fn112-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup><a name=\"rf113-29807\"></a><sup><a href=\"#fn113-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E quatro<a name=\"rf113-29807\"></a><sup><a href=\"#fn113-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup><a name=\"rf114-29807\"></a><sup><a href=\"#fn114-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
         },
         {
           "line_index": 12,
@@ -1346,7 +1346,7 @@
         {
           "line_index": 13,
           "text": "E também ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E também ele<a name=\"rf114-29807\"></a><sup><a href=\"#fn114-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E também ele<a name=\"rf115-29807\"></a><sup><a href=\"#fn115-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
         },
         {
           "line_index": 14,
@@ -1382,7 +1382,7 @@
         {
           "line_index": 3,
           "text": "O filho de Shim’i.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O filho de<a name=\"rf115-29807\"></a><sup><a href=\"#fn115-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup> Shim’i.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O filho de<a name=\"rf116-29807\"></a><sup><a href=\"#fn116-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup> Shim’i.</p>"
         },
         {
           "line_index": 4,
@@ -1398,7 +1398,7 @@
         {
           "line_index": 0,
           "text": "Os quatro desses.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Os quatro desses<a name=\"rf116-29807\"></a><sup><a href=\"#fn116-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup><a name=\"rf117-29807\"></a><sup><a href=\"#fn117-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup><a name=\"rf118-29807\"></a><sup><a href=\"#fn118-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Os quatro desses<a name=\"rf117-29807\"></a><sup><a href=\"#fn117-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup><a name=\"rf118-29807\"></a><sup><a href=\"#fn118-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup><a name=\"rf119-29807\"></a><sup><a href=\"#fn119-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -2019,32 +2019,32 @@
     {
       "ref_id": "fn98-29807",
       "number": 98,
-      "text": "“Dizer” (‘mr). Forma infinitiva da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHV\" rel=\"noopener\" target=\"_blank\">Dizer</a>” (<em>‘mr</em>). Forma infinitiva da raiz. </span>"
+      "text": "“Para dizer” (le’mor).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0559\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0559\" rel=\"noopener\" target=\"_blank\">Para dizer</a>” (<em>le’mor</em>). </span>"
     },
     {
       "ref_id": "fn99-29807",
       "number": 99,
-      "text": "“Sais tu” (yts’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIV\" rel=\"noopener\" target=\"_blank\">Sais tu</a>” (<em>yts’</em>). </span>"
+      "text": "“Dizer” (‘mr). Forma infinitiva da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHV\" rel=\"noopener\" target=\"_blank\">Dizer</a>” (<em>‘mr</em>). Forma infinitiva da raiz. </span>"
     },
     {
       "ref_id": "fn100-29807",
       "number": 100,
-      "text": "“E não (welo’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0546\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0546\" rel=\"noopener\" target=\"_blank\">E não</a> (<em>welo’</em>). </span>"
+      "text": "“Sais tu” (yts’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIV\" rel=\"noopener\" target=\"_blank\">Sais tu</a>” (<em>yts’</em>). </span>"
     },
     {
       "ref_id": "fn101-29807",
       "number": 101,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“E não (welo’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0546\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0546\" rel=\"noopener\" target=\"_blank\">E não</a> (<em>welo’</em>). </span>"
     },
     {
       "ref_id": "fn102-29807",
       "number": 102,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noreferrer noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn103-29807",
@@ -2055,44 +2055,44 @@
     {
       "ref_id": "fn104-29807",
       "number": 104,
-      "text": "“Pelishtim” (pelishtim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0045\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0045\" rel=\"noopener\" target=\"_blank\">Pelishtim</a>” (<em>pelishtim</em>). </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noreferrer noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn105-29807",
       "number": 105,
-      "text": "“Então” (‘az).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00200\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00200\" rel=\"noopener\" target=\"_blank\">Então</a>” (<em>‘az</em>). </span>"
-    },
-    {
-      "ref_id": "fn106-29807",
-      "number": 106,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noreferrer noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn107-29807",
-      "number": 107,
       "text": "“Pelishtim” (pelishtim).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0045\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0045\" rel=\"noopener\" target=\"_blank\">Pelishtim</a>” (<em>pelishtim</em>). </span>"
     },
     {
+      "ref_id": "fn106-29807",
+      "number": 106,
+      "text": "“Então” (‘az).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00200\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00200\" rel=\"noopener\" target=\"_blank\">Então</a>” (<em>‘az</em>). </span>"
+    },
+    {
+      "ref_id": "fn107-29807",
+      "number": 107,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noreferrer noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
       "ref_id": "fn108-29807",
       "number": 108,
-      "text": "“O filho de” (ben).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAKO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKO\" rel=\"noopener\" target=\"_blank\">O filho de</a>” (<em>ben</em>). </span>"
+      "text": "“Pelishtim” (pelishtim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0045\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0045\" rel=\"noopener\" target=\"_blank\">Pelishtim</a>” (<em>pelishtim</em>). </span>"
     },
     {
       "ref_id": "fn109-29807",
       "number": 109,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“O filho de” (ben).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAKO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKO\" rel=\"noopener\" target=\"_blank\">O filho de</a>” (<em>ben</em>). </span>"
     },
     {
       "ref_id": "fn110-29807",
       "number": 110,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noreferrer noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn111-29807",
@@ -2103,42 +2103,48 @@
     {
       "ref_id": "fn112-29807",
       "number": 112,
-      "text": "“E quatro” (we’arba’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0068\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0068\" rel=\"noopener\" target=\"_blank\">E quatro</a>” (<em>we’arba’</em>). </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noreferrer noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn113-29807",
       "number": 113,
-      "text": "“Quatro” (‘arba’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0069\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0069\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’</em>). </span>"
+      "text": "“E quatro” (we’arba’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0068\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0068\" rel=\"noopener\" target=\"_blank\">E quatro</a>” (<em>we’arba’</em>). </span>"
     },
     {
       "ref_id": "fn114-29807",
       "number": 114,
-      "text": "“Ele” (hu’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0095\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0095\" rel=\"noopener\" target=\"_blank\">Ele</a>” (<em>hu’</em>). </span>"
+      "text": "“Quatro” (‘arba’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0069\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0069\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’</em>). </span>"
     },
     {
       "ref_id": "fn115-29807",
       "number": 115,
-      "text": "“O filho de” (ben).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAKO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKO\" rel=\"noopener\" target=\"_blank\">O filho de</a>” (<em>ben</em>). </span>"
+      "text": "“Ele” (hu’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0095\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0095\" rel=\"noopener\" target=\"_blank\">Ele</a>” (<em>hu’</em>). </span>"
     },
     {
       "ref_id": "fn116-29807",
       "number": 116,
-      "text": "“Os quatro de” (‘arba’ ).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0069\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0069\" rel=\"noopener\" target=\"_blank\">Os quatro de</a>” (<em>‘arba’</em> ). </span>"
+      "text": "“O filho de” (ben).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAKO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKO\" rel=\"noopener\" target=\"_blank\">O filho de</a>” (<em>ben</em>). </span>"
     },
     {
       "ref_id": "fn117-29807",
       "number": 117,
-      "text": "“Os quatro de” (‘arba’at).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0070\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0070\" rel=\"noopener\" target=\"_blank\">Os quatro de</a>” (<em>‘arba’at</em>). </span>"
+      "text": "“Os quatro de” (‘arba’ ).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0069\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0069\" rel=\"noopener\" target=\"_blank\">Os quatro de</a>” (<em>‘arba’</em> ). </span>"
     },
     {
       "ref_id": "fn118-29807",
       "number": 118,
+      "text": "“Os quatro de” (‘arba’at).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0070\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0070\" rel=\"noopener\" target=\"_blank\">Os quatro de</a>” (<em>‘arba’at</em>). </span>"
+    },
+    {
+      "ref_id": "fn119-29807",
+      "number": 119,
       "text": "“Esses” (‘elleh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00000010\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00000010\" rel=\"noopener\" target=\"_blank\">Esses</a>” (<em>‘elleh</em>). </span>"
     }

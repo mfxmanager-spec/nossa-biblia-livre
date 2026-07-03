@@ -12,7 +12,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf1-19482\"></a><sup><a href=\"#fn1-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf1-19482\"></a><sup><a href=\"#fn1-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup><a name=\"rf2-19482\"></a><sup><a href=\"#fn2-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -22,7 +22,7 @@
         {
           "line_index": 2,
           "text": "Depois que faz repousar Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Depois que faz repousar<a name=\"rf2-19482\"></a><sup><a href=\"#fn2-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup><a name=\"rf3-19482\"></a><sup><a href=\"#fn3-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup> Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Depois que faz repousar<a name=\"rf3-19482\"></a><sup><a href=\"#fn3-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup><a name=\"rf4-19482\"></a><sup><a href=\"#fn4-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup> Yahweh.</p>"
         },
         {
           "line_index": 3,
@@ -32,12 +32,12 @@
         {
           "line_index": 4,
           "text": "Desde o total dos inimigos deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o total dos inimigos<a name=\"rf4-19482\"></a><sup><a href=\"#fn4-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup> deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o total dos inimigos<a name=\"rf5-19482\"></a><sup><a href=\"#fn5-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup> deles.</p>"
         },
         {
           "line_index": 5,
           "text": "Desde redor.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde redor<a name=\"rf5-19482\"></a><sup><a href=\"#fn5-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup><a name=\"rf6-19482\"></a><sup><a href=\"#fn6-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup><a name=\"rf7-19482\"></a><sup><a href=\"#fn7-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde redor<a name=\"rf6-19482\"></a><sup><a href=\"#fn6-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup><a name=\"rf7-19482\"></a><sup><a href=\"#fn7-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup><a name=\"rf8-19482\"></a><sup><a href=\"#fn8-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -52,7 +52,7 @@
         {
           "line_index": 8,
           "text": "Vai ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vai ele<a name=\"rf8-19482\"></a><sup><a href=\"#fn8-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Vai ele<a name=\"rf9-19482\"></a><sup><a href=\"#fn9-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -68,7 +68,7 @@
         {
           "line_index": 0,
           "text": "E grita Yehoshua’.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E grita<a name=\"rf9-19482\"></a><sup><a href=\"#fn9-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup> Yehoshua’.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E grita<a name=\"rf10-19482\"></a><sup><a href=\"#fn10-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup> Yehoshua’.</p>"
         },
         {
           "line_index": 1,
@@ -113,7 +113,7 @@
         {
           "line_index": 9,
           "text": "Vou eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vou eu<a name=\"rf10-19482\"></a><sup><a href=\"#fn10-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Vou eu<a name=\"rf11-19482\"></a><sup><a href=\"#fn11-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup>.</p>"
         },
         {
           "line_index": 10,
@@ -144,7 +144,7 @@
         {
           "line_index": 3,
           "text": "Que faz Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que faz<a name=\"rf11-19482\"></a><sup><a href=\"#fn11-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup> Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que faz<a name=\"rf12-19482\"></a><sup><a href=\"#fn12-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup> Yahweh.</p>"
         },
         {
           "line_index": 4,
@@ -200,7 +200,7 @@
         {
           "line_index": 3,
           "text": "Em herdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Em herdade<a name=\"rf12-19482\"></a><sup><a href=\"#fn12-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Em herdade<a name=\"rf13-19482\"></a><sup><a href=\"#fn13-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -215,7 +215,7 @@
         {
           "line_index": 6,
           "text": "E o total dos nacionados.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o total dos<a name=\"rf13-19482\"></a><sup><a href=\"#fn13-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup> nacionados.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o total dos<a name=\"rf14-19482\"></a><sup><a href=\"#fn14-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup> nacionados.</p>"
         },
         {
           "line_index": 7,
@@ -302,12 +302,12 @@
         {
           "line_index": 1,
           "text": "Para guardar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para guardar<a name=\"rf14-19482\"></a><sup><a href=\"#fn14-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para guardar<a name=\"rf15-19482\"></a><sup><a href=\"#fn15-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Para fazer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para fazer<a name=\"rf15-19482\"></a><sup><a href=\"#fn15-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para fazer<a name=\"rf16-19482\"></a><sup><a href=\"#fn16-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -343,7 +343,7 @@
         {
           "line_index": 0,
           "text": "Para sem ir.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para sem ir<a name=\"rf16-19482\"></a><sup><a href=\"#fn16-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para sem ir<a name=\"rf17-19482\"></a><sup><a href=\"#fn17-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -358,7 +358,7 @@
         {
           "line_index": 3,
           "text": "E nos nomes dos deuses deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E nos nomes<a name=\"rf17-19482\"></a><sup><a href=\"#fn17-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup> dos deuses deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E nos nomes<a name=\"rf18-19482\"></a><sup><a href=\"#fn18-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup> dos deuses deles.</p>"
         },
         {
           "line_index": 4,
@@ -373,7 +373,7 @@
         {
           "line_index": 6,
           "text": "E não servis vós eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não servis vós<a name=\"rf18-19482\"></a><sup><a href=\"#fn18-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup> eles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E não servis vós<a name=\"rf19-19482\"></a><sup><a href=\"#fn19-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup> eles.</p>"
         },
         {
           "line_index": 7,
@@ -389,7 +389,7 @@
         {
           "line_index": 0,
           "text": "Que sim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sim<a name=\"rf19-19482\"></a><sup><a href=\"#fn19-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sim<a name=\"rf20-19482\"></a><sup><a href=\"#fn20-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 20\">20</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -409,12 +409,12 @@
         {
           "line_index": 4,
           "text": "Conforme que fazem eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que fazem eles<a name=\"rf20-19482\"></a><sup><a href=\"#fn20-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 20\">20</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que fazem eles<a name=\"rf21-19482\"></a><sup><a href=\"#fn21-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 21\">21</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Até o dia esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf21-19482\"></a><sup><a href=\"#fn21-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 21\">21</a></sup> esse<a name=\"rf22-19482\"></a><sup><a href=\"#fn22-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup><a name=\"rf23-19482\"></a><sup><a href=\"#fn23-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf22-19482\"></a><sup><a href=\"#fn22-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup> esse<a name=\"rf23-19482\"></a><sup><a href=\"#fn23-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup><a name=\"rf24-19482\"></a><sup><a href=\"#fn24-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup>.</p>"
         }
       ]
     },
@@ -450,7 +450,7 @@
         {
           "line_index": 5,
           "text": "Não acoluna homem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não acoluna<a name=\"rf24-19482\"></a><sup><a href=\"#fn24-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup> homem.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não acoluna<a name=\"rf25-19482\"></a><sup><a href=\"#fn25-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup> homem.</p>"
         },
         {
           "line_index": 6,
@@ -460,7 +460,7 @@
         {
           "line_index": 7,
           "text": "Até o dia esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf25-19482\"></a><sup><a href=\"#fn25-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup> esse<a name=\"rf26-19482\"></a><sup><a href=\"#fn26-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup><a name=\"rf27-19482\"></a><sup><a href=\"#fn27-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf26-19482\"></a><sup><a href=\"#fn26-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup> esse<a name=\"rf27-19482\"></a><sup><a href=\"#fn27-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup><a name=\"rf28-19482\"></a><sup><a href=\"#fn28-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
         }
       ]
     },
@@ -481,7 +481,7 @@
         {
           "line_index": 2,
           "text": "Persegue ele milhar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Persegue ele<a name=\"rf28-19482\"></a><sup><a href=\"#fn28-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup> milhar.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Persegue ele<a name=\"rf29-19482\"></a><sup><a href=\"#fn29-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup> milhar.</p>"
         },
         {
           "line_index": 3,
@@ -512,7 +512,7 @@
         {
           "line_index": 0,
           "text": "E guardados estais vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E guardados estais vós<a name=\"rf29-19482\"></a><sup><a href=\"#fn29-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E guardados estais vós<a name=\"rf30-19482\"></a><sup><a href=\"#fn30-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -527,7 +527,7 @@
         {
           "line_index": 3,
           "text": "Para amar Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para amar<a name=\"rf30-19482\"></a><sup><a href=\"#fn30-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup> Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para amar<a name=\"rf31-19482\"></a><sup><a href=\"#fn31-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup> Yahweh.</p>"
         },
         {
           "line_index": 4,
@@ -543,7 +543,7 @@
         {
           "line_index": 0,
           "text": "Que sim.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Que sim<a name=\"rf31-19482\"></a><sup><a href=\"#fn31-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Que sim<a name=\"rf32-19482\"></a><sup><a href=\"#fn32-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -573,7 +573,7 @@
         {
           "line_index": 6,
           "text": "E ides vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ides vós<a name=\"rf32-19482\"></a><sup><a href=\"#fn32-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ides vós<a name=\"rf33-19482\"></a><sup><a href=\"#fn33-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 33\">33</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -604,7 +604,7 @@
         {
           "line_index": 1,
           "text": "Que não acrescenta Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que não<a name=\"rf33-19482\"></a><sup><a href=\"#fn33-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 33\">33</a></sup> acrescenta Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que não<a name=\"rf34-19482\"></a><sup><a href=\"#fn34-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 34\">34</a></sup> acrescenta Yahweh.</p>"
         },
         {
           "line_index": 2,
@@ -624,7 +624,7 @@
         {
           "line_index": 5,
           "text": "E estão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E estão eles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E estão eles<a name=\"rf35-19482\"></a><sup><a href=\"#fn35-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 35\">35</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -710,7 +710,7 @@
         {
           "line_index": 4,
           "text": "No caminho do total da terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No caminho do total da terra.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No caminho do<a name=\"rf36-19482\"></a><sup><a href=\"#fn36-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup> total da terra.</p>"
         },
         {
           "line_index": 5,
@@ -720,7 +720,7 @@
         {
           "line_index": 6,
           "text": "No total do coração de vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No total do<a name=\"rf34-19482\"></a><sup><a href=\"#fn34-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 34\">34</a></sup> coração de vós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No total do<a name=\"rf37-19482\"></a><sup><a href=\"#fn37-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup> coração de vós.</p>"
         },
         {
           "line_index": 7,
@@ -730,7 +730,7 @@
         {
           "line_index": 8,
           "text": "Que não cai falado um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que não<a name=\"rf35-19482\"></a><sup><a href=\"#fn35-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 35\">35</a></sup> cai falado um.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que não<a name=\"rf38-19482\"></a><sup><a href=\"#fn38-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup> cai falado um.</p>"
         },
         {
           "line_index": 9,
@@ -760,7 +760,7 @@
         {
           "line_index": 14,
           "text": "Vão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vão eles<a name=\"rf36-19482\"></a><sup><a href=\"#fn36-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Vão eles<a name=\"rf39-19482\"></a><sup><a href=\"#fn39-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>.</p>"
         },
         {
           "line_index": 15,
@@ -791,12 +791,12 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf40-19482\"></a><sup><a href=\"#fn40-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Conforme que vai.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que vai<a name=\"rf37-19482\"></a><sup><a href=\"#fn37-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que vai<a name=\"rf41-19482\"></a><sup><a href=\"#fn41-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -826,7 +826,7 @@
         {
           "line_index": 7,
           "text": "Assim faz ir Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Assim faz ir<a name=\"rf38-19482\"></a><sup><a href=\"#fn38-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup> Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Assim faz ir<a name=\"rf42-19482\"></a><sup><a href=\"#fn42-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup> Yahweh.</p>"
         },
         {
           "line_index": 8,
@@ -877,7 +877,7 @@
         {
           "line_index": 0,
           "text": "No passar de vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> No passar<a name=\"rf39-19482\"></a><sup><a href=\"#fn39-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup> de vós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> No passar<a name=\"rf43-19482\"></a><sup><a href=\"#fn43-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup> de vós.</p>"
         },
         {
           "line_index": 1,
@@ -897,7 +897,7 @@
         {
           "line_index": 4,
           "text": "E servis vós deuses outros.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E servis vós<a name=\"rf40-19482\"></a><sup><a href=\"#fn40-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup> deuses outros<a name=\"rf41-19482\"></a><sup><a href=\"#fn41-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E servis vós<a name=\"rf44-19482\"></a><sup><a href=\"#fn44-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup> deuses outros<a name=\"rf45-19482\"></a><sup><a href=\"#fn45-19482\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -947,240 +947,264 @@
     {
       "ref_id": "fn2-19482",
       "number": 2,
-      "text": "“Faz repousar” (nwh). Forma causativa da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Faz repousar</a>” (<em>nwh</em>). Forma causativa da raiz. </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn3-19482",
       "number": 3,
-      "text": "“Faz repousar” (heniah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAER\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAER\" rel=\"noreferrer noopener\" target=\"_blank\">Faz repousar</a>” (<em>heniah</em>). </span>"
+      "text": "“Faz repousar” (nwh). Forma causativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Faz repousar</a>” (<em>nwh</em>). Forma causativa da raiz. </span>"
     },
     {
       "ref_id": "fn4-19482",
       "number": 4,
-      "text": "“Inimigos” (‘oyeb). Cf. Gênesis 22,17; Josué 7,8.12.13; 10,13.19.25; 21,44; 22,8; 23,1; Josué 2,14.18; 3,28; 5,31; 8,34; 11,36; 16,23.24; 1 Samuel 2,1; 4,3; 12,10.11; 14,24.30.47; 18,25.29; 19,17; 20,15.16; 24,5.20; 25,22.26.29; 26,8; 29,8; 30,26.",
-      "raw_html": "<span>“Inimigos” (<em>‘oyeb</em>). Cf. Gênesis 22,17; Josué 7,8.12.13; 10,13.19.25; 21,44; 22,8; 23,1; Josué 2,14.18; 3,28; 5,31; 8,34; 11,36; 16,23.24; 1 Samuel 2,1; 4,3; 12,10.11; 14,24.30.47; 18,25.29; 19,17; 20,15.16; 24,5.20; 25,22.26.29; 26,8; 29,8; 30,26. </span>"
+      "text": "“Faz repousar” (heniah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAER\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAER\" rel=\"noreferrer noopener\" target=\"_blank\">Faz repousar</a>” (<em>heniah</em>). </span>"
     },
     {
       "ref_id": "fn5-19482",
       "number": 5,
-      "text": "“Desde redor” (missabib).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAEU\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAEU\" rel=\"noreferrer noopener\" target=\"_blank\">Desde redor</a>” (<em>missabib</em>). </span>"
+      "text": "“Inimigos” (‘oyeb). Cf. Gênesis 22,17; Josué 7,8.12.13; 10,13.19.25; 21,44; 22,8; 23,1; Josué 2,14.18; 3,28; 5,31; 8,34; 11,36; 16,23.24; 1 Samuel 2,1; 4,3; 12,10.11; 14,24.30.47; 18,25.29; 19,17; 20,15.16; 24,5.20; 25,22.26.29; 26,8; 29,8; 30,26.",
+      "raw_html": "<span>“Inimigos” (<em>‘oyeb</em>). Cf. Gênesis 22,17; Josué 7,8.12.13; 10,13.19.25; 21,44; 22,8; 23,1; Josué 2,14.18; 3,28; 5,31; 8,34; 11,36; 16,23.24; 1 Samuel 2,1; 4,3; 12,10.11; 14,24.30.47; 18,25.29; 19,17; 20,15.16; 24,5.20; 25,22.26.29; 26,8; 29,8; 30,26. </span>"
     },
     {
       "ref_id": "fn6-19482",
       "number": 6,
-      "text": "“Redor” (sabib). Cf. Gênesis 23,17; Josué 15,12; 18,20; 19,8; 21,11.42.44; 23,1; Juízes 2,12.14; 7,8.21; 8,34; 20,29; 1 Samuel 12.11; 14,21.47; 26,5.7; 31,9.",
-      "raw_html": "<span>“Redor” (<em>sabib</em>). Cf. Gênesis 23,17; Josué 15,12; 18,20; 19,8; 21,11.42.44; 23,1; Juízes 2,12.14; 7,8.21; 8,34; 20,29; 1 Samuel 12.11; 14,21.47; 26,5.7; 31,9. </span>"
+      "text": "“Desde redor” (missabib).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAEU\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAEU\" rel=\"noreferrer noopener\" target=\"_blank\">Desde redor</a>” (<em>missabib</em>). </span>"
     },
     {
       "ref_id": "fn7-19482",
       "number": 7,
-      "text": "“Redor” (sabib).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAEV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAEV\" rel=\"noreferrer noopener\" target=\"_blank\">Redor</a>” (<em>sabib</em>). </span>"
+      "text": "“Redor” (sabib). Cf. Gênesis 23,17; Josué 15,12; 18,20; 19,8; 21,11.42.44; 23,1; Juízes 2,12.14; 7,8.21; 8,34; 20,29; 1 Samuel 12.11; 14,21.47; 26,5.7; 31,9.",
+      "raw_html": "<span>“Redor” (<em>sabib</em>). Cf. Gênesis 23,17; Josué 15,12; 18,20; 19,8; 21,11.42.44; 23,1; Juízes 2,12.14; 7,8.21; 8,34; 20,29; 1 Samuel 12.11; 14,21.47; 26,5.7; 31,9. </span>"
     },
     {
       "ref_id": "fn8-19482",
       "number": 8,
-      "text": "“Vai0 ele” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
-      "raw_html": "<span>“Vai0 ele” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
+      "text": "“Redor” (sabib).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAEV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAEV\" rel=\"noreferrer noopener\" target=\"_blank\">Redor</a>” (<em>sabib</em>). </span>"
     },
     {
       "ref_id": "fn9-19482",
       "number": 9,
-      "text": "“Grita” (qr’). Cf. Gênesis 1,5 (…) Josué 7,26; 8m34.35; 9,22; 10,24; 19,47; 21,9; 22,1.34; 23,2; 24,1.9; Juízes 1,17.26; 2,5; 4,6; 6,24.32; 7,3.20; 8,1; 9,7.54; 10,4; 12,1.",
-      "raw_html": "<span>“Grita” (<em>qr’</em>). Cf. Gênesis 1,5 (…) Josué 7,26; 8m34.35; 9,22; 10,24; 19,47; 21,9; 22,1.34; 23,2; 24,1.9; Juízes 1,17.26; 2,5; 4,6; 6,24.32; 7,3.20; 8,1; 9,7.54; 10,4; 12,1. </span>"
+      "text": "“Vai0 ele” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
+      "raw_html": "<span>“Vai0 ele” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
     },
     {
       "ref_id": "fn10-19482",
       "number": 10,
-      "text": "“Vou eu” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
-      "raw_html": "<span>“Vou eu” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
+      "text": "“Grita” (qr’). Cf. Gênesis 1,5 (…) Josué 7,26; 8m34.35; 9,22; 10,24; 19,47; 21,9; 22,1.34; 23,2; 24,1.9; Juízes 1,17.26; 2,5; 4,6; 6,24.32; 7,3.20; 8,1; 9,7.54; 10,4; 12,1.",
+      "raw_html": "<span>“Grita” (<em>qr’</em>). Cf. Gênesis 1,5 (…) Josué 7,26; 8m34.35; 9,22; 10,24; 19,47; 21,9; 22,1.34; 23,2; 24,1.9; Juízes 1,17.26; 2,5; 4,6; 6,24.32; 7,3.20; 8,1; 9,7.54; 10,4; 12,1. </span>"
     },
     {
       "ref_id": "fn11-19482",
       "number": 11,
-      "text": "“Faz” (‘sh). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25.",
-      "raw_html": "<span>“Faz” (<em>‘sh</em>). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25. </span>"
+      "text": "“Vou eu” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
+      "raw_html": "<span>“Vou eu” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
     },
     {
       "ref_id": "fn12-19482",
       "number": 12,
-      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8.9.10.16.23.31.39.41.48.49.51; 21,3.4.28.30.32; Juízes 2,6.9; 18,1; 20,6; 21,23.24; Rute 4,5.6.10; 1 Samuel 10,1. 26,19.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8.9.10.16.23.31.39.41.48.49.51; 21,3.4.28.30.32; Juízes 2,6.9; 18,1; 20,6; 21,23.24; Rute 4,5.6.10; 1 Samuel 10,1. 26,19. </span>"
+      "text": "“Faz” (‘sh). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25.",
+      "raw_html": "<span>“Faz” (<em>‘sh</em>). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25. </span>"
     },
     {
       "ref_id": "fn13-19482",
       "number": 13,
-      "text": "“E o total dos” (wekol). Cf. Gênesis 2,1; Josué 19,8; 23,4; 24,31; Juízes 2,7; 3,3.29; 6,33; 7,1.4.6.7.12.18; 8,12; 9,6.34.48.51; 13,14; 16,31; 20,26.33; Rute 4,9; 1 Samuel 1,21; 2,33; 5,5; 9,19; 11,15; 13,4.7; 14,20.22.25.52; 15,9; 17,11.19.24; 18,16.22; 19,24; 22,1.2.6.16; 25,6.",
-      "raw_html": "<span>“E o total dos” (<em>wekol</em>). Cf. Gênesis 2,1; Josué 19,8; 23,4; 24,31; Juízes 2,7; 3,3.29; 6,33; 7,1.4.6.7.12.18; 8,12; 9,6.34.48.51; 13,14; 16,31; 20,26.33; Rute 4,9; 1 Samuel 1,21; 2,33; 5,5; 9,19; 11,15; 13,4.7; 14,20.22.25.52; 15,9; 17,11.19.24; 18,16.22; 19,24; 22,1.2.6.16; 25,6. </span>"
+      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8.9.10.16.23.31.39.41.48.49.51; 21,3.4.28.30.32; Juízes 2,6.9; 18,1; 20,6; 21,23.24; Rute 4,5.6.10; 1 Samuel 10,1. 26,19.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8.9.10.16.23.31.39.41.48.49.51; 21,3.4.28.30.32; Juízes 2,6.9; 18,1; 20,6; 21,23.24; Rute 4,5.6.10; 1 Samuel 10,1. 26,19. </span>"
     },
     {
       "ref_id": "fn14-19482",
       "number": 14,
-      "text": "“Guardar” (shmr). Forma infinitivada da raiz. Cf. Gênesis 2,15; Josué 22,2.3.5; 23,6.11; 24,17; Juízes 1,24; 2,22; 7,19; 13,4.13.14; 1 Samuel 1,12; 2,9; 7,1; 9,24; 13,13.143; 17,20.22; 19,2.11; 21,5; 25,21; 26,15.16.",
-      "raw_html": "<span>“Guardar” (<em>shmr</em>). Forma infinitivada da raiz. Cf. Gênesis 2,15; Josué 22,2.3.5; 23,6.11; 24,17; Juízes 1,24; 2,22; 7,19; 13,4.13.14; 1 Samuel 1,12; 2,9; 7,1; 9,24; 13,13.143; 17,20.22; 19,2.11; 21,5; 25,21; 26,15.16. </span>"
+      "text": "“E o total dos” (wekol). Cf. Gênesis 2,1; Josué 19,8; 23,4; 24,31; Juízes 2,7; 3,3.29; 6,33; 7,1.4.6.7.12.18; 8,12; 9,6.34.48.51; 13,14; 16,31; 20,26.33; Rute 4,9; 1 Samuel 1,21; 2,33; 5,5; 9,19; 11,15; 13,4.7; 14,20.22.25.52; 15,9; 17,11.19.24; 18,16.22; 19,24; 22,1.2.6.16; 25,6.",
+      "raw_html": "<span>“E o total dos” (<em>wekol</em>). Cf. Gênesis 2,1; Josué 19,8; 23,4; 24,31; Juízes 2,7; 3,3.29; 6,33; 7,1.4.6.7.12.18; 8,12; 9,6.34.48.51; 13,14; 16,31; 20,26.33; Rute 4,9; 1 Samuel 1,21; 2,33; 5,5; 9,19; 11,15; 13,4.7; 14,20.22.25.52; 15,9; 17,11.19.24; 18,16.22; 19,24; 22,1.2.6.16; 25,6. </span>"
     },
     {
       "ref_id": "fn15-19482",
       "number": 15,
-      "text": "“Fazer” (‘sh). Forma infinitiva da raiz. Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25.",
-      "raw_html": "<span>“Fazer” (<em>‘sh</em>). Forma infinitiva da raiz. Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25. </span>"
+      "text": "“Guardar” (shmr). Forma infinitivada da raiz. Cf. Gênesis 2,15; Josué 22,2.3.5; 23,6.11; 24,17; Juízes 1,24; 2,22; 7,19; 13,4.13.14; 1 Samuel 1,12; 2,9; 7,1; 9,24; 13,13.143; 17,20.22; 19,2.11; 21,5; 25,21; 26,15.16.",
+      "raw_html": "<span>“Guardar” (<em>shmr</em>). Forma infinitivada da raiz. Cf. Gênesis 2,15; Josué 22,2.3.5; 23,6.11; 24,17; Juízes 1,24; 2,22; 7,19; 13,4.13.14; 1 Samuel 1,12; 2,9; 7,1; 9,24; 13,13.143; 17,20.22; 19,2.11; 21,5; 25,21; 26,15.16. </span>"
     },
     {
       "ref_id": "fn16-19482",
       "number": 16,
-      "text": "“Ir” (bw’). Forma infinitiva da raiz. Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
-      "raw_html": "<span>“Ir” (<em>bw’</em>). Forma infinitiva da raiz. Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
+      "text": "“Fazer” (‘sh). Forma infinitiva da raiz. Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25.",
+      "raw_html": "<span>“Fazer” (<em>‘sh</em>). Forma infinitiva da raiz. Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25. </span>"
     },
     {
       "ref_id": "fn17-19482",
       "number": 17,
-      "text": "“Nome” (shem). Cf. Gênesis 2,11; Josué 15,15; 17,3; 19,47; 21,9; 23,7; Juízes 1,11.17.23.26; 2,5; 8,31; 13,2.6.17.18.24; 15,19; 16,4; 17,1; 18,29; Rute 1,2.4; 2,1.19; 4,5.10.11.14.17; 1 Samuel 1,1.2.20; 7,12; 8,2; 9,1.2; 12,22; 14,4.49.50; 17,4.12.13.23.45; 18,30; 20,42; 21,8; 22,20; 24,22; 25,3.5.9.25.",
-      "raw_html": "<span>“Nome” (<em>shem</em>). Cf. Gênesis 2,11; Josué 15,15; 17,3; 19,47; 21,9; 23,7; Juízes 1,11.17.23.26; 2,5; 8,31; 13,2.6.17.18.24; 15,19; 16,4; 17,1; 18,29; Rute 1,2.4; 2,1.19; 4,5.10.11.14.17; 1 Samuel 1,1.2.20; 7,12; 8,2; 9,1.2; 12,22; 14,4.49.50; 17,4.12.13.23.45; 18,30; 20,42; 21,8; 22,20; 24,22; 25,3.5.9.25. </span>"
+      "text": "“Ir” (bw’). Forma infinitiva da raiz. Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
+      "raw_html": "<span>“Ir” (<em>bw’</em>). Forma infinitiva da raiz. Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
     },
     {
       "ref_id": "fn18-19482",
       "number": 18,
-      "text": "“Servis vós” (‘bd). Cf. Gênesis 2,5; Josué 16,10; 22,5.27; 23,7.16; 24,2.14.15.16.18.19.20.21.22.24.31; Juízes 2,7.11.13.19; 3,6.7.8.14; 9,28.38; 10,6.10.13.16; 1 Samuel 4,9; 7,3.4; 8,8; 11,1. 12,10.14.20.24; 17,9; 26,19.",
-      "raw_html": "<span>“Servis vós” (<em>‘bd</em>). Cf. Gênesis 2,5; Josué 16,10; 22,5.27; 23,7.16; 24,2.14.15.16.18.19.20.21.22.24.31; Juízes 2,7.11.13.19; 3,6.7.8.14; 9,28.38; 10,6.10.13.16; 1 Samuel 4,9; 7,3.4; 8,8; 11,1. 12,10.14.20.24; 17,9; 26,19. </span>"
+      "text": "“Nome” (shem). Cf. Gênesis 2,11; Josué 15,15; 17,3; 19,47; 21,9; 23,7; Juízes 1,11.17.23.26; 2,5; 8,31; 13,2.6.17.18.24; 15,19; 16,4; 17,1; 18,29; Rute 1,2.4; 2,1.19; 4,5.10.11.14.17; 1 Samuel 1,1.2.20; 7,12; 8,2; 9,1.2; 12,22; 14,4.49.50; 17,4.12.13.23.45; 18,30; 20,42; 21,8; 22,20; 24,22; 25,3.5.9.25.",
+      "raw_html": "<span>“Nome” (<em>shem</em>). Cf. Gênesis 2,11; Josué 15,15; 17,3; 19,47; 21,9; 23,7; Juízes 1,11.17.23.26; 2,5; 8,31; 13,2.6.17.18.24; 15,19; 16,4; 17,1; 18,29; Rute 1,2.4; 2,1.19; 4,5.10.11.14.17; 1 Samuel 1,1.2.20; 7,12; 8,2; 9,1.2; 12,22; 14,4.49.50; 17,4.12.13.23.45; 18,30; 20,42; 21,8; 22,20; 24,22; 25,3.5.9.25. </span>"
     },
     {
       "ref_id": "fn19-19482",
       "number": 19,
-      "text": "“Que sim” (ki ‘im). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22.",
-      "raw_html": "<span>“Que sim” (<em>ki ‘im</em>). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22. </span>"
-    },
-    {
-      "ref_id": "fn20-19482",
-      "number": 20,
-      "text": "“Fazem eles” (‘sh). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25.",
-      "raw_html": "<span>“Fazem eles” (<em>‘sh</em>). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25. </span>"
-    },
-    {
-      "ref_id": "fn21-19482",
-      "number": 21,
-      "text": "“Até o dia” (‘ad hayyom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
-    },
-    {
-      "ref_id": "fn22-19482",
-      "number": 22,
-      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
-    },
-    {
-      "ref_id": "fn23-19482",
-      "number": 23,
-      "text": "“O dia esse” (hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
-    },
-    {
-      "ref_id": "fn24-19482",
-      "number": 24,
-      "text": "“Acoluna” (‘md). Cf. Gênesis 18,8; Josué 18,5; 20,4.6.9; 21,44; 23,9; Juízes 2,14; 3,19; 4,20; 6,31; 7,21; 9,7.35.44; 16,25; 20,28; 1 Samuel 6,14.20; 9,27; 14,9; 16,21.22; 17,3.8.26.51; 19,3.20; 20,38; 26,13; 30,9.",
-      "raw_html": "<span>“Acoluna” (<em>‘md</em>). Cf. Gênesis 18,8; Josué 18,5; 20,4.6.9; 21,44; 23,9; Juízes 2,14; 3,19; 4,20; 6,31; 7,21; 9,7.35.44; 16,25; 20,28; 1 Samuel 6,14.20; 9,27; 14,9; 16,21.22; 17,3.8.26.51; 19,3.20; 20,38; 26,13; 30,9. </span>"
-    },
-    {
-      "ref_id": "fn25-19482",
-      "number": 25,
-      "text": "“Até o dia” (‘ad hayyom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
-    },
-    {
-      "ref_id": "fn26-19482",
-      "number": 26,
-      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
-    },
-    {
-      "ref_id": "fn27-19482",
-      "number": 27,
-      "text": "“O dia esse” (hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
-    },
-    {
-      "ref_id": "fn28-19482",
-      "number": 28,
-      "text": "“Persegue” (rdp). Cf. Gênesis 14,14; Josué 20,5; 23,10; 24,6; Juízes 1,6; 3,28; 4,16.22; 7,23.25; 8,4.5.12; 9,40; 20,43; 1 Samuel 7,11; 17,52; 23,25.28; 24,15; 25,29; 26,18.20.",
-      "raw_html": "<span>“Persegue” (<em>rdp</em>). Cf. Gênesis 14,14; Josué 20,5; 23,10; 24,6; Juízes 1,6; 3,28; 4,16.22; 7,23.25; 8,4.5.12; 9,40; 20,43; 1 Samuel 7,11; 17,52; 23,25.28; 24,15; 25,29; 26,18.20. </span>"
-    },
-    {
-      "ref_id": "fn29-19482",
-      "number": 29,
-      "text": "“Guardados estais vós” (shmr). Forma passiva da raiz. Cf. Gênesis 2,15; Josué 22,2.3.5; 23,6.11; 24,17; Juízes 1,24; 2,22; 7,19; 13,4.13.14; 1 Samuel 1,12; 2,9; 7,1; 9,24; 13,13.143; 17,20.22; 19,2.11; 21,5; 25,21; 26,15.16.",
-      "raw_html": "<span>“Guardados estais vós” (<em>shmr</em>). Forma passiva da raiz. Cf. Gênesis 2,15; Josué 22,2.3.5; 23,6.11; 24,17; Juízes 1,24; 2,22; 7,19; 13,4.13.14; 1 Samuel 1,12; 2,9; 7,1; 9,24; 13,13.143; 17,20.22; 19,2.11; 21,5; 25,21; 26,15.16. </span>"
-    },
-    {
-      "ref_id": "fn30-19482",
-      "number": 30,
-      "text": "“Amar” (‘hb). Forma infinitiva da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKN\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKN\" rel=\"noopener\" target=\"_blank\">Amar</a>” (<em>‘hb</em>). Forma infinitiva da raiz. </span>"
-    },
-    {
-      "ref_id": "fn31-19482",
-      "number": 31,
-      "text": "“Que sim” (ki ‘im). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22.",
-      "raw_html": "<span>“Que sim” (<em>ki ‘im</em>). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22. </span>"
-    },
-    {
-      "ref_id": "fn32-19482",
-      "number": 32,
-      "text": "“Ides vós” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
-      "raw_html": "<span>“Ides vós” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
-    },
-    {
-      "ref_id": "fn33-19482",
-      "number": 33,
-      "text": "“Que não” (ki lo’). Cf. Gênesis 2,5; Josué 23,13.14; Juízes 1,19.32.34; 3,22; 4,9; 5,23; 13,16; 18,1; 21,22; Rute 3,18; 4,6; 1 Samuel 2,9; 4,7; 6,9; 8,7; 9,13; 12,5.22; 13,14; 15,29; 16m7.11; 17,39.47; 20,26; 21,7; 22,15; 23,17; 26,21.",
-      "raw_html": "<span>“Que não” (<em>ki lo’</em>). Cf. Gênesis 2,5; Josué 23,13.14; Juízes 1,19.32.34; 3,22; 4,9; 5,23; 13,16; 18,1; 21,22; Rute 3,18; 4,6; 1 Samuel 2,9; 4,7; 6,9; 8,7; 9,13; 12,5.22; 13,14; 15,29; 16m7.11; 17,39.47; 20,26; 21,7; 22,15; 23,17; 26,21. </span>"
-    },
-    {
-      "ref_id": "fn34-19482",
-      "number": 34,
-      "text": "“No total do” (bekol). Cf. Gênesis 9,2 (…) Josué 1,7.9; 2,22; 6,27; 17,16; 22,5; 23,14; 24,3.17; Juízes 2,15; 6,35; 7,24; 19,29; 20,6.12; 1 Samuel 2,32; 4,8; 5,11; 7,3; 10,24; 11,3.7; 12,20.24; 13,3.19; 14,47; 18,5; 22,14.15.22.23; 27,1; 30,16.",
-      "raw_html": "<span>“No total do” (<em>bekol</em>). Cf. Gênesis 9,2 (…) Josué 1,7.9; 2,22; 6,27; 17,16; 22,5; 23,14; 24,3.17; Juízes 2,15; 6,35; 7,24; 19,29; 20,6.12; 1 Samuel 2,32; 4,8; 5,11; 7,3; 10,24; 11,3.7; 12,20.24; 13,3.19; 14,47; 18,5; 22,14.15.22.23; 27,1; 30,16. </span>"
-    },
-    {
-      "ref_id": "fn35-19482",
-      "number": 35,
-      "text": "“Que não” (ki lo’). Cf. Gênesis 2,5; Josué 23,13.14; Juízes 1,19.32.34; 3,22; 4,9; 5,23; 13,16; 18,1; 21,22; Rute 3,18; 4,6; 1 Samuel 2,9; 4,7; 6,9; 8,7; 9,13; 12,5.22; 13,14; 15,29; 16m7.11; 17,39.47; 20,26; 21,7; 22,15; 23,17; 26,21.",
-      "raw_html": "<span>“Que não” (<em>ki lo’</em>). Cf. Gênesis 2,5; Josué 23,13.14; Juízes 1,19.32.34; 3,22; 4,9; 5,23; 13,16; 18,1; 21,22; Rute 3,18; 4,6; 1 Samuel 2,9; 4,7; 6,9; 8,7; 9,13; 12,5.22; 13,14; 15,29; 16m7.11; 17,39.47; 20,26; 21,7; 22,15; 23,17; 26,21. </span>"
-    },
-    {
-      "ref_id": "fn36-19482",
-      "number": 36,
-      "text": "“Vão eles” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
-      "raw_html": "<span>“Vão eles” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
-    },
-    {
-      "ref_id": "fn37-19482",
-      "number": 37,
-      "text": "“Vai” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
-      "raw_html": "<span>“Vai” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
-    },
-    {
-      "ref_id": "fn38-19482",
-      "number": 38,
-      "text": "“Faz ir” (bw’). Forma causativa da raiz. Cf. acima.",
-      "raw_html": "<span>“Faz ir” (<em>bw’</em>). Forma causativa da raiz. Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn39-19482",
-      "number": 39,
-      "text": "“Passar (‘br). Forma infinitiva da raiz. Cf. Gênesis 8,1 (…) Josué 7,7.11.15; 10,29.31.34; 15,3.4.6.7.10.11; 16,2.6; 18,9.13.18.19; 19,13; 22,19; 23,16; 24,11.17; Juízes 2,20; 3,26.28; 6,33; 8,4; 9,25.26; 10,9; 11,17.19.20.29.32; 12,1.3.5.",
-      "raw_html": "<span>“Passar (<em>‘br</em>). Forma infinitiva da raiz. Cf. Gênesis 8,1 (…) Josué 7,7.11.15; 10,29.31.34; 15,3.4.6.7.10.11; 16,2.6; 18,9.13.18.19; 19,13; 22,19; 23,16; 24,11.17; Juízes 2,20; 3,26.28; 6,33; 8,4; 9,25.26; 10,9; 11,17.19.20.29.32; 12,1.3.5. </span>"
-    },
-    {
-      "ref_id": "fn40-19482",
-      "number": 40,
       "text": "“Servis vós” (‘bd). Cf. Gênesis 2,5; Josué 16,10; 22,5.27; 23,7.16; 24,2.14.15.16.18.19.20.21.22.24.31; Juízes 2,7.11.13.19; 3,6.7.8.14; 9,28.38; 10,6.10.13.16; 1 Samuel 4,9; 7,3.4; 8,8; 11,1. 12,10.14.20.24; 17,9; 26,19.",
       "raw_html": "<span>“Servis vós” (<em>‘bd</em>). Cf. Gênesis 2,5; Josué 16,10; 22,5.27; 23,7.16; 24,2.14.15.16.18.19.20.21.22.24.31; Juízes 2,7.11.13.19; 3,6.7.8.14; 9,28.38; 10,6.10.13.16; 1 Samuel 4,9; 7,3.4; 8,8; 11,1. 12,10.14.20.24; 17,9; 26,19. </span>"
     },
     {
+      "ref_id": "fn20-19482",
+      "number": 20,
+      "text": "“Que sim” (ki ‘im). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22.",
+      "raw_html": "<span>“Que sim” (<em>ki ‘im</em>). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22. </span>"
+    },
+    {
+      "ref_id": "fn21-19482",
+      "number": 21,
+      "text": "“Fazem eles” (‘sh). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25.",
+      "raw_html": "<span>“Fazem eles” (<em>‘sh</em>). Cf. Gênesis 1,7; Josué 22,5.23.24.26.28; 23,3.6.8; 24,5.7.17.31; Juízes 1,7.24; 2,2.7.10.11; 3,7.12.16; 5,1; 6,1.2.17.19.20.27.29.40; 7,17; 8,1.2.3.27.35; 9,16.19.27.33.48.56; 10,6.15; 11,10.27.36.37.39; 13,1.8.15.16.19; 14,6.10; 15,3.6.7.10.11; 16,11; 17,3.4.5.6.8; 18,3.4.14.18.24.27.31; 19,23.24; 20,6.9.10; 21,7.11.15.16.23.25; Rute 1,8.17; 2,11.19; 3,4.5.6.11; 4,11; 1 Samuel 1,7.23; 2,14.19.22.23.35; 3,11.17.18; 5,87; 6,2,5,7,9,10; 8,8.12.16; 10,2.7.8; 11,7.10.13; 12,6.7.16.17.20.22; 13,11.19; 14,6.7.36.40.44.44.45.48; 15,2.6.19; 16,3.4; 17,25.26.27.29; 19,5.18; 20,1.2.4.8.13.14.32; 22,3; 24,5.7.19.20; 25,17.18.22.28.30; 26,16.18.25. </span>"
+    },
+    {
+      "ref_id": "fn22-19482",
+      "number": 22,
+      "text": "“Até o dia” (‘ad hayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
+    },
+    {
+      "ref_id": "fn23-19482",
+      "number": 23,
+      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn24-19482",
+      "number": 24,
+      "text": "“O dia esse” (hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn25-19482",
+      "number": 25,
+      "text": "“Acoluna” (‘md). Cf. Gênesis 18,8; Josué 18,5; 20,4.6.9; 21,44; 23,9; Juízes 2,14; 3,19; 4,20; 6,31; 7,21; 9,7.35.44; 16,25; 20,28; 1 Samuel 6,14.20; 9,27; 14,9; 16,21.22; 17,3.8.26.51; 19,3.20; 20,38; 26,13; 30,9.",
+      "raw_html": "<span>“Acoluna” (<em>‘md</em>). Cf. Gênesis 18,8; Josué 18,5; 20,4.6.9; 21,44; 23,9; Juízes 2,14; 3,19; 4,20; 6,31; 7,21; 9,7.35.44; 16,25; 20,28; 1 Samuel 6,14.20; 9,27; 14,9; 16,21.22; 17,3.8.26.51; 19,3.20; 20,38; 26,13; 30,9. </span>"
+    },
+    {
+      "ref_id": "fn26-19482",
+      "number": 26,
+      "text": "“Até o dia” (‘ad hayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
+    },
+    {
+      "ref_id": "fn27-19482",
+      "number": 27,
+      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn28-19482",
+      "number": 28,
+      "text": "“O dia esse” (hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn29-19482",
+      "number": 29,
+      "text": "“Persegue” (rdp). Cf. Gênesis 14,14; Josué 20,5; 23,10; 24,6; Juízes 1,6; 3,28; 4,16.22; 7,23.25; 8,4.5.12; 9,40; 20,43; 1 Samuel 7,11; 17,52; 23,25.28; 24,15; 25,29; 26,18.20.",
+      "raw_html": "<span>“Persegue” (<em>rdp</em>). Cf. Gênesis 14,14; Josué 20,5; 23,10; 24,6; Juízes 1,6; 3,28; 4,16.22; 7,23.25; 8,4.5.12; 9,40; 20,43; 1 Samuel 7,11; 17,52; 23,25.28; 24,15; 25,29; 26,18.20. </span>"
+    },
+    {
+      "ref_id": "fn30-19482",
+      "number": 30,
+      "text": "“Guardados estais vós” (shmr). Forma passiva da raiz. Cf. Gênesis 2,15; Josué 22,2.3.5; 23,6.11; 24,17; Juízes 1,24; 2,22; 7,19; 13,4.13.14; 1 Samuel 1,12; 2,9; 7,1; 9,24; 13,13.143; 17,20.22; 19,2.11; 21,5; 25,21; 26,15.16.",
+      "raw_html": "<span>“Guardados estais vós” (<em>shmr</em>). Forma passiva da raiz. Cf. Gênesis 2,15; Josué 22,2.3.5; 23,6.11; 24,17; Juízes 1,24; 2,22; 7,19; 13,4.13.14; 1 Samuel 1,12; 2,9; 7,1; 9,24; 13,13.143; 17,20.22; 19,2.11; 21,5; 25,21; 26,15.16. </span>"
+    },
+    {
+      "ref_id": "fn31-19482",
+      "number": 31,
+      "text": "“Amar” (‘hb). Forma infinitiva da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKN\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKN\" rel=\"noopener\" target=\"_blank\">Amar</a>” (<em>‘hb</em>). Forma infinitiva da raiz. </span>"
+    },
+    {
+      "ref_id": "fn32-19482",
+      "number": 32,
+      "text": "“Que sim” (ki ‘im). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22.",
+      "raw_html": "<span>“Que sim” (<em>ki ‘im</em>). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22. </span>"
+    },
+    {
+      "ref_id": "fn33-19482",
+      "number": 33,
+      "text": "“Ides vós” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
+      "raw_html": "<span>“Ides vós” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
+    },
+    {
+      "ref_id": "fn34-19482",
+      "number": 34,
+      "text": "“Que não” (ki lo’). Cf. Gênesis 2,5; Josué 23,13.14; Juízes 1,19.32.34; 3,22; 4,9; 5,23; 13,16; 18,1; 21,22; Rute 3,18; 4,6; 1 Samuel 2,9; 4,7; 6,9; 8,7; 9,13; 12,5.22; 13,14; 15,29; 16m7.11; 17,39.47; 20,26; 21,7; 22,15; 23,17; 26,21.",
+      "raw_html": "<span>“Que não” (<em>ki lo’</em>). Cf. Gênesis 2,5; Josué 23,13.14; Juízes 1,19.32.34; 3,22; 4,9; 5,23; 13,16; 18,1; 21,22; Rute 3,18; 4,6; 1 Samuel 2,9; 4,7; 6,9; 8,7; 9,13; 12,5.22; 13,14; 15,29; 16m7.11; 17,39.47; 20,26; 21,7; 22,15; 23,17; 26,21. </span>"
+    },
+    {
+      "ref_id": "fn35-19482",
+      "number": 35,
+      "text": "“Estão eles” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Estão eles</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn36-19482",
+      "number": 36,
+      "text": "“No caminho do” (bederek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0592\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0592\" rel=\"noopener\" target=\"_blank\">No caminho do</a>” (<em>bederek</em>). </span>"
+    },
+    {
+      "ref_id": "fn37-19482",
+      "number": 37,
+      "text": "“No total do” (bekol). Cf. Gênesis 9,2 (…) Josué 1,7.9; 2,22; 6,27; 17,16; 22,5; 23,14; 24,3.17; Juízes 2,15; 6,35; 7,24; 19,29; 20,6.12; 1 Samuel 2,32; 4,8; 5,11; 7,3; 10,24; 11,3.7; 12,20.24; 13,3.19; 14,47; 18,5; 22,14.15.22.23; 27,1; 30,16.",
+      "raw_html": "<span>“No total do” (<em>bekol</em>). Cf. Gênesis 9,2 (…) Josué 1,7.9; 2,22; 6,27; 17,16; 22,5; 23,14; 24,3.17; Juízes 2,15; 6,35; 7,24; 19,29; 20,6.12; 1 Samuel 2,32; 4,8; 5,11; 7,3; 10,24; 11,3.7; 12,20.24; 13,3.19; 14,47; 18,5; 22,14.15.22.23; 27,1; 30,16. </span>"
+    },
+    {
+      "ref_id": "fn38-19482",
+      "number": 38,
+      "text": "“Que não” (ki lo’). Cf. Gênesis 2,5; Josué 23,13.14; Juízes 1,19.32.34; 3,22; 4,9; 5,23; 13,16; 18,1; 21,22; Rute 3,18; 4,6; 1 Samuel 2,9; 4,7; 6,9; 8,7; 9,13; 12,5.22; 13,14; 15,29; 16m7.11; 17,39.47; 20,26; 21,7; 22,15; 23,17; 26,21.",
+      "raw_html": "<span>“Que não” (<em>ki lo’</em>). Cf. Gênesis 2,5; Josué 23,13.14; Juízes 1,19.32.34; 3,22; 4,9; 5,23; 13,16; 18,1; 21,22; Rute 3,18; 4,6; 1 Samuel 2,9; 4,7; 6,9; 8,7; 9,13; 12,5.22; 13,14; 15,29; 16m7.11; 17,39.47; 20,26; 21,7; 22,15; 23,17; 26,21. </span>"
+    },
+    {
+      "ref_id": "fn39-19482",
+      "number": 39,
+      "text": "“Vão eles” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
+      "raw_html": "<span>“Vão eles” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
+    },
+    {
+      "ref_id": "fn40-19482",
+      "number": 40,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
       "ref_id": "fn41-19482",
       "number": 41,
+      "text": "“Vai” (bw’). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15.",
+      "raw_html": "<span>“Vai” (<em>bw’</em>). Cf. Gênesis 2,19; Josué 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6; 21,45; 22,10.15; 23,1.2.7.12.14.15; 24,6.7.8.11; Juízes 1,7.14; 2,1; 3,20.22.24.27; 4,20.21.22; 5,19.23.28; 6,4.5.11.18.19; 7,13.17.19.25; 8,4.15; 9,5.15.24.26.27.31.37.46.52.57; 11,7.12.16.18.33.34; 12,9; 13,6.8.9.11.12.17; 14,5.18; 15,1.14; 16,1.2; 17,8.9; 18,2.3.7.8.9.10.13.15.17.18.20.27; 19,3.10.14.15.16.17.21.22.23.26.29; 20,4.10.26.34; 21,2.8.12; 1 Samuel 1,19.22.24.25; 2,13.14.15.27.31.34.36; 3,10; 4,3.5.6.7.12.13.14.16; 5,1.2.5.10; 6,14; 7,1.13; 8,4; 9,5.6.7.12.13.14.15.16.22; 10,3.5.7.8.9.10.13.14.22.27; 11,4,5,9,11; 12,8.12; 13,8.10.11; 14,20.25.26; 15,5.12.13.15.20; 16,2.4.5.6.11.12.17.21; 17,12,18.20.34.43.45.52.54.57; 18,6.13.16.27; 9,7.16.18.22.23; 20,1.8.9.19.21.27.29.37.38.40.41; 21,1.2.11.15.16; 22,5.9.11; 23,7.10.27.27; 24,4; 25,5.8.9.12.19.26.27.33.34.35.36.40; 26,1.3.4.5.7.10.15. </span>"
+    },
+    {
+      "ref_id": "fn42-19482",
+      "number": 42,
+      "text": "“Faz ir” (bw’). Forma causativa da raiz. Cf. acima.",
+      "raw_html": "<span>“Faz ir” (<em>bw’</em>). Forma causativa da raiz. Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn43-19482",
+      "number": 43,
+      "text": "“Passar (‘br). Forma infinitiva da raiz. Cf. Gênesis 8,1 (…) Josué 7,7.11.15; 10,29.31.34; 15,3.4.6.7.10.11; 16,2.6; 18,9.13.18.19; 19,13; 22,19; 23,16; 24,11.17; Juízes 2,20; 3,26.28; 6,33; 8,4; 9,25.26; 10,9; 11,17.19.20.29.32; 12,1.3.5.",
+      "raw_html": "<span>“Passar (<em>‘br</em>). Forma infinitiva da raiz. Cf. Gênesis 8,1 (…) Josué 7,7.11.15; 10,29.31.34; 15,3.4.6.7.10.11; 16,2.6; 18,9.13.18.19; 19,13; 22,19; 23,16; 24,11.17; Juízes 2,20; 3,26.28; 6,33; 8,4; 9,25.26; 10,9; 11,17.19.20.29.32; 12,1.3.5. </span>"
+    },
+    {
+      "ref_id": "fn44-19482",
+      "number": 44,
+      "text": "“Servis vós” (‘bd). Cf. Gênesis 2,5; Josué 16,10; 22,5.27; 23,7.16; 24,2.14.15.16.18.19.20.21.22.24.31; Juízes 2,7.11.13.19; 3,6.7.8.14; 9,28.38; 10,6.10.13.16; 1 Samuel 4,9; 7,3.4; 8,8; 11,1. 12,10.14.20.24; 17,9; 26,19.",
+      "raw_html": "<span>“Servis vós” (<em>‘bd</em>). Cf. Gênesis 2,5; Josué 16,10; 22,5.27; 23,7.16; 24,2.14.15.16.18.19.20.21.22.24.31; Juízes 2,7.11.13.19; 3,6.7.8.14; 9,28.38; 10,6.10.13.16; 1 Samuel 4,9; 7,3.4; 8,8; 11,1. 12,10.14.20.24; 17,9; 26,19. </span>"
+    },
+    {
+      "ref_id": "fn45-19482",
+      "number": 45,
       "text": "“Deuses outros” (‘elohim ‘aherim). Cf. Êxodo 20,3; 23,13; Deuteronômio 5,7; 6,14; 7,4; 8,19; 11,16.28; 13,3.7.14; 17,3; 18,20; 28,14.36.64; 29,25; 31,18.20; Josué 23,16; 24,2.16; Juízes 2,12.17.19; 10,13; 1 Samuel 8,8; 26,19.",
       "raw_html": "<span>“Deuses outros” (<em>‘elohim ‘aherim</em>). Cf. Êxodo 20,3; 23,13; Deuteronômio 5,7; 6,14; 7,4; 8,19; 11,16.28; 13,3.7.14; 17,3; 18,20; 28,14.36.64; 29,25; 31,18.20; Josué 23,16; 24,2.16; Juízes 2,12.17.19; 10,13; 1 Samuel 8,8; 26,19. </span>"
     }
