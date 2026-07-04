@@ -1026,7 +1026,7 @@
     },
     {
       "number": 25,
-      "text": "Longe. Para ti. Desde fazer. Conforme o falado esse. Para fazer morrer Justo. Com culpado. E está como o justo como o culpado. Longe de ti. Acaso o julgadordo total da terranão faz julgamento?",
+      "text": "Longe. Para ti. Desde fazer. Conforme o falado esse. Para fazer morrer Justo. Com culpado. E está como o justo como o malvado. Longe de ti. Acaso o julgadordo total da terranão faz julgamento?",
       "lines": [
         {
           "line_index": 0,
@@ -1065,8 +1065,8 @@
         },
         {
           "line_index": 7,
-          "text": "E está como o justo como o culpado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está como o justo como o culpado.</p>"
+          "text": "E está como o justo como o malvado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E está como o justo como o malvado.</p>"
         },
         {
           "line_index": 8,

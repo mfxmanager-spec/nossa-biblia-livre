@@ -950,7 +950,7 @@
     },
     {
       "number": 24,
-      "text": "E dá Yahweh o chuvaréu da terra de ti. Poeira. E e pó. Desde os céus. E desce ele sobre ti. Até o ser exterminado de ti.",
+      "text": "E dá Yahweh o chuvaréu da terra de ti. Poeira e pó desde os céus. E desce ele sobre ti. Até o ser exterminado de ti.",
       "lines": [
         {
           "line_index": 0,
@@ -959,26 +959,16 @@
         },
         {
           "line_index": 1,
-          "text": "Poeira.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Poeira<a name=\"rf368-16169\"></a><sup><a href=\"#fn368-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 368\">368</a></sup>.</p>"
+          "text": "Poeira e pó desde os céus.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Poeira<a name=\"rf368-16169\"></a><sup><a href=\"#fn368-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 368\">368</a></sup> e pó<a name=\"rf369-16169\"></a><sup><a href=\"#fn369-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 369\">369</a></sup> desde os céus<a name=\"rf370-16169\"></a><sup><a href=\"#fn370-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 370\">370</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "E e pó.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E e pó<a name=\"rf369-16169\"></a><sup><a href=\"#fn369-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 369\">369</a></sup>.</p>"
-        },
-        {
-          "line_index": 3,
-          "text": "Desde os céus.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde os céus<a name=\"rf370-16169\"></a><sup><a href=\"#fn370-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 370\">370</a></sup>.</p>"
-        },
-        {
-          "line_index": 4,
           "text": "E desce ele sobre ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">E desce<a name=\"rf371-16169\"></a><sup><a href=\"#fn371-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 371\">371</a></sup> ele<a name=\"rf372-16169\"></a><sup><a href=\"#fn372-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 372\">372</a></sup> sobre ti<a name=\"rf373-16169\"></a><sup><a href=\"#fn373-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 373\">373</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 3,
           "text": "Até o ser exterminado de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">Até o ser exterminado<a name=\"rf374-16169\"></a><sup><a href=\"#fn374-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 374\">374</a></sup> de ti<a name=\"rf375-16169\"></a><sup><a href=\"#fn375-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 375\">375</a></sup>.</p>"
         }
@@ -5167,8 +5157,8 @@
     {
       "ref_id": "fn369-16169",
       "number": 369,
-      "text": "“Pó” (‘apar).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0572\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0572\" rel=\"noopener\" target=\"_blank\">Pó</a>” (<em>‘apar</em>). </span>"
+      "text": "“Pó” (‘apar). Cf. Gênesis 2,7.",
+      "raw_html": "<span>“Pó” (<em>‘apar</em>). Cf. Gênesis 2,7. </span>"
     },
     {
       "ref_id": "fn370-16169",
@@ -5287,8 +5277,8 @@
     {
       "ref_id": "fn389-16169",
       "number": 389,
-      "text": "“Para as faces dele” (lepanayw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALF\" rel=\"noopener\" target=\"_blank\">Para as faces dele</a>” (<em>lepanayw</em>). </span>"
+      "text": "“Para as faces dele” (lepanayw). Cf. Gênesis 24,33.",
+      "raw_html": "<span>“Para as faces dele” (<em>lepanayw</em>). Cf. Gênesis 24,33. </span>"
     },
     {
       "ref_id": "fn390-16169",

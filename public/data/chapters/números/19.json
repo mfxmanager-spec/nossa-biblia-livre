@@ -119,7 +119,7 @@
     },
     {
       "number": 3,
-      "text": "E dais vóselaa ‘El’azar. O sacerdote. E faz ele sairelaa desde fora. Para o acampamento. E imola ele. Ela. Para as faces dele.",
+      "text": "E dais vóselaa ‘El’azar. O sacerdote. E faz ele sairelaa desde fora. Para o acampamento. E imola ele elapara as faces dele.",
       "lines": [
         {
           "line_index": 0,
@@ -143,18 +143,8 @@
         },
         {
           "line_index": 4,
-          "text": "E imola ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E imola ele.</p>"
-        },
-        {
-          "line_index": 5,
-          "text": "Ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ela<a name=\"rf23-12014\"></a><sup><a href=\"#fn23-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup>.</p>"
-        },
-        {
-          "line_index": 6,
-          "text": "Para as faces dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces dele<a name=\"rf24-12014\"></a><sup><a href=\"#fn24-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup>.</p>"
+          "text": "E imola ele elapara as faces dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E imola ele ela<a name=\"rf23-12014\"></a><sup><a href=\"#fn23-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup>para as faces dele<a name=\"rf24-12014\"></a><sup><a href=\"#fn24-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup>.</p>"
         }
       ]
     },
@@ -400,7 +390,7 @@
     },
     {
       "number": 9,
-      "text": "E reúne. Homem puro. A cinza da novilha. E faz ele repousar. Desde fora. Para o acampamento. Em lugar puro. E está ela. Para a comunidade dos filhos de Yisra’el. Para guardamento. Para aquosos de menstruação. Pecação. Ela.",
+      "text": "E reúne. Homem puro. A cinza da novilha. E faz ele repousar. Desde fora. Para o acampamento. Em lugar puro. E está ela. Para a comunidade dos filhos de Yisra’el. Para guardamento. Para aquosos de menstruação. Despecação ela.",
       "lines": [
         {
           "line_index": 0,
@@ -459,13 +449,8 @@
         },
         {
           "line_index": 11,
-          "text": "Pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Pecação<a name=\"rf82-12014\"></a><sup><a href=\"#fn82-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
-        },
-        {
-          "line_index": 12,
-          "text": "Ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ela.</p>"
+          "text": "Despecação ela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Despecação ela<a name=\"rf82-12014\"></a><sup><a href=\"#fn82-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
         }
       ]
     },
@@ -733,7 +718,7 @@
     },
     {
       "number": 17,
-      "text": "E tomam elespara o impuro. Desde o pó doardimento do pecado. E dáele sobre eleáguas vivasa utensílio.",
+      "text": "E tomam elespara o impuro. Desde o pó doardimentodo pecado. E dáele sobre eleáguas vivasa utensílio.",
       "lines": [
         {
           "line_index": 0,
@@ -742,8 +727,8 @@
         },
         {
           "line_index": 1,
-          "text": "Desde o pó doardimento do pecado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o pó do<a name=\"rf157-12014\"></a><sup><a href=\"#fn157-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>ardimento<a name=\"rf158-12014\"></a><sup><a href=\"#fn158-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup> do pecado<a name=\"rf159-12014\"></a><sup><a href=\"#fn159-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
+          "text": "Desde o pó doardimentodo pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o pó do<a name=\"rf157-12014\"></a><sup><a href=\"#fn157-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>ardimento<a name=\"rf158-12014\"></a><sup><a href=\"#fn158-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>do pecado<a name=\"rf159-12014\"></a><sup><a href=\"#fn159-12014\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1175,8 +1160,8 @@
     {
       "ref_id": "fn24-12014",
       "number": 24,
-      "text": "“Para as faces dele” (lepanayw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALF\" rel=\"noopener\" target=\"_blank\">Para as faces dele</a>” (<em>lepanayw</em>). </span>"
+      "text": "“Para as faces dele” (lepanayw). Cf. Gênesis 24,33.",
+      "raw_html": "<span>“Para as faces dele” (<em>lepanayw</em>). Cf. Gênesis 24,33. </span>"
     },
     {
       "ref_id": "fn25-12014",
@@ -1523,8 +1508,8 @@
     {
       "ref_id": "fn82-12014",
       "number": 82,
-      "text": "“Pecação” (hatta’t). Aqui, o sentido é seu contrário: “despecação”.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). Aqui, o sentido é seu contrário: “despecação”. </span>"
+      "text": "“Pecado ele é” (hatta’t hu’). Última de 5 ocorrências. Cf. Êxodo 29,14.",
+      "raw_html": "<span>“Pecado ele é” (<em>hatta’t hu’</em>). Última de 5 ocorrências. Cf. Êxodo 29,14. </span>"
     },
     {
       "ref_id": "fn83-12014",
@@ -1985,8 +1970,8 @@
     {
       "ref_id": "fn159-12014",
       "number": 159,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "text": "“Pecado” (hatta’t). Cf. v. 9.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 9. </span>"
     },
     {
       "ref_id": "fn160-12014",

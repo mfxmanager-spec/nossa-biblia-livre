@@ -934,45 +934,25 @@
     },
     {
       "number": 28,
-      "text": "E Yehudah. Envia ele. Para as faces dele. A Yosep. Para fazer arrojar. Para as faces dele. Para Goshen. E eles vão para a terra de Goshen.",
+      "text": "E Yehudah eleenvia para as faces delea Yosep. Para o fazer arrojarpara as faces dele. Para Goshen. E eles vão para a terra de Goshen.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E Yehudah.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E Yehudah.</p>"
+          "text": "E Yehudah eleenvia para as faces delea Yosep.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E Yehudah ele<a name=\"rf98-3527\"></a><sup><a href=\"#fn98-3527\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>envia para as faces dele<a name=\"rf99-3527\"></a><sup><a href=\"#fn99-3527\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>a Yosep.</p>"
         },
         {
           "line_index": 1,
-          "text": "Envia ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Envia ele.</p>"
+          "text": "Para o fazer arrojarpara as faces dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o fazer arrojar<a name=\"rf100-3527\"></a><sup><a href=\"#fn100-3527\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>para as faces dele.</p>"
         },
         {
           "line_index": 2,
-          "text": "Para as faces dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces dele<a name=\"rf98-3527\"></a><sup><a href=\"#fn98-3527\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
-        },
-        {
-          "line_index": 3,
-          "text": "A Yosep.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A Yosep.</p>"
-        },
-        {
-          "line_index": 4,
-          "text": "Para fazer arrojar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para fazer arrojar<a name=\"rf99-3527\"></a><sup><a href=\"#fn99-3527\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
-        },
-        {
-          "line_index": 5,
-          "text": "Para as faces dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces dele<a name=\"rf100-3527\"></a><sup><a href=\"#fn100-3527\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
-        },
-        {
-          "line_index": 6,
           "text": "Para Goshen.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para Goshen. </p>"
         },
         {
-          "line_index": 7,
+          "line_index": 3,
           "text": "E eles vão para a terra de Goshen.",
           "raw_html": "<p class=\"wp-block-paragraph\">E eles vão para a terra de Goshen.</p>"
         }
@@ -1851,20 +1831,20 @@
     {
       "ref_id": "fn98-3527",
       "number": 98,
-      "text": "“Para as faces dele” (lepanayw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALF\" rel=\"noopener\" target=\"_blank\">Para as faces dele</a>” (<em>lepanayw</em>). </span>"
+      "text": "Ou seja, Jacó.",
+      "raw_html": "<span>Ou seja, Jacó. </span>"
     },
     {
       "ref_id": "fn99-3527",
       "number": 99,
-      "text": "“Fazer arrojar”. O verbo só havia aparecido até agora em Gênesis 31,51. Em nenhum dos dois momentos é fácil discernir seu sentido. Acrescentar Êxodo 4,12 não ajuda muito… Mas há algo de “lançamento da pedra fundamental”, digamos assim, aí.",
-      "raw_html": "<span>“Fazer arrojar”. O verbo só havia aparecido até agora em Gênesis 31,51. Em nenhum dos dois momentos é fácil discernir seu sentido. Acrescentar Êxodo 4,12 não ajuda muito… Mas há algo de “lançamento da pedra fundamental”, digamos assim, aí. </span>"
+      "text": "Ou seja, “adiante dele”.",
+      "raw_html": "<span>Ou seja, “adiante dele”. </span>"
     },
     {
       "ref_id": "fn100-3527",
       "number": 100,
-      "text": "“Para as faces dele” (lepanayw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALF\" rel=\"noopener\" target=\"_blank\">Para as faces dele</a>” (<em>lepanayw</em>). </span>"
+      "text": "“Fazer arrojar”. O verbo só havia aparecido até agora em Gênesis 31,51. Em nenhum dos dois momentos é fácil discernir seu sentido. Acrescentar Êxodo 4,12 não ajuda muito… Mas há algo de “lançamento da pedra fundamental”, digamos assim, aí.",
+      "raw_html": "<span>“Fazer arrojar”. O verbo só havia aparecido até agora em Gênesis 31,51. Em nenhum dos dois momentos é fácil discernir seu sentido. Acrescentar Êxodo 4,12 não ajuda muito… Mas há algo de “lançamento da pedra fundamental”, digamos assim, aí. </span>"
     },
     {
       "ref_id": "fn101-3527",

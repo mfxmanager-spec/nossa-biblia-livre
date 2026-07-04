@@ -367,7 +367,7 @@
     },
     {
       "number": 11,
-      "text": "E praguejao filho da mulheryisre’elit o nome. E ele maldiz. E eles fazem irele a Mosheh. E o nome da mãe dele E o nome da mãe dele. Shelomit. Filha de Dibri. Para o galhode Dan.",
+      "text": "E praguejao filho da mulheryisre’elit o nome. E ele maldiz. E eles fazem irele a Mosheh. E o nome da mãe deleera Shelomit. Filha de Dibri. Para o galhode Dan.",
       "lines": [
         {
           "line_index": 0,
@@ -386,21 +386,16 @@
         },
         {
           "line_index": 3,
-          "text": "E o nome da mãe dele E o nome da mãe dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o nome<a name=\"rf101-9492\"></a><sup><a href=\"#fn101-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup> da mãe dele E o nome da mãe dele<a name=\"rf102-9492\"></a><sup><a href=\"#fn102-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
+          "text": "E o nome da mãe deleera Shelomit.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E o nome<a name=\"rf101-9492\"></a><sup><a href=\"#fn101-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup> da mãe dele<a name=\"rf102-9492\"></a><sup><a href=\"#fn102-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>era Shelomit<a name=\"rf103-9492\"></a><sup><a href=\"#fn103-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
         },
         {
           "line_index": 4,
-          "text": "Shelomit.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Shelomit<a name=\"rf103-9492\"></a><sup><a href=\"#fn103-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
-        },
-        {
-          "line_index": 5,
           "text": "Filha de Dibri.",
           "raw_html": "<p class=\"wp-block-paragraph\">Filha de Dibri<a name=\"rf104-9492\"></a><sup><a href=\"#fn104-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 5,
           "text": "Para o galhode Dan.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para o galho<a name=\"rf105-9492\"></a><sup><a href=\"#fn105-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>de Dan<a name=\"rf106-9492\"></a><sup><a href=\"#fn106-9492\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
         }
@@ -1349,8 +1344,8 @@
     {
       "ref_id": "fn102-9492",
       "number": 102,
-      "text": "“E o nome da mãe dele” (weshem ‘immo). Primeira de 30 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0515\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0515\" rel=\"noopener\" target=\"_blank\">E o nome da mãe dele</a>” (<em>weshem ‘immo</em>). Primeira de 30 ocorrências. </span>"
+      "text": "“E o nome da mãe dele” (weshem ‘imo). Primeira de 30 ocorrências.",
+      "raw_html": "<span>“E o nome da mãe dele” (<em>weshem ‘imo</em>). Primeira de 30 ocorrências. </span>"
     },
     {
       "ref_id": "fn103-9492",
