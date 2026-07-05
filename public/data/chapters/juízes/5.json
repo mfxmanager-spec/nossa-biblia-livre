@@ -1215,12 +1215,12 @@
         {
           "line_index": 2,
           "text": "Mesmo ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mesmo ela.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Mesmo ela<a name=\"rf38-19774\"></a><sup><a href=\"#fn38-19774\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Faz voltar ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Faz voltar ela<a name=\"rf38-19774\"></a><sup><a href=\"#fn38-19774\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Faz voltar ela<a name=\"rf39-19774\"></a><sup><a href=\"#fn39-19774\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -1297,7 +1297,7 @@
         {
           "line_index": 1,
           "text": "O total dos inimigos de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O total dos inimigos<a name=\"rf39-19774\"></a><sup><a href=\"#fn39-19774\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup> de ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O total dos inimigos<a name=\"rf40-19774\"></a><sup><a href=\"#fn40-19774\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup> de ti.</p>"
         },
         {
           "line_index": 2,
@@ -1307,7 +1307,7 @@
         {
           "line_index": 3,
           "text": "E os amadores dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os amadores<a name=\"rf40-19774\"></a><sup><a href=\"#fn40-19774\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup> dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E os amadores<a name=\"rf41-19774\"></a><sup><a href=\"#fn41-19774\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> dele.</p>"
         },
         {
           "line_index": 4,
@@ -1558,18 +1558,24 @@
     {
       "ref_id": "fn38-19774",
       "number": 38,
-      "text": "“Faz voltar ela” (shwb). Forma causativa da raiz. Cf. Gênesis 3,19; Josué 14,7; 18,8; 19,12.27.29.34; 20,6; 22,8.9.16.18.23.29.32; 23,12; 24,20; Juízes 2,19; 3,19; 5,29; 6,18; 7,3.15; 8,9.13.33; 9,56.57; 11,8.9.13.31.35.39; 14,8; 15,19; 17,3.4; 18,26; 19,3.7; 20,48; 21,14; Rute 1,6.7.11.12.15.16.21.22; 2,6; 4,3.15; 1 Samuel 1,19; 3,5.6; 5,3.11; 6,3.4.7.8.16.17.21; 7,3.14; 9,5; 12,3; 14,27; 15,11.25.26.30.31; 17,15.30.53.57; 18,2.6; 23,23.28; 24,2; 25,12.21.39; 26,21.23.25.",
-      "raw_html": "<span>“Faz voltar ela” (<em>shwb</em>). Forma causativa da raiz. Cf. Gênesis 3,19; Josué 14,7; 18,8; 19,12.27.29.34; 20,6; 22,8.9.16.18.23.29.32; 23,12; 24,20; Juízes 2,19; 3,19; 5,29; 6,18; 7,3.15; 8,9.13.33; 9,56.57; 11,8.9.13.31.35.39; 14,8; 15,19; 17,3.4; 18,26; 19,3.7; 20,48; 21,14; Rute 1,6.7.11.12.15.16.21.22; 2,6; 4,3.15; 1 Samuel 1,19; 3,5.6; 5,3.11; 6,3.4.7.8.16.17.21; 7,3.14; 9,5; 12,3; 14,27; 15,11.25.26.30.31; 17,15.30.53.57; 18,2.6; 23,23.28; 24,2; 25,12.21.39; 26,21.23.25. </span>"
+      "text": "“Ela” (hi’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0405\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0405\" rel=\"noopener\" target=\"_blank\">Ela</a>” (<em>hi’</em>). </span>"
     },
     {
       "ref_id": "fn39-19774",
       "number": 39,
-      "text": "“Inimigos” (‘oyeb). Cf. Gênesis 22,17; Josué 7,8.12.13; 10,13.19.25; 21,44; 22,8; 23,1; Josué 2,14.18; 3,28; 5,31; 8,34; 11,36; 16,23.24; 1 Samuel 2,1; 4,3; 12,10.11; 14,24.30.47; 18,25.29; 19,17; 20,15.16; 24,5.20; 25,22.26.29; 26,8; 29,8; 30,26.",
-      "raw_html": "<span>“Inimigos” (<em>‘oyeb</em>). Cf. Gênesis 22,17; Josué 7,8.12.13; 10,13.19.25; 21,44; 22,8; 23,1; Josué 2,14.18; 3,28; 5,31; 8,34; 11,36; 16,23.24; 1 Samuel 2,1; 4,3; 12,10.11; 14,24.30.47; 18,25.29; 19,17; 20,15.16; 24,5.20; 25,22.26.29; 26,8; 29,8; 30,26. </span>"
+      "text": "“Faz voltar ela” (shwb). Forma causativa da raiz. Cf. Gênesis 3,19; Josué 14,7; 18,8; 19,12.27.29.34; 20,6; 22,8.9.16.18.23.29.32; 23,12; 24,20; Juízes 2,19; 3,19; 5,29; 6,18; 7,3.15; 8,9.13.33; 9,56.57; 11,8.9.13.31.35.39; 14,8; 15,19; 17,3.4; 18,26; 19,3.7; 20,48; 21,14; Rute 1,6.7.11.12.15.16.21.22; 2,6; 4,3.15; 1 Samuel 1,19; 3,5.6; 5,3.11; 6,3.4.7.8.16.17.21; 7,3.14; 9,5; 12,3; 14,27; 15,11.25.26.30.31; 17,15.30.53.57; 18,2.6; 23,23.28; 24,2; 25,12.21.39; 26,21.23.25.",
+      "raw_html": "<span>“Faz voltar ela” (<em>shwb</em>). Forma causativa da raiz. Cf. Gênesis 3,19; Josué 14,7; 18,8; 19,12.27.29.34; 20,6; 22,8.9.16.18.23.29.32; 23,12; 24,20; Juízes 2,19; 3,19; 5,29; 6,18; 7,3.15; 8,9.13.33; 9,56.57; 11,8.9.13.31.35.39; 14,8; 15,19; 17,3.4; 18,26; 19,3.7; 20,48; 21,14; Rute 1,6.7.11.12.15.16.21.22; 2,6; 4,3.15; 1 Samuel 1,19; 3,5.6; 5,3.11; 6,3.4.7.8.16.17.21; 7,3.14; 9,5; 12,3; 14,27; 15,11.25.26.30.31; 17,15.30.53.57; 18,2.6; 23,23.28; 24,2; 25,12.21.39; 26,21.23.25. </span>"
     },
     {
       "ref_id": "fn40-19774",
       "number": 40,
+      "text": "“Inimigos” (‘oyeb). Cf. Gênesis 22,17; Josué 7,8.12.13; 10,13.19.25; 21,44; 22,8; 23,1; Josué 2,14.18; 3,28; 5,31; 8,34; 11,36; 16,23.24; 1 Samuel 2,1; 4,3; 12,10.11; 14,24.30.47; 18,25.29; 19,17; 20,15.16; 24,5.20; 25,22.26.29; 26,8; 29,8; 30,26.",
+      "raw_html": "<span>“Inimigos” (<em>‘oyeb</em>). Cf. Gênesis 22,17; Josué 7,8.12.13; 10,13.19.25; 21,44; 22,8; 23,1; Josué 2,14.18; 3,28; 5,31; 8,34; 11,36; 16,23.24; 1 Samuel 2,1; 4,3; 12,10.11; 14,24.30.47; 18,25.29; 19,17; 20,15.16; 24,5.20; 25,22.26.29; 26,8; 29,8; 30,26. </span>"
+    },
+    {
+      "ref_id": "fn41-19774",
+      "number": 41,
       "text": "“Amadores” (‘hb). Forma participial da raiz.",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAKN\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKN\" rel=\"noreferrer noopener\" target=\"_blank\">Amadores</a>” (<em>‘hb</em>). Forma participial da raiz. </span>"
     }
