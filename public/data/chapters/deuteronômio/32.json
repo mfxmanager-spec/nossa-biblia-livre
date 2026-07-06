@@ -1471,7 +1471,7 @@
     },
     {
       "number": 40,
-      "text": "Que levanto eu. A céus a mão de mim. E digo eu. Vivo eu estou para sempre.",
+      "text": "Que levanto eu. A céus a mão de mim. E digo eu. Vivo. Eu. Para sempre.",
       "lines": [
         {
           "line_index": 0,
@@ -1490,8 +1490,18 @@
         },
         {
           "line_index": 3,
-          "text": "Vivo eu estou para sempre.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vivo<a name=\"rf459-16903\"></a><sup><a href=\"#fn459-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 459\">459</a></sup> eu<a name=\"rf460-16903\"></a><sup><a href=\"#fn460-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 460\">460</a></sup> estou para sempre<a name=\"rf461-16903\"></a><sup><a href=\"#fn461-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 461\">461</a></sup><a name=\"rf462-16903\"></a><sup><a href=\"#fn462-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 462\">462</a></sup>.</p>"
+          "text": "Vivo.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Vivo<a name=\"rf459-16903\"></a><sup><a href=\"#fn459-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 459\">459</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Eu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Eu<a name=\"rf460-16903\"></a><sup><a href=\"#fn460-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 460\">460</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Para sempre.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para sempre<a name=\"rf461-16903\"></a><sup><a href=\"#fn461-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 461\">461</a></sup><a name=\"rf462-16903\"></a><sup><a href=\"#fn462-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 462\">462</a></sup>.</p>"
         }
       ]
     },
@@ -1733,47 +1743,62 @@
     },
     {
       "number": 47,
-      "text": "Que não falado vazio ele é desde vós. Que ele é as vidas de vós. E no falado esse. Fazeis vós encompridar dias. Sobre a ‘adamah. Que vós sois passadores do Yarden. Para lá. Para possuir ela.",
+      "text": "Que não falado vazio. Ele. Desde vós. Que ele. As vidas de vós. E no falado esse. Fazeis vós encompridar dias. Sobre a ‘adamah. Que vós sois passadores do Yarden. Para lá. Para possuir ela.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Que não falado vazio ele é desde vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que não<a name=\"rf533-16903\"></a><sup><a href=\"#fn533-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 533\">533</a></sup> falado vazio ele é desde vós<a name=\"rf534-16903\"></a><sup><a href=\"#fn534-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 534\">534</a></sup>.</p>"
+          "text": "Que não falado vazio.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que não<a name=\"rf533-16903\"></a><sup><a href=\"#fn533-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 533\">533</a></sup> falado vazio.</p>"
         },
         {
           "line_index": 1,
-          "text": "Que ele é as vidas de vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que ele é<a name=\"rf535-16903\"></a><sup><a href=\"#fn535-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 535\">535</a></sup> as vidas de vós<a name=\"rf536-16903\"></a><sup><a href=\"#fn536-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 536\">536</a></sup>.</p>"
+          "text": "Ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ele.</p>"
         },
         {
           "line_index": 2,
-          "text": "E no falado esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E no falado esse<a name=\"rf537-16903\"></a><sup><a href=\"#fn537-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 537\">537</a></sup>.</p>"
+          "text": "Desde vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde vós<a name=\"rf534-16903\"></a><sup><a href=\"#fn534-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 534\">534</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "Fazeis vós encompridar dias.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fazeis vós encompridar dias<a name=\"rf538-16903\"></a><sup><a href=\"#fn538-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 538\">538</a></sup><a name=\"rf539-16903\"></a><sup><a href=\"#fn539-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 539\">539</a></sup>.</p>"
+          "text": "Que ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que ele<a name=\"rf535-16903\"></a><sup><a href=\"#fn535-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 535\">535</a></sup>.</p>"
         },
         {
           "line_index": 4,
-          "text": "Sobre a ‘adamah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre a <em>‘adamah</em><a name=\"rf540-16903\"></a><sup><a href=\"#fn540-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 540\">540</a></sup>.</p>"
+          "text": "As vidas de vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">As vidas de<a name=\"rf536-16903\"></a><sup><a href=\"#fn536-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 536\">536</a></sup> vós<a name=\"rf537-16903\"></a><sup><a href=\"#fn537-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 537\">537</a></sup>.</p>"
         },
         {
           "line_index": 5,
+          "text": "E no falado esse.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E no falado esse<a name=\"rf538-16903\"></a><sup><a href=\"#fn538-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 538\">538</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Fazeis vós encompridar dias.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Fazeis vós encompridar dias<a name=\"rf539-16903\"></a><sup><a href=\"#fn539-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 539\">539</a></sup><a name=\"rf540-16903\"></a><sup><a href=\"#fn540-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 540\">540</a></sup>.</p>"
+        },
+        {
+          "line_index": 7,
+          "text": "Sobre a ‘adamah.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre a <em>‘adamah</em><a name=\"rf541-16903\"></a><sup><a href=\"#fn541-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 541\">541</a></sup>.</p>"
+        },
+        {
+          "line_index": 8,
           "text": "Que vós sois passadores do Yarden.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que vós sois passadores do Yarden.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 9,
           "text": "Para lá.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para lá<a name=\"rf541-16903\"></a><sup><a href=\"#fn541-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 541\">541</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para lá<a name=\"rf542-16903\"></a><sup><a href=\"#fn542-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 542\">542</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 10,
           "text": "Para possuir ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para possuir ela<a name=\"rf542-16903\"></a><sup><a href=\"#fn542-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 542\">542</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para possuir ela<a name=\"rf543-16903\"></a><sup><a href=\"#fn543-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 543\">543</a></sup>.</p>"
         }
       ]
     },
@@ -1789,17 +1814,17 @@
         {
           "line_index": 1,
           "text": "A Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A Mosheh<a name=\"rf543-16903\"></a><sup><a href=\"#fn543-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 543\">543</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A Mosheh<a name=\"rf544-16903\"></a><sup><a href=\"#fn544-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 544\">544</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "No osso do dia esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No osso do dia<a name=\"rf544-16903\"></a><sup><a href=\"#fn544-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 544\">544</a></sup> esse<a name=\"rf545-16903\"></a><sup><a href=\"#fn545-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 545\">545</a></sup><a name=\"rf546-16903\"></a><sup><a href=\"#fn546-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 546\">546</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No osso do dia<a name=\"rf545-16903\"></a><sup><a href=\"#fn545-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 545\">545</a></sup> esse<a name=\"rf546-16903\"></a><sup><a href=\"#fn546-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 546\">546</a></sup><a name=\"rf547-16903\"></a><sup><a href=\"#fn547-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 547\">547</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Para dizer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf547-16903\"></a><sup><a href=\"#fn547-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 547\">547</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf548-16903\"></a><sup><a href=\"#fn548-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 548\">548</a></sup>.</p>"
         }
       ]
     },
@@ -1810,37 +1835,37 @@
         {
           "line_index": 0,
           "text": "Sobe tu ao monte dos ‘Abarim esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Sobe<a name=\"rf548-16903\"></a><sup><a href=\"#fn548-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 548\">548</a></sup> tu ao monte<a name=\"rf549-16903\"></a><sup><a href=\"#fn549-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 549\">549</a></sup> dos ‘Abarim esse<a name=\"rf550-16903\"></a><sup><a href=\"#fn550-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 550\">550</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Sobe<a name=\"rf549-16903\"></a><sup><a href=\"#fn549-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 549\">549</a></sup> tu ao monte<a name=\"rf550-16903\"></a><sup><a href=\"#fn550-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 550\">550</a></sup> dos ‘Abarim esse<a name=\"rf551-16903\"></a><sup><a href=\"#fn551-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 551\">551</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "O monte de Nebo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O monte<a name=\"rf551-16903\"></a><sup><a href=\"#fn551-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 551\">551</a></sup> de Nebo<a name=\"rf552-16903\"></a><sup><a href=\"#fn552-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 552\">552</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O monte<a name=\"rf552-16903\"></a><sup><a href=\"#fn552-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 552\">552</a></sup> de Nebo<a name=\"rf553-16903\"></a><sup><a href=\"#fn553-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 553\">553</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Que na terra de Mo’ab.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que na terra<a name=\"rf553-16903\"></a><sup><a href=\"#fn553-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 553\">553</a></sup> de Mo’ab<a name=\"rf554-16903\"></a><sup><a href=\"#fn554-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 554\">554</a></sup><a name=\"rf555-16903\"></a><sup><a href=\"#fn555-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 555\">555</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que na terra<a name=\"rf554-16903\"></a><sup><a href=\"#fn554-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 554\">554</a></sup> de Mo’ab<a name=\"rf555-16903\"></a><sup><a href=\"#fn555-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 555\">555</a></sup><a name=\"rf556-16903\"></a><sup><a href=\"#fn556-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 556\">556</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Que sobre as faces de Yereho.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre as faces de Yereho<a name=\"rf556-16903\"></a><sup><a href=\"#fn556-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 556\">556</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre as faces de Yereho<a name=\"rf557-16903\"></a><sup><a href=\"#fn557-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 557\">557</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E vê tu a terra Kena’an.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E vê tu a terra<a name=\"rf557-16903\"></a><sup><a href=\"#fn557-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 557\">557</a></sup><a name=\"rf558-16903\"></a><sup><a href=\"#fn558-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 558\">558</a></sup> Kena’an<a name=\"rf559-16903\"></a><sup><a href=\"#fn559-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 559\">559</a></sup><a name=\"rf560-16903\"></a><sup><a href=\"#fn560-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 560\">560</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E vê tu a terra<a name=\"rf558-16903\"></a><sup><a href=\"#fn558-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 558\">558</a></sup><a name=\"rf559-16903\"></a><sup><a href=\"#fn559-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 559\">559</a></sup> Kena’an<a name=\"rf560-16903\"></a><sup><a href=\"#fn560-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 560\">560</a></sup><a name=\"rf561-16903\"></a><sup><a href=\"#fn561-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 561\">561</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Que eu sou dador para os filhos de Yisrael.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que eu sou dador para os filhos<a name=\"rf561-16903\"></a><sup><a href=\"#fn561-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 561\">561</a></sup> de Yisrael<a name=\"rf562-16903\"></a><sup><a href=\"#fn562-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 562\">562</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que eu sou dador para os filhos<a name=\"rf562-16903\"></a><sup><a href=\"#fn562-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 562\">562</a></sup> de Yisrael<a name=\"rf563-16903\"></a><sup><a href=\"#fn563-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 563\">563</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Para possessão.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para possessão<a name=\"rf563-16903\"></a><sup><a href=\"#fn563-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 563\">563</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para possessão<a name=\"rf564-16903\"></a><sup><a href=\"#fn564-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 564\">564</a></sup>.</p>"
         }
       ]
     },
@@ -1851,37 +1876,37 @@
         {
           "line_index": 0,
           "text": "E morre tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E morre<a name=\"rf564-16903\"></a><sup><a href=\"#fn564-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 564\">564</a></sup> tu<a name=\"rf565-16903\"></a><sup><a href=\"#fn565-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 565\">565</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E morre<a name=\"rf565-16903\"></a><sup><a href=\"#fn565-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 565\">565</a></sup> tu<a name=\"rf566-16903\"></a><sup><a href=\"#fn566-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 566\">566</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "No monte.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No monte<a name=\"rf566-16903\"></a><sup><a href=\"#fn566-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 566\">566</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No monte<a name=\"rf567-16903\"></a><sup><a href=\"#fn567-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 567\">567</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Que tu és subidor para lá.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf567-16903\"></a><sup><a href=\"#fn567-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 567\">567</a></sup> tu<a name=\"rf568-16903\"></a><sup><a href=\"#fn568-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 568\">568</a></sup> és subidor<a name=\"rf569-16903\"></a><sup><a href=\"#fn569-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 569\">569</a></sup> para lá<a name=\"rf570-16903\"></a><sup><a href=\"#fn570-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 570\">570</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf568-16903\"></a><sup><a href=\"#fn568-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 568\">568</a></sup> tu<a name=\"rf569-16903\"></a><sup><a href=\"#fn569-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 569\">569</a></sup> és subidor<a name=\"rf570-16903\"></a><sup><a href=\"#fn570-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 570\">570</a></sup> para lá<a name=\"rf571-16903\"></a><sup><a href=\"#fn571-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 571\">571</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E sê tu reunido.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sê tu reunido<a name=\"rf571-16903\"></a><sup><a href=\"#fn571-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 571\">571</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E sê tu reunido<a name=\"rf572-16903\"></a><sup><a href=\"#fn572-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 572\">572</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Aos povos de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Aos povos de ti<a name=\"rf572-16903\"></a><sup><a href=\"#fn572-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 572\">572</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Aos povos de ti<a name=\"rf573-16903\"></a><sup><a href=\"#fn573-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 573\">573</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Conforme que morreu ‘Aharon.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que morreu<a name=\"rf573-16903\"></a><sup><a href=\"#fn573-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 573\">573</a></sup><a name=\"rf574-16903\"></a><sup><a href=\"#fn574-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 574\">574</a></sup> ‘Aharon.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que morreu<a name=\"rf574-16903\"></a><sup><a href=\"#fn574-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 574\">574</a></sup><a name=\"rf575-16903\"></a><sup><a href=\"#fn575-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 575\">575</a></sup> ‘Aharon.</p>"
         },
         {
           "line_index": 6,
           "text": "O irmão de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O irmão de ti<a name=\"rf575-16903\"></a><sup><a href=\"#fn575-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 575\">575</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O irmão de ti<a name=\"rf576-16903\"></a><sup><a href=\"#fn576-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 576\">576</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -1891,12 +1916,12 @@
         {
           "line_index": 8,
           "text": "O monte.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O monte<a name=\"rf576-16903\"></a><sup><a href=\"#fn576-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 576\">576</a></sup><a name=\"rf577-16903\"></a><sup><a href=\"#fn577-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 577\">577</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O monte<a name=\"rf577-16903\"></a><sup><a href=\"#fn577-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 577\">577</a></sup><a name=\"rf578-16903\"></a><sup><a href=\"#fn578-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 578\">578</a></sup>.</p>"
         },
         {
           "line_index": 9,
           "text": "E foi ele reunido aos povos dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E foi ele reunido<a name=\"rf578-16903\"></a><sup><a href=\"#fn578-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 578\">578</a></sup> aos povos dele<a name=\"rf579-16903\"></a><sup><a href=\"#fn579-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 579\">579</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E foi ele reunido<a name=\"rf579-16903\"></a><sup><a href=\"#fn579-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 579\">579</a></sup> aos povos dele<a name=\"rf580-16903\"></a><sup><a href=\"#fn580-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 580\">580</a></sup>.</p>"
         }
       ]
     },
@@ -1907,32 +1932,32 @@
         {
           "line_index": 0,
           "text": "Sobre que traístes vós em mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Sobre que<a name=\"rf580-16903\"></a><sup><a href=\"#fn580-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 580\">580</a></sup> traístes<a name=\"rf581-16903\"></a><sup><a href=\"#fn581-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 581\">581</a></sup> vós em mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Sobre que<a name=\"rf581-16903\"></a><sup><a href=\"#fn581-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 581\">581</a></sup> traístes<a name=\"rf582-16903\"></a><sup><a href=\"#fn582-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 582\">582</a></sup> vós em mim.</p>"
         },
         {
           "line_index": 1,
           "text": "No meio dos filhos de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No meio dos filhos<a name=\"rf582-16903\"></a><sup><a href=\"#fn582-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 582\">582</a></sup> de Yisra’el<a name=\"rf583-16903\"></a><sup><a href=\"#fn583-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 583\">583</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No meio dos filhos<a name=\"rf583-16903\"></a><sup><a href=\"#fn583-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 583\">583</a></sup> de Yisra’el<a name=\"rf584-16903\"></a><sup><a href=\"#fn584-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 584\">584</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Nas águas de Meribat de Qadesh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nas águas de Meribat de Qadesh<a name=\"rf584-16903\"></a><sup><a href=\"#fn584-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 584\">584</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Nas águas de Meribat de Qadesh<a name=\"rf585-16903\"></a><sup><a href=\"#fn585-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 585\">585</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Deserto de Tsin.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Deserto<a name=\"rf585-16903\"></a><sup><a href=\"#fn585-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 585\">585</a></sup> de Tsin<a name=\"rf586-16903\"></a><sup><a href=\"#fn586-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 586\">586</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Deserto<a name=\"rf586-16903\"></a><sup><a href=\"#fn586-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 586\">586</a></sup> de Tsin<a name=\"rf587-16903\"></a><sup><a href=\"#fn587-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 587\">587</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Sobre que não sacralizastes vós eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre que<a name=\"rf587-16903\"></a><sup><a href=\"#fn587-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 587\">587</a></sup> não<a name=\"rf588-16903\"></a><sup><a href=\"#fn588-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 588\">588</a></sup> sacralizastes<a name=\"rf589-16903\"></a><sup><a href=\"#fn589-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 589\">589</a></sup> vós eu<a name=\"rf590-16903\"></a><sup><a href=\"#fn590-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 590\">590</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre que<a name=\"rf588-16903\"></a><sup><a href=\"#fn588-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 588\">588</a></sup> não<a name=\"rf589-16903\"></a><sup><a href=\"#fn589-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 589\">589</a></sup> sacralizastes<a name=\"rf590-16903\"></a><sup><a href=\"#fn590-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 590\">590</a></sup> vós eu<a name=\"rf591-16903\"></a><sup><a href=\"#fn591-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 591\">591</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "No meio dos filhos de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No meio dos filhos<a name=\"rf591-16903\"></a><sup><a href=\"#fn591-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 591\">591</a></sup> de Yisra’el<a name=\"rf592-16903\"></a><sup><a href=\"#fn592-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 592\">592</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No meio dos filhos<a name=\"rf592-16903\"></a><sup><a href=\"#fn592-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 592\">592</a></sup> de Yisra’el<a name=\"rf593-16903\"></a><sup><a href=\"#fn593-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 593\">593</a></sup>.</p>"
         }
       ]
     },
@@ -1943,12 +1968,12 @@
         {
           "line_index": 0,
           "text": "Que desde ante.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Que<a name=\"rf593-16903\"></a><sup><a href=\"#fn593-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 593\">593</a></sup> desde ante<a name=\"rf594-16903\"></a><sup><a href=\"#fn594-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 594\">594</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Que<a name=\"rf594-16903\"></a><sup><a href=\"#fn594-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 594\">594</a></sup> desde ante<a name=\"rf595-16903\"></a><sup><a href=\"#fn595-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 595\">595</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Vês tu a terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vês tu a terra<a name=\"rf595-16903\"></a><sup><a href=\"#fn595-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 595\">595</a></sup><a name=\"rf596-16903\"></a><sup><a href=\"#fn596-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 596\">596</a></sup><a name=\"rf597-16903\"></a><sup><a href=\"#fn597-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 597\">597</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Vês tu a terra<a name=\"rf596-16903\"></a><sup><a href=\"#fn596-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 596\">596</a></sup><a name=\"rf597-16903\"></a><sup><a href=\"#fn597-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 597\">597</a></sup><a name=\"rf598-16903\"></a><sup><a href=\"#fn598-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 598\">598</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1958,22 +1983,22 @@
         {
           "line_index": 3,
           "text": "Não vais tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não<a name=\"rf598-16903\"></a><sup><a href=\"#fn598-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 598\">598</a></sup> vais tu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não<a name=\"rf599-16903\"></a><sup><a href=\"#fn599-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 599\">599</a></sup> vais tu.</p>"
         },
         {
           "line_index": 4,
           "text": "À terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">À terra<a name=\"rf599-16903\"></a><sup><a href=\"#fn599-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 599\">599</a></sup><a name=\"rf600-16903\"></a><sup><a href=\"#fn600-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 600\">600</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">À terra<a name=\"rf600-16903\"></a><sup><a href=\"#fn600-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 600\">600</a></sup><a name=\"rf601-16903\"></a><sup><a href=\"#fn601-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 601\">601</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Que eu dador.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf601-16903\"></a><sup><a href=\"#fn601-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 601\">601</a></sup> eu dador.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf602-16903\"></a><sup><a href=\"#fn602-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 602\">602</a></sup> eu dador.</p>"
         },
         {
           "line_index": 6,
           "text": "Para os filhos de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para os filhos<a name=\"rf602-16903\"></a><sup><a href=\"#fn602-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 602\">602</a></sup> de Yisra’el<a name=\"rf603-16903\"></a><sup><a href=\"#fn603-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 603\">603</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para os filhos<a name=\"rf603-16903\"></a><sup><a href=\"#fn603-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 603\">603</a></sup> de Yisra’el<a name=\"rf604-16903\"></a><sup><a href=\"#fn604-16903\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 604\">604</a></sup>.</p>"
         }
       ]
     }
@@ -4730,8 +4755,8 @@
     {
       "ref_id": "fn459-16903",
       "number": 459,
-      "text": "“Vivo” (hay). Cf. Gênesis 3,20.",
-      "raw_html": "<span>“Vivo” (<em>hay</em>). Cf. Gênesis 3,20. </span>"
+      "text": "“Vivo” (hay).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0061\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0061\" rel=\"noopener\" target=\"_blank\">Vivo</a>” (<em>hay</em>). </span>"
     },
     {
       "ref_id": "fn460-16903",
@@ -5192,408 +5217,414 @@
     {
       "ref_id": "fn536-16903",
       "number": 536,
-      "text": "“As vidas de vós” (hayyekem). Somente aqui.",
-      "raw_html": "<span>“As vidas de vós” (<em>hayyekem</em>). Somente aqui. </span>"
+      "text": "“As vidas de” (hay).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0061\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0061\" rel=\"noopener\" target=\"_blank\">As vidas de</a>” (<em>hay</em>). </span>"
     },
     {
       "ref_id": "fn537-16903",
       "number": 537,
-      "text": "“E no falado esse” (ubaddabar hazzeh). Somente em Deuteronômio 1,32; 32,47.",
-      "raw_html": "<span>“E no falado esse” (<em>ubaddabar hazzeh</em>). Somente em Deuteronômio 1,32; 32,47. </span>"
+      "text": "“As vidas de vós” (hayyekem). Somente aqui.",
+      "raw_html": "<span>“As vidas de vós” (<em>hayyekem</em>). Somente aqui. </span>"
     },
     {
       "ref_id": "fn538-16903",
       "number": 538,
-      "text": "“Fazeis vós encompridar dias” (ta’ariku yamim). Somente em Deuteronômio 11,9; 32,47.",
-      "raw_html": "<span>“Fazeis vós encompridar dias” (<em>ta’ariku yamim</em>). Somente em Deuteronômio 11,9; 32,47. </span>"
+      "text": "“E no falado esse” (ubaddabar hazzeh). Somente em Deuteronômio 1,32; 32,47.",
+      "raw_html": "<span>“E no falado esse” (<em>ubaddabar hazzeh</em>). Somente em Deuteronômio 1,32; 32,47. </span>"
     },
     {
       "ref_id": "fn539-16903",
       "number": 539,
-      "text": "“Dias” (yamim [yom]). Cf. Gênesis 1,5; Deuteronômio 32,7.35.46.47.48.",
-      "raw_html": "<span>“Dias” (<em>yamim</em> [<em>yom</em>]). Cf. Gênesis 1,5; Deuteronômio 32,7.35.46.47.48. </span>"
+      "text": "“Fazeis vós encompridar dias” (ta’ariku yamim). Somente em Deuteronômio 11,9; 32,47.",
+      "raw_html": "<span>“Fazeis vós encompridar dias” (<em>ta’ariku yamim</em>). Somente em Deuteronômio 11,9; 32,47. </span>"
     },
     {
       "ref_id": "fn540-16903",
       "number": 540,
-      "text": "“Fazeis vós encompridar dias. Sobre a ‘adamah” (ta’ariku yamim ‘adamah). Somente em Deuteronômio 11,9; 32,47.",
-      "raw_html": "<span>“Fazeis vós encompridar dias. Sobre a <em>‘adamah</em>” (<em>ta’ariku yamim ‘adamah</em>). Somente em Deuteronômio 11,9; 32,47. </span>"
+      "text": "“Dias” (yamim [yom]). Cf. Gênesis 1,5; Deuteronômio 32,7.35.46.47.48.",
+      "raw_html": "<span>“Dias” (<em>yamim</em> [<em>yom</em>]). Cf. Gênesis 1,5; Deuteronômio 32,7.35.46.47.48. </span>"
     },
     {
       "ref_id": "fn541-16903",
       "number": 541,
-      "text": "“Para lá” (shammah). Cf. Gênesis 11,19; Deuteronômio 32,47.50.",
-      "raw_html": "<span>“Para lá” (<em>shammah</em>). Cf. Gênesis 11,19; Deuteronômio 32,47.50. </span>"
+      "text": "“Fazeis vós encompridar dias. Sobre a ‘adamah” (ta’ariku yamim ‘adamah). Somente em Deuteronômio 11,9; 32,47.",
+      "raw_html": "<span>“Fazeis vós encompridar dias. Sobre a <em>‘adamah</em>” (<em>ta’ariku yamim ‘adamah</em>). Somente em Deuteronômio 11,9; 32,47. </span>"
     },
     {
       "ref_id": "fn542-16903",
       "number": 542,
-      "text": "“Que vós sois passadores do Yarden. Para lá. Para possuir ela” (‘asher ‘attem ‘obrim ‘et-hayyarden shammah lerishtah). Somente em Deuteronômio 4,26; 31,13; 32,47.",
-      "raw_html": "<span>“Que vós sois passadores do Yarden. Para lá. Para possuir ela” (<em>‘asher ‘attem ‘obrim</em> <em>‘et-hayyarden shammah lerishtah</em>). Somente em Deuteronômio 4,26; 31,13; 32,47. </span>"
-    },
-    {
-      "ref_id": "fn543-16903",
-      "number": 543,
-      "text": "“E fala Yahweh a Mosheh” (wayedabber yehwah ‘el-mosheh). Última de 91 ocorrências. Cf Êxodo 6,10; 13.29; 13,1; 14,1; 16,11; 25,1; 30,11.17.22; 31,1; 32,7; 33,1; 40,1; Levítico 5,1; Deuteronômio 32,48.",
-      "raw_html": "<span>“E fala Yahweh a Mosheh” (<em>wayedabber yehwah ‘el-mosheh</em>). Última de 91 ocorrências. Cf Êxodo 6,10; 13.29; 13,1; 14,1; 16,11; 25,1; 30,11.17.22; 31,1; 32,7; 33,1; 40,1; Levítico 5,1; Deuteronômio 32,48. </span>"
-    },
-    {
-      "ref_id": "fn544-16903",
-      "number": 544,
-      "text": "“Dia” (yom). Cf. Gênesis 1,5; Deuteronômio 32,7.35.46.47.48.",
-      "raw_html": "<span>“Dia” (<em>yom</em>). Cf. Gênesis 1,5; Deuteronômio 32,7.35.46.47.48. </span>"
-    },
-    {
-      "ref_id": "fn545-16903",
-      "number": 545,
-      "text": "“No osso do dia esse” (be’etsem hayyom hazzeh). Cf. Gênesis 7,13; 17,23.26; Êxodo 12,17.41.51; Levítico 23,21.28.29.30; Deuteronômio 32,48; Josué 5,11; Ezequiel 24,2; 40,1.",
-      "raw_html": "<span>“No osso do dia esse” (<em>be’etsem hayyom</em> <em>hazzeh</em>). Cf. Gênesis 7,13; 17,23.26; Êxodo 12,17.41.51; Levítico 23,21.28.29.30; Deuteronômio 32,48; Josué 5,11; Ezequiel 24,2; 40,1. </span>"
-    },
-    {
-      "ref_id": "fn546-16903",
-      "number": 546,
-      "text": "“O dia esse” (hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
-    },
-    {
-      "ref_id": "fn547-16903",
-      "number": 547,
-      "text": "Para dizer” (le’mor). Cf. Gênesis 1,22.",
-      "raw_html": "<span>Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22. </span>"
-    },
-    {
-      "ref_id": "fn548-16903",
-      "number": 548,
-      "text": "“Sobe” (‘lh). Forma imperativa da raiz. Cf. Gênesis 2,6; Deuteronômio 32,49.50.",
-      "raw_html": "<span>“Sobe” (<em>‘lh</em>). Forma imperativa da raiz. Cf. Gênesis 2,6; Deuteronômio 32,49.50. </span>"
-    },
-    {
-      "ref_id": "fn549-16903",
-      "number": 549,
-      "text": "“Monte” (har). Cf. Gênesis 7,19; Deuteronômio 33,22.49.50.",
-      "raw_html": "<span>“Monte” (<em>har</em>). Cf. Gênesis 7,19; Deuteronômio 33,22.49.50. </span>"
-    },
-    {
-      "ref_id": "fn550-16903",
-      "number": 550,
-      "text": "“Sobe tu ao monte dos ‘Abarim esse” (‘aleh ‘el-har ha’abarim hazzeh). Somente em Números 27,1 (e nota); Deuteronômio 32,49.",
-      "raw_html": "<span>“Sobe tu ao monte dos ‘Abarim esse” (<em>‘aleh ‘el-har ha’abarim hazzeh</em>). Somente em Números 27,1 (e nota); Deuteronômio 32,49. </span>"
-    },
-    {
-      "ref_id": "fn551-16903",
-      "number": 551,
-      "text": "“Monte” (har). Cf. acima.",
-      "raw_html": "<span>“Monte” (<em>har</em>). Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn552-16903",
-      "number": 552,
-      "text": "“O monte de Nebo” (har-nebo). Somente em Deuteronômio 32,49; 34,1.",
-      "raw_html": "<span>“O monte de Nebo” (<em>har-nebo</em>). Somente em Deuteronômio 32,49; 34,1. </span>"
-    },
-    {
-      "ref_id": "fn553-16903",
-      "number": 553,
-      "text": "“Terra” (‘erets). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52.",
-      "raw_html": "<span>“Terra” (<em>‘erets</em>). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52. </span>"
-    },
-    {
-      "ref_id": "fn554-16903",
-      "number": 554,
-      "text": "“Que na terra de Mo’ab” (‘asher be’erets mo’ab). Somente aqui.",
-      "raw_html": "<span>“Que na terra de Mo’ab” (<em>‘asher be’erets mo’ab</em>). Somente aqui. </span>"
-    },
-    {
-      "ref_id": "fn555-16903",
-      "number": 555,
-      "text": "“Mo’ab” (mo’ab).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFX\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFX\" rel=\"noreferrer noopener\" target=\"_blank\">Mo’ab</a>” (<em>mo’ab</em>). </span>"
-    },
-    {
-      "ref_id": "fn556-16903",
-      "number": 556,
-      "text": "“Que sobre as faces de Yereho” (‘asher ‘al-pene yereho). Somente em Deuteronômio 32,49; Deuteronômio 34,1.",
-      "raw_html": "<span>“Que sobre as faces de Yereho” (<em>‘asher ‘al-pene yereho</em>). Somente em Deuteronômio 32,49; Deuteronômio 34,1. </span>"
-    },
-    {
-      "ref_id": "fn557-16903",
-      "number": 557,
-      "text": "“Terra” (‘erets). Cf. acima.",
-      "raw_html": "<span>“Terra” (<em>‘erets</em>). Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn558-16903",
-      "number": 558,
-      "text": "“E vê tu a terra de” (ur’eh ‘et-‘erets). Somente em Deuteronômio 32,49; Jeremias 22,10.",
-      "raw_html": "<span>“E vê tu a terra de” (<em>ur’eh ‘et-‘erets</em>). Somente em Deuteronômio 32,49; Jeremias 22,10. </span>"
-    },
-    {
-      "ref_id": "fn559-16903",
-      "number": 559,
-      "text": "“A terra de Kena’an” (‘et-‘erets kena’an). Cf. Êxodo 6,4.",
-      "raw_html": "<span>“A terra de Kena’an” (<em>‘et-‘erets kena’an</em>). Cf. Êxodo 6,4. </span>"
-    },
-    {
-      "ref_id": "fn560-16903",
-      "number": 560,
-      "text": "“A terra de Kena’an” (‘erets kena’an). Cf. Gênesis 17,8.",
-      "raw_html": "<span>“A terra de Kena’an” (<em>‘erets kena’an</em>). Cf. Gênesis 17,8. </span>"
-    },
-    {
-      "ref_id": "fn561-16903",
-      "number": 561,
-      "text": "“Filhos” (banim [ben]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52.",
-      "raw_html": "<span>“Filhos” (<em>banim </em>[<em>ben</em>]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52. </span>"
-    },
-    {
-      "ref_id": "fn562-16903",
-      "number": 562,
-      "text": "“Que eu sou dador para os filhos de Yisra’el” (‘asher-‘ani noten libeneh yisra’el). Somente em Números 13,2; Deuteronômio 32,49.52.",
-      "raw_html": "<span>“Que eu sou dador para os filhos de Yisra’el” (<em>‘asher-‘ani noten libeneh yisra’el</em>). Somente em Números 13,2; Deuteronômio 32,49.52. </span>"
-    },
-    {
-      "ref_id": "fn563-16903",
-      "number": 563,
-      "text": "“Para possessão” (la’ahuzzah). Cf. Levítico 14,34; 25,45; Números 32,5.22.29.49; Deuteronômio 32,49.",
-      "raw_html": "<span>“Para possessão” (<em>la’ahuzzah</em>). Cf. Levítico 14,34; 25,45; Números 32,5.22.29.49; Deuteronômio 32,49. </span>"
-    },
-    {
-      "ref_id": "fn564-16903",
-      "number": 564,
-      "text": "“Morre” (mwt). Cf. Gênesis 2,17; Deuteronômio 32,39.50.",
-      "raw_html": "<span>“Morre” (<em>mwt</em>). Cf. Gênesis 2,17; Deuteronômio 32,39.50. </span>"
-    },
-    {
-      "ref_id": "fn565-16903",
-      "number": 565,
-      "text": "“E morre tu” (wamut). Somente em Deuteronômio 32,50; Jó 2,9.",
-      "raw_html": "<span>“E morre tu” (<em>wamut</em>). Somente em Deuteronômio 32,50; Jó 2,9. </span>"
-    },
-    {
-      "ref_id": "fn566-16903",
-      "number": 566,
-      "text": "“Monte” (har). Cf. Gênesis 7,19; Deuteronômio 33,22.49.50.",
-      "raw_html": "<span>“Monte” (<em>har</em>). Cf. Gênesis 7,19; Deuteronômio 33,22.49.50. </span>"
-    },
-    {
-      "ref_id": "fn567-16903",
-      "number": 567,
-      "text": "“No monte. Que” (bahar ‘asher). Somente em Deuteronômio 32,50; 1 Reis 11,7.",
-      "raw_html": "<span>“No monte. Que” (<em>bahar ‘asher</em>). Somente em Deuteronômio 32,50; 1 Reis 11,7. </span>"
-    },
-    {
-      "ref_id": "fn568-16903",
-      "number": 568,
-      "text": "“Que tu” (‘asher ‘attah). Cf. Gênesis 13,14.",
-      "raw_html": "<span>“Que tu” (<em>‘asher ‘attah</em>). Cf. Gênesis 13,14. </span>"
-    },
-    {
-      "ref_id": "fn569-16903",
-      "number": 569,
-      "text": "“Subidor” (‘lh). Forma participial da raiz. Cf. Gênesis 2,6; Deuteronômio 32,49.50.",
-      "raw_html": "<span>“Subidor” (<em>‘lh</em>). Forma participial da raiz. Cf. Gênesis 2,6; Deuteronômio 32,49.50. </span>"
-    },
-    {
-      "ref_id": "fn570-16903",
-      "number": 570,
       "text": "“Para lá” (shammah). Cf. Gênesis 11,19; Deuteronômio 32,47.50.",
       "raw_html": "<span>“Para lá” (<em>shammah</em>). Cf. Gênesis 11,19; Deuteronômio 32,47.50. </span>"
     },
     {
-      "ref_id": "fn571-16903",
-      "number": 571,
-      "text": "“Sê tu reunido” (‘sp). Forma passiva imperativa da raiz. Cf. Gênesis 6,21.",
-      "raw_html": "<span>“Sê tu reunido” (<em>‘sp</em>). Forma passiva imperativa da raiz. Cf. Gênesis 6,21. </span>"
+      "ref_id": "fn543-16903",
+      "number": 543,
+      "text": "“Que vós sois passadores do Yarden. Para lá. Para possuir ela” (‘asher ‘attem ‘obrim ‘et-hayyarden shammah lerishtah). Somente em Deuteronômio 4,26; 31,13; 32,47.",
+      "raw_html": "<span>“Que vós sois passadores do Yarden. Para lá. Para possuir ela” (<em>‘asher ‘attem ‘obrim</em> <em>‘et-hayyarden shammah lerishtah</em>). Somente em Deuteronômio 4,26; 31,13; 32,47. </span>"
     },
     {
-      "ref_id": "fn572-16903",
-      "number": 572,
-      "text": "“Aos povos de ti” (‘el-‘ammeyka). Somente em Números 27,13; 31,2; Deuteronômio 32,50.",
-      "raw_html": "<span>“Aos povos de ti” (<em>‘el-‘ammeyka</em>). Somente em Números 27,13; 31,2; Deuteronômio 32,50. </span>"
+      "ref_id": "fn544-16903",
+      "number": 544,
+      "text": "“E fala Yahweh a Mosheh” (wayedabber yehwah ‘el-mosheh). Última de 91 ocorrências. Cf Êxodo 6,10; 13.29; 13,1; 14,1; 16,11; 25,1; 30,11.17.22; 31,1; 32,7; 33,1; 40,1; Levítico 5,1; Deuteronômio 32,48.",
+      "raw_html": "<span>“E fala Yahweh a Mosheh” (<em>wayedabber yehwah ‘el-mosheh</em>). Última de 91 ocorrências. Cf Êxodo 6,10; 13.29; 13,1; 14,1; 16,11; 25,1; 30,11.17.22; 31,1; 32,7; 33,1; 40,1; Levítico 5,1; Deuteronômio 32,48. </span>"
     },
     {
-      "ref_id": "fn573-16903",
-      "number": 573,
-      "text": "“Conforme que morreu” (ka’asher-met). Somente em Deuteronômio 32,50; Juízes 8,33.",
-      "raw_html": "<span>“Conforme que morreu” (<em>ka’asher-met</em>). Somente em Deuteronômio 32,50; Juízes 8,33. </span>"
+      "ref_id": "fn545-16903",
+      "number": 545,
+      "text": "“Dia” (yom). Cf. Gênesis 1,5; Deuteronômio 32,7.35.46.47.48.",
+      "raw_html": "<span>“Dia” (<em>yom</em>). Cf. Gênesis 1,5; Deuteronômio 32,7.35.46.47.48. </span>"
     },
     {
-      "ref_id": "fn574-16903",
-      "number": 574,
-      "text": "“Morreu” (mwt). Cf. Gênesis 2,17; Deuteronômio 32,39.50.",
-      "raw_html": "<span>“Morreu” (<em>mwt</em>). Cf. Gênesis 2,17; Deuteronômio 32,39.50. </span>"
+      "ref_id": "fn546-16903",
+      "number": 546,
+      "text": "“No osso do dia esse” (be’etsem hayyom hazzeh). Cf. Gênesis 7,13; 17,23.26; Êxodo 12,17.41.51; Levítico 23,21.28.29.30; Deuteronômio 32,48; Josué 5,11; Ezequiel 24,2; 40,1.",
+      "raw_html": "<span>“No osso do dia esse” (<em>be’etsem hayyom</em> <em>hazzeh</em>). Cf. Gênesis 7,13; 17,23.26; Êxodo 12,17.41.51; Levítico 23,21.28.29.30; Deuteronômio 32,48; Josué 5,11; Ezequiel 24,2; 40,1. </span>"
     },
     {
-      "ref_id": "fn575-16903",
-      "number": 575,
-      "text": "“‘Aharon. O irmão de ti” (‘aharon. O irmão de ti). Ultima de 6 ocorrências. Cf. Êxodo 4,14; 28,1.41; Levítico 16,2; Números 27,13; Deuteronômio 32,50.",
-      "raw_html": "<span>“‘Aharon. O irmão de ti” (<em>‘aharon. O irmão de ti</em>). Ultima de 6 ocorrências. Cf. Êxodo 4,14; 28,1.41; Levítico 16,2; Números 27,13; Deuteronômio 32,50. </span>"
+      "ref_id": "fn547-16903",
+      "number": 547,
+      "text": "“O dia esse” (hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
     },
     {
-      "ref_id": "fn576-16903",
-      "number": 576,
-      "text": "“Em Hor. O monte” (behor hahar). Primeira de 4 ocorrências. Cf. Números 20,23; 33,37.39; Deuteronômio 32,50.",
-      "raw_html": "<span>“Em Hor. O monte” (<em>behor hahar</em>). Primeira de 4 ocorrências. Cf. Números 20,23; 33,37.39; Deuteronômio 32,50. </span>"
+      "ref_id": "fn548-16903",
+      "number": 548,
+      "text": "Para dizer” (le’mor). Cf. Gênesis 1,22.",
+      "raw_html": "<span>Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22. </span>"
     },
     {
-      "ref_id": "fn577-16903",
-      "number": 577,
+      "ref_id": "fn549-16903",
+      "number": 549,
+      "text": "“Sobe” (‘lh). Forma imperativa da raiz. Cf. Gênesis 2,6; Deuteronômio 32,49.50.",
+      "raw_html": "<span>“Sobe” (<em>‘lh</em>). Forma imperativa da raiz. Cf. Gênesis 2,6; Deuteronômio 32,49.50. </span>"
+    },
+    {
+      "ref_id": "fn550-16903",
+      "number": 550,
+      "text": "“Monte” (har). Cf. Gênesis 7,19; Deuteronômio 33,22.49.50.",
+      "raw_html": "<span>“Monte” (<em>har</em>). Cf. Gênesis 7,19; Deuteronômio 33,22.49.50. </span>"
+    },
+    {
+      "ref_id": "fn551-16903",
+      "number": 551,
+      "text": "“Sobe tu ao monte dos ‘Abarim esse” (‘aleh ‘el-har ha’abarim hazzeh). Somente em Números 27,1 (e nota); Deuteronômio 32,49.",
+      "raw_html": "<span>“Sobe tu ao monte dos ‘Abarim esse” (<em>‘aleh ‘el-har ha’abarim hazzeh</em>). Somente em Números 27,1 (e nota); Deuteronômio 32,49. </span>"
+    },
+    {
+      "ref_id": "fn552-16903",
+      "number": 552,
       "text": "“Monte” (har). Cf. acima.",
       "raw_html": "<span>“Monte” (<em>har</em>). Cf. acima. </span>"
     },
     {
+      "ref_id": "fn553-16903",
+      "number": 553,
+      "text": "“O monte de Nebo” (har-nebo). Somente em Deuteronômio 32,49; 34,1.",
+      "raw_html": "<span>“O monte de Nebo” (<em>har-nebo</em>). Somente em Deuteronômio 32,49; 34,1. </span>"
+    },
+    {
+      "ref_id": "fn554-16903",
+      "number": 554,
+      "text": "“Terra” (‘erets). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52.",
+      "raw_html": "<span>“Terra” (<em>‘erets</em>). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52. </span>"
+    },
+    {
+      "ref_id": "fn555-16903",
+      "number": 555,
+      "text": "“Que na terra de Mo’ab” (‘asher be’erets mo’ab). Somente aqui.",
+      "raw_html": "<span>“Que na terra de Mo’ab” (<em>‘asher be’erets mo’ab</em>). Somente aqui. </span>"
+    },
+    {
+      "ref_id": "fn556-16903",
+      "number": 556,
+      "text": "“Mo’ab” (mo’ab).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFX\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFX\" rel=\"noreferrer noopener\" target=\"_blank\">Mo’ab</a>” (<em>mo’ab</em>). </span>"
+    },
+    {
+      "ref_id": "fn557-16903",
+      "number": 557,
+      "text": "“Que sobre as faces de Yereho” (‘asher ‘al-pene yereho). Somente em Deuteronômio 32,49; Deuteronômio 34,1.",
+      "raw_html": "<span>“Que sobre as faces de Yereho” (<em>‘asher ‘al-pene yereho</em>). Somente em Deuteronômio 32,49; Deuteronômio 34,1. </span>"
+    },
+    {
+      "ref_id": "fn558-16903",
+      "number": 558,
+      "text": "“Terra” (‘erets). Cf. acima.",
+      "raw_html": "<span>“Terra” (<em>‘erets</em>). Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn559-16903",
+      "number": 559,
+      "text": "“E vê tu a terra de” (ur’eh ‘et-‘erets). Somente em Deuteronômio 32,49; Jeremias 22,10.",
+      "raw_html": "<span>“E vê tu a terra de” (<em>ur’eh ‘et-‘erets</em>). Somente em Deuteronômio 32,49; Jeremias 22,10. </span>"
+    },
+    {
+      "ref_id": "fn560-16903",
+      "number": 560,
+      "text": "“A terra de Kena’an” (‘et-‘erets kena’an). Cf. Êxodo 6,4.",
+      "raw_html": "<span>“A terra de Kena’an” (<em>‘et-‘erets kena’an</em>). Cf. Êxodo 6,4. </span>"
+    },
+    {
+      "ref_id": "fn561-16903",
+      "number": 561,
+      "text": "“A terra de Kena’an” (‘erets kena’an). Cf. Gênesis 17,8.",
+      "raw_html": "<span>“A terra de Kena’an” (<em>‘erets kena’an</em>). Cf. Gênesis 17,8. </span>"
+    },
+    {
+      "ref_id": "fn562-16903",
+      "number": 562,
+      "text": "“Filhos” (banim [ben]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52.",
+      "raw_html": "<span>“Filhos” (<em>banim </em>[<em>ben</em>]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52. </span>"
+    },
+    {
+      "ref_id": "fn563-16903",
+      "number": 563,
+      "text": "“Que eu sou dador para os filhos de Yisra’el” (‘asher-‘ani noten libeneh yisra’el). Somente em Números 13,2; Deuteronômio 32,49.52.",
+      "raw_html": "<span>“Que eu sou dador para os filhos de Yisra’el” (<em>‘asher-‘ani noten libeneh yisra’el</em>). Somente em Números 13,2; Deuteronômio 32,49.52. </span>"
+    },
+    {
+      "ref_id": "fn564-16903",
+      "number": 564,
+      "text": "“Para possessão” (la’ahuzzah). Cf. Levítico 14,34; 25,45; Números 32,5.22.29.49; Deuteronômio 32,49.",
+      "raw_html": "<span>“Para possessão” (<em>la’ahuzzah</em>). Cf. Levítico 14,34; 25,45; Números 32,5.22.29.49; Deuteronômio 32,49. </span>"
+    },
+    {
+      "ref_id": "fn565-16903",
+      "number": 565,
+      "text": "“Morre” (mwt). Cf. Gênesis 2,17; Deuteronômio 32,39.50.",
+      "raw_html": "<span>“Morre” (<em>mwt</em>). Cf. Gênesis 2,17; Deuteronômio 32,39.50. </span>"
+    },
+    {
+      "ref_id": "fn566-16903",
+      "number": 566,
+      "text": "“E morre tu” (wamut). Somente em Deuteronômio 32,50; Jó 2,9.",
+      "raw_html": "<span>“E morre tu” (<em>wamut</em>). Somente em Deuteronômio 32,50; Jó 2,9. </span>"
+    },
+    {
+      "ref_id": "fn567-16903",
+      "number": 567,
+      "text": "“Monte” (har). Cf. Gênesis 7,19; Deuteronômio 33,22.49.50.",
+      "raw_html": "<span>“Monte” (<em>har</em>). Cf. Gênesis 7,19; Deuteronômio 33,22.49.50. </span>"
+    },
+    {
+      "ref_id": "fn568-16903",
+      "number": 568,
+      "text": "“No monte. Que” (bahar ‘asher). Somente em Deuteronômio 32,50; 1 Reis 11,7.",
+      "raw_html": "<span>“No monte. Que” (<em>bahar ‘asher</em>). Somente em Deuteronômio 32,50; 1 Reis 11,7. </span>"
+    },
+    {
+      "ref_id": "fn569-16903",
+      "number": 569,
+      "text": "“Que tu” (‘asher ‘attah). Cf. Gênesis 13,14.",
+      "raw_html": "<span>“Que tu” (<em>‘asher ‘attah</em>). Cf. Gênesis 13,14. </span>"
+    },
+    {
+      "ref_id": "fn570-16903",
+      "number": 570,
+      "text": "“Subidor” (‘lh). Forma participial da raiz. Cf. Gênesis 2,6; Deuteronômio 32,49.50.",
+      "raw_html": "<span>“Subidor” (<em>‘lh</em>). Forma participial da raiz. Cf. Gênesis 2,6; Deuteronômio 32,49.50. </span>"
+    },
+    {
+      "ref_id": "fn571-16903",
+      "number": 571,
+      "text": "“Para lá” (shammah). Cf. Gênesis 11,19; Deuteronômio 32,47.50.",
+      "raw_html": "<span>“Para lá” (<em>shammah</em>). Cf. Gênesis 11,19; Deuteronômio 32,47.50. </span>"
+    },
+    {
+      "ref_id": "fn572-16903",
+      "number": 572,
+      "text": "“Sê tu reunido” (‘sp). Forma passiva imperativa da raiz. Cf. Gênesis 6,21.",
+      "raw_html": "<span>“Sê tu reunido” (<em>‘sp</em>). Forma passiva imperativa da raiz. Cf. Gênesis 6,21. </span>"
+    },
+    {
+      "ref_id": "fn573-16903",
+      "number": 573,
+      "text": "“Aos povos de ti” (‘el-‘ammeyka). Somente em Números 27,13; 31,2; Deuteronômio 32,50.",
+      "raw_html": "<span>“Aos povos de ti” (<em>‘el-‘ammeyka</em>). Somente em Números 27,13; 31,2; Deuteronômio 32,50. </span>"
+    },
+    {
+      "ref_id": "fn574-16903",
+      "number": 574,
+      "text": "“Conforme que morreu” (ka’asher-met). Somente em Deuteronômio 32,50; Juízes 8,33.",
+      "raw_html": "<span>“Conforme que morreu” (<em>ka’asher-met</em>). Somente em Deuteronômio 32,50; Juízes 8,33. </span>"
+    },
+    {
+      "ref_id": "fn575-16903",
+      "number": 575,
+      "text": "“Morreu” (mwt). Cf. Gênesis 2,17; Deuteronômio 32,39.50.",
+      "raw_html": "<span>“Morreu” (<em>mwt</em>). Cf. Gênesis 2,17; Deuteronômio 32,39.50. </span>"
+    },
+    {
+      "ref_id": "fn576-16903",
+      "number": 576,
+      "text": "“‘Aharon. O irmão de ti” (‘aharon. O irmão de ti). Ultima de 6 ocorrências. Cf. Êxodo 4,14; 28,1.41; Levítico 16,2; Números 27,13; Deuteronômio 32,50.",
+      "raw_html": "<span>“‘Aharon. O irmão de ti” (<em>‘aharon. O irmão de ti</em>). Ultima de 6 ocorrências. Cf. Êxodo 4,14; 28,1.41; Levítico 16,2; Números 27,13; Deuteronômio 32,50. </span>"
+    },
+    {
+      "ref_id": "fn577-16903",
+      "number": 577,
+      "text": "“Em Hor. O monte” (behor hahar). Primeira de 4 ocorrências. Cf. Números 20,23; 33,37.39; Deuteronômio 32,50.",
+      "raw_html": "<span>“Em Hor. O monte” (<em>behor hahar</em>). Primeira de 4 ocorrências. Cf. Números 20,23; 33,37.39; Deuteronômio 32,50. </span>"
+    },
+    {
       "ref_id": "fn578-16903",
       "number": 578,
-      "text": "“Reunido” (‘sp). Forma passiva da raiz. Cf. acima.",
-      "raw_html": "<span>“Reunido” (<em>‘sp</em>). Forma passiva da raiz. Cf. acima. </span>"
+      "text": "“Monte” (har). Cf. acima.",
+      "raw_html": "<span>“Monte” (<em>har</em>). Cf. acima. </span>"
     },
     {
       "ref_id": "fn579-16903",
       "number": 579,
-      "text": "“E foi ele reunido aos povos dele” (wayye’asep ‘al-‘ammayw). Última de 5 ocorrências. Cf. Gênesis 25,8.17; 35,29; 49,33; Deuteronômio 32,50.",
-      "raw_html": "<span>“E foi ele reunido aos povos dele” (<em>wayye’asep ‘al-‘ammayw</em>). Última de 5 ocorrências. Cf. Gênesis 25,8.17; 35,29; 49,33; Deuteronômio 32,50. </span>"
+      "text": "“Reunido” (‘sp). Forma passiva da raiz. Cf. acima.",
+      "raw_html": "<span>“Reunido” (<em>‘sp</em>). Forma passiva da raiz. Cf. acima. </span>"
     },
     {
       "ref_id": "fn580-16903",
       "number": 580,
-      "text": "“Sobre que” (‘al ‘asher). Cf. Gênesis 47,6; Êxodo 16,5; Êxodo 32,35; Números 20,24; Deuteronômio 29,24; 32,51.",
-      "raw_html": "<span>“Sobre que” (<em>‘al ‘asher</em>). Cf. Gênesis 47,6; Êxodo 16,5; Êxodo 32,35; Números 20,24; Deuteronômio 29,24; 32,51. </span>"
+      "text": "“E foi ele reunido aos povos dele” (wayye’asep ‘al-‘ammayw). Última de 5 ocorrências. Cf. Gênesis 25,8.17; 35,29; 49,33; Deuteronômio 32,50.",
+      "raw_html": "<span>“E foi ele reunido aos povos dele” (<em>wayye’asep ‘al-‘ammayw</em>). Última de 5 ocorrências. Cf. Gênesis 25,8.17; 35,29; 49,33; Deuteronômio 32,50. </span>"
     },
     {
       "ref_id": "fn581-16903",
       "number": 581,
-      "text": "“Traístes” (m’l). Cf. Levítico 5,15.",
-      "raw_html": "<span>“Traístes” (<em>m’l</em>). Cf. Levítico 5,15. </span>"
+      "text": "“Sobre que” (‘al ‘asher). Cf. Gênesis 47,6; Êxodo 16,5; Êxodo 32,35; Números 20,24; Deuteronômio 29,24; 32,51.",
+      "raw_html": "<span>“Sobre que” (<em>‘al ‘asher</em>). Cf. Gênesis 47,6; Êxodo 16,5; Êxodo 32,35; Números 20,24; Deuteronômio 29,24; 32,51. </span>"
     },
     {
       "ref_id": "fn582-16903",
       "number": 582,
-      "text": "“Filhos” (banim [ben]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52.",
-      "raw_html": "<span>“Filhos” (<em>banim </em>[<em>ben</em>]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52. </span>"
+      "text": "“Traístes” (m’l). Cf. Levítico 5,15.",
+      "raw_html": "<span>“Traístes” (<em>m’l</em>). Cf. Levítico 5,15. </span>"
     },
     {
       "ref_id": "fn583-16903",
       "number": 583,
-      "text": "“No meio dos filhos de Yisra’el” (betok bene yisra’el). Cf. Êxodo 29,45; Levítico 22,32; 24,10; 25,33; Números 1,49; 2,33; 9,7; 18,20.24; 26,62; 35,34; Deuteronômio 32,51; 1 Reis 6,13; Ezequiel 43,7; Ezequiel 44,9.",
-      "raw_html": "<span>“No meio dos filhos de Yisra’el” (<em>betok bene yisra’el</em>). Cf. Êxodo 29,45; Levítico 22,32; 24,10; 25,33; Números 1,49; 2,33; 9,7; 18,20.24; 26,62; 35,34; Deuteronômio 32,51; 1 Reis 6,13; Ezequiel 43,7; Ezequiel 44,9. </span>"
-    },
-    {
-      "ref_id": "fn584-16903",
-      "number": 584,
-      "text": "“Nas águas de Meribat de Qadesh” (beme-meribat qadesh). Apenas aqui. Para “Meribah”, cf. Êxodo 17,7. Para “águas de Meribah”, cf. Números 20,13; Deuteronômio 33,8; Salmos 81,8; 106,32. Para Qadesh, cf. Gênesis 14,7.",
-      "raw_html": "<span>“Nas águas de Meribat de Qadesh” (<em>beme-meribat qadesh</em>). Apenas aqui. Para “Meribah”, cf. Êxodo 17,7. Para “águas de Meribah”, cf. Números 20,13; Deuteronômio 33,8; Salmos 81,8; 106,32. Para Qadesh, cf. Gênesis 14,7. </span>"
-    },
-    {
-      "ref_id": "fn585-16903",
-      "number": 585,
-      "text": "“Deserto” (midbar). Cf. Gênesis 14,6; Deuteronômio 32,10.51.",
-      "raw_html": "<span>“Deserto” (<em>midbar</em>). Cf. Gênesis 14,6; Deuteronômio 32,10.51. </span>"
-    },
-    {
-      "ref_id": "fn586-16903",
-      "number": 586,
-      "text": "“Deserto de Tsin” (midbar-tsin). Cf. Números 20,1.",
-      "raw_html": "<span>“Deserto de Tsin” (<em>midbar-tsin</em>). Cf. Números 20,1. </span>"
-    },
-    {
-      "ref_id": "fn587-16903",
-      "number": 587,
-      "text": "“Sobre que” (‘al ‘asher). Cf. acima.",
-      "raw_html": "<span>“Sobre que” (<em>‘al ‘asher</em>). Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn588-16903",
-      "number": 588,
-      "text": "“Não” (lo’).",
-      "raw_html": "<span>“Não” (<em>lo’</em>). </span>"
-    },
-    {
-      "ref_id": "fn589-16903",
-      "number": 589,
-      "text": "“Sacralizastes” (qdsh). Forma intensiva da raiz. Cf. Gênesis 2,3.",
-      "raw_html": "<span>“Sacralizastes” (<em>qdsh</em>). Forma intensiva da raiz. Cf. Gênesis 2,3. </span>"
-    },
-    {
-      "ref_id": "fn590-16903",
-      "number": 590,
-      "text": "“Eu” (‘oti). Primeira de 35 ocorrências.",
-      "raw_html": "<span>“Eu” (<em>‘oti</em>). Primeira de 35 ocorrências. </span>"
-    },
-    {
-      "ref_id": "fn591-16903",
-      "number": 591,
-      "text": "“Filhos” (banim [ben]). Cf. acima.",
-      "raw_html": "<span>“Filhos” (<em>banim </em>[<em>ben</em>]). Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn592-16903",
-      "number": 592,
-      "text": "“No meio dos filhos de Yisra’el” (betok bene yisra’el). Cf. acima.",
-      "raw_html": "<span>“No meio dos filhos de Yisra’el” (<em>betok bene yisra’el</em>). Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn593-16903",
-      "number": 593,
-      "text": "“Que” (ki).",
-      "raw_html": "<span>“Que” (<em>ki</em>). </span>"
-    },
-    {
-      "ref_id": "fn594-16903",
-      "number": 594,
-      "text": "“Desde ante” (minneger). Primeira de 23 ocorrências. Cf. Gênesis 21,16; Números 2,2; Deuteronômio 28,66; 32,52; Juízes 9,17; 20,34; 1 Samuel 26,20",
-      "raw_html": "<span>“Desde ante” (<em>minneger</em>). Primeira de 23 ocorrências. Cf. Gênesis 21,16; Números 2,2; Deuteronômio 28,66; 32,52; Juízes 9,17; 20,34; 1 Samuel 26,20 </span>"
-    },
-    {
-      "ref_id": "fn595-16903",
-      "number": 595,
-      "text": "“Vês tu a terra” (tir’eh ‘et-ha’arets). Somente em Deuteronômio 32,52; Ezequiel 12,6.",
-      "raw_html": "<span>“Vês tu a terra” (<em>tir’eh ‘et-ha’arets</em>). Somente em Deuteronômio 32,52; Ezequiel 12,6. </span>"
-    },
-    {
-      "ref_id": "fn596-16903",
-      "number": 596,
-      "text": "“A terra” (ha’arets). Cf. Gênesis 1,1; Deuteronômio 32,1.52.",
-      "raw_html": "<span>“A terra” (<em>ha’arets</em>). Cf. Gênesis 1,1; Deuteronômio 32,1.52. </span>"
-    },
-    {
-      "ref_id": "fn597-16903",
-      "number": 597,
-      "text": "“Terra” (‘erets). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52.",
-      "raw_html": "<span>“Terra” (<em>‘erets</em>). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52. </span>"
-    },
-    {
-      "ref_id": "fn598-16903",
-      "number": 598,
-      "text": "“E para lá não” (weshammah lo’). Somente em Deuteronômio 32,52; 34,4; Isaías 55,10.",
-      "raw_html": "<span>“E para lá não” (<em>weshammah lo’</em>). Somente em Deuteronômio 32,52; 34,4; Isaías 55,10. </span>"
-    },
-    {
-      "ref_id": "fn599-16903",
-      "number": 599,
-      "text": "“A terra” (ha’arets). Cf. acima.",
-      "raw_html": "<span>“A terra” (<em>ha’arets</em>). Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn600-16903",
-      "number": 600,
-      "text": "“Terra” (‘erets). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52.",
-      "raw_html": "<span>“Terra” (<em>‘erets</em>). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52. </span>"
-    },
-    {
-      "ref_id": "fn601-16903",
-      "number": 601,
-      "text": "“Vais tu. À terra. Que” (tabo’ ‘el-ha’arets ‘asher). Somente em Deuteronômio 26,1; 32,52.",
-      "raw_html": "<span>“Vais tu. À terra. Que” (<em>tabo’ ‘el-ha’arets ‘asher</em>). Somente em Deuteronômio 26,1; 32,52. </span>"
-    },
-    {
-      "ref_id": "fn602-16903",
-      "number": 602,
       "text": "“Filhos” (banim [ben]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52.",
       "raw_html": "<span>“Filhos” (<em>banim </em>[<em>ben</em>]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52. </span>"
     },
     {
+      "ref_id": "fn584-16903",
+      "number": 584,
+      "text": "“No meio dos filhos de Yisra’el” (betok bene yisra’el). Cf. Êxodo 29,45; Levítico 22,32; 24,10; 25,33; Números 1,49; 2,33; 9,7; 18,20.24; 26,62; 35,34; Deuteronômio 32,51; 1 Reis 6,13; Ezequiel 43,7; Ezequiel 44,9.",
+      "raw_html": "<span>“No meio dos filhos de Yisra’el” (<em>betok bene yisra’el</em>). Cf. Êxodo 29,45; Levítico 22,32; 24,10; 25,33; Números 1,49; 2,33; 9,7; 18,20.24; 26,62; 35,34; Deuteronômio 32,51; 1 Reis 6,13; Ezequiel 43,7; Ezequiel 44,9. </span>"
+    },
+    {
+      "ref_id": "fn585-16903",
+      "number": 585,
+      "text": "“Nas águas de Meribat de Qadesh” (beme-meribat qadesh). Apenas aqui. Para “Meribah”, cf. Êxodo 17,7. Para “águas de Meribah”, cf. Números 20,13; Deuteronômio 33,8; Salmos 81,8; 106,32. Para Qadesh, cf. Gênesis 14,7.",
+      "raw_html": "<span>“Nas águas de Meribat de Qadesh” (<em>beme-meribat qadesh</em>). Apenas aqui. Para “Meribah”, cf. Êxodo 17,7. Para “águas de Meribah”, cf. Números 20,13; Deuteronômio 33,8; Salmos 81,8; 106,32. Para Qadesh, cf. Gênesis 14,7. </span>"
+    },
+    {
+      "ref_id": "fn586-16903",
+      "number": 586,
+      "text": "“Deserto” (midbar). Cf. Gênesis 14,6; Deuteronômio 32,10.51.",
+      "raw_html": "<span>“Deserto” (<em>midbar</em>). Cf. Gênesis 14,6; Deuteronômio 32,10.51. </span>"
+    },
+    {
+      "ref_id": "fn587-16903",
+      "number": 587,
+      "text": "“Deserto de Tsin” (midbar-tsin). Cf. Números 20,1.",
+      "raw_html": "<span>“Deserto de Tsin” (<em>midbar-tsin</em>). Cf. Números 20,1. </span>"
+    },
+    {
+      "ref_id": "fn588-16903",
+      "number": 588,
+      "text": "“Sobre que” (‘al ‘asher). Cf. acima.",
+      "raw_html": "<span>“Sobre que” (<em>‘al ‘asher</em>). Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn589-16903",
+      "number": 589,
+      "text": "“Não” (lo’).",
+      "raw_html": "<span>“Não” (<em>lo’</em>). </span>"
+    },
+    {
+      "ref_id": "fn590-16903",
+      "number": 590,
+      "text": "“Sacralizastes” (qdsh). Forma intensiva da raiz. Cf. Gênesis 2,3.",
+      "raw_html": "<span>“Sacralizastes” (<em>qdsh</em>). Forma intensiva da raiz. Cf. Gênesis 2,3. </span>"
+    },
+    {
+      "ref_id": "fn591-16903",
+      "number": 591,
+      "text": "“Eu” (‘oti). Primeira de 35 ocorrências.",
+      "raw_html": "<span>“Eu” (<em>‘oti</em>). Primeira de 35 ocorrências. </span>"
+    },
+    {
+      "ref_id": "fn592-16903",
+      "number": 592,
+      "text": "“Filhos” (banim [ben]). Cf. acima.",
+      "raw_html": "<span>“Filhos” (<em>banim </em>[<em>ben</em>]). Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn593-16903",
+      "number": 593,
+      "text": "“No meio dos filhos de Yisra’el” (betok bene yisra’el). Cf. acima.",
+      "raw_html": "<span>“No meio dos filhos de Yisra’el” (<em>betok bene yisra’el</em>). Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn594-16903",
+      "number": 594,
+      "text": "“Que” (ki).",
+      "raw_html": "<span>“Que” (<em>ki</em>). </span>"
+    },
+    {
+      "ref_id": "fn595-16903",
+      "number": 595,
+      "text": "“Desde ante” (minneger). Primeira de 23 ocorrências. Cf. Gênesis 21,16; Números 2,2; Deuteronômio 28,66; 32,52; Juízes 9,17; 20,34; 1 Samuel 26,20",
+      "raw_html": "<span>“Desde ante” (<em>minneger</em>). Primeira de 23 ocorrências. Cf. Gênesis 21,16; Números 2,2; Deuteronômio 28,66; 32,52; Juízes 9,17; 20,34; 1 Samuel 26,20 </span>"
+    },
+    {
+      "ref_id": "fn596-16903",
+      "number": 596,
+      "text": "“Vês tu a terra” (tir’eh ‘et-ha’arets). Somente em Deuteronômio 32,52; Ezequiel 12,6.",
+      "raw_html": "<span>“Vês tu a terra” (<em>tir’eh ‘et-ha’arets</em>). Somente em Deuteronômio 32,52; Ezequiel 12,6. </span>"
+    },
+    {
+      "ref_id": "fn597-16903",
+      "number": 597,
+      "text": "“A terra” (ha’arets). Cf. Gênesis 1,1; Deuteronômio 32,1.52.",
+      "raw_html": "<span>“A terra” (<em>ha’arets</em>). Cf. Gênesis 1,1; Deuteronômio 32,1.52. </span>"
+    },
+    {
+      "ref_id": "fn598-16903",
+      "number": 598,
+      "text": "“Terra” (‘erets). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52.",
+      "raw_html": "<span>“Terra” (<em>‘erets</em>). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52. </span>"
+    },
+    {
+      "ref_id": "fn599-16903",
+      "number": 599,
+      "text": "“E para lá não” (weshammah lo’). Somente em Deuteronômio 32,52; 34,4; Isaías 55,10.",
+      "raw_html": "<span>“E para lá não” (<em>weshammah lo’</em>). Somente em Deuteronômio 32,52; 34,4; Isaías 55,10. </span>"
+    },
+    {
+      "ref_id": "fn600-16903",
+      "number": 600,
+      "text": "“A terra” (ha’arets). Cf. acima.",
+      "raw_html": "<span>“A terra” (<em>ha’arets</em>). Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn601-16903",
+      "number": 601,
+      "text": "“Terra” (‘erets). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52.",
+      "raw_html": "<span>“Terra” (<em>‘erets</em>). Cf. Gênesis 1,1; Deuteronômio 32,1.10.13.22.49.52. </span>"
+    },
+    {
+      "ref_id": "fn602-16903",
+      "number": 602,
+      "text": "“Vais tu. À terra. Que” (tabo’ ‘el-ha’arets ‘asher). Somente em Deuteronômio 26,1; 32,52.",
+      "raw_html": "<span>“Vais tu. À terra. Que” (<em>tabo’ ‘el-ha’arets ‘asher</em>). Somente em Deuteronômio 26,1; 32,52. </span>"
+    },
+    {
       "ref_id": "fn603-16903",
       "number": 603,
+      "text": "“Filhos” (banim [ben]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52.",
+      "raw_html": "<span>“Filhos” (<em>banim </em>[<em>ben</em>]). Cf. Gênesis 3,16; Deuteronômio 32,5.8.14.19.20.44.46.49.51.52. </span>"
+    },
+    {
+      "ref_id": "fn604-16903",
+      "number": 604,
       "text": "“Que eu sou dador para os filhos de Yisra’el” (‘asher-‘ani noten libeneh yisra’el). Somente em Números 13,2; Deuteronômio 32,49.52.",
       "raw_html": "<span>“Que eu sou dador para os filhos de Yisra’el” (<em>‘asher-‘ani noten libeneh yisra’el</em>). Somente em Números 13,2; Deuteronômio 32,49.52. </span>"
     }

@@ -712,27 +712,32 @@
     },
     {
       "number": 16,
-      "text": "E acorda Ya’aqob desde o sono dele. E diz ele. Efetivamente estáYahweh no lugar esse. E não conheciaeu.",
+      "text": "E acorda Ya’aqob. Desde a mudancinha dele. E diz ele. Efetivamente estáYahweh no lugar esse. E não conheciaeu.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E acorda Ya’aqob desde o sono dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E acorda Ya’aqob desde o sono dele.</p>"
+          "text": "E acorda Ya’aqob.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E acorda Ya’aqob.</p>"
         },
         {
           "line_index": 1,
+          "text": "Desde a mudancinha dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a mudancinha<a name=\"rf37-2590\"></a><sup><a href=\"#fn37-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup> dele.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "E diz ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E diz ele.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 3,
           "text": "Efetivamente estáYahweh no lugar esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Efetivamente<a name=\"rf37-2590\"></a><sup><a href=\"#fn37-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup> está<a name=\"rf38-2590\"></a><sup><a href=\"#fn38-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup>Yahweh no lugar esse.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Efetivamente<a name=\"rf38-2590\"></a><sup><a href=\"#fn38-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup> está<a name=\"rf39-2590\"></a><sup><a href=\"#fn39-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>Yahweh no lugar esse.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "E não conheciaeu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não conhecia<a name=\"rf39-2590\"></a><sup><a href=\"#fn39-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup><a name=\"rf40-2590\"></a><sup><a href=\"#fn40-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>eu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E não conhecia<a name=\"rf40-2590\"></a><sup><a href=\"#fn40-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup><a name=\"rf41-2590\"></a><sup><a href=\"#fn41-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup>eu.</p>"
         }
       ]
     },
@@ -758,7 +763,7 @@
         {
           "line_index": 3,
           "text": "Não é essa.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não é essa<a name=\"rf41-2590\"></a><sup><a href=\"#fn41-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não é essa<a name=\"rf42-2590\"></a><sup><a href=\"#fn42-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -794,7 +799,7 @@
         {
           "line_index": 2,
           "text": "Que lá era as cabeceiras dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que lá era as cabeceiras<a name=\"rf42-2590\"></a><sup><a href=\"#fn42-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup> dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que lá era as cabeceiras<a name=\"rf43-2590\"></a><sup><a href=\"#fn43-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup> dele.</p>"
         },
         {
           "line_index": 3,
@@ -804,12 +809,12 @@
         {
           "line_index": 4,
           "text": "Estela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Estela<a name=\"rf43-2590\"></a><sup><a href=\"#fn43-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Estela<a name=\"rf44-2590\"></a><sup><a href=\"#fn44-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E derrama ele óleosobre a cabeça dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E derrama<a name=\"rf44-2590\"></a><sup><a href=\"#fn44-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup> ele óleo<a name=\"rf45-2590\"></a><sup><a href=\"#fn45-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>sobre a cabeça dela.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E derrama<a name=\"rf45-2590\"></a><sup><a href=\"#fn45-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup> ele óleo<a name=\"rf46-2590\"></a><sup><a href=\"#fn46-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>sobre a cabeça dela.</p>"
         }
       ]
     },
@@ -830,33 +835,33 @@
         {
           "line_index": 2,
           "text": "O ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf46-2590\"></a><sup><a href=\"#fn46-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf47-2590\"></a><sup><a href=\"#fn47-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Bet-‘el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Bet-‘el<a name=\"rf47-2590\"></a><sup><a href=\"#fn47-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Bet-‘el<a name=\"rf48-2590\"></a><sup><a href=\"#fn48-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E porém.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E porém<a name=\"rf48-2590\"></a><sup><a href=\"#fn48-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E porém<a name=\"rf49-2590\"></a><sup><a href=\"#fn49-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Luzera o nome da cidade para o começo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Luz<a name=\"rf49-2590\"></a><sup><a href=\"#fn49-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>era o nome da cidade para o começo<a name=\"rf50-2590\"></a><sup><a href=\"#fn50-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>.<strong><sub><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\"> </mark></sub></strong></p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Luz<a name=\"rf50-2590\"></a><sup><a href=\"#fn50-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>era o nome da cidade para o começo<a name=\"rf51-2590\"></a><sup><a href=\"#fn51-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.<strong><sub><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\"> </mark></sub></strong></p>"
         }
       ]
     },
     {
       "number": 20,
-      "text": "E vota Ya’aqob voto. Para dizer. Se está ‘Elohim comigo. E guarda ele eu. No caminho esse. Que eu sou andador. E dá ele para mim pão para comer. E vestepara enroupar.",
+      "text": "E vota Ya’aqob voto. Para dizer. Se está ‘Elohim. Comigo. E guarda ele eu. No caminho esse. Que eu sou andador. E dá ele para mim pão para comer. E vestepara enroupar.",
       "lines": [
         {
           "line_index": 0,
           "text": "E vota Ya’aqob voto.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E vota<a name=\"rf51-2590\"></a><sup><a href=\"#fn51-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup> Ya’aqob voto<a name=\"rf52-2590\"></a><sup><a href=\"#fn52-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E vota<a name=\"rf52-2590\"></a><sup><a href=\"#fn52-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup> Ya’aqob voto<a name=\"rf53-2590\"></a><sup><a href=\"#fn53-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -865,33 +870,38 @@
         },
         {
           "line_index": 2,
-          "text": "Se está ‘Elohim comigo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Se está<a name=\"rf53-2590\"></a><sup><a href=\"#fn53-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup> ‘Elohim comigo<a name=\"rf54-2590\"></a><sup><a href=\"#fn54-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
+          "text": "Se está ‘Elohim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Se está<a name=\"rf54-2590\"></a><sup><a href=\"#fn54-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup> <em>‘Elohim</em>.</p>"
         },
         {
           "line_index": 3,
+          "text": "Comigo.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Comigo<a name=\"rf55-2590\"></a><sup><a href=\"#fn55-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
           "text": "E guarda ele eu.",
           "raw_html": "<p class=\"wp-block-paragraph\">E guarda ele eu.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "No caminho esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No caminho esse<a name=\"rf55-2590\"></a><sup><a href=\"#fn55-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No caminho esse<a name=\"rf56-2590\"></a><sup><a href=\"#fn56-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Que eu sou andador.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que eu sou andador.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "E dá ele para mim pão para comer.",
           "raw_html": "<p class=\"wp-block-paragraph\">E dá ele para mim pão para comer.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "E vestepara enroupar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E veste<a name=\"rf56-2590\"></a><sup><a href=\"#fn56-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>para enroupar<a name=\"rf57-2590\"></a><sup><a href=\"#fn57-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E veste<a name=\"rf57-2590\"></a><sup><a href=\"#fn57-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>para enroupar<a name=\"rf58-2590\"></a><sup><a href=\"#fn58-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
         }
       ]
     },
@@ -912,7 +922,7 @@
         {
           "line_index": 2,
           "text": "Ao lar do pai de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao lar do<a name=\"rf58-2590\"></a><sup><a href=\"#fn58-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup> pai de mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao lar do<a name=\"rf59-2590\"></a><sup><a href=\"#fn59-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup> pai de mim.</p>"
         },
         {
           "line_index": 3,
@@ -927,7 +937,7 @@
         {
           "line_index": 5,
           "text": "Para ‘elohim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para <em>‘elohim</em><a name=\"rf59-2590\"></a><sup><a href=\"#fn59-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.<strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\"></mark></strong></p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para <em>‘elohim</em><a name=\"rf60-2590\"></a><sup><a href=\"#fn60-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.<strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\"></mark></strong></p>"
         }
       ]
     },
@@ -968,7 +978,7 @@
         {
           "line_index": 6,
           "text": "Dizimar dizimo eu ele para ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dizimar<a name=\"rf60-2590\"></a><sup><a href=\"#fn60-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup> dizimo eu ele para ti<a name=\"rf61-2590\"></a><sup><a href=\"#fn61-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dizimar<a name=\"rf61-2590\"></a><sup><a href=\"#fn61-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup> dizimo eu ele para ti<a name=\"rf62-2590\"></a><sup><a href=\"#fn62-2590\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
         }
       ]
     }
@@ -1193,150 +1203,156 @@
     {
       "ref_id": "fn37-2590",
       "number": 37,
-      "text": "“Efetivamente” (‘aken). Traduzido como “efetivamente”, e não como “certamente”, dada a possibilidade de ‘aken constituir por contração o termo ken “assim”.",
-      "raw_html": "<span>“Efetivamente” (<em>‘aken</em>). Traduzido como “efetivamente”, e não como “certamente”, dada a possibilidade de <em>‘aken</em> constituir por contração o termo <em>ken</em> “assim”. </span>"
+      "text": "“Mudancinha” (shenah). Trata-se da mesma raiz de shanah (“mudança”), normalmente traduzida como “ano”. A ideia é a de “passagem de tempo. O ano é uma “grande mudança”, ao passo que “tirar uma soneca” equivale a uma pequena mudança.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0629\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0629\" rel=\"noopener\" target=\"_blank\">Mudancinha</a>” (<em>shenah</em>). Trata-se da mesma raiz de <em>shanah</em> (“mudança”), normalmente traduzida como “ano”. A ideia é a de “passagem de tempo. O ano é uma “grande mudança”, ao passo que “tirar uma soneca” equivale a uma pequena mudança. </span>"
     },
     {
       "ref_id": "fn38-2590",
       "number": 38,
-      "text": "“Está”. É a mesma partícula que, no Salmo 53, a quase totalidade das traduções enxerga um “há” (“não há Deus”). Não se flagra o conceito ontológico de “existir” na tradição da Bíblia Hebraica. O sentido é sempre concreto.",
-      "raw_html": "<span>“Está”. É a mesma partícula que, no Salmo 53, a quase totalidade das traduções enxerga um “há” (“não há Deus”). Não se flagra o conceito ontológico de “existir” na tradição da Bíblia Hebraica. O sentido é sempre concreto. </span>"
+      "text": "“Efetivamente” (‘aken). Traduzido como “efetivamente”, e não como “certamente”, dada a possibilidade de ‘aken constituir por contração o termo ken “assim”.",
+      "raw_html": "<span>“Efetivamente” (<em>‘aken</em>). Traduzido como “efetivamente”, e não como “certamente”, dada a possibilidade de <em>‘aken</em> constituir por contração o termo <em>ken</em> “assim”. </span>"
     },
     {
       "ref_id": "fn39-2590",
       "number": 39,
-      "text": "Para “conhecer”, cf. Gênesis 3,5 e nota.",
-      "raw_html": "<span>Para “conhecer”, cf. Gênesis 3,5 e nota. </span>"
+      "text": "“Está”. É a mesma partícula que, no Salmo 53, a quase totalidade das traduções enxerga um “há” (“não há Deus”). Não se flagra o conceito ontológico de “existir” na tradição da Bíblia Hebraica. O sentido é sempre concreto.",
+      "raw_html": "<span>“Está”. É a mesma partícula que, no Salmo 53, a quase totalidade das traduções enxerga um “há” (“não há Deus”). Não se flagra o conceito ontológico de “existir” na tradição da Bíblia Hebraica. O sentido é sempre concreto. </span>"
     },
     {
       "ref_id": "fn40-2590",
       "number": 40,
-      "text": "Mas como ele não sabia, se a tradição faz Abraham ter erguido por ali (Betel) um altar e ter invocado lá o nome da mesmíssima divindade, conforme Gênesis 12,8? Estamos diante de uma etiologia antiga, independente da tradição da Abraão, agora costurada e totalmente amalgamada e inextricável, mas que manteve o curto circuito redacional que agora se pode flagrar? Ou estamos diante de uma narrativa pós-exílica, o antigo território de Israel não está sob a jurisdição teológica de Jerusalém, e a narrativa tem por pretensão domesticar a geografia da região?",
-      "raw_html": "<span>Mas como ele não sabia, se a tradição faz Abraham ter erguido por ali (Betel) um altar e ter invocado lá o nome da mesmíssima divindade, conforme Gênesis 12,8? Estamos diante de uma etiologia antiga, independente da tradição da Abraão, agora costurada e totalmente amalgamada e inextricável, mas que manteve o curto circuito redacional que agora se pode flagrar? Ou estamos diante de uma narrativa pós-exílica, o antigo território de Israel não está sob a jurisdição teológica de Jerusalém, e a narrativa tem por pretensão domesticar a geografia da região? </span>"
+      "text": "Para “conhecer”, cf. Gênesis 3,5 e nota.",
+      "raw_html": "<span>Para “conhecer”, cf. Gênesis 3,5 e nota. </span>"
     },
     {
       "ref_id": "fn41-2590",
       "number": 41,
-      "text": "“Essa”. No texto, zeh (masculino). Mas bayit (“casa”) é de gênero masculino em Hebraico. Logo: “esta (…) a casa de Elohim”.",
-      "raw_html": "<span>“Essa”. No texto, <em>zeh</em> (masculino). Mas <em>bayit</em> (“casa”) é de gênero masculino em Hebraico. Logo: “esta (…) a casa de Elohim”. </span>"
+      "text": "Mas como ele não sabia, se a tradição faz Abraham ter erguido por ali (Betel) um altar e ter invocado lá o nome da mesmíssima divindade, conforme Gênesis 12,8? Estamos diante de uma etiologia antiga, independente da tradição da Abraão, agora costurada e totalmente amalgamada e inextricável, mas que manteve o curto circuito redacional que agora se pode flagrar? Ou estamos diante de uma narrativa pós-exílica, o antigo território de Israel não está sob a jurisdição teológica de Jerusalém, e a narrativa tem por pretensão domesticar a geografia da região?",
+      "raw_html": "<span>Mas como ele não sabia, se a tradição faz Abraham ter erguido por ali (Betel) um altar e ter invocado lá o nome da mesmíssima divindade, conforme Gênesis 12,8? Estamos diante de uma etiologia antiga, independente da tradição da Abraão, agora costurada e totalmente amalgamada e inextricável, mas que manteve o curto circuito redacional que agora se pode flagrar? Ou estamos diante de uma narrativa pós-exílica, o antigo território de Israel não está sob a jurisdição teológica de Jerusalém, e a narrativa tem por pretensão domesticar a geografia da região? </span>"
     },
     {
       "ref_id": "fn42-2590",
       "number": 42,
-      "text": "“Cabeceiras” (mera’ashot). Cf. Gênesis 28,11.18; 1 Samuel 19,13.16; 26,7.11.12.16; 1 Reis 19,6; Jeremias 13,18",
-      "raw_html": "<span>“Cabeceiras” (<em>mera’ashot</em>). Cf. Gênesis 28,11.18; 1 Samuel 19,13.16; 26,7.11.12.16; 1 Reis 19,6; Jeremias 13,18 </span>"
+      "text": "“Essa”. No texto, zeh (masculino). Mas bayit (“casa”) é de gênero masculino em Hebraico. Logo: “esta (…) a casa de Elohim”.",
+      "raw_html": "<span>“Essa”. No texto, <em>zeh</em> (masculino). Mas <em>bayit</em> (“casa”) é de gênero masculino em Hebraico. Logo: “esta (…) a casa de Elohim”. </span>"
     },
     {
       "ref_id": "fn43-2590",
       "number": 43,
-      "text": "“Estela” traduz o termo matstsebah. 2 Reis 18,4 condenará a prática, o que pode sugerir, das duas uma, que o texto seja pré-exílico, já que o próprio Jacó erige um equipamento litúrgico que será futuramente proibido, ou é pós-exílico, mas anterior certamente a 2 Reis 18,4. Seja como for, a prática aqui aparece como totalmente conforme a tradição do narrador, já que não há qualquer insinuação de crítica.",
-      "raw_html": "<span>“Estela” traduz o termo <em>matstsebah</em>. 2 Reis 18,4 condenará a prática, o que pode sugerir, das duas uma, que o texto seja pré-exílico, já que o próprio Jacó erige um equipamento litúrgico que será futuramente proibido, ou é pós-exílico, mas anterior certamente a 2 Reis 18,4. Seja como for, a prática aqui aparece como totalmente conforme a tradição do narrador, já que não há qualquer insinuação de crítica. </span>"
+      "text": "“Cabeceiras” (mera’ashot). Cf. Gênesis 28,11.18; 1 Samuel 19,13.16; 26,7.11.12.16; 1 Reis 19,6; Jeremias 13,18",
+      "raw_html": "<span>“Cabeceiras” (<em>mera’ashot</em>). Cf. Gênesis 28,11.18; 1 Samuel 19,13.16; 26,7.11.12.16; 1 Reis 19,6; Jeremias 13,18 </span>"
     },
     {
       "ref_id": "fn44-2590",
       "number": 44,
-      "text": "“Derrama” traduz forma verbal da raiz ytsq. Cf. Gênesis 35,14; Êxodo 25,12.",
-      "raw_html": "<span>“Derrama” traduz forma verbal da raiz <em>ytsq</em>. Cf. Gênesis 35,14; Êxodo 25,12. </span>"
+      "text": "“Estela” traduz o termo matstsebah. 2 Reis 18,4 condenará a prática, o que pode sugerir, das duas uma, que o texto seja pré-exílico, já que o próprio Jacó erige um equipamento litúrgico que será futuramente proibido, ou é pós-exílico, mas anterior certamente a 2 Reis 18,4. Seja como for, a prática aqui aparece como totalmente conforme a tradição do narrador, já que não há qualquer insinuação de crítica.",
+      "raw_html": "<span>“Estela” traduz o termo <em>matstsebah</em>. 2 Reis 18,4 condenará a prática, o que pode sugerir, das duas uma, que o texto seja pré-exílico, já que o próprio Jacó erige um equipamento litúrgico que será futuramente proibido, ou é pós-exílico, mas anterior certamente a 2 Reis 18,4. Seja como for, a prática aqui aparece como totalmente conforme a tradição do narrador, já que não há qualquer insinuação de crítica. </span>"
     },
     {
       "ref_id": "fn45-2590",
       "number": 45,
-      "text": "“Óleo” (shemem). É a mesma raiz que os massoretas vocalizaram como shaman em Gênesis 27,28.39. Para manter a distinção, “óleo”.",
-      "raw_html": "<span>“Óleo” (<em>shemem</em>). É a mesma raiz que os massoretas vocalizaram como <em>shaman</em> em Gênesis 27,28.39. Para manter a distinção, “óleo”. </span>"
+      "text": "“Derrama” traduz forma verbal da raiz ytsq. Cf. Gênesis 35,14; Êxodo 25,12.",
+      "raw_html": "<span>“Derrama” traduz forma verbal da raiz <em>ytsq</em>. Cf. Gênesis 35,14; Êxodo 25,12. </span>"
     },
     {
       "ref_id": "fn46-2590",
       "number": 46,
-      "text": "“E grita ele o nome do lugar aquele” (wayyiqra’ ‘et-shem-hammaqom hahu’). Aqui e em Números 11,34.",
-      "raw_html": "<span>“E grita ele o nome do lugar aquele” (<em>wayyiqra’ ‘et-shem-hammaqom hahu’</em>). Aqui e em Números 11,34. </span>"
+      "text": "“Óleo” (shemem). É a mesma raiz que os massoretas vocalizaram como shaman em Gênesis 27,28.39. Para manter a distinção, “óleo”.",
+      "raw_html": "<span>“Óleo” (<em>shemem</em>). É a mesma raiz que os massoretas vocalizaram como <em>shaman</em> em Gênesis 27,28.39. Para manter a distinção, “óleo”. </span>"
     },
     {
       "ref_id": "fn47-2590",
       "number": 47,
-      "text": "“Bet-‘El” (bet-‘el).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHH\" rel=\"noopener\" target=\"_blank\">Bet-‘El</a>” (<em>bet-‘el</em>). </span>"
+      "text": "“E grita ele o nome do lugar aquele” (wayyiqra’ ‘et-shem-hammaqom hahu’). Aqui e em Números 11,34.",
+      "raw_html": "<span>“E grita ele o nome do lugar aquele” (<em>wayyiqra’ ‘et-shem-hammaqom hahu’</em>). Aqui e em Números 11,34. </span>"
     },
     {
       "ref_id": "fn48-2590",
       "number": 48,
-      "text": "“E porém” (we’ulam). Primeira de 18 ocorrências. Cf. Gênesis 48,19; Êxodo 9,16; Números 14,21.",
-      "raw_html": "<span>“E porém” (<em>we’ulam</em>). Primeira de 18 ocorrências. Cf. Gênesis 48,19; Êxodo 9,16; Números 14,21. </span>"
+      "text": "“Bet-‘El” (bet-‘el).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHH\" rel=\"noopener\" target=\"_blank\">Bet-‘El</a>” (<em>bet-‘el</em>). </span>"
     },
     {
       "ref_id": "fn49-2590",
       "number": 49,
-      "text": "Não há nenhuma relação entre “Luz”, nome da cidade, e “luz”, palavra da língua portuguesa.",
-      "raw_html": "<span>Não há nenhuma relação entre “Luz”, nome da cidade, e “luz”, palavra da língua portuguesa. </span>"
+      "text": "“E porém” (we’ulam). Primeira de 18 ocorrências. Cf. Gênesis 48,19; Êxodo 9,16; Números 14,21.",
+      "raw_html": "<span>“E porém” (<em>we’ulam</em>). Primeira de 18 ocorrências. Cf. Gênesis 48,19; Êxodo 9,16; Números 14,21. </span>"
     },
     {
       "ref_id": "fn50-2590",
       "number": 50,
-      "text": "“Começo” (ri’shonah). Cf. Gênesis 8,13.",
-      "raw_html": "<span>“Começo” (<em>ri’shonah</em>). Cf. Gênesis 8,13. </span>"
+      "text": "Não há nenhuma relação entre “Luz”, nome da cidade, e “luz”, palavra da língua portuguesa.",
+      "raw_html": "<span>Não há nenhuma relação entre “Luz”, nome da cidade, e “luz”, palavra da língua portuguesa. </span>"
     },
     {
       "ref_id": "fn51-2590",
       "number": 51,
-      "text": "“Vota” traduz forma verbal da raiz ndr. Primeira de 66 ocorrências. Cf. Gênesis 28,20; 31,13; Levítico 7,16.",
-      "raw_html": "<span>“Vota” traduz forma verbal da raiz <em>ndr</em>. Primeira de 66 ocorrências. Cf. Gênesis 28,20; 31,13; Levítico 7,16. </span>"
+      "text": "“Começo” (ri’shonah). Cf. Gênesis 8,13.",
+      "raw_html": "<span>“Começo” (<em>ri’shonah</em>). Cf. Gênesis 8,13. </span>"
     },
     {
       "ref_id": "fn52-2590",
       "number": 52,
-      "text": "“Voto”. Cf. nota anterior.",
-      "raw_html": "<span>“Voto”. Cf. nota anterior. </span>"
+      "text": "“Vota” traduz forma verbal da raiz ndr. Primeira de 66 ocorrências. Cf. Gênesis 28,20; 31,13; Levítico 7,16.",
+      "raw_html": "<span>“Vota” traduz forma verbal da raiz <em>ndr</em>. Primeira de 66 ocorrências. Cf. Gênesis 28,20; 31,13; Levítico 7,16. </span>"
     },
     {
       "ref_id": "fn53-2590",
       "number": 53,
-      "text": "“Se está” (‘im-yihyeh. Primeira de 11 ocorrências. Cf. Gênesis 28,20; Números 12,6.",
-      "raw_html": "<span>“Se está” (<em>‘im-yihyeh</em>. Primeira de 11 ocorrências. Cf. Gênesis 28,20; Números 12,6. </span>"
+      "text": "“Voto”. Cf. nota anterior.",
+      "raw_html": "<span>“Voto”. Cf. nota anterior. </span>"
     },
     {
       "ref_id": "fn54-2590",
       "number": 54,
-      "text": "“‘Deus ‘Elohim” (‘elohim ‘immadi). Somente em Gênesis 28,20; Deuteronômio 32,39.",
-      "raw_html": "<span>“‘Deus ‘Elohim” (<em>‘elohim ‘immadi</em>). Somente em Gênesis 28,20; Deuteronômio 32,39. </span>"
+      "text": "“Se está” (‘im-yihyeh). Primeira de 11 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0625\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0625\" rel=\"noopener\" target=\"_blank\">Se está</a>” (<em>‘im-yihyeh</em>). Primeira de 11 ocorrências. </span>"
     },
     {
       "ref_id": "fn55-2590",
       "number": 55,
-      "text": "“No caminho esse” (badderek hazzeh). Somente em Gênesis 28,20; Deuteronômio 17,16.",
-      "raw_html": "<span>“No caminho esse” (<em>badderek hazzeh</em>). Somente em Gênesis 28,20; Deuteronômio 17,16. </span>"
+      "text": "“‘Deus ‘Elohim” (‘elohim ‘immadi). Somente em Gênesis 28,20; Deuteronômio 32,39.",
+      "raw_html": "<span>“‘Deus ‘Elohim” (<em>‘elohim ‘immadi</em>). Somente em Gênesis 28,20; Deuteronômio 32,39. </span>"
     },
     {
       "ref_id": "fn56-2590",
       "number": 56,
-      "text": "“Veste” (beged). Cf. Gênesis 24,53; 27,27; 37,29.",
-      "raw_html": "<span>“Veste” (<em>beged</em>). Cf. Gênesis 24,53; 27,27; 37,29. </span>"
+      "text": "“No caminho esse” (badderek hazzeh). Somente em Gênesis 28,20; Deuteronômio 17,16.",
+      "raw_html": "<span>“No caminho esse” (<em>badderek hazzeh</em>). Somente em Gênesis 28,20; Deuteronômio 17,16. </span>"
     },
     {
       "ref_id": "fn57-2590",
       "number": 57,
-      "text": "Também não há semelhança sonora entre beged (“veste”) e lebosh (“enroupar”). Cf. Gênesis 3,21 (e nota); 27,15.16.",
-      "raw_html": "<span>Também não há semelhança sonora entre <em>beged</em> (“veste”) e <em>lebosh</em> (“enroupar”). Cf. Gênesis 3,21 (e nota); 27,15.16. </span>"
+      "text": "“Veste” (beged). Cf. Gênesis 24,53; 27,27; 37,29.",
+      "raw_html": "<span>“Veste” (<em>beged</em>). Cf. Gênesis 24,53; 27,27; 37,29. </span>"
     },
     {
       "ref_id": "fn58-2590",
       "number": 58,
-      "text": "“Ao lar do” (‘el-bet).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADM\" rel=\"noreferrer noopener\" target=\"_blank\">Ao lar do</a>” (<em>‘el-bet</em>). </span>"
+      "text": "Também não há semelhança sonora entre beged (“veste”) e lebosh (“enroupar”). Cf. Gênesis 3,21 (e nota); 27,15.16.",
+      "raw_html": "<span>Também não há semelhança sonora entre <em>beged</em> (“veste”) e <em>lebosh</em> (“enroupar”). Cf. Gênesis 3,21 (e nota); 27,15.16. </span>"
     },
     {
       "ref_id": "fn59-2590",
       "number": 59,
-      "text": "Gramaticalmente, o sentido é “Yahweh servirá de deus para mim”. No texto, le’lohim poderia tanto ser tratado como nome próprio (não leva artigo definido), como substantivo comum. Esta é a opção: Yahweh será um deus para Jacó, diz o narrador.",
-      "raw_html": "<span>Gramaticalmente, o sentido é “Yahweh servirá de deus para mim”. No texto, <em>le’lohim</em> poderia tanto ser tratado como nome próprio (não leva artigo definido), como substantivo comum. Esta é a opção: Yahweh será um deus para Jacó, diz o narrador. </span>"
+      "text": "“Ao lar do” (‘el-bet).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADM\" rel=\"noreferrer noopener\" target=\"_blank\">Ao lar do</a>” (<em>‘el-bet</em>). </span>"
     },
     {
       "ref_id": "fn60-2590",
       "number": 60,
-      "text": "“Dizimar” traduz forma infinitiva da raiz ‘sr. Primeira de 8 ocorrências. Cf. Gênesis 28,22; Deuteronômio 14,22; 26,12.",
-      "raw_html": "<span>“Dizimar” traduz forma infinitiva da raiz <em>‘sr</em>. Primeira de 8 ocorrências. Cf. Gênesis 28,22; Deuteronômio 14,22; 26,12. </span>"
+      "text": "Gramaticalmente, o sentido é “Yahweh servirá de deus para mim”. No texto, le’lohim poderia tanto ser tratado como nome próprio (não leva artigo definido), como substantivo comum. Esta é a opção: Yahweh será um deus para Jacó, diz o narrador.",
+      "raw_html": "<span>Gramaticalmente, o sentido é “Yahweh servirá de deus para mim”. No texto, <em>le’lohim</em> poderia tanto ser tratado como nome próprio (não leva artigo definido), como substantivo comum. Esta é a opção: Yahweh será um deus para Jacó, diz o narrador. </span>"
     },
     {
       "ref_id": "fn61-2590",
       "number": 61,
+      "text": "“Dizimar” traduz forma infinitiva da raiz ‘sr. Primeira de 8 ocorrências. Cf. Gênesis 28,22; Deuteronômio 14,22; 26,12.",
+      "raw_html": "<span>“Dizimar” traduz forma infinitiva da raiz <em>‘sr</em>. Primeira de 8 ocorrências. Cf. Gênesis 28,22; Deuteronômio 14,22; 26,12. </span>"
+    },
+    {
+      "ref_id": "fn62-2590",
+      "number": 62,
       "text": "Aqui temos uma pista potencial para a datação do texto. Se não se trata de uma glosa, deve-se considerar que a referência ao dízimo a “Betel” seja uma cooptação da tradição de Jacó para a prática de dízimos ao templo de Jerusalém. Pode-se assumir que não havia prática de dízimo em Israel, porque o templo era mantido pelos impostos reais. A prática parece ter sido criada pelos sacerdotes de Jerusalém, para diferenciar os impostos aos imperadores (persas, gregos, romanos) e os recursos para o templo. Se a análise estiver correta, o texto não pode ser pré-exílico, ou esse trecho constitui uma glosa. O “ti” também chama atenção, já que no texto a divindade aparece como terceira pessoa: tudo que ele, o deus, me der. O que isso quer dizer?",
       "raw_html": "<span>Aqui temos uma pista potencial para a datação do texto. Se não se trata de uma glosa, deve-se considerar que a referência ao dízimo a “Betel” seja uma cooptação da tradição de Jacó para a prática de dízimos ao templo de Jerusalém. Pode-se assumir que não havia prática de dízimo em Israel, porque o templo era mantido pelos impostos reais. A prática parece ter sido criada pelos sacerdotes de Jerusalém, para diferenciar os impostos aos imperadores (persas, gregos, romanos) e os recursos para o templo. Se a análise estiver correta, o texto não pode ser pré-exílico, ou esse trecho constitui uma glosa. O “ti” também chama atenção, já que no texto a divindade aparece como terceira pessoa: tudo que ele, o deus, me der. O que isso quer dizer? </span>"
     }

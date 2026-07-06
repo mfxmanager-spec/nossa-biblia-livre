@@ -288,7 +288,7 @@
     },
     {
       "number": 7,
-      "text": "Não torneis para dar palha para o povo para tijolar os tijoloscomo ontem e anteontem. Que eles caminhem! E que eles providenciempara eles palha!",
+      "text": "Não torneis para dar palha para o povo para tijolar os tijoloscomo ontem e anteontem. Que eles caminhem! E que eles catempara eles palha.",
       "lines": [
         {
           "line_index": 0,
@@ -302,8 +302,8 @@
         },
         {
           "line_index": 2,
-          "text": "E que eles providenciempara eles palha!",
-          "raw_html": "<p class=\"wp-block-paragraph\">E que eles providenciem<a name=\"rf22-4352\"></a><sup><a href=\"#fn22-4352\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup>para eles palha! </p>"
+          "text": "E que eles catempara eles palha.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E que eles catem<a name=\"rf22-4352\"></a><sup><a href=\"#fn22-4352\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup>para eles palha.</p>"
         }
       ]
     },
@@ -1069,8 +1069,8 @@
     {
       "ref_id": "fn22-4352",
       "number": 22,
-      "text": "“Providenciem” traduz a forma intensiva de qshsh. O povo deve ele mesmo recolher palha para o trabalho.",
-      "raw_html": "<span>“Providenciem” traduz a forma intensiva de <em>qshsh</em>. O povo deve ele mesmo recolher palha para o trabalho. </span>"
+      "text": "“Catem” traduz a forma intensiva de qshsh. O povo deve ele mesmo recolher palha para o trabalho.",
+      "raw_html": "<span>“Catem” traduz a forma intensiva de <em>qshsh</em>. O povo deve ele mesmo recolher palha para o trabalho. </span>"
     },
     {
       "ref_id": "fn23-4352",
