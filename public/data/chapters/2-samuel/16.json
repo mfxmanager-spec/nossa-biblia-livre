@@ -1409,7 +1409,7 @@
         {
           "line_index": 6,
           "text": "No falado do ‘elohim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No falado do<a name=\"rf154-29251\"></a><sup><a href=\"#fn154-29251\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup> <em>‘elohim</em>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No falado do<a name=\"rf154-29251\"></a><sup><a href=\"#fn154-29251\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup><a name=\"rf155-29251\"></a><sup><a href=\"#fn155-29251\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup> <em>‘elohim</em>.</p>"
         },
         {
           "line_index": 7,
@@ -1419,7 +1419,7 @@
         {
           "line_index": 8,
           "text": "O total da opinião de ‘Ahitopel.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O total da<a name=\"rf155-29251\"></a><sup><a href=\"#fn155-29251\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup> opinião de ‘Ahitopel.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O total da<a name=\"rf156-29251\"></a><sup><a href=\"#fn156-29251\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup> opinião de ‘Ahitopel.</p>"
         },
         {
           "line_index": 9,
@@ -2362,6 +2362,12 @@
     {
       "ref_id": "fn155-29251",
       "number": 155,
+      "text": "“O falado do” (dabar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0554\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">O falado do</a>” (<em>dabar</em>). </span>"
+    },
+    {
+      "ref_id": "fn156-29251",
+      "number": 156,
       "text": "“O total da” (kol).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJD\" rel=\"noopener\" target=\"_blank\">O total da</a>” (<em>kol</em>). </span>"
     }

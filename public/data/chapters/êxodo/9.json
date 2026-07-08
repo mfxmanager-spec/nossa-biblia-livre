@@ -1239,7 +1239,7 @@
     },
     {
       "number": 33,
-      "text": "E sai Mosheh. Desde com faraó. Com a cidade. E estiraele as palmas delea Yahweh. E cessam as vozes e o granizo. E o chuvaréunão derramana terra.",
+      "text": "E sai Mosheh. Desde com faraó. Com a cidade. E estiraele as palmas delea Yahweh. E cessam as vozes e o granizo. E chuvaréu. Não derrama ele. Na terra.",
       "lines": [
         {
           "line_index": 0,
@@ -1268,32 +1268,67 @@
         },
         {
           "line_index": 5,
-          "text": "E o chuvaréunão derramana terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o chuvaréu<a name=\"rf133-4696\"></a><sup><a href=\"#fn133-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>não derrama<a name=\"rf134-4696\"></a><sup><a href=\"#fn134-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>na terra.</p>"
+          "text": "E chuvaréu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E chuvaréu<a name=\"rf133-4696\"></a><sup><a href=\"#fn133-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup><a name=\"rf134-4696\"></a><sup><a href=\"#fn134-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Não derrama ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não derrama ele<a name=\"rf135-4696\"></a><sup><a href=\"#fn135-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
+        },
+        {
+          "line_index": 7,
+          "text": "Na terra.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Na terra.</p>"
         }
       ]
     },
     {
       "number": 34,
-      "text": "E vê faraó que cessaa chuva e o granizo e as vozes. E ele torna para pecar. E ele faz pesado o coração dele. Ele e os servos dele.",
+      "text": "E vê par’oh. Que cessa. O chuvaréu. O granizo. E as vozes. E torna ele. Para pecar. E ele faz pesado o coração dele. Ele e os servos dele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E vê faraó que cessaa chuva e o granizo e as vozes.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E vê faraó que cessa<a name=\"rf135-4696\"></a><sup><a href=\"#fn135-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>a chuva e o granizo e as vozes.</p>"
+          "text": "E vê par’oh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E vê <em>par’oh.</em></p>"
         },
         {
           "line_index": 1,
-          "text": "E ele torna para pecar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele torna para pecar. </p>"
+          "text": "Que cessa.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que cessa<a name=\"rf136-4696\"></a><sup><a href=\"#fn136-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
         },
         {
           "line_index": 2,
+          "text": "O chuvaréu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O chuvaréu<a name=\"rf137-4696\"></a><sup><a href=\"#fn137-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "O granizo.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O granizo.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "E as vozes.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E as vozes.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "E torna ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E torna ele.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Para pecar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para pecar.</p>"
+        },
+        {
+          "line_index": 7,
           "text": "E ele faz pesado o coração dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E ele faz pesado o coração dele. </p>"
         },
         {
-          "line_index": 3,
+          "line_index": 8,
           "text": "Ele e os servos dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Ele e os servos dele. </p>"
         }
@@ -1316,7 +1351,7 @@
         {
           "line_index": 2,
           "text": "Conforme que fala Yahweh namão de Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que fala Yahweh na<a name=\"rf136-4696\"></a><sup><a href=\"#fn136-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>mão de Mosheh<a name=\"rf137-4696\"></a><sup><a href=\"#fn137-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que fala Yahweh na<a name=\"rf138-4696\"></a><sup><a href=\"#fn138-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup>mão de Mosheh<a name=\"rf139-4696\"></a><sup><a href=\"#fn139-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
         }
       ]
     }
@@ -2117,30 +2152,42 @@
     {
       "ref_id": "fn133-4696",
       "number": 133,
-      "text": "“Chuvaréu” (matar). A tradução usual é “chuva”. Imponho-me “chuvaréu” para manter a equivalência de gênero. Primeira de 36 ocorrências. Cf. Êxodo 9,33.34; Deuteronômio 11,11.14.17.",
-      "raw_html": "<span>“Chuvaréu” (<em>matar</em>). A tradução usual é “chuva”. Imponho-me “chuvaréu” para manter a equivalência de gênero. Primeira de 36 ocorrências. Cf. Êxodo 9,33.34; Deuteronômio 11,11.14.17. </span>"
+      "text": "“E chuvaréu” (umatar). Primeira de 4 ocorrências. Para a tradução, cf. a nota seguinte.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0703\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0703\" rel=\"noopener\" target=\"_blank\">E chuvaréu</a>” (<em>umatar</em>). Primeira de 4 ocorrências. Para a tradução, cf. a nota seguinte. </span>"
     },
     {
       "ref_id": "fn134-4696",
       "number": 134,
-      "text": "“Derrama” traduz forma verbal da raiz ntk. Primeira de 19 ocorrências.",
-      "raw_html": "<span>“Derrama” traduz forma verbal da raiz <em>ntk</em>. Primeira de 19 ocorrências. </span>"
+      "text": "“Chuvaréu” (matar). Primeira de 36 ocorrências. Normalmente, traduz-se “chuva”. A tradução “chuvaréu” presta-se à adequação de gênero.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0704\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0704\" rel=\"noopener\" target=\"_blank\">Chuvaréu</a>” (<em>matar</em>). Primeira de 36 ocorrências. Normalmente, traduz-se “chuva”. A tradução “chuvaréu” presta-se à adequação de gênero. </span>"
     },
     {
       "ref_id": "fn135-4696",
       "number": 135,
-      "text": "“Para”, forma singular da raiz hdl.",
-      "raw_html": "<span>“Para”, forma singular da raiz <em>hdl</em>. </span>"
+      "text": "“Derrama” traduz forma verbal da raiz ntk. Primeira de 19 ocorrências.",
+      "raw_html": "<span>“Derrama” traduz forma verbal da raiz <em>ntk</em>. Primeira de 19 ocorrências. </span>"
     },
     {
       "ref_id": "fn136-4696",
       "number": 136,
-      "text": "“Na mão de” (be’yad), ou seja, “pela mão de”.",
-      "raw_html": "<span>“Na mão de” (<em>be’yad</em>), ou seja, “pela mão de”. </span>"
+      "text": "“Para”, forma singular da raiz hdl.",
+      "raw_html": "<span>“Para”, forma singular da raiz <em>hdl</em>. </span>"
     },
     {
       "ref_id": "fn137-4696",
       "number": 137,
+      "text": "“Chuvaréu” (matar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0704\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0704\" rel=\"noopener\" target=\"_blank\">Chuvaréu</a>” (<em>matar</em>). </span>"
+    },
+    {
+      "ref_id": "fn138-4696",
+      "number": 138,
+      "text": "“Na mão de” (be’yad), ou seja, “pela mão de”.",
+      "raw_html": "<span>“Na mão de” (<em>be’yad</em>), ou seja, “pela mão de”. </span>"
+    },
+    {
+      "ref_id": "fn139-4696",
+      "number": 139,
       "text": "Conforme que fala Yahweh na mão de Mosheh” (ka’asher dibber yehwah beyad-mosheh). Aqui e em Números 17,5; 27,23.",
       "raw_html": "<span>Conforme que fala Yahweh na mão de Mosheh” (<em>ka’asher dibber yehwah beyad-mosheh</em>). Aqui e em Números 17,5; 27,23. </span>"
     }
