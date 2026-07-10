@@ -588,12 +588,12 @@
         {
           "line_index": 3,
           "text": "A terceira.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A terceira<a name=\"rf139-15894\"></a><sup><a href=\"#fn139-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup><a name=\"rf140-15894\"></a><sup><a href=\"#fn140-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A terceira<a name=\"rf139-15894\"></a><sup><a href=\"#fn139-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup><a name=\"rf140-15894\"></a><sup><a href=\"#fn140-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup><a name=\"rf141-15894\"></a><sup><a href=\"#fn141-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "A mudança do dízimo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A mudança<a name=\"rf141-15894\"></a><sup><a href=\"#fn141-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup> do dízimo<a name=\"rf142-15894\"></a><sup><a href=\"#fn142-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup><a name=\"rf143-15894\"></a><sup><a href=\"#fn143-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A mudança do dízimo<a name=\"rf142-15894\"></a><sup><a href=\"#fn142-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup><a name=\"rf143-15894\"></a><sup><a href=\"#fn143-15894\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1913,14 +1913,14 @@
     {
       "ref_id": "fn140-15894",
       "number": 140,
-      "text": "“Terceira” (shelishit). Cf. Gênesis 1,13.",
-      "raw_html": "<span>“Terceira” (<em>shelishit</em>). Cf. Gênesis 1,13. </span>"
+      "text": "“A terceira” (hashshelishit). Primeira de 12 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0810\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0810\" rel=\"noopener\" target=\"_blank\">A terceira</a>” (<em>hashshelishit</em>). Primeira de 12 ocorrências. </span>"
     },
     {
       "ref_id": "fn141-15894",
       "number": 141,
-      "text": "“Mudança” (shanah). Cf. acima.",
-      "raw_html": "<span>“Mudança” (<em>shanah</em>). Cf. acima. </span>"
+      "text": "“Terceira” (shelisht).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0811\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0811\" rel=\"noopener\" target=\"_blank\">Terceira</a>” (<em>shelisht</em>). </span>"
     },
     {
       "ref_id": "fn142-15894",
