@@ -726,7 +726,7 @@
     },
     {
       "number": 20,
-      "text": "Yehudah. E Yisra’el. Múltiplos. Conforme a areia. Que sobre o mar. Para multitude. Comedores. Bebedores. E alegres.",
+      "text": "Yehudah. E Yisra’el. Numerosos. Conforme a areia. Que sobre o mar. Para multitude. Comedores. Bebedores. E alegres.",
       "lines": [
         {
           "line_index": 0,
@@ -740,8 +740,8 @@
         },
         {
           "line_index": 2,
-          "text": "Múltiplos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Múltiplos<a name=\"rf95-30384\"></a><sup><a href=\"#fn95-30384\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup><a name=\"rf96-30384\"></a><sup><a href=\"#fn96-30384\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
+          "text": "Numerosos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Numerosos.</p>"
         },
         {
           "line_index": 3,
@@ -751,7 +751,7 @@
         {
           "line_index": 4,
           "text": "Que sobre o mar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre<a name=\"rf97-30384\"></a><sup><a href=\"#fn97-30384\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup> o mar.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre<a name=\"rf95-30384\"></a><sup><a href=\"#fn95-30384\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup> o mar.</p>"
         },
         {
           "line_index": 5,
@@ -1344,18 +1344,6 @@
     {
       "ref_id": "fn95-30384",
       "number": 95,
-      "text": "“Múltiplos” (rab).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0801\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0801\" rel=\"noopener\" target=\"_blank\">Múltiplos</a>” (<em>rab</em>). </span>"
-    },
-    {
-      "ref_id": "fn96-30384",
-      "number": 96,
-      "text": "“Múltiplos (rabbim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0804\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0804\" rel=\"noopener\" target=\"_blank\">Múltiplos</a> (<em>rabbim</em>). </span>"
-    },
-    {
-      "ref_id": "fn97-30384",
-      "number": 97,
       "text": "“Sobre” (‘al).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAALM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALM\" rel=\"noopener\" target=\"_blank\">Sobre</a>” (<em>‘al</em>). </span>"
     }

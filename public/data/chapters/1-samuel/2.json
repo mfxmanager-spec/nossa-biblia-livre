@@ -176,7 +176,7 @@
     },
     {
       "number": 5,
-      "text": "Os saciados no pão. Pagos estão eles. E famintos cessam. Até estéril. Para ela sete. E múltipla de filhos. Definhada está ela.",
+      "text": "Os saciados no pão. Pagos estão eles. E famintos cessam. Até estéril. Para ela sete. E numerosa de filhos. Definhada está ela.",
       "lines": [
         {
           "line_index": 0,
@@ -205,8 +205,8 @@
         },
         {
           "line_index": 5,
-          "text": "E múltipla de filhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E múltipla de<a name=\"rf41-20898\"></a><sup><a href=\"#fn41-20898\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> filhos<a name=\"rf42-20898\"></a><sup><a href=\"#fn42-20898\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
+          "text": "E numerosa de filhos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E numerosa<a name=\"rf41-20898\"></a><sup><a href=\"#fn41-20898\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> de filhos<a name=\"rf42-20898\"></a><sup><a href=\"#fn42-20898\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -2196,8 +2196,8 @@
     {
       "ref_id": "fn41-20898",
       "number": 41,
-      "text": "“Múltipla de” (rab).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0801\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0801\" rel=\"noopener\" target=\"_blank\">Múltipla de</a>” (<em>rab</em>). </span>"
+      "text": "“Numerosa” (rab). Cf. Gênesis 6,5; 1 Samuel 2,5; 12,17; 14,6.19; 26,13.",
+      "raw_html": "<span>“Numerosa” (<em>rab</em>). Cf. Gênesis 6,5; 1 Samuel 2,5; 12,17; 14,6.19; 26,13. </span>"
     },
     {
       "ref_id": "fn42-20898",
