@@ -1109,7 +1109,7 @@
     },
     {
       "number": 28,
-      "text": "E estabelece ele Yisra’el. Seguro. Separado. A fonte de Ya’aqob. A terra de cereal. E mosto. Mesmo os céus dele. Gotejam eles orvalho.",
+      "text": "E estabelece ele Yisra’el. Seguro. Separado. A fonte de Ya’aqob. A terra de cereal. E mosto. Mesmo os céus dele. Gotejam orvalho.",
       "lines": [
         {
           "line_index": 0,
@@ -1148,8 +1148,8 @@
         },
         {
           "line_index": 7,
-          "text": "Gotejam eles orvalho.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Gotejam eles orvalho<a name=\"rf202-17242\"></a><sup><a href=\"#fn202-17242\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 202\">202</a></sup>.</p>"
+          "text": "Gotejam orvalho.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Gotejam orvalho.</p>"
         }
       ]
     },
@@ -1170,7 +1170,7 @@
         {
           "line_index": 2,
           "text": "Quem conforme tu?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quem conforme tu<a name=\"rf203-17242\"></a><sup><a href=\"#fn203-17242\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 203\">203</a></sup>?</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quem conforme tu<a name=\"rf202-17242\"></a><sup><a href=\"#fn202-17242\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 202\">202</a></sup>?</p>"
         },
         {
           "line_index": 3,
@@ -2120,8 +2120,8 @@
     {
       "ref_id": "fn152-17242",
       "number": 152,
-      "text": "“Orvalho” (tal).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0702\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0702\" rel=\"noopener\" target=\"_blank\">Orvalho</a>” (<em>tal</em>). </span>"
+      "text": "“Orvalho” (tal). Cf. Gênesis 27,28.",
+      "raw_html": "<span>“Orvalho” (<em>tal</em>). Cf. Gênesis 27,28. </span>"
     },
     {
       "ref_id": "fn153-17242",
@@ -2420,12 +2420,6 @@
     {
       "ref_id": "fn202-17242",
       "number": 202,
-      "text": "“Orvalho” (tal).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0702\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0702\" rel=\"noopener\" target=\"_blank\">Orvalho</a>” (<em>tal</em>). </span>"
-    },
-    {
-      "ref_id": "fn203-17242",
-      "number": 203,
       "text": "“Quem conforme tu” (mi kamoka). Primeira de 5 ocorrências. Cf. Deuteronômio 33,29; 1 Samuel 26;15; Salmos 35,10; 71,19; 89,9.",
       "raw_html": "<span>“Quem conforme tu” (<em>mi kamoka</em>). Primeira de 5 ocorrências. Cf. Deuteronômio 33,29; 1 Samuel 26;15; Salmos 35,10; 71,19; 89,9. </span>"
     }

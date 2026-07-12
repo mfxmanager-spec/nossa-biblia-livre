@@ -371,7 +371,7 @@
     },
     {
       "number": 10,
-      "text": "E total de estranho não comesacralidade. Assentário de sacerdote. E pago. Não come ele sacralidade.",
+      "text": "E total de estranho não comesacralidade. Assentandode sacerdote. E pago. Não come ele sacralidade.",
       "lines": [
         {
           "line_index": 0,
@@ -380,8 +380,8 @@
         },
         {
           "line_index": 1,
-          "text": "Assentário de sacerdote.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Assentário de<a name=\"rf91-9286\"></a><sup><a href=\"#fn91-9286\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup> sacerdote<a name=\"rf92-9286\"></a><sup><a href=\"#fn92-9286\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
+          "text": "Assentandode sacerdote.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Assentando<a name=\"rf91-9286\"></a><sup><a href=\"#fn91-9286\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>de sacerdote<a name=\"rf92-9286\"></a><sup><a href=\"#fn92-9286\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1743,8 +1743,8 @@
     {
       "ref_id": "fn91-9286",
       "number": 91,
-      "text": "“Assentário de” (toshab). “Que se assenta”.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0609\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0609\" rel=\"noopener\" target=\"_blank\">Assentário de</a>” (<em>toshab</em>). “Que se assenta”. </span>"
+      "text": "“Assentando” (toshab). Cf. Gênesis 23,4 (e nota); Êxodo 12,45.",
+      "raw_html": "<span>“Assentando” (<em>toshab</em>). Cf. Gênesis 23,4 (e nota); Êxodo 12,45. </span>"
     },
     {
       "ref_id": "fn92-9286",

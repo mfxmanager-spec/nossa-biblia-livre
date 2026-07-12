@@ -1137,7 +1137,7 @@
     },
     {
       "number": 31,
-      "text": "E vê ‘Elohim. Total. Que faz ele. E eis. Bom. Muito. E está tarde. E está manhã. O dia do sexto.",
+      "text": "E vê ‘Elohim. Total que faz ele. E eis. Bom. Muito. E está tarde. E está manhã. O dia do sexto.",
       "lines": [
         {
           "line_index": 0,
@@ -1146,41 +1146,36 @@
         },
         {
           "line_index": 1,
-          "text": "Total.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Total<a name=\"rf175-1048\"></a><sup><a href=\"#fn175-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup>.</p>"
+          "text": "Total que faz ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Total<a name=\"rf175-1048\"></a><sup><a href=\"#fn175-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup> que<a name=\"rf176-1048\"></a><sup><a href=\"#fn176-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup> faz ele<a name=\"rf177-1048\"></a><sup><a href=\"#fn177-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "Que faz ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf176-1048\"></a><sup><a href=\"#fn176-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup> faz ele<a name=\"rf177-1048\"></a><sup><a href=\"#fn177-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
-        },
-        {
-          "line_index": 3,
           "text": "E eis.",
           "raw_html": "<p class=\"wp-block-paragraph\">E eis.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 3,
           "text": "Bom.",
           "raw_html": "<p class=\"wp-block-paragraph\">Bom<a name=\"rf178-1048\"></a><sup><a href=\"#fn178-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 4,
           "text": "Muito.",
           "raw_html": "<p class=\"wp-block-paragraph\">Muito<a name=\"rf179-1048\"></a><sup><a href=\"#fn179-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 5,
           "text": "E está tarde.",
           "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf180-1048\"></a><sup><a href=\"#fn180-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup> tarde.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 6,
           "text": "E está manhã.",
           "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf181-1048\"></a><sup><a href=\"#fn181-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup> manhã.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 7,
           "text": "O dia do sexto.",
           "raw_html": "<p class=\"wp-block-paragraph\">O dia do sexto<a name=\"rf182-1048\"></a><sup><a href=\"#fn182-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup><a name=\"rf183-1048\"></a><sup><a href=\"#fn183-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup>.</p>"
         }
@@ -2247,8 +2242,8 @@
     {
       "ref_id": "fn177-1048",
       "number": 177,
-      "text": "“Total. Que faz ele” (‘et-kol-‘asher ‘asah). Primeira de 10 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0835\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0835\" rel=\"noopener\" target=\"_blank\">Total. Que faz ele</a>” (<em>‘et-kol-‘asher ‘asah</em>). Primeira de 10 ocorrências. </span>"
+      "text": "“Total que faz ele” (‘et kol-‘asher-‘asah). Primeira de 10 ocorrências. Cf. Gênesis 1,31; Êxodo 18,1.8; Números 22,2.",
+      "raw_html": "<span>“Total que faz ele” (<em>‘et kol-‘asher-‘asah</em>). Primeira de 10 ocorrências. Cf. Gênesis 1,31; Êxodo 18,1.8; Números 22,2. </span>"
     },
     {
       "ref_id": "fn178-1048",

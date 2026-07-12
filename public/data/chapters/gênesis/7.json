@@ -453,12 +453,12 @@
     },
     {
       "number": 12,
-      "text": "E está o plúvio. Sobre a terra. Quarenta dia. E quarenta noite.",
+      "text": "E está a chuva. Sobre a terra. Quarenta dia. E quarenta noite.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E está o plúvio.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf73-1434\"></a><sup><a href=\"#fn73-1434\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup> o plúvio<a name=\"rf74-1434\"></a><sup><a href=\"#fn74-1434\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
+          "text": "E está a chuva.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf73-1434\"></a><sup><a href=\"#fn73-1434\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup> a chuva<a name=\"rf74-1434\"></a><sup><a href=\"#fn74-1434\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1412,8 +1412,8 @@
     {
       "ref_id": "fn74-1434",
       "number": 74,
-      "text": "“Plúvio” (geshem). Primeira de 33 ocorrências. Cf. Gênesis 7,12; 8,2; Levítico 26,4.",
-      "raw_html": "<span>“Plúvio” (<em>geshem</em>). Primeira de 33 ocorrências. Cf. Gênesis 7,12; 8,2; Levítico 26,4. </span>"
+      "text": "“Chuva” (geshem). Primeira de 33 ocorrências. Cf. Gênesis 7,12; 8,2; Levítico 26,4.",
+      "raw_html": "<span>“Chuva” (<em>geshem</em>). Primeira de 33 ocorrências. Cf. Gênesis 7,12; 8,2; Levítico 26,4. </span>"
     },
     {
       "ref_id": "fn75-1434",

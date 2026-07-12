@@ -161,7 +161,7 @@
     },
     {
       "number": 5,
-      "text": "Bode de cabras. Um. Pecação. Para encobrimento sobre vós.",
+      "text": "Bode de cabras. Um. Pecado. Para encobrimento sobre vós.",
       "lines": [
         {
           "line_index": 0,
@@ -175,8 +175,8 @@
         },
         {
           "line_index": 2,
-          "text": "Pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Pecação<a name=\"rf18-12815\"></a><sup><a href=\"#fn18-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup><a name=\"rf19-12815\"></a><sup><a href=\"#fn19-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup>.</p>"
+          "text": "Pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Pecado<a name=\"rf18-12815\"></a><sup><a href=\"#fn18-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup><a name=\"rf19-12815\"></a><sup><a href=\"#fn19-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -372,7 +372,7 @@
     },
     {
       "number": 11,
-      "text": "Bode de cabras. Um. Pecação. Desde a separação da pecação dos encobrimentos. E a subideira da perpetuidade. E a oferenda dela. E as libações deles.",
+      "text": "Bode de cabras. Um. Pecado. Desde a separação dopecado dos encobrimentos. E a subideira da perpetuidade. E a oferenda dela. E as libações deles.",
       "lines": [
         {
           "line_index": 0,
@@ -386,28 +386,28 @@
         },
         {
           "line_index": 2,
-          "text": "Pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Pecação<a name=\"rf54-12815\"></a><sup><a href=\"#fn54-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
+          "text": "Pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Pecado<a name=\"rf54-12815\"></a><sup><a href=\"#fn54-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "Desde a separação da pecação dos encobrimentos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da<a name=\"rf55-12815\"></a><sup><a href=\"#fn55-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup> pecação dos<a name=\"rf56-12815\"></a><sup><a href=\"#fn56-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup> encobrimentos<a name=\"rf57-12815\"></a><sup><a href=\"#fn57-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "text": "Desde a separação dopecado dos encobrimentos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação do<a name=\"rf55-12815\"></a><sup><a href=\"#fn55-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>pecado dos encobrimentos<a name=\"rf56-12815\"></a><sup><a href=\"#fn56-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E a subideira da perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a subideira da perpetuidade<a name=\"rf58-12815\"></a><sup><a href=\"#fn58-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a subideira da perpetuidade<a name=\"rf57-12815\"></a><sup><a href=\"#fn57-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E a oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf59-12815\"></a><sup><a href=\"#fn59-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf58-12815\"></a><sup><a href=\"#fn58-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf60-12815\"></a><sup><a href=\"#fn60-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf59-12815\"></a><sup><a href=\"#fn59-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
         }
       ]
     },
@@ -418,27 +418,27 @@
         {
           "line_index": 0,
           "text": "E em cinco dezdiapara a nova sétima.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E em cinco dez<a name=\"rf61-12815\"></a><sup><a href=\"#fn61-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>dia<a name=\"rf62-12815\"></a><sup><a href=\"#fn62-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>para a nova sétima<a name=\"rf63-12815\"></a><sup><a href=\"#fn63-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E em cinco dez<a name=\"rf60-12815\"></a><sup><a href=\"#fn60-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>dia<a name=\"rf61-12815\"></a><sup><a href=\"#fn61-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>para a nova sétima<a name=\"rf62-12815\"></a><sup><a href=\"#fn62-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Grito de sacralidade está para vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Grito de sacralidade está para vós<a name=\"rf64-12815\"></a><sup><a href=\"#fn64-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Grito de sacralidade está para vós<a name=\"rf63-12815\"></a><sup><a href=\"#fn63-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Total de trabalho de serviço não fazeis vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Total de trabalho de serviço não fazeis vós<a name=\"rf65-12815\"></a><sup><a href=\"#fn65-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Total de trabalho de serviço não fazeis vós<a name=\"rf64-12815\"></a><sup><a href=\"#fn64-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Festejais vós festa para Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Festejais vós festa para Yahweh<a name=\"rf66-12815\"></a><sup><a href=\"#fn66-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Festejais vós festa para Yahweh<a name=\"rf65-12815\"></a><sup><a href=\"#fn65-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Sete de dias.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sete de dias<a name=\"rf67-12815\"></a><sup><a href=\"#fn67-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sete de dias<a name=\"rf66-12815\"></a><sup><a href=\"#fn66-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
         }
       ]
     },
@@ -449,7 +449,7 @@
         {
           "line_index": 0,
           "text": "E fazeis vós aproximarsubideira.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E fazeis vós aproximar<a name=\"rf68-12815\"></a><sup><a href=\"#fn68-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>subideira.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E fazeis vós aproximar<a name=\"rf67-12815\"></a><sup><a href=\"#fn67-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>subideira.</p>"
         },
         {
           "line_index": 1,
@@ -459,7 +459,7 @@
         {
           "line_index": 2,
           "text": "Cheiro de aplacamento para Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cheiro de aplacamento para Yahweh<a name=\"rf69-12815\"></a><sup><a href=\"#fn69-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup><a name=\"rf70-12815\"></a><sup><a href=\"#fn70-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cheiro de aplacamento para Yahweh<a name=\"rf68-12815\"></a><sup><a href=\"#fn68-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup><a name=\"rf69-12815\"></a><sup><a href=\"#fn69-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -469,12 +469,12 @@
         {
           "line_index": 4,
           "text": "Filhos de gado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Filhos de gado<a name=\"rf71-12815\"></a><sup><a href=\"#fn71-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Filhos de gado<a name=\"rf70-12815\"></a><sup><a href=\"#fn70-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Três dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Três dez<a name=\"rf72-12815\"></a><sup><a href=\"#fn72-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Três dez<a name=\"rf71-12815\"></a><sup><a href=\"#fn71-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -499,12 +499,12 @@
         {
           "line_index": 10,
           "text": "Quatro dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf73-12815\"></a><sup><a href=\"#fn73-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup> dez.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf72-12815\"></a><sup><a href=\"#fn72-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup> dez.</p>"
         },
         {
           "line_index": 11,
           "text": "Completossão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf74-12815\"></a><sup><a href=\"#fn74-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>são eles<a name=\"rf75-12815\"></a><sup><a href=\"#fn75-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf73-12815\"></a><sup><a href=\"#fn73-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>são eles<a name=\"rf74-12815\"></a><sup><a href=\"#fn74-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>. </p>"
         }
       ]
     },
@@ -515,7 +515,7 @@
         {
           "line_index": 0,
           "text": "E a oferenda deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf76-12815\"></a><sup><a href=\"#fn76-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf75-12815\"></a><sup><a href=\"#fn75-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -525,22 +525,22 @@
         {
           "line_index": 2,
           "text": "Três décimospara o novilhoum.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Três décimos<a name=\"rf77-12815\"></a><sup><a href=\"#fn77-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>para o novilho<a name=\"rf78-12815\"></a><sup><a href=\"#fn78-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>um<a name=\"rf79-12815\"></a><sup><a href=\"#fn79-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Três décimos<a name=\"rf76-12815\"></a><sup><a href=\"#fn76-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>para o novilho<a name=\"rf77-12815\"></a><sup><a href=\"#fn77-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>um<a name=\"rf78-12815\"></a><sup><a href=\"#fn78-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Para três deznovilhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para três dez<a name=\"rf80-12815\"></a><sup><a href=\"#fn80-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>novilhos<a name=\"rf81-12815\"></a><sup><a href=\"#fn81-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para três dez<a name=\"rf79-12815\"></a><sup><a href=\"#fn79-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>novilhos<a name=\"rf80-12815\"></a><sup><a href=\"#fn80-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Dois de décimos para o carneiroum.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dois de<a name=\"rf82-12815\"></a><sup><a href=\"#fn82-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup> décimos para o carneiro<a name=\"rf83-12815\"></a><sup><a href=\"#fn83-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>um<a name=\"rf84-12815\"></a><sup><a href=\"#fn84-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dois de<a name=\"rf81-12815\"></a><sup><a href=\"#fn81-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup> décimos para o carneiro<a name=\"rf82-12815\"></a><sup><a href=\"#fn82-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>um<a name=\"rf83-12815\"></a><sup><a href=\"#fn83-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Para os dois dos carneiros.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para os dois dos carneiros<a name=\"rf85-12815\"></a><sup><a href=\"#fn85-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para os dois dos carneiros<a name=\"rf84-12815\"></a><sup><a href=\"#fn84-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
         }
       ]
     },
@@ -551,7 +551,7 @@
         {
           "line_index": 0,
           "text": "E décimo décimopara o cordeiroum.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E décimo décimo<a name=\"rf86-12815\"></a><sup><a href=\"#fn86-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>para o cordeiro<a name=\"rf87-12815\"></a><sup><a href=\"#fn87-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup><a name=\"rf88-12815\"></a><sup><a href=\"#fn88-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>um<a name=\"rf89-12815\"></a><sup><a href=\"#fn89-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup><a name=\"rf90-12815\"></a><sup><a href=\"#fn90-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E décimo décimo<a name=\"rf85-12815\"></a><sup><a href=\"#fn85-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>para o cordeiro<a name=\"rf86-12815\"></a><sup><a href=\"#fn86-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup><a name=\"rf87-12815\"></a><sup><a href=\"#fn87-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>um<a name=\"rf88-12815\"></a><sup><a href=\"#fn88-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup><a name=\"rf89-12815\"></a><sup><a href=\"#fn89-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -562,7 +562,7 @@
     },
     {
       "number": 16,
-      "text": "E bode de cabras. Um. Pecação. Desde a separação da subideirada perpetuidade. A oferenda dela. E a libação dela.",
+      "text": "E bode de cabras. Um. Pecado. Desde a separação da subideirada perpetuidade. A oferenda dela. E a libação dela.",
       "lines": [
         {
           "line_index": 0,
@@ -576,23 +576,23 @@
         },
         {
           "line_index": 2,
-          "text": "Pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Pecação<a name=\"rf91-12815\"></a><sup><a href=\"#fn91-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup><a name=\"rf92-12815\"></a><sup><a href=\"#fn92-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
+          "text": "Pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Pecado<a name=\"rf90-12815\"></a><sup><a href=\"#fn90-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup><a name=\"rf91-12815\"></a><sup><a href=\"#fn91-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Desde a separação da subideirada perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf93-12815\"></a><sup><a href=\"#fn93-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>da perpetuidade.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf92-12815\"></a><sup><a href=\"#fn92-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>da perpetuidade.</p>"
         },
         {
           "line_index": 4,
           "text": "A oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A oferenda dela<a name=\"rf94-12815\"></a><sup><a href=\"#fn94-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A oferenda dela<a name=\"rf93-12815\"></a><sup><a href=\"#fn93-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E a libação dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf95-12815\"></a><sup><a href=\"#fn95-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup><a name=\"rf96-12815\"></a><sup><a href=\"#fn96-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf94-12815\"></a><sup><a href=\"#fn94-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup><a name=\"rf95-12815\"></a><sup><a href=\"#fn95-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
         }
       ]
     },
@@ -608,22 +608,22 @@
         {
           "line_index": 1,
           "text": "O segundo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O segundo<a name=\"rf97-12815\"></a><sup><a href=\"#fn97-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup><a name=\"rf98-12815\"></a><sup><a href=\"#fn98-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O segundo<a name=\"rf96-12815\"></a><sup><a href=\"#fn96-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup><a name=\"rf97-12815\"></a><sup><a href=\"#fn97-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Novilhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf99-12815\"></a><sup><a href=\"#fn99-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf98-12815\"></a><sup><a href=\"#fn98-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Filhos de gado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Filhos de gado<a name=\"rf100-12815\"></a><sup><a href=\"#fn100-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Filhos de gado<a name=\"rf99-12815\"></a><sup><a href=\"#fn99-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Dois de dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dois de<a name=\"rf101-12815\"></a><sup><a href=\"#fn101-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup> dez<a name=\"rf102-12815\"></a><sup><a href=\"#fn102-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dois de<a name=\"rf100-12815\"></a><sup><a href=\"#fn100-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup> dez<a name=\"rf101-12815\"></a><sup><a href=\"#fn101-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -648,12 +648,12 @@
         {
           "line_index": 9,
           "text": "Quatro dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf103-12815\"></a><sup><a href=\"#fn103-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup> dez.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf102-12815\"></a><sup><a href=\"#fn102-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup> dez.</p>"
         },
         {
           "line_index": 10,
           "text": "Completos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf104-12815\"></a><sup><a href=\"#fn104-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf103-12815\"></a><sup><a href=\"#fn103-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
         }
       ]
     },
@@ -664,12 +664,12 @@
         {
           "line_index": 0,
           "text": "E a oferenda deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf105-12815\"></a><sup><a href=\"#fn105-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf104-12815\"></a><sup><a href=\"#fn104-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf106-12815\"></a><sup><a href=\"#fn106-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf105-12815\"></a><sup><a href=\"#fn105-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -689,18 +689,18 @@
         {
           "line_index": 5,
           "text": "No rol deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf107-12815\"></a><sup><a href=\"#fn107-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf106-12815\"></a><sup><a href=\"#fn106-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Conforme o julgamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf108-12815\"></a><sup><a href=\"#fn108-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf107-12815\"></a><sup><a href=\"#fn107-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 19,
-      "text": "E bode de cabras. Um. Pecação. Desde a separação da subideirada perpetuidade. E a oferenda dela. E as libações deles.",
+      "text": "E bode de cabras. Um. Pecado Desde a separação da subideirada perpetuidade. E a oferenda dela. E as libações deles.",
       "lines": [
         {
           "line_index": 0,
@@ -714,23 +714,23 @@
         },
         {
           "line_index": 2,
-          "text": "Pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Pecação<a name=\"rf109-12815\"></a><sup><a href=\"#fn109-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup><a name=\"rf110-12815\"></a><sup><a href=\"#fn110-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>.</p>"
+          "text": "Pecado",
+          "raw_html": "<p class=\"wp-block-paragraph\">Pecado<a name=\"rf108-12815\"></a><sup><a href=\"#fn108-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup></p>"
         },
         {
           "line_index": 3,
           "text": "Desde a separação da subideirada perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf111-12815\"></a><sup><a href=\"#fn111-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>da perpetuidade<a name=\"rf112-12815\"></a><sup><a href=\"#fn112-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf109-12815\"></a><sup><a href=\"#fn109-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup>da perpetuidade<a name=\"rf110-12815\"></a><sup><a href=\"#fn110-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E a oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf113-12815\"></a><sup><a href=\"#fn113-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf111-12815\"></a><sup><a href=\"#fn111-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf114-12815\"></a><sup><a href=\"#fn114-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup><a name=\"rf115-12815\"></a><sup><a href=\"#fn115-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf112-12815\"></a><sup><a href=\"#fn112-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup><a name=\"rf113-12815\"></a><sup><a href=\"#fn113-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
         }
       ]
     },
@@ -741,17 +741,17 @@
         {
           "line_index": 0,
           "text": "E no dia terceiro.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia terceiro<a name=\"rf116-12815\"></a><sup><a href=\"#fn116-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia terceiro<a name=\"rf114-12815\"></a><sup><a href=\"#fn114-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Novilhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf117-12815\"></a><sup><a href=\"#fn117-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf115-12815\"></a><sup><a href=\"#fn115-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Onze.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Onze<a name=\"rf118-12815\"></a><sup><a href=\"#fn118-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Onze<a name=\"rf116-12815\"></a><sup><a href=\"#fn116-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -776,12 +776,12 @@
         {
           "line_index": 7,
           "text": "Quatro dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf119-12815\"></a><sup><a href=\"#fn119-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup> dez.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf117-12815\"></a><sup><a href=\"#fn117-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup> dez.</p>"
         },
         {
           "line_index": 8,
           "text": "Completos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf120-12815\"></a><sup><a href=\"#fn120-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf118-12815\"></a><sup><a href=\"#fn118-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
         }
       ]
     },
@@ -792,12 +792,12 @@
         {
           "line_index": 0,
           "text": "E a oferenda deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda deles<a name=\"rf121-12815\"></a><sup><a href=\"#fn121-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda deles<a name=\"rf119-12815\"></a><sup><a href=\"#fn119-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf122-12815\"></a><sup><a href=\"#fn122-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf120-12815\"></a><sup><a href=\"#fn120-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -817,23 +817,23 @@
         {
           "line_index": 5,
           "text": "No rol deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf123-12815\"></a><sup><a href=\"#fn123-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf121-12815\"></a><sup><a href=\"#fn121-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Conforme o julgamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf124-12815\"></a><sup><a href=\"#fn124-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf122-12815\"></a><sup><a href=\"#fn122-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 22,
-      "text": "E bode de pecação. Um. Desde a separação da subideira da perpetuidade. E a oferenda dela. E a libação dele.",
+      "text": "E bode de pecado. Um. Desde a separação da subideira da perpetuidade. E a oferenda dela. E a libação dele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E bode de pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecação<a name=\"rf125-12815\"></a><sup><a href=\"#fn125-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>.</p>"
+          "text": "E bode de pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecado<a name=\"rf123-12815\"></a><sup><a href=\"#fn123-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -843,17 +843,17 @@
         {
           "line_index": 2,
           "text": "Desde a separação da subideira da perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira da perpetuidade<a name=\"rf126-12815\"></a><sup><a href=\"#fn126-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira da perpetuidade<a name=\"rf124-12815\"></a><sup><a href=\"#fn124-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E a oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf127-12815\"></a><sup><a href=\"#fn127-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf125-12815\"></a><sup><a href=\"#fn125-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E a libação dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dele<a name=\"rf128-12815\"></a><sup><a href=\"#fn128-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dele<a name=\"rf126-12815\"></a><sup><a href=\"#fn126-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>.</p>"
         }
       ]
     },
@@ -864,17 +864,17 @@
         {
           "line_index": 0,
           "text": "E no dia quarto.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia quarto<a name=\"rf129-12815\"></a><sup><a href=\"#fn129-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia quarto<a name=\"rf127-12815\"></a><sup><a href=\"#fn127-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Novilhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf130-12815\"></a><sup><a href=\"#fn130-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf128-12815\"></a><sup><a href=\"#fn128-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dez<a name=\"rf131-12815\"></a><sup><a href=\"#fn131-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dez<a name=\"rf129-12815\"></a><sup><a href=\"#fn129-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -899,12 +899,12 @@
         {
           "line_index": 7,
           "text": "Quatro dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf132-12815\"></a><sup><a href=\"#fn132-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup> dez.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf130-12815\"></a><sup><a href=\"#fn130-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup> dez.</p>"
         },
         {
           "line_index": 8,
           "text": "Completos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf133-12815\"></a><sup><a href=\"#fn133-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf131-12815\"></a><sup><a href=\"#fn131-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup>.</p>"
         }
       ]
     },
@@ -920,7 +920,7 @@
         {
           "line_index": 1,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf134-12815\"></a><sup><a href=\"#fn134-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup><a name=\"rf135-12815\"></a><sup><a href=\"#fn135-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf132-12815\"></a><sup><a href=\"#fn132-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup><a name=\"rf133-12815\"></a><sup><a href=\"#fn133-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -940,18 +940,18 @@
         {
           "line_index": 5,
           "text": "No rol deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf136-12815\"></a><sup><a href=\"#fn136-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf134-12815\"></a><sup><a href=\"#fn134-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Conforme o julgamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf137-12815\"></a><sup><a href=\"#fn137-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf135-12815\"></a><sup><a href=\"#fn135-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 25,
-      "text": "E bode de cabras. Um. Pecação. Desde a separação da subideirada perpetuidade. A oferenda dela. E a libação dela.",
+      "text": "E bode de cabras. Um. Pecado. Desde a separação da subideirada perpetuidade. A oferenda dela. E a libação dela.",
       "lines": [
         {
           "line_index": 0,
@@ -965,23 +965,23 @@
         },
         {
           "line_index": 2,
-          "text": "Pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Pecação<a name=\"rf138-12815\"></a><sup><a href=\"#fn138-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup><a name=\"rf139-12815\"></a><sup><a href=\"#fn139-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
+          "text": "Pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Pecado<a name=\"rf136-12815\"></a><sup><a href=\"#fn136-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup><a name=\"rf137-12815\"></a><sup><a href=\"#fn137-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Desde a separação da subideirada perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf140-12815\"></a><sup><a href=\"#fn140-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>da perpetuidade<a name=\"rf141-12815\"></a><sup><a href=\"#fn141-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf138-12815\"></a><sup><a href=\"#fn138-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup>da perpetuidade<a name=\"rf139-12815\"></a><sup><a href=\"#fn139-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "A oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A oferenda dela<a name=\"rf142-12815\"></a><sup><a href=\"#fn142-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A oferenda dela<a name=\"rf140-12815\"></a><sup><a href=\"#fn140-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E a libação dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf143-12815\"></a><sup><a href=\"#fn143-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup><a name=\"rf144-12815\"></a><sup><a href=\"#fn144-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf141-12815\"></a><sup><a href=\"#fn141-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup><a name=\"rf142-12815\"></a><sup><a href=\"#fn142-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
         }
       ]
     },
@@ -992,17 +992,17 @@
         {
           "line_index": 0,
           "text": "E no dia quinto.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia quinto<a name=\"rf145-12815\"></a><sup><a href=\"#fn145-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia quinto<a name=\"rf143-12815\"></a><sup><a href=\"#fn143-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Novilhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf146-12815\"></a><sup><a href=\"#fn146-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf144-12815\"></a><sup><a href=\"#fn144-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Nove.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nove<a name=\"rf147-12815\"></a><sup><a href=\"#fn147-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Nove<a name=\"rf145-12815\"></a><sup><a href=\"#fn145-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1027,12 +1027,12 @@
         {
           "line_index": 7,
           "text": "Quatro dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf148-12815\"></a><sup><a href=\"#fn148-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup> dez.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf146-12815\"></a><sup><a href=\"#fn146-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup> dez.</p>"
         },
         {
           "line_index": 8,
           "text": "Completos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf149-12815\"></a><sup><a href=\"#fn149-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf147-12815\"></a><sup><a href=\"#fn147-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>.</p>"
         }
       ]
     },
@@ -1043,12 +1043,12 @@
         {
           "line_index": 0,
           "text": "E a oferenda deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf150-12815\"></a><sup><a href=\"#fn150-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf148-12815\"></a><sup><a href=\"#fn148-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf151-12815\"></a><sup><a href=\"#fn151-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf149-12815\"></a><sup><a href=\"#fn149-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1068,23 +1068,23 @@
         {
           "line_index": 5,
           "text": "No rol deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf152-12815\"></a><sup><a href=\"#fn152-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf150-12815\"></a><sup><a href=\"#fn150-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Conforme o julgamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf153-12815\"></a><sup><a href=\"#fn153-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf151-12815\"></a><sup><a href=\"#fn151-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 28,
-      "text": "E bode de pecação. Um. Desde a separação da subideirada perpetuidade. E a oferenda dela. E a libação dela.",
+      "text": "E bode de pecado. Um. Desde a separação da subideirada perpetuidade. E a oferenda dela. E a libação dela.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E bode de pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecação<a name=\"rf154-12815\"></a><sup><a href=\"#fn154-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>.</p>"
+          "text": "E bode de pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecado<a name=\"rf152-12815\"></a><sup><a href=\"#fn152-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1094,17 +1094,17 @@
         {
           "line_index": 2,
           "text": "Desde a separação da subideirada perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf155-12815\"></a><sup><a href=\"#fn155-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup>da perpetuidade<a name=\"rf156-12815\"></a><sup><a href=\"#fn156-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf153-12815\"></a><sup><a href=\"#fn153-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>da perpetuidade<a name=\"rf154-12815\"></a><sup><a href=\"#fn154-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E a oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf157-12815\"></a><sup><a href=\"#fn157-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf155-12815\"></a><sup><a href=\"#fn155-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E a libação dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf158-12815\"></a><sup><a href=\"#fn158-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf156-12815\"></a><sup><a href=\"#fn156-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup>.</p>"
         }
       ]
     },
@@ -1115,17 +1115,17 @@
         {
           "line_index": 0,
           "text": "E no dia sexto.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia sexto<a name=\"rf159-12815\"></a><sup><a href=\"#fn159-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia sexto<a name=\"rf157-12815\"></a><sup><a href=\"#fn157-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Novilhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf160-12815\"></a><sup><a href=\"#fn160-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf158-12815\"></a><sup><a href=\"#fn158-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Oito.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Oito<a name=\"rf161-12815\"></a><sup><a href=\"#fn161-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Oito<a name=\"rf159-12815\"></a><sup><a href=\"#fn159-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1150,12 +1150,12 @@
         {
           "line_index": 7,
           "text": "Quatro dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf162-12815\"></a><sup><a href=\"#fn162-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup> dez.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf160-12815\"></a><sup><a href=\"#fn160-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup> dez.</p>"
         },
         {
           "line_index": 8,
           "text": "Completos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf163-12815\"></a><sup><a href=\"#fn163-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf161-12815\"></a><sup><a href=\"#fn161-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
         }
       ]
     },
@@ -1166,12 +1166,12 @@
         {
           "line_index": 0,
           "text": "E a oferenda deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf164-12815\"></a><sup><a href=\"#fn164-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf162-12815\"></a><sup><a href=\"#fn162-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf165-12815\"></a><sup><a href=\"#fn165-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 165\">165</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf163-12815\"></a><sup><a href=\"#fn163-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1191,23 +1191,23 @@
         {
           "line_index": 5,
           "text": "No rol deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf166-12815\"></a><sup><a href=\"#fn166-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf164-12815\"></a><sup><a href=\"#fn164-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Conforme o julgamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf167-12815\"></a><sup><a href=\"#fn167-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf165-12815\"></a><sup><a href=\"#fn165-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 165\">165</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 31,
-      "text": "E bode de pecação. Um. Desde a separação da subideirada perpetuidade. A oferenda dela. E as libações dela.",
+      "text": "E bode de pecado. Um. Desde a separação da subideirada perpetuidade. A oferenda dela. E as libações dela.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E bode de pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecação<a name=\"rf168-12815\"></a><sup><a href=\"#fn168-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup>.</p>"
+          "text": "E bode de pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecado<a name=\"rf166-12815\"></a><sup><a href=\"#fn166-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1217,17 +1217,17 @@
         {
           "line_index": 2,
           "text": "Desde a separação da subideirada perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf169-12815\"></a><sup><a href=\"#fn169-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>da perpetuidade<a name=\"rf170-12815\"></a><sup><a href=\"#fn170-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf167-12815\"></a><sup><a href=\"#fn167-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup>da perpetuidade<a name=\"rf168-12815\"></a><sup><a href=\"#fn168-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "A oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A oferenda dela<a name=\"rf171-12815\"></a><sup><a href=\"#fn171-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A oferenda dela<a name=\"rf169-12815\"></a><sup><a href=\"#fn169-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E as libações dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações dela<a name=\"rf172-12815\"></a><sup><a href=\"#fn172-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações dela<a name=\"rf170-12815\"></a><sup><a href=\"#fn170-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup>.</p>"
         }
       ]
     },
@@ -1238,17 +1238,17 @@
         {
           "line_index": 0,
           "text": "E no dia sétimo.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia sétimo<a name=\"rf173-12815\"></a><sup><a href=\"#fn173-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 173\">173</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E no dia sétimo<a name=\"rf171-12815\"></a><sup><a href=\"#fn171-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Novilhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf174-12815\"></a><sup><a href=\"#fn174-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 174\">174</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf172-12815\"></a><sup><a href=\"#fn172-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Sete.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sete<a name=\"rf175-12815\"></a><sup><a href=\"#fn175-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sete<a name=\"rf173-12815\"></a><sup><a href=\"#fn173-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 173\">173</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1268,12 +1268,12 @@
         {
           "line_index": 6,
           "text": "Quatro dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf176-12815\"></a><sup><a href=\"#fn176-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup> dez.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro<a name=\"rf174-12815\"></a><sup><a href=\"#fn174-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 174\">174</a></sup> dez.</p>"
         },
         {
           "line_index": 7,
           "text": "Completos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf177-12815\"></a><sup><a href=\"#fn177-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf175-12815\"></a><sup><a href=\"#fn175-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup>.</p>"
         }
       ]
     },
@@ -1284,12 +1284,12 @@
         {
           "line_index": 0,
           "text": "E a oferenda deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf178-12815\"></a><sup><a href=\"#fn178-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E a oferenda deles<a name=\"rf176-12815\"></a><sup><a href=\"#fn176-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf179-12815\"></a><sup><a href=\"#fn179-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf177-12815\"></a><sup><a href=\"#fn177-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1309,23 +1309,23 @@
         {
           "line_index": 5,
           "text": "No rol deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf180-12815\"></a><sup><a href=\"#fn180-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No rol deles<a name=\"rf178-12815\"></a><sup><a href=\"#fn178-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Conforme o julgamento deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento deles<a name=\"rf181-12815\"></a><sup><a href=\"#fn181-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento deles<a name=\"rf179-12815\"></a><sup><a href=\"#fn179-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 34,
-      "text": "E bode de pecação. Um. Desde a separação da subideirada perpetuidade. A oferenda dela. E a libação dela.",
+      "text": "E bode de pecado. Um. Desde a separação da subideirada perpetuidade. A oferenda dela. E a libação dela.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E bode de pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecação<a name=\"rf182-12815\"></a><sup><a href=\"#fn182-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup>.</p>"
+          "text": "E bode de pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecado<a name=\"rf180-12815\"></a><sup><a href=\"#fn180-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1335,17 +1335,17 @@
         {
           "line_index": 2,
           "text": "Desde a separação da subideirada perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf183-12815\"></a><sup><a href=\"#fn183-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup>da perpetuidade<a name=\"rf184-12815\"></a><sup><a href=\"#fn184-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 184\">184</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf181-12815\"></a><sup><a href=\"#fn181-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup>da perpetuidade<a name=\"rf182-12815\"></a><sup><a href=\"#fn182-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "A oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A oferenda dela<a name=\"rf185-12815\"></a><sup><a href=\"#fn185-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 185\">185</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A oferenda dela<a name=\"rf183-12815\"></a><sup><a href=\"#fn183-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 183\">183</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E a libação dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf186-12815\"></a><sup><a href=\"#fn186-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 186\">186</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf184-12815\"></a><sup><a href=\"#fn184-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 184\">184</a></sup>.</p>"
         }
       ]
     },
@@ -1361,12 +1361,12 @@
         {
           "line_index": 1,
           "text": "Concentraçãoestá para vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Concentração<a name=\"rf187-12815\"></a><sup><a href=\"#fn187-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 187\">187</a></sup>está para vós<a name=\"rf188-12815\"></a><sup><a href=\"#fn188-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 188\">188</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Concentração<a name=\"rf185-12815\"></a><sup><a href=\"#fn185-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 185\">185</a></sup>está para vós<a name=\"rf186-12815\"></a><sup><a href=\"#fn186-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 186\">186</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Total de trabalho de serviço não fazeis vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Total de trabalho de serviço não fazeis vós<a name=\"rf189-12815\"></a><sup><a href=\"#fn189-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 189\">189</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Total de trabalho de serviço não fazeis vós<a name=\"rf187-12815\"></a><sup><a href=\"#fn187-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 187\">187</a></sup>.</p>"
         }
       ]
     },
@@ -1377,7 +1377,7 @@
         {
           "line_index": 0,
           "text": "E fazeis vós aproximarsubideira.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E fazeis vós aproximar<a name=\"rf190-12815\"></a><sup><a href=\"#fn190-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 190\">190</a></sup>subideira.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E fazeis vós aproximar<a name=\"rf188-12815\"></a><sup><a href=\"#fn188-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 188\">188</a></sup>subideira.</p>"
         },
         {
           "line_index": 1,
@@ -1387,7 +1387,7 @@
         {
           "line_index": 2,
           "text": "Cheiro de aplacamento para Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cheiro de aplacamento para Yahweh<a name=\"rf191-12815\"></a><sup><a href=\"#fn191-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 191\">191</a></sup><a name=\"rf192-12815\"></a><sup><a href=\"#fn192-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 192\">192</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cheiro de aplacamento para Yahweh<a name=\"rf189-12815\"></a><sup><a href=\"#fn189-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 189\">189</a></sup><a name=\"rf190-12815\"></a><sup><a href=\"#fn190-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 190\">190</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1397,7 +1397,7 @@
         {
           "line_index": 4,
           "text": "Um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Um<a name=\"rf193-12815\"></a><sup><a href=\"#fn193-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 193\">193</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Um<a name=\"rf191-12815\"></a><sup><a href=\"#fn191-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 191\">191</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1427,7 +1427,7 @@
         {
           "line_index": 10,
           "text": "Completos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf194-12815\"></a><sup><a href=\"#fn194-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 194\">194</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf192-12815\"></a><sup><a href=\"#fn192-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 192\">192</a></sup>.</p>"
         }
       ]
     },
@@ -1443,12 +1443,12 @@
         {
           "line_index": 1,
           "text": "E as libações deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf195-12815\"></a><sup><a href=\"#fn195-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 195\">195</a></sup><a name=\"rf196-12815\"></a><sup><a href=\"#fn196-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 196\">196</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as libações deles<a name=\"rf193-12815\"></a><sup><a href=\"#fn193-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 193\">193</a></sup><a name=\"rf194-12815\"></a><sup><a href=\"#fn194-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 194\">194</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Para o novilho.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o novilho<a name=\"rf197-12815\"></a><sup><a href=\"#fn197-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 197\">197</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o novilho<a name=\"rf195-12815\"></a><sup><a href=\"#fn195-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 195\">195</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1458,7 +1458,7 @@
         {
           "line_index": 4,
           "text": "E para os cordeiros.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para os cordeiros<a name=\"rf198-12815\"></a><sup><a href=\"#fn198-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 198\">198</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E para os cordeiros<a name=\"rf196-12815\"></a><sup><a href=\"#fn196-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 196\">196</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1468,18 +1468,18 @@
         {
           "line_index": 6,
           "text": "Conforme o julgamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf199-12815\"></a><sup><a href=\"#fn199-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 199\">199</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o julgamento<a name=\"rf197-12815\"></a><sup><a href=\"#fn197-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 197\">197</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 38,
-      "text": "E bode de pecação. Um. Desde a separação da subideirada perpetuidade. E a oferenda dela. E a libação dela.",
+      "text": "E bode de pecado. Um. Desde a separação da subideirada perpetuidade. E a oferenda dela. E a libação dela.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E bode de pecação.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecação<a name=\"rf200-12815\"></a><sup><a href=\"#fn200-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 200\">200</a></sup>.</p>"
+          "text": "E bode de pecado.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E bode de pecado<a name=\"rf198-12815\"></a><sup><a href=\"#fn198-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 198\">198</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1489,17 +1489,17 @@
         {
           "line_index": 2,
           "text": "Desde a separação da subideirada perpetuidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf201-12815\"></a><sup><a href=\"#fn201-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 201\">201</a></sup>da perpetuidade<a name=\"rf202-12815\"></a><sup><a href=\"#fn202-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 202\">202</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a separação da subideira<a name=\"rf199-12815\"></a><sup><a href=\"#fn199-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 199\">199</a></sup>da perpetuidade<a name=\"rf200-12815\"></a><sup><a href=\"#fn200-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 200\">200</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E a oferenda dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf203-12815\"></a><sup><a href=\"#fn203-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 203\">203</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a oferenda dela<a name=\"rf201-12815\"></a><sup><a href=\"#fn201-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 201\">201</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E a libação dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf204-12815\"></a><sup><a href=\"#fn204-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 204\">204</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a libação dela<a name=\"rf202-12815\"></a><sup><a href=\"#fn202-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 202\">202</a></sup>.</p>"
         }
       ]
     },
@@ -1510,42 +1510,42 @@
         {
           "line_index": 0,
           "text": "Essesfazeis vóspara Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Esses<a name=\"rf205-12815\"></a><sup><a href=\"#fn205-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 205\">205</a></sup>fazeis vós<a name=\"rf206-12815\"></a><sup><a href=\"#fn206-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 206\">206</a></sup>para Yahweh<a name=\"rf207-12815\"></a><sup><a href=\"#fn207-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 207\">207</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Esses<a name=\"rf203-12815\"></a><sup><a href=\"#fn203-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 203\">203</a></sup>fazeis vós<a name=\"rf204-12815\"></a><sup><a href=\"#fn204-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 204\">204</a></sup>para Yahweh<a name=\"rf205-12815\"></a><sup><a href=\"#fn205-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 205\">205</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Nos períodosde vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nos períodos<a name=\"rf208-12815\"></a><sup><a href=\"#fn208-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup>de vós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Nos períodos<a name=\"rf206-12815\"></a><sup><a href=\"#fn206-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 206\">206</a></sup>de vós.</p>"
         },
         {
           "line_index": 2,
           "text": "Para separaçãodesde os votos de vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para separação<a name=\"rf209-12815\"></a><sup><a href=\"#fn209-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 209\">209</a></sup>desde os votos de vós<a name=\"rf210-12815\"></a><sup><a href=\"#fn210-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para separação<a name=\"rf207-12815\"></a><sup><a href=\"#fn207-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 207\">207</a></sup>desde os votos de vós<a name=\"rf208-12815\"></a><sup><a href=\"#fn208-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E as impelidas de vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as impelidas de vós<a name=\"rf211-12815\"></a><sup><a href=\"#fn211-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as impelidas de vós<a name=\"rf209-12815\"></a><sup><a href=\"#fn209-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 209\">209</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Para as subideiras de vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as subideiras de vós<a name=\"rf212-12815\"></a><sup><a href=\"#fn212-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 212\">212</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as subideiras de vós<a name=\"rf210-12815\"></a><sup><a href=\"#fn210-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E para as oferendasde vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para as oferendas<a name=\"rf213-12815\"></a><sup><a href=\"#fn213-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 213\">213</a></sup>de vós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E para as oferendas<a name=\"rf211-12815\"></a><sup><a href=\"#fn211-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup>de vós.</p>"
         },
         {
           "line_index": 6,
           "text": "E para as libaçõesde vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para as libações<a name=\"rf214-12815\"></a><sup><a href=\"#fn214-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 214\">214</a></sup>de vós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E para as libações<a name=\"rf212-12815\"></a><sup><a href=\"#fn212-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 212\">212</a></sup>de vós.</p>"
         },
         {
           "line_index": 7,
           "text": "E para as completaçõesde vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para as completações<a name=\"rf215-12815\"></a><sup><a href=\"#fn215-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 215\">215</a></sup>de vós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E para as completações<a name=\"rf213-12815\"></a><sup><a href=\"#fn213-12815\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 213\">213</a></sup>de vós.</p>"
         }
       ]
     }
@@ -1662,8 +1662,8 @@
     {
       "ref_id": "fn19-12815",
       "number": 19,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "text": "“Pecado” (hatta’t). Cf. Gênesis 4,7; Números 29,5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. Gênesis 4,7; Números 29,5.11.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn20-12815",
@@ -1872,8 +1872,8 @@
     {
       "ref_id": "fn54-12815",
       "number": 54,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "text": "“Pecado” (hatta’t). Cf. v. 5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 5.11.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn55-12815",
@@ -1884,960 +1884,948 @@
     {
       "ref_id": "fn56-12815",
       "number": 56,
-      "text": "“A pecação dos” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">A pecação dos</a>” (<em>hatta’t</em>). </span>"
-    },
-    {
-      "ref_id": "fn57-12815",
-      "number": 57,
       "text": "“O pecado dos encobrimentos” (hatta’t hakkippurim). Aqui e em Êxodo 30,10.",
       "raw_html": "<span>“O pecado dos encobrimentos” (<em>hatta’t hakkippurim</em>). Aqui e em Êxodo 30,10. </span>"
     },
     {
-      "ref_id": "fn58-12815",
-      "number": 58,
+      "ref_id": "fn57-12815",
+      "number": 57,
       "text": "“E a subideira da perpetuidade” (we’olat hattamid). Aqui e no v. 6.",
       "raw_html": "<span>“E a subideira da perpetuidade” (<em>we’olat hattamid</em>). Aqui e no v. 6. </span>"
     },
     {
-      "ref_id": "fn59-12815",
-      "number": 59,
+      "ref_id": "fn58-12815",
+      "number": 58,
       "text": "“E a oferenda dela” (uminhatah). Cf. v. 6.11.19.22.28.38.",
       "raw_html": "<span>“E a oferenda dela” (<em>uminhatah</em>). Cf. v. 6.11.19.22.28.38. </span>"
+    },
+    {
+      "ref_id": "fn59-12815",
+      "number": 59,
+      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
+      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
     },
     {
       "ref_id": "fn60-12815",
       "number": 60,
-      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
-      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
-    },
-    {
-      "ref_id": "fn61-12815",
-      "number": 61,
       "text": "“Dez” (‘asar). Cf. Gênesis 5,8.",
       "raw_html": "<span>“Dez” (<em>‘asar</em>). Cf. Gênesis 5,8. </span>"
     },
     {
-      "ref_id": "fn62-12815",
-      "number": 62,
+      "ref_id": "fn61-12815",
+      "number": 61,
       "text": "“E em cinco dez dia” (ubahamishshah ‘asar yom). Aqui e em Levítico 23,6; Números 28,17.",
       "raw_html": "<span>“E em cinco dez dia” (<em>ubahamishshah ‘asar yom</em>). Aqui e em Levítico 23,6; Números 28,17. </span>"
     },
     {
-      "ref_id": "fn63-12815",
-      "number": 63,
+      "ref_id": "fn62-12815",
+      "number": 62,
       "text": "“Para a nova sétima” (lahodesh hashshebi’i). Cf. v. 7.",
       "raw_html": "<span>“Para a nova sétima” (<em>lahodesh hashshebi’i</em>). Cf. v. 7. </span>"
     },
     {
-      "ref_id": "fn64-12815",
-      "number": 64,
+      "ref_id": "fn63-12815",
+      "number": 63,
       "text": "“Grito de sacralidade está para vós” (miqra’-qodesh yihyeh lakem). Última de 10 ocorrências. Cf. v. 1.7.",
       "raw_html": "<span>“Grito de sacralidade está para vós” (<em>miqra’-qodesh yihyeh lakem</em>). Última de 10 ocorrências. Cf. v. 1.7. </span>"
     },
     {
-      "ref_id": "fn65-12815",
-      "number": 65,
+      "ref_id": "fn64-12815",
+      "number": 64,
       "text": "“Total de trabalho de serviço não fazeis vós” (kol-mele’ket ‘abodah lo’ ta’asu). Cf. v. 1.35.",
       "raw_html": "<span>“Total de trabalho de serviço não fazeis vós” (<em>kol-mele’ket ‘abodah lo’ ta’asu</em>). Cf. v. 1.35. </span>"
     },
     {
-      "ref_id": "fn66-12815",
-      "number": 66,
+      "ref_id": "fn65-12815",
+      "number": 65,
       "text": "“Para Yahweh” (layhwah). Cf. v. 2.6.8.12.13.36.39.",
       "raw_html": "<span>“Para Yahweh” (<em>layhwah</em>). Cf. v. 2.6.8.12.13.36.39. </span>"
     },
     {
-      "ref_id": "fn67-12815",
-      "number": 67,
+      "ref_id": "fn66-12815",
+      "number": 66,
       "text": "“Festa para Yahweh. Sete de dias” (hag yehwah shib’at yamim). Aqui e em Levítico 23,41.",
       "raw_html": "<span>“Festa para Yahweh. Sete de dias” (<em>hag yehwah shib’at yamim</em>). Aqui e em Levítico 23,41. </span>"
     },
     {
-      "ref_id": "fn68-12815",
-      "number": 68,
+      "ref_id": "fn67-12815",
+      "number": 67,
       "text": "“E fazeis vós aproximar” (wehiqrabtem). Cf. v. 8.36.",
       "raw_html": "<span>“E fazeis vós aproximar” (<em>wehiqrabtem</em>). Cf. v. 8.36. </span>"
     },
     {
-      "ref_id": "fn69-12815",
-      "number": 69,
+      "ref_id": "fn68-12815",
+      "number": 68,
       "text": "“E fazeis vós aproximar subideira. Fogaréu. Cheiro de aplacamento para Yahweh” (wehiqrabtem ‘olah ‘ishsheh reah nihoah layhwah). Aqui e no v. 36.",
       "raw_html": "<span>“E fazeis vós aproximar subideira. Fogaréu. Cheiro de aplacamento para Yahweh” (<em>wehiqrabtem ‘olah ‘ishsheh reah nihoah layhwah</em>). Aqui e no v. 36. </span>"
     },
     {
-      "ref_id": "fn70-12815",
-      "number": 70,
+      "ref_id": "fn69-12815",
+      "number": 69,
       "text": "“Para Yahweh” (layhwah). Cf. v. 2.6.8.12.13.36.39.",
       "raw_html": "<span>“Para Yahweh” (<em>layhwah</em>). Cf. v. 2.6.8.12.13.36.39. </span>"
     },
     {
-      "ref_id": "fn71-12815",
-      "number": 71,
+      "ref_id": "fn70-12815",
+      "number": 70,
       "text": "“Novilhos. Filhos de gado” (parim bene-baqar). Cf. Números 28,11.",
       "raw_html": "<span>“Novilhos. Filhos de gado” (<em>parim bene-baqar</em>). Cf. Números 28,11. </span>"
     },
     {
-      "ref_id": "fn72-12815",
-      "number": 72,
+      "ref_id": "fn71-12815",
+      "number": 71,
       "text": "“Três dez” (sheloshah ‘asar). Primeira de 4 ocorrências.",
       "raw_html": "<span>“Três dez” (<em>sheloshah ‘asar</em>). Primeira de 4 ocorrências. </span>"
     },
     {
-      "ref_id": "fn73-12815",
-      "number": 73,
+      "ref_id": "fn72-12815",
+      "number": 72,
       "text": "“Quatro” (‘arba’ah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0071\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0071\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’ah</em>). </span>"
     },
     {
-      "ref_id": "fn74-12815",
-      "number": 74,
+      "ref_id": "fn73-12815",
+      "number": 73,
       "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Primeira de 7 ocorrências. Cf. v. 13.17.20.23.26.29.32.",
       "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Primeira de 7 ocorrências. Cf. v. 13.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn75-12815",
-      "number": 75,
+      "ref_id": "fn74-12815",
+      "number": 74,
       "text": "“São eles” (yihyu). Cf. v. 8.",
       "raw_html": "<span>“São eles” (<em>yihyu</em>). Cf. v. 8. </span>"
     },
     {
-      "ref_id": "fn76-12815",
-      "number": 76,
+      "ref_id": "fn75-12815",
+      "number": 75,
       "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
       "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
     },
     {
-      "ref_id": "fn77-12815",
-      "number": 77,
+      "ref_id": "fn76-12815",
+      "number": 76,
       "text": "“Décimo” (‘issaron). Cf. v. 3.4.9.10.14.15.",
       "raw_html": "<span>“Décimo” (<em>‘issaron</em>). Cf. v. 3.4.9.10.14.15. </span>"
     },
     {
-      "ref_id": "fn78-12815",
-      "number": 78,
+      "ref_id": "fn77-12815",
+      "number": 77,
       "text": "“E a oferenda deles. Sêmola amassada no óleo. Três décimos para o novilho” (uminhatam solet belulah bashshemen sheloshah ‘esronim lappar). Última de 5 ocorrências. Cf. v. 3.9.",
       "raw_html": "<span>“E a oferenda deles. Sêmola amassada no óleo. Três décimos para o novilho” (<em>uminhatam solet belulah bashshemen sheloshah ‘esronim lappar</em>). Última de 5 ocorrências. Cf. v. 3.9. </span>"
     },
     {
-      "ref_id": "fn79-12815",
-      "number": 79,
+      "ref_id": "fn78-12815",
+      "number": 78,
       "text": "“Um” (‘ehad).",
       "raw_html": "<span>“Um” (<em>‘ehad</em>). </span>"
     },
     {
-      "ref_id": "fn80-12815",
-      "number": 80,
+      "ref_id": "fn79-12815",
+      "number": 79,
       "text": "“Para três dez” (lishloshah ‘asar). Aqui e em 1 Crônicas 25,20.",
       "raw_html": "<span>“Para três dez” (<em>lishloshah ‘asar</em>). Aqui e em 1 Crônicas 25,20. </span>"
     },
     {
-      "ref_id": "fn81-12815",
-      "number": 81,
+      "ref_id": "fn80-12815",
+      "number": 80,
       "text": "“Novilhos” (parim). Cf. Êxodo 24,5; Números 29,13.14.17.20.23.26.29.32.",
       "raw_html": "<span>“Novilhos” (<em>parim</em>). Cf. Êxodo 24,5; Números 29,13.14.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn82-12815",
-      "number": 82,
+      "ref_id": "fn81-12815",
+      "number": 81,
       "text": "“Dois de” (shene).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGD\" rel=\"noreferrer noopener\" target=\"_blank\">Dois de</a>” (<em>shene</em>). </span>"
     },
     {
-      "ref_id": "fn83-12815",
-      "number": 83,
+      "ref_id": "fn82-12815",
+      "number": 82,
       "text": "“Dois de décimos para o carneiro” (shene ‘esronim la’ayil). Última de 4 ocorrências. Cf. v. 3.9.",
       "raw_html": "<span>“Dois de décimos para o carneiro” (<em>shene ‘esronim la’ayil</em>). Última de 4 ocorrências. Cf. v. 3.9. </span>"
     },
     {
-      "ref_id": "fn84-12815",
-      "number": 84,
+      "ref_id": "fn83-12815",
+      "number": 83,
       "text": "“Dois de décimos para o carneiro um” (shene ‘esronim la’ayil ha’ehad). Aqui e em Números 28,28; 29,9.",
       "raw_html": "<span>“Dois de décimos para o carneiro um” (<em>shene ‘esronim la’ayil ha’ehad</em>). Aqui e em Números 28,28; 29,9. </span>"
     },
     {
-      "ref_id": "fn85-12815",
-      "number": 85,
+      "ref_id": "fn84-12815",
+      "number": 84,
       "text": "“Os dois dos carneiros” (shene ha’elim). Aqui e em Êxodo 29,3.",
       "raw_html": "<span>“Os dois dos carneiros” (<em>shene ha’elim</em>). Aqui e em Êxodo 29,3. </span>"
     },
     {
-      "ref_id": "fn86-12815",
-      "number": 86,
+      "ref_id": "fn85-12815",
+      "number": 85,
       "text": "“Décimo décimo” (‘issaron ‘issaron). Última de 4 ocorrências. Cf. v. 10.",
       "raw_html": "<span>“Décimo décimo” (<em>‘issaron ‘issaron</em>). Última de 4 ocorrências. Cf. v. 10. </span>"
     },
     {
-      "ref_id": "fn87-12815",
-      "number": 87,
+      "ref_id": "fn86-12815",
+      "number": 86,
       "text": "“Décimo décimo para o cordeiro” (‘issaron ‘issaron lakkebes). Aqui e em Números 28,29.",
       "raw_html": "<span>“Décimo décimo para o cordeiro” (<em>‘issaron ‘issaron lakkebes</em>). Aqui e em Números 28,29. </span>"
     },
     {
-      "ref_id": "fn88-12815",
-      "number": 88,
+      "ref_id": "fn87-12815",
+      "number": 87,
       "text": "“Décimo” (‘issaron). Última de 22 ocorrências. Cf. v. 3.4.9.10.14.15.",
       "raw_html": "<span>“Décimo” (<em>‘issaron</em>). Última de 22 ocorrências. Cf. v. 3.4.9.10.14.15. </span>"
     },
     {
-      "ref_id": "fn89-12815",
-      "number": 89,
+      "ref_id": "fn88-12815",
+      "number": 88,
       "text": "“Para o cordeiro um” (lakkebes ha’ehad).  Última de 9 ocorrências. Cf. v. 4.10.15.",
       "raw_html": "<span>“Para o cordeiro um” (<em>lakkebes ha’ehad</em>).  Última de 9 ocorrências. Cf. v. 4.10.15. </span>"
     },
     {
-      "ref_id": "fn90-12815",
-      "number": 90,
+      "ref_id": "fn89-12815",
+      "number": 89,
       "text": "“Um” (‘ehad).",
       "raw_html": "<span>“Um” (<em>‘ehad</em>). </span>"
     },
     {
-      "ref_id": "fn91-12815",
-      "number": 91,
+      "ref_id": "fn90-12815",
+      "number": 90,
       "text": "“E bode de cabras. Um. Pecado” (use’ir-‘izzim ‘ehad hatta’t). Cf. v. 5.16.19.25.",
       "raw_html": "<span>“E bode de cabras. Um. Pecado” (<em>use’ir-‘izzim ‘ehad hatta’t</em>). Cf. v. 5.16.19.25. </span>"
+    },
+    {
+      "ref_id": "fn91-12815",
+      "number": 91,
+      "text": "“Pecado” (hatta’t). Cf. v. 5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 5.11.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn92-12815",
       "number": 92,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn93-12815",
       "number": 93,
-      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
-      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
-    },
-    {
-      "ref_id": "fn94-12815",
-      "number": 94,
       "text": "“A oferenda dela” (minhatah). Última de 4 ocorrências. Primeira de 4 ocorrências. Cf. v. 16.25.31.34.",
       "raw_html": "<span>“A oferenda dela” (<em>minhatah</em>). Última de 4 ocorrências. Primeira de 4 ocorrências. Cf. v. 16.25.31.34. </span>"
     },
     {
-      "ref_id": "fn95-12815",
-      "number": 95,
+      "ref_id": "fn94-12815",
+      "number": 94,
       "text": "“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade. A oferenda dela. E a libação dela” (use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid minhatah weniskah). Os versos 16 e 25 são exatamente iguais.",
       "raw_html": "<span>“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade. A oferenda dela. E a libação dela” (<em>use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid minhatah weniskah</em>). Os versos 16 e 25 são exatamente iguais. </span>"
     },
     {
-      "ref_id": "fn96-12815",
-      "number": 96,
+      "ref_id": "fn95-12815",
+      "number": 95,
       "text": "“A oferenda dela. E a libação dela” (minhatah weniskah). Apenas nos v. 16.25.34.",
       "raw_html": "<span>“A oferenda dela. E a libação dela” (<em>minhatah weniskah</em>). Apenas nos v. 16.25.34. </span>"
     },
     {
-      "ref_id": "fn97-12815",
-      "number": 97,
+      "ref_id": "fn96-12815",
+      "number": 96,
       "text": "“E no dia segundo” (bayyom hashsheni). Aqui e em Neemias 8,13; Ezequiel 43,22.",
       "raw_html": "<span>“E no dia segundo” (<em>bayyom hashsheni</em>). Aqui e em Neemias 8,13; Ezequiel 43,22. </span>"
     },
     {
-      "ref_id": "fn98-12815",
-      "number": 98,
+      "ref_id": "fn97-12815",
+      "number": 97,
       "text": "“O segundo” (hashsheni).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0099\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0099\" rel=\"noopener\" target=\"_blank\">O segundo</a>” (<em>hashsheni</em>). </span>"
     },
     {
-      "ref_id": "fn99-12815",
-      "number": 99,
+      "ref_id": "fn98-12815",
+      "number": 98,
       "text": "“Novilhos” (parim). Cf. v. 13.14.17.20.23.26.29.32.",
       "raw_html": "<span>“Novilhos” (<em>parim</em>). Cf. v. 13.14.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn100-12815",
-      "number": 100,
+      "ref_id": "fn99-12815",
+      "number": 99,
       "text": "“Novilhos. Filhos de gado” (parim bene-baqar). Última de 5 ocorrências. Cf. v. 13.17.",
       "raw_html": "<span>“Novilhos. Filhos de gado” (<em>parim bene-baqar</em>). Última de 5 ocorrências. Cf. v. 13.17. </span>"
     },
     {
-      "ref_id": "fn101-12815",
-      "number": 101,
+      "ref_id": "fn100-12815",
+      "number": 100,
       "text": "“Dois de” (shenem).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGD\" rel=\"noreferrer noopener\" target=\"_blank\">Dois de</a>” (<em>shenem</em>). </span>"
     },
     {
-      "ref_id": "fn102-12815",
-      "number": 102,
+      "ref_id": "fn101-12815",
+      "number": 101,
       "text": "“Dois dez” (shenem ‘asar). Cf. Gênesis 17,20.",
       "raw_html": "<span>“Dois dez” (<em>shenem ‘asar</em>). Cf. Gênesis 17,20. </span>"
     },
     {
-      "ref_id": "fn103-12815",
-      "number": 103,
+      "ref_id": "fn102-12815",
+      "number": 102,
       "text": "“Quatro” (‘arba’ah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0071\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0071\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’ah</em>). </span>"
+    },
+    {
+      "ref_id": "fn103-12815",
+      "number": 103,
+      "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Cf. v. 13.17.20.23.26.29.32.",
+      "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Cf. v. 13.17.20.23.26.29.32. </span>"
     },
     {
       "ref_id": "fn104-12815",
       "number": 104,
-      "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Cf. v. 13.17.20.23.26.29.32.",
-      "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Cf. v. 13.17.20.23.26.29.32. </span>"
+      "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
+      "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
     },
     {
       "ref_id": "fn105-12815",
       "number": 105,
-      "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
-      "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
+      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
+      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
     },
     {
       "ref_id": "fn106-12815",
       "number": 106,
-      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
-      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
-    },
-    {
-      "ref_id": "fn107-12815",
-      "number": 107,
       "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Primeira de 6 ocorrências. Cf. v. 18.21.24.27.30.33.",
       "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Primeira de 6 ocorrências. Cf. v. 18.21.24.27.30.33. </span>"
     },
     {
-      "ref_id": "fn108-12815",
-      "number": 108,
+      "ref_id": "fn107-12815",
+      "number": 107,
       "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Primeira de 6 ocorrências. Cf. v. 18.21.24.27.30.37.",
       "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Primeira de 6 ocorrências. Cf. v. 18.21.24.27.30.37. </span>"
     },
     {
-      "ref_id": "fn109-12815",
-      "number": 109,
+      "ref_id": "fn108-12815",
+      "number": 108,
       "text": "“E bode de cabras. Um. Pecado” (use’ir-‘izzim ‘ehad hatta’t). Cf. v. 5.16.19.25.",
       "raw_html": "<span>“E bode de cabras. Um. Pecado” (<em>use’ir-‘izzim ‘ehad hatta’t</em>). Cf. v. 5.16.19.25. </span>"
     },
     {
+      "ref_id": "fn109-12815",
+      "number": 109,
+      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
+    },
+    {
       "ref_id": "fn110-12815",
       "number": 110,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "text": "“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade” (use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid). Somente nos v. 16.19.25.",
+      "raw_html": "<span>“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade” (<em>use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid</em>). Somente nos v. 16.19.25. </span>"
     },
     {
       "ref_id": "fn111-12815",
       "number": 111,
-      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
-      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
+      "text": "“E a oferenda dela” (uminhatah). Cf. v. 6.11.19.22.28.38.",
+      "raw_html": "<span>“E a oferenda dela” (<em>uminhatah</em>). Cf. v. 6.11.19.22.28.38. </span>"
     },
     {
       "ref_id": "fn112-12815",
       "number": 112,
-      "text": "“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade” (use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid). Somente nos v. 16.19.25.",
-      "raw_html": "<span>“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade” (<em>use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid</em>). Somente nos v. 16.19.25. </span>"
+      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
+      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
     },
     {
       "ref_id": "fn113-12815",
       "number": 113,
-      "text": "“E a oferenda dela” (uminhatah). Cf. v. 6.11.19.22.28.38.",
-      "raw_html": "<span>“E a oferenda dela” (<em>uminhatah</em>). Cf. v. 6.11.19.22.28.38. </span>"
-    },
-    {
-      "ref_id": "fn114-12815",
-      "number": 114,
-      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
-      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
-    },
-    {
-      "ref_id": "fn115-12815",
-      "number": 115,
       "text": "Mas se trata de um bode apenas. Por que “libação deles“? O escriba está em módulo de copia e cola?",
       "raw_html": "<span>Mas se trata de um bode apenas. Por que “libação <em>deles</em>“? O escriba está em módulo de copia e cola? </span>"
     },
     {
-      "ref_id": "fn116-12815",
-      "number": 116,
+      "ref_id": "fn114-12815",
+      "number": 114,
       "text": "“E no dia terceiro” (ubayyom hashsholishi). Somente aqui.",
       "raw_html": "<span>“E no dia terceiro” (<em>ubayyom hashsholishi</em>). Somente aqui. </span>"
     },
     {
-      "ref_id": "fn117-12815",
-      "number": 117,
+      "ref_id": "fn115-12815",
+      "number": 115,
       "text": "“Novilhos” (parim). Cf. v. 13.14.17.20.23.26.29.32.",
       "raw_html": "<span>“Novilhos” (<em>parim</em>). Cf. v. 13.14.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn118-12815",
-      "number": 118,
+      "ref_id": "fn116-12815",
+      "number": 116,
       "text": "“Onze” (‘ashte-‘asar). Cf. Números 7,72.",
       "raw_html": "<span>“Onze” (<em>‘ashte-‘asar</em>). Cf. Números 7,72. </span>"
     },
     {
-      "ref_id": "fn119-12815",
-      "number": 119,
+      "ref_id": "fn117-12815",
+      "number": 117,
       "text": "“Quatro” (‘arba’ah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0071\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0071\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’ah</em>). </span>"
+    },
+    {
+      "ref_id": "fn118-12815",
+      "number": 118,
+      "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Cf. v. 13.17.20.23.26.29.32.",
+      "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Cf. v. 13.17.20.23.26.29.32. </span>"
+    },
+    {
+      "ref_id": "fn119-12815",
+      "number": 119,
+      "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
+      "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
     },
     {
       "ref_id": "fn120-12815",
       "number": 120,
-      "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Cf. v. 13.17.20.23.26.29.32.",
-      "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Cf. v. 13.17.20.23.26.29.32. </span>"
+      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
+      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
     },
     {
       "ref_id": "fn121-12815",
       "number": 121,
-      "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
-      "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
+      "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Cf. v. 18.21.24.27.30.33.",
+      "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Cf. v. 18.21.24.27.30.33. </span>"
     },
     {
       "ref_id": "fn122-12815",
       "number": 122,
-      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
-      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
+      "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Cf. v. 18.21.24.27.30.37.",
+      "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Cf. v. 18.21.24.27.30.37. </span>"
     },
     {
       "ref_id": "fn123-12815",
       "number": 123,
-      "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Cf. v. 18.21.24.27.30.33.",
-      "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Cf. v. 18.21.24.27.30.33. </span>"
+      "text": "“Pecado” (hatta’t). Cf. v. 5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 5.11.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn124-12815",
       "number": 124,
-      "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Cf. v. 18.21.24.27.30.37.",
-      "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Cf. v. 18.21.24.27.30.37. </span>"
-    },
-    {
-      "ref_id": "fn125-12815",
-      "number": 125,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
-    },
-    {
-      "ref_id": "fn126-12815",
-      "number": 126,
       "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (use’ir hatta’t ‘ehad millebad ‘olat hattamid). Primeira de 5 ocorrências. Cf. v. 22.28.31.34.38.",
       "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid</em>). Primeira de 5 ocorrências. Cf. v. 22.28.31.34.38. </span>"
     },
     {
-      "ref_id": "fn127-12815",
-      "number": 127,
+      "ref_id": "fn125-12815",
+      "number": 125,
       "text": "“E a oferenda dela” (uminhatah). Cf. v. 6.11.19.22.28.38.",
       "raw_html": "<span>“E a oferenda dela” (<em>uminhatah</em>). Cf. v. 6.11.19.22.28.38. </span>"
     },
     {
-      "ref_id": "fn128-12815",
-      "number": 128,
+      "ref_id": "fn126-12815",
+      "number": 126,
       "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade. E a oferenda dela. E a libação dela” (use’ir hatta’t ‘ehad millebad ‘olat hattamid uminhatah weniskah). Os v. 22.28.38 são exatamente iguais.",
       "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade. E a oferenda dela. E a libação dela” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid uminhatah weniskah</em>). Os v. 22.28.38 são exatamente iguais. </span>"
     },
     {
-      "ref_id": "fn129-12815",
-      "number": 129,
+      "ref_id": "fn127-12815",
+      "number": 127,
       "text": "“E no dia quarto” (ubayyom harbi’i). Aqui e em Esdras 8,33.",
       "raw_html": "<span>“E no dia quarto” (<em>ubayyom harbi’i</em>). Aqui e em Esdras 8,33. </span>"
     },
     {
-      "ref_id": "fn130-12815",
-      "number": 130,
+      "ref_id": "fn128-12815",
+      "number": 128,
       "text": "“Novilhos” (parim). Cf. v. 13.14.17.20.23.26.29.32.",
       "raw_html": "<span>“Novilhos” (<em>parim</em>). Cf. v. 13.14.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn131-12815",
-      "number": 131,
+      "ref_id": "fn129-12815",
+      "number": 129,
       "text": "“Dez” (‘asarah). Cf. v. 12.",
       "raw_html": "<span>“Dez” (<em>‘asarah</em>). Cf. v. 12. </span>"
     },
     {
-      "ref_id": "fn132-12815",
-      "number": 132,
+      "ref_id": "fn130-12815",
+      "number": 130,
       "text": "“Quatro” (‘arba’ah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0071\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0071\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’ah</em>). </span>"
     },
     {
-      "ref_id": "fn133-12815",
-      "number": 133,
+      "ref_id": "fn131-12815",
+      "number": 131,
       "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Cf. v. 13.17.20.23.26.29.32.",
       "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Cf. v. 13.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn134-12815",
-      "number": 134,
+      "ref_id": "fn132-12815",
+      "number": 132,
       "text": "“A oferenda deles. E as libações deles” (minhatam uniskehem). Aqui e no v. 37.",
       "raw_html": "<span>“A oferenda deles. E as libações deles” (<em>minhatam uniskehem</em>). Aqui e no v. 37. </span>"
     },
     {
-      "ref_id": "fn135-12815",
-      "number": 135,
+      "ref_id": "fn133-12815",
+      "number": 133,
       "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
       "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
+    },
+    {
+      "ref_id": "fn134-12815",
+      "number": 134,
+      "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Cf. v. 18.21.24.27.30.33.",
+      "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Cf. v. 18.21.24.27.30.33. </span>"
+    },
+    {
+      "ref_id": "fn135-12815",
+      "number": 135,
+      "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Cf. v. 18.21.24.27.30.37.",
+      "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Cf. v. 18.21.24.27.30.37. </span>"
     },
     {
       "ref_id": "fn136-12815",
       "number": 136,
-      "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Cf. v. 18.21.24.27.30.33.",
-      "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Cf. v. 18.21.24.27.30.33. </span>"
+      "text": "“E bode de cabras. Um. Pecado” (use’ir-‘izzim ‘ehad hatta’t). Última de 4 ocorrências. Cf. v. 5.16.19.25.",
+      "raw_html": "<span>“E bode de cabras. Um. Pecado” (<em>use’ir-‘izzim ‘ehad hatta’t</em>). Última de 4 ocorrências. Cf. v. 5.16.19.25. </span>"
     },
     {
       "ref_id": "fn137-12815",
       "number": 137,
-      "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Cf. v. 18.21.24.27.30.37.",
-      "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Cf. v. 18.21.24.27.30.37. </span>"
+      "text": "“Pecado” (hatta’t). Cf. v. 5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 5.11.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn138-12815",
       "number": 138,
-      "text": "“E bode de cabras. Um. Pecação” (use’ir-‘izzim ‘ehad hatta’t). Última de 4 ocorrências. Cf. v. 5.16.19.25.",
-      "raw_html": "<span>“E bode de cabras. Um. Pecação” (<em>use’ir-‘izzim ‘ehad hatta’t</em>). Última de 4 ocorrências. Cf. v. 5.16.19.25. </span>"
+      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn139-12815",
       "number": 139,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
-    },
-    {
-      "ref_id": "fn140-12815",
-      "number": 140,
-      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
-      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
-    },
-    {
-      "ref_id": "fn141-12815",
-      "number": 141,
       "text": "“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade” (use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid). Somente nos v. 16.19.25.",
       "raw_html": "<span>“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade” (<em>use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid</em>). Somente nos v. 16.19.25. </span>"
     },
     {
-      "ref_id": "fn142-12815",
-      "number": 142,
+      "ref_id": "fn140-12815",
+      "number": 140,
       "text": "“A oferenda dela” (minhatah). Cf. v. 16.25.31.34.",
       "raw_html": "<span>“A oferenda dela” (<em>minhatah</em>). Cf. v. 16.25.31.34. </span>"
     },
     {
-      "ref_id": "fn143-12815",
-      "number": 143,
+      "ref_id": "fn141-12815",
+      "number": 141,
       "text": "“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade. A oferenda dela. E a libação dela” (use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid minhatah weniskah). Aqui e no v. 16. Os v. 16 e 25 são exatamente iguais.",
       "raw_html": "<span>“E bode de cabras. Um. Pecado. Desde a separação da subideira da perpetuidade. A oferenda dela. E a libação dela” (<em>use’ir-‘izzim ‘ehad hatta’t millabad ‘olat hattamid minhatah weniskah</em>). Aqui e no v. 16. Os v. 16 e 25 são exatamente iguais. </span>"
     },
     {
-      "ref_id": "fn144-12815",
-      "number": 144,
+      "ref_id": "fn142-12815",
+      "number": 142,
       "text": "“A oferenda dela. E a libação dela” (minhatah weniskah). Apenas nos v. 16.25.34.",
       "raw_html": "<span>“A oferenda dela. E a libação dela” (<em>minhatah weniskah</em>). Apenas nos v. 16.25.34. </span>"
     },
     {
-      "ref_id": "fn145-12815",
-      "number": 145,
+      "ref_id": "fn143-12815",
+      "number": 143,
       "text": "“E no dia quinto” (ubayyom hahamishi). Somente aqui.",
       "raw_html": "<span>“E no dia quinto” (<em>ubayyom hahamishi</em>). Somente aqui. </span>"
     },
     {
-      "ref_id": "fn146-12815",
-      "number": 146,
+      "ref_id": "fn144-12815",
+      "number": 144,
       "text": "“Novilhos” (parim). Cf. v. 13.14.17.20.23.26.29.32.",
       "raw_html": "<span>“Novilhos” (<em>parim</em>). Cf. v. 13.14.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn147-12815",
-      "number": 147,
+      "ref_id": "fn145-12815",
+      "number": 145,
       "text": "“Nove” (tish’ah). Cf. Gênesis 5,5.",
       "raw_html": "<span>“Nove” (<em>tish’ah</em>). Cf. Gênesis 5,5. </span>"
     },
     {
-      "ref_id": "fn148-12815",
-      "number": 148,
+      "ref_id": "fn146-12815",
+      "number": 146,
       "text": "“Quatro” (‘arba’ah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0071\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0071\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’ah</em>). </span>"
+    },
+    {
+      "ref_id": "fn147-12815",
+      "number": 147,
+      "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Cf. v. 13.17.20.23.26.29.32.",
+      "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Cf. v. 13.17.20.23.26.29.32. </span>"
+    },
+    {
+      "ref_id": "fn148-12815",
+      "number": 148,
+      "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
+      "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
     },
     {
       "ref_id": "fn149-12815",
       "number": 149,
-      "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Cf. v. 13.17.20.23.26.29.32.",
-      "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Cf. v. 13.17.20.23.26.29.32. </span>"
+      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
+      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
     },
     {
       "ref_id": "fn150-12815",
       "number": 150,
-      "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
-      "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
+      "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Cf. v. 18.21.24.27.30.33.",
+      "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Cf. v. 18.21.24.27.30.33. </span>"
     },
     {
       "ref_id": "fn151-12815",
       "number": 151,
-      "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
-      "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
+      "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Cf. v. 18.21.24.27.30.37.",
+      "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Cf. v. 18.21.24.27.30.37. </span>"
     },
     {
       "ref_id": "fn152-12815",
       "number": 152,
-      "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Cf. v. 18.21.24.27.30.33.",
-      "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Cf. v. 18.21.24.27.30.33. </span>"
+      "text": "“Pecado” (hatta’t). Cf. v. 5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 5.11.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn153-12815",
       "number": 153,
-      "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Cf. v. 18.21.24.27.30.37.",
-      "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Cf. v. 18.21.24.27.30.37. </span>"
+      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn154-12815",
       "number": 154,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (use’ir hatta’t ‘ehad millebad ‘olat hattamid). Cf. v. 22.28.31.34.38.",
+      "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid</em>). Cf. v. 22.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn155-12815",
       "number": 155,
-      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
-      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
-    },
-    {
-      "ref_id": "fn156-12815",
-      "number": 156,
-      "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (use’ir hatta’t ‘ehad millebad ‘olat hattamid). Cf. v. 22.28.31.34.38.",
-      "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid</em>). Cf. v. 22.28.31.34.38. </span>"
-    },
-    {
-      "ref_id": "fn157-12815",
-      "number": 157,
       "text": "“E a oferenda dela” (uminhatah). Cf. v. 6.11.19.22.28.38.",
       "raw_html": "<span>“E a oferenda dela” (<em>uminhatah</em>). Cf. v. 6.11.19.22.28.38. </span>"
     },
     {
-      "ref_id": "fn158-12815",
-      "number": 158,
+      "ref_id": "fn156-12815",
+      "number": 156,
       "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade. E a oferenda dela. E a libação dela” (use’ir hatta’t ‘ehad millebad ‘olat hattamid uminhatah weniskah). Os v. 22.28.38 são exatamente iguais.",
       "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade. E a oferenda dela. E a libação dela” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid uminhatah weniskah</em>). Os v. 22.28.38 são exatamente iguais. </span>"
     },
     {
-      "ref_id": "fn159-12815",
-      "number": 159,
+      "ref_id": "fn157-12815",
+      "number": 157,
       "text": "“E no dia sexto” (ubayyom hashshishshi). Apenas aqui.",
       "raw_html": "<span>“E no dia sexto” (<em>ubayyom hashshishshi</em>). Apenas aqui. </span>"
     },
     {
-      "ref_id": "fn160-12815",
-      "number": 160,
+      "ref_id": "fn158-12815",
+      "number": 158,
       "text": "“Novilhos” (parim). Cf. v. 13.14.17.20.23.26.29.32.",
       "raw_html": "<span>“Novilhos” (<em>parim</em>). Cf. v. 13.14.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn161-12815",
-      "number": 161,
+      "ref_id": "fn159-12815",
+      "number": 159,
       "text": "“Novilhos, Oito” (parim sheb’ah). Aqui e em 2 Crônicas 29,21.",
       "raw_html": "<span>“Novilhos, Oito” (<em>parim sheb’ah</em>). Aqui e em 2 Crônicas 29,21. </span>"
     },
     {
-      "ref_id": "fn162-12815",
-      "number": 162,
+      "ref_id": "fn160-12815",
+      "number": 160,
       "text": "“Quatro” (‘arba’ah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0071\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0071\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’ah</em>). </span>"
     },
     {
-      "ref_id": "fn163-12815",
-      "number": 163,
+      "ref_id": "fn161-12815",
+      "number": 161,
       "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Cf. v. 13.17.20.23.26.29.32.",
       "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Cf. v. 13.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn164-12815",
-      "number": 164,
+      "ref_id": "fn162-12815",
+      "number": 162,
       "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
       "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
     },
     {
-      "ref_id": "fn165-12815",
-      "number": 165,
+      "ref_id": "fn163-12815",
+      "number": 163,
       "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
       "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
     },
     {
-      "ref_id": "fn166-12815",
-      "number": 166,
+      "ref_id": "fn164-12815",
+      "number": 164,
       "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Cf. v. 18.21.24.27.30.33.",
       "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Cf. v. 18.21.24.27.30.33. </span>"
     },
     {
-      "ref_id": "fn167-12815",
-      "number": 167,
+      "ref_id": "fn165-12815",
+      "number": 165,
       "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Cf. v. 18.21.24.27.30.37.",
       "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Cf. v. 18.21.24.27.30.37. </span>"
     },
     {
+      "ref_id": "fn166-12815",
+      "number": 166,
+      "text": "“Pecado” (hatta’t). Cf. v. 5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 5.11.16.19.22.25.28.31.34.38. </span>"
+    },
+    {
+      "ref_id": "fn167-12815",
+      "number": 167,
+      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
+    },
+    {
       "ref_id": "fn168-12815",
       "number": 168,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (use’ir hatta’t ‘ehad millebad ‘olat hattamid). Cf. v. 22.28.31.34.38.",
+      "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid</em>). Cf. v. 22.28.31.34.38. </span>"
     },
     {
       "ref_id": "fn169-12815",
       "number": 169,
-      "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
-      "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
-    },
-    {
-      "ref_id": "fn170-12815",
-      "number": 170,
-      "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (use’ir hatta’t ‘ehad millebad ‘olat hattamid). Cf. v. 22.28.31.34.38.",
-      "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid</em>). Cf. v. 22.28.31.34.38. </span>"
-    },
-    {
-      "ref_id": "fn171-12815",
-      "number": 171,
       "text": "“A oferenda dela” (minhatah). Cf. v. 16.25.31.34.",
       "raw_html": "<span>“A oferenda dela” (<em>minhatah</em>). Cf. v. 16.25.31.34. </span>"
     },
     {
-      "ref_id": "fn172-12815",
-      "number": 172,
+      "ref_id": "fn170-12815",
+      "number": 170,
       "text": "“E as libações dela” (unesakeyha). Apenas aqui.",
       "raw_html": "<span>“E as libações dela” (<em>unesakeyha</em>). Apenas aqui. </span>"
     },
     {
-      "ref_id": "fn173-12815",
-      "number": 173,
+      "ref_id": "fn171-12815",
+      "number": 171,
       "text": "“E no dia sétimo” (ubayyom hashshebi’i). . Cf. Êxodo 12,16.",
       "raw_html": "<span>“E no dia sétimo” (<em>ubayyom hashshebi’i</em>). . Cf. Êxodo 12,16. </span>"
     },
     {
-      "ref_id": "fn174-12815",
-      "number": 174,
+      "ref_id": "fn172-12815",
+      "number": 172,
       "text": "“Novilhos” (parim). Cf. v. 13.14.17.20.23.26.29.32.",
       "raw_html": "<span>“Novilhos” (<em>parim</em>). Cf. v. 13.14.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn175-12815",
-      "number": 175,
+      "ref_id": "fn173-12815",
+      "number": 173,
       "text": "“Novilhos. Sete” (parim shibah). Aqui e em 2 Crônicas 29,21.",
       "raw_html": "<span>“Novilhos. Sete” (<em>parim shibah</em>). Aqui e em 2 Crônicas 29,21. </span>"
     },
     {
-      "ref_id": "fn176-12815",
-      "number": 176,
+      "ref_id": "fn174-12815",
+      "number": 174,
       "text": "“Quatro” (‘arba’ah).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0071\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0071\" rel=\"noopener\" target=\"_blank\">Quatro</a>” (<em>‘arba’ah</em>). </span>"
     },
     {
-      "ref_id": "fn177-12815",
-      "number": 177,
+      "ref_id": "fn175-12815",
+      "number": 175,
       "text": "“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim). Última de 7 ocorrências. Cf. v. 13.17.20.23.26.29.32.",
       "raw_html": "<span>“Carneiros. Dois. Cordeiros. Filhos de ano. Quatro dez. Completos” (<em>‘elim shenayim kebasim bene-shanah ‘arba’ah ‘asar temimim</em>). Última de 7 ocorrências. Cf. v. 13.17.20.23.26.29.32. </span>"
     },
     {
-      "ref_id": "fn178-12815",
-      "number": 178,
+      "ref_id": "fn176-12815",
+      "number": 176,
       "text": "“E a oferenda deles” (uminhatam). Cf. v. 3.9.14.18.21.27.30.33.",
       "raw_html": "<span>“E a oferenda deles” (<em>uminhatam</em>). Cf. v. 3.9.14.18.21.27.30.33. </span>"
     },
     {
-      "ref_id": "fn179-12815",
-      "number": 179,
+      "ref_id": "fn177-12815",
+      "number": 177,
       "text": "“E a libação deles” (weniskehem). A forma gráfica diverge ligeiramente das demais ocorrências do termo no capítulo.",
       "raw_html": "<span>“E a libação deles” (<em>weniskehem</em>). A forma gráfica diverge ligeiramente das demais ocorrências do termo no capítulo. </span>"
     },
     {
-      "ref_id": "fn180-12815",
-      "number": 180,
+      "ref_id": "fn178-12815",
+      "number": 178,
       "text": "“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (lapparim la’elim welakkebasim bemisparam). Última de 6 ocorrências. Cf. v. 18.21.24.27.30.33.",
       "raw_html": "<span>“Para os novilhos. Para os carneiros. E para os cordeiros. No rol deles” (<em>lapparim la’elim welakkebasim</em> <em>bemisparam</em>). Última de 6 ocorrências. Cf. v. 18.21.24.27.30.33. </span>"
     },
     {
-      "ref_id": "fn181-12815",
-      "number": 181,
+      "ref_id": "fn179-12815",
+      "number": 179,
       "text": "“Conforme o julgamento deles” (kemishpatam). Cf. v. 6.",
       "raw_html": "<span>“Conforme o julgamento deles” (<em>kemishpatam</em>). Cf. v. 6. </span>"
     },
     {
-      "ref_id": "fn182-12815",
-      "number": 182,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "ref_id": "fn180-12815",
+      "number": 180,
+      "text": "“Pecado” (hatta’t). Cf. v. 5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 5.11.16.19.22.25.28.31.34.38. </span>"
     },
     {
-      "ref_id": "fn183-12815",
-      "number": 183,
+      "ref_id": "fn181-12815",
+      "number": 181,
       "text": "“Desde a separação da subideira” (millebad ‘olat ). Cf. v. 6.16.19.22.25.28.31.34.38.",
       "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
     },
     {
-      "ref_id": "fn184-12815",
-      "number": 184,
+      "ref_id": "fn182-12815",
+      "number": 182,
       "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (use’ir hatta’t ‘ehad millebad ‘olat hattamid). Cf. v. 22.28.31.34.38.",
       "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid</em>). Cf. v. 22.28.31.34.38. </span>"
     },
     {
-      "ref_id": "fn185-12815",
-      "number": 185,
+      "ref_id": "fn183-12815",
+      "number": 183,
       "text": "“A oferenda dela” (minhatah). Última de 4 ocorrências. Cf. v. 16.25.31.34.",
       "raw_html": "<span>“A oferenda dela” (<em>minhatah</em>). Última de 4 ocorrências. Cf. v. 16.25.31.34. </span>"
     },
     {
-      "ref_id": "fn186-12815",
-      "number": 186,
+      "ref_id": "fn184-12815",
+      "number": 184,
       "text": "“A oferenda dela. E a libação dela” (minhatah weniskah). Apenas nos v. 16.25.34.",
       "raw_html": "<span>“A oferenda dela. E a libação dela” (<em>minhatah weniskah</em>). Apenas nos v. 16.25.34. </span>"
     },
     {
-      "ref_id": "fn187-12815",
-      "number": 187,
+      "ref_id": "fn185-12815",
+      "number": 185,
       "text": "“No dia oitavo. Concentração” (bayyom hashshimini ‘atseret). Aqui e em 2 Crônicas 7,9.",
       "raw_html": "<span>“No dia oitavo. Concentração” (<em>bayyom hashshimini ‘atseret</em>). Aqui e em 2 Crônicas 7,9. </span>"
     },
     {
-      "ref_id": "fn188-12815",
-      "number": 188,
+      "ref_id": "fn186-12815",
+      "number": 186,
       "text": "“Está para vós” (tihyeh lakem). Cf. Êxodo 30,36.",
       "raw_html": "<span>“Está para vós” (<em>tihyeh lakem</em>). Cf. Êxodo 30,36. </span>"
     },
     {
-      "ref_id": "fn189-12815",
-      "number": 189,
+      "ref_id": "fn187-12815",
+      "number": 187,
       "text": "“Total de trabalho de serviço não fazeis vós” (kol-mele’ket ‘abodah lo’ ta’asu). Última de 12 ocorrências. Cf. v. 1.12.",
       "raw_html": "<span>“Total de trabalho de serviço não fazeis vós” (<em>kol-mele’ket ‘abodah lo’ ta’asu</em>). Última de 12 ocorrências. Cf. v. 1.12. </span>"
     },
     {
-      "ref_id": "fn190-12815",
-      "number": 190,
+      "ref_id": "fn188-12815",
+      "number": 188,
       "text": "“E fazeis vós aproximar” (wehiqrabtem). Cf. v. 8.13.",
       "raw_html": "<span>“E fazeis vós aproximar” (<em>wehiqrabtem</em>). Cf. v. 8.13. </span>"
     },
     {
-      "ref_id": "fn191-12815",
-      "number": 191,
+      "ref_id": "fn189-12815",
+      "number": 189,
       "text": "“E fazeis vós aproximar subideira. Fogaréu. Cheiro de aplacamento para Yahweh” (wehiqrabtem ‘olah ‘ishsheh reah nihoah layhwah). Aqui e no v. 13.",
       "raw_html": "<span>“E fazeis vós aproximar subideira. Fogaréu. Cheiro de aplacamento para Yahweh” (<em>wehiqrabtem ‘olah ‘ishsheh reah nihoah layhwah</em>). Aqui e no v. 13. </span>"
     },
     {
-      "ref_id": "fn192-12815",
-      "number": 192,
+      "ref_id": "fn190-12815",
+      "number": 190,
       "text": "“Para Yahweh” (layhwah). Cf. v. 2.6.8.12.13.36.39.",
       "raw_html": "<span>“Para Yahweh” (<em>layhwah</em>). Cf. v. 2.6.8.12.13.36.39. </span>"
     },
     {
-      "ref_id": "fn193-12815",
-      "number": 193,
+      "ref_id": "fn191-12815",
+      "number": 191,
       "text": "“Novilho. Um” (par ‘ehad). Última de 14 ocorrências. Cf. Êxodo 29,1.",
       "raw_html": "<span>“Novilho. Um” (<em>par ‘ehad</em>). Última de 14 ocorrências. Cf. Êxodo 29,1. </span>"
     },
     {
-      "ref_id": "fn194-12815",
-      "number": 194,
+      "ref_id": "fn192-12815",
+      "number": 192,
       "text": "“Carneiro. Um. Cordeiros. Filhos de ano. Sete. Completos” (‘ayil ‘ehad kebasim bene-shanah shiba’ temimim). Aqui e nos v. 2.8.",
       "raw_html": "<span>“Carneiro. Um. Cordeiros. Filhos de ano. Sete. Completos” (<em>‘ayil ‘ehad kebasim bene-shanah shiba’ temimim</em>). Aqui e nos v. 2.8. </span>"
     },
     {
-      "ref_id": "fn195-12815",
-      "number": 195,
+      "ref_id": "fn193-12815",
+      "number": 193,
       "text": "“A oferenda deles. E as libações deles” (minhatam uniskehem). Aqui e no v. 24.",
       "raw_html": "<span>“A oferenda deles. E as libações deles” (<em>minhatam uniskehem</em>). Aqui e no v. 24. </span>"
     },
     {
-      "ref_id": "fn196-12815",
-      "number": 196,
+      "ref_id": "fn194-12815",
+      "number": 194,
       "text": "“E as libações deles” (weniskehem). Cf. v. 6.11.18.19.21.24.27.30.",
       "raw_html": "<span>“E as libações deles” (<em>weniskehem</em>). Cf. v. 6.11.18.19.21.24.27.30. </span>"
     },
     {
-      "ref_id": "fn197-12815",
-      "number": 197,
+      "ref_id": "fn195-12815",
+      "number": 195,
       "text": "“Para o novilho” (lappar). Cf. Levítico 4.20.",
       "raw_html": "<span>“Para o novilho” (<em>lappar</em>). Cf. Levítico 4.20. </span>"
     },
     {
-      "ref_id": "fn198-12815",
-      "number": 198,
+      "ref_id": "fn196-12815",
+      "number": 196,
       "text": "“Para o carneiro. E para os cordeiros” (la’ayil welakkebashim). Aqui e em Ezequiel 46,5.11.",
       "raw_html": "<span>“Para o carneiro. E para os cordeiros” (<em>la’ayil welakkebashim</em>). Aqui e em Ezequiel 46,5.11. </span>"
     },
     {
-      "ref_id": "fn199-12815",
-      "number": 199,
+      "ref_id": "fn197-12815",
+      "number": 197,
       "text": "“No rol deles. Conforme o julgamento” (bemisparam kammishpat). Última de 6 ocorrências. Cf. v. 18.21.24.27.30.37.",
       "raw_html": "<span>“No rol deles. Conforme o julgamento” (<em>bemisparam kammishpat</em>). Última de 6 ocorrências. Cf. v. 18.21.24.27.30.37. </span>"
     },
     {
-      "ref_id": "fn200-12815",
-      "number": 200,
-      "text": "“Pecação” (hatta’t).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0538\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0538\" rel=\"noopener\" target=\"_blank\">Pecação</a>” (<em>hatta’t</em>). </span>"
+      "ref_id": "fn198-12815",
+      "number": 198,
+      "text": "“Pecado” (hatta’t). Cf. v. 5.11.16.19.22.25.28.31.34.38.",
+      "raw_html": "<span>“Pecado” (<em>hatta’t</em>). Cf. v. 5.11.16.19.22.25.28.31.34.38. </span>"
     },
     {
-      "ref_id": "fn201-12815",
-      "number": 201,
+      "ref_id": "fn199-12815",
+      "number": 199,
       "text": "“Desde a separação da subideira” (millebad ‘olat ). Última de 12 ocorrências. Cf. v. 6.16.19.22.25.28.31.34.38.",
       "raw_html": "<span>“Desde a separação da subideira” (<em>millebad ‘olat </em>). Última de 12 ocorrências. Cf. v. 6.16.19.22.25.28.31.34.38. </span>"
     },
     {
-      "ref_id": "fn202-12815",
-      "number": 202,
+      "ref_id": "fn200-12815",
+      "number": 200,
       "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (use’ir hatta’t ‘ehad millebad ‘olat hattamid). Última de 5 ocorrências. Cf. v. 22.28.31.34.38.",
       "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid</em>). Última de 5 ocorrências. Cf. v. 22.28.31.34.38. </span>"
     },
     {
-      "ref_id": "fn203-12815",
-      "number": 203,
+      "ref_id": "fn201-12815",
+      "number": 201,
       "text": "“E a oferenda dela” (uminhatah). Última de 6 ocorrências. Cf. v. 6.11.19.22.28.38.",
       "raw_html": "<span>“E a oferenda dela” (<em>uminhatah</em>). Última de 6 ocorrências. Cf. v. 6.11.19.22.28.38. </span>"
     },
     {
-      "ref_id": "fn204-12815",
-      "number": 204,
+      "ref_id": "fn202-12815",
+      "number": 202,
       "text": "“E bode de pecado. Um. Desde a separação da subideira da perpetuidade. E a oferenda dela. E a libação dela” (use’ir hatta’t ‘ehad millebad ‘olat hattamid uminhatah weniskah). Os v. 22.28.38 são exatamente iguais.",
       "raw_html": "<span>“E bode de pecado. Um. Desde a separação da subideira da perpetuidade. E a oferenda dela. E a libação dela” (<em>use’ir hatta’t ‘ehad millebad ‘olat hattamid uminhatah weniskah</em>). Os v. 22.28.38 são exatamente iguais. </span>"
     },
     {
-      "ref_id": "fn205-12815",
-      "number": 205,
+      "ref_id": "fn203-12815",
+      "number": 203,
       "text": "“Esses” (‘elleh). Cf. Gênesis 2,4.",
       "raw_html": "<span>“Esses” (<em>‘elleh</em>). Cf. Gênesis 2,4. </span>"
     },
     {
-      "ref_id": "fn206-12815",
-      "number": 206,
+      "ref_id": "fn204-12815",
+      "number": 204,
       "text": "“Fazeis vós” (ta’asu). Cf. Gênesis 19,8.",
       "raw_html": "<span>“Fazeis vós” (<em>ta’asu</em>). Cf. Gênesis 19,8. </span>"
     },
     {
-      "ref_id": "fn207-12815",
-      "number": 207,
+      "ref_id": "fn205-12815",
+      "number": 205,
       "text": "“Para Yahweh” (layhwah). Cf. v. 2.6.8.12.13.36.39.",
       "raw_html": "<span>“Para Yahweh” (<em>layhwah</em>). Cf. v. 2.6.8.12.13.36.39. </span>"
     },
     {
-      "ref_id": "fn208-12815",
-      "number": 208,
+      "ref_id": "fn206-12815",
+      "number": 206,
       "text": "“Períodos” (mo’adim). “Períodos” equivale ao calendário das festas e eventos agrários. Cf. Gênesis 1,4.",
       "raw_html": "<span>“Períodos” (<em>mo’adim</em>). “Períodos” equivale ao calendário das festas e eventos agrários. Cf. Gênesis 1,4. </span>"
     },
     {
-      "ref_id": "fn209-12815",
-      "number": 209,
+      "ref_id": "fn207-12815",
+      "number": 207,
       "text": "“Para separação” (lebad). Cf. Êxodo 12,37.",
       "raw_html": "<span>“Para separação” (<em>lebad</em>). Cf. Êxodo 12,37. </span>"
     },
     {
-      "ref_id": "fn210-12815",
-      "number": 210,
+      "ref_id": "fn208-12815",
+      "number": 208,
       "text": "“Os votos de vós” (niderekem). Aqui e em Levítico 23,38; Jeremias 44,25. Neste capítulo, o termo “voto” (neder) aparece apenas aqui.",
       "raw_html": "<span>“Os votos de vós” (<em>niderekem</em>). Aqui e em Levítico 23,38; Jeremias 44,25. Neste capítulo, o termo “voto” (<em>neder</em>) aparece apenas aqui. </span>"
     },
     {
-      "ref_id": "fn211-12815",
-      "number": 211,
+      "ref_id": "fn209-12815",
+      "number": 209,
       "text": "“E as impelidas de vós” (wenidbotekem). Somente em Números 29,39; Deuteronômio 12,6.",
       "raw_html": "<span>“E as impelidas de vós” (<em>wenidbotekem</em>). Somente em Números 29,39; Deuteronômio 12,6. </span>"
     },
     {
-      "ref_id": "fn212-12815",
-      "number": 212,
+      "ref_id": "fn210-12815",
+      "number": 210,
       "text": "“As subideiras de vós” (‘olotekem). Aqui e em Deuteronômio 12,6.",
       "raw_html": "<span>“As subideiras de vós” (<em>‘olotekem</em>). Aqui e em Deuteronômio 12,6. </span>"
     },
     {
-      "ref_id": "fn213-12815",
-      "number": 213,
+      "ref_id": "fn211-12815",
+      "number": 211,
       "text": "“Oferendas” (minhot). Cf. Gênesis 4,3. O termo ocorre várias vezes no presente capítulo.",
       "raw_html": "<span>“Oferendas” (<em>minhot</em>). Cf. Gênesis 4,3. O termo ocorre várias vezes no presente capítulo. </span>"
     },
     {
-      "ref_id": "fn214-12815",
-      "number": 214,
+      "ref_id": "fn212-12815",
+      "number": 212,
       "text": "“Libações” (nesakim). Cf. Gênesis 35,14. O termo ocorre várias vezes no presente capítulo.",
       "raw_html": "<span>“Libações” (<em>nesakim</em>). Cf. Gênesis 35,14. O termo ocorre várias vezes no presente capítulo. </span>"
     },
     {
-      "ref_id": "fn215-12815",
-      "number": 215,
+      "ref_id": "fn213-12815",
+      "number": 213,
       "text": "“Completações” (shelashim). Cf. Êxodo 20,24. No presente capítulo, o termo só ocorre aqui.",
       "raw_html": "<span>“Completações” (<em>shelashim</em>). Cf. Êxodo 20,24. No presente capítulo, o termo só ocorre aqui. </span>"
     }

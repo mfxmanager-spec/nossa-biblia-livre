@@ -1706,20 +1706,15 @@
     },
     {
       "number": 45,
-      "text": "Assentário. E pagadino. Ele não come nele.",
+      "text": "Assentadinoe pagadino. Ele não come nele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Assentário.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Assentário<a name=\"rf235-4870\"></a><sup><a href=\"#fn235-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 235\">235</a></sup>.</p>"
+          "text": "Assentadinoe pagadino.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Assentadino<a name=\"rf235-4870\"></a><sup><a href=\"#fn235-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 235\">235</a></sup>e pagadino<a name=\"rf236-4870\"></a><sup><a href=\"#fn236-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 236\">236</a></sup>.</p>"
         },
         {
           "line_index": 1,
-          "text": "E pagadino.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E pagadino<a name=\"rf236-4870\"></a><sup><a href=\"#fn236-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 236\">236</a></sup>.</p>"
-        },
-        {
-          "line_index": 2,
           "text": "Ele não come nele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Ele não come nele.</p>"
         }
@@ -3360,8 +3355,8 @@
     {
       "ref_id": "fn235-4870",
       "number": 235,
-      "text": "“Assentário” (toshab). “Que se assenta”.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0609\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0609\" rel=\"noopener\" target=\"_blank\">Assentário</a>” (<em>toshab</em>). “Que se assenta”. </span>"
+      "text": "“Assentadino” (toshab). Aqui e em Gênesis 23,4 (cf. nota.). Pressupõe que seja residente, mas não faça parte do povo. É um estrangeiro residente. Gramaticalmente, trata-se de um substantivo, e não de um particípio.",
+      "raw_html": "<span>“Assentadino” (<em>toshab</em>). Aqui e em Gênesis 23,4 (cf. nota.). Pressupõe que seja residente, mas não faça parte do povo. É um estrangeiro residente. Gramaticalmente, trata-se de um substantivo, e não de um particípio. </span>"
     },
     {
       "ref_id": "fn236-4870",

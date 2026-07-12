@@ -543,35 +543,30 @@
     },
     {
       "number": 12,
-      "text": "E ri Sarah. No proximamento dela. Para dizer. Depois do gastarde mim. Estará para mim fertilidade? E o senhor de mim estávelho.",
+      "text": "E ri Sarahno interiordela. Para dizer. Depois do gastarde mim. Estará para mim fertilidade? E o senhor de mim estávelho.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E ri Sarah.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E ri Sarah<a name=\"rf65-2092\"></a><sup><a href=\"#fn65-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
+          "text": "E ri Sarahno interiordela.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E ri Sarah<a name=\"rf65-2092\"></a><sup><a href=\"#fn65-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>no interior<a name=\"rf66-2092\"></a><sup><a href=\"#fn66-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>dela.</p>"
         },
         {
           "line_index": 1,
-          "text": "No proximamento dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No proximamento<a name=\"rf66-2092\"></a><sup><a href=\"#fn66-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup> dela.</p>"
-        },
-        {
-          "line_index": 2,
           "text": "Para dizer.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para dizer.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 2,
           "text": "Depois do gastarde mim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Depois do gastar<a name=\"rf67-2092\"></a><sup><a href=\"#fn67-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>de mim.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 3,
           "text": "Estará para mim fertilidade?",
           "raw_html": "<p class=\"wp-block-paragraph\">Estará para mim fertilidade<a name=\"rf68-2092\"></a><sup><a href=\"#fn68-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>?</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 4,
           "text": "E o senhor de mim estávelho.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o senhor de mim<a name=\"rf69-2092\"></a><sup><a href=\"#fn69-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup> está<a name=\"rf70-2092\"></a><sup><a href=\"#fn70-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>velho.</p>"
         }
@@ -1843,8 +1838,8 @@
     {
       "ref_id": "fn66-2092",
       "number": 66,
-      "text": "“Proximamento” (qereb). Primeira de 229 ocorrências. Cf. v. 24; 24,3; 25,22; 41,21; 45,6; 48,16; Êxodo 3,20; 8,18; 10,1; 12,9; 17,7; 23,21.25.",
-      "raw_html": "<span>“Proximamento” (<em>qereb</em>). Primeira de 229 ocorrências. Cf. v. 24; 24,3; 25,22; 41,21; 45,6; 48,16; Êxodo 3,20; 8,18; 10,1; 12,9; 17,7; 23,21.25. </span>"
+      "text": "“Interior” (qereb). Primeira de 229 ocorrências. Cf. v. 24; 24,3; 25,22; 41,21; 45,6; 48,16; Êxodo 3,20; 8,18; 10,1; 12,9; 17,7; 23,21.25.",
+      "raw_html": "<span>“Interior” (<em>qereb</em>). Primeira de 229 ocorrências. Cf. v. 24; 24,3; 25,22; 41,21; 45,6; 48,16; Êxodo 3,20; 8,18; 10,1; 12,9; 17,7; 23,21.25. </span>"
     },
     {
       "ref_id": "fn67-2092",
