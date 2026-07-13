@@ -509,7 +509,7 @@
     },
     {
       "number": 13,
-      "text": "E está. Na tarde. E sobe a codorniz. E ela cobre o acampamento. E na manhã está a deitadado orvalhoao redorpara o acampamento.",
+      "text": "E está. Na tarde. E sobe a codorniz. E ela cobre o acampamento. E na manhã. Está. A deitada do orvalho. Redor. Para o acampamento.",
       "lines": [
         {
           "line_index": 0,
@@ -533,29 +533,54 @@
         },
         {
           "line_index": 4,
-          "text": "E na manhã está a deitadado orvalhoao redorpara o acampamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E na manhã está a deitada<a name=\"rf71-5294\"></a><sup><a href=\"#fn71-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>do orvalho<a name=\"rf72-5294\"></a><sup><a href=\"#fn72-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>ao redor<a name=\"rf73-5294\"></a><sup><a href=\"#fn73-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>para o acampamento<em>.</em></p>"
+          "text": "E na manhã.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E na manhã.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Está.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Está.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "A deitada do orvalho.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A deitada<a name=\"rf71-5294\"></a><sup><a href=\"#fn71-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup> do orvalho<a name=\"rf72-5294\"></a><sup><a href=\"#fn72-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
+        },
+        {
+          "line_index": 7,
+          "text": "Redor.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Redor<a name=\"rf73-5294\"></a><sup><a href=\"#fn73-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
+        },
+        {
+          "line_index": 8,
+          "text": "Para o acampamento.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o acampamento<em>.</em></p>"
         }
       ]
     },
     {
       "number": 14,
-      "text": "E sobe a deitadado orvalho. E eis sobre as faces do deserto uma finaraspa. Fina como a geadasobre a terra.",
+      "text": "E sobe. A deitada do orvalho. E eis sobre as faces do deserto uma finaraspa. Fina como a geadasobre a terra.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E sobe a deitadado orvalho.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E sobe a deitada<a name=\"rf74-5294\"></a><sup><a href=\"#fn74-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>do orvalho. </p>"
+          "text": "E sobe.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E sobe.</p>"
         },
         {
           "line_index": 1,
-          "text": "E eis sobre as faces do deserto uma finaraspa.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E eis sobre as faces do deserto uma fina<a name=\"rf75-5294\"></a><sup><a href=\"#fn75-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>raspa<a name=\"rf76-5294\"></a><sup><a href=\"#fn76-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>. </p>"
+          "text": "A deitada do orvalho.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A deitada<a name=\"rf74-5294\"></a><sup><a href=\"#fn74-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup> do orvalho<a name=\"rf75-5294\"></a><sup><a href=\"#fn75-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         },
         {
           "line_index": 2,
+          "text": "E eis sobre as faces do deserto uma finaraspa.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E eis sobre as faces do deserto uma fina<a name=\"rf76-5294\"></a><sup><a href=\"#fn76-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>raspa<a name=\"rf77-5294\"></a><sup><a href=\"#fn77-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>. </p>"
+        },
+        {
+          "line_index": 3,
           "text": "Fina como a geadasobre a terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fina como a geada<a name=\"rf77-5294\"></a><sup><a href=\"#fn77-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>sobre a terra.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Fina como a geada<a name=\"rf78-5294\"></a><sup><a href=\"#fn78-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>sobre a terra.</p>"
         }
       ]
     },
@@ -581,12 +606,12 @@
         {
           "line_index": 3,
           "text": "O que é ele?",
-          "raw_html": "<p class=\"wp-block-paragraph\">O que é ele<a name=\"rf78-5294\"></a><sup><a href=\"#fn78-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>?</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O que é ele<a name=\"rf79-5294\"></a><sup><a href=\"#fn79-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>?</p>"
         },
         {
           "line_index": 4,
           "text": "Que não conheciam eles qual ele era.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que não conheciam eles qual ele era<a name=\"rf79-5294\"></a><sup><a href=\"#fn79-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup><a name=\"rf80-5294\"></a><sup><a href=\"#fn80-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que não conheciam eles qual ele era<a name=\"rf80-5294\"></a><sup><a href=\"#fn80-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup><a name=\"rf81-5294\"></a><sup><a href=\"#fn81-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -596,7 +621,7 @@
         {
           "line_index": 6,
           "text": "Ele é o pão que dá Yahwehpara vós para comida.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ele é o pão que dá Yahweh<a name=\"rf81-5294\"></a><sup><a href=\"#fn81-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>para vós para comida<a name=\"rf82-5294\"></a><sup><a href=\"#fn82-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ele é o pão que dá Yahweh<a name=\"rf82-5294\"></a><sup><a href=\"#fn82-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>para vós para comida<a name=\"rf83-5294\"></a><sup><a href=\"#fn83-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
         }
       ]
     },
@@ -607,12 +632,12 @@
         {
           "line_index": 0,
           "text": "Essa é a fala que manda Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Essa é a fala que manda<a name=\"rf83-5294\"></a><sup><a href=\"#fn83-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> Yahweh<a name=\"rf84-5294\"></a><sup><a href=\"#fn84-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup><a name=\"rf85-5294\"></a><sup><a href=\"#fn85-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Essa é a fala que manda<a name=\"rf84-5294\"></a><sup><a href=\"#fn84-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup> Yahweh<a name=\"rf85-5294\"></a><sup><a href=\"#fn85-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup><a name=\"rf86-5294\"></a><sup><a href=\"#fn86-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Juntai vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Juntai vós<a name=\"rf86-5294\"></a><sup><a href=\"#fn86-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Juntai vós<a name=\"rf87-5294\"></a><sup><a href=\"#fn87-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -627,17 +652,17 @@
         {
           "line_index": 4,
           "text": "Para a boca do comestível dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para a boca do comestível<a name=\"rf87-5294\"></a><sup><a href=\"#fn87-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup> dele<a name=\"rf88-5294\"></a><sup><a href=\"#fn88-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para a boca do comestível<a name=\"rf88-5294\"></a><sup><a href=\"#fn88-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup> dele<a name=\"rf89-5294\"></a><sup><a href=\"#fn89-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Um ômerpara o crâniode roldas gargantasde vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Um ômer<a name=\"rf89-5294\"></a><sup><a href=\"#fn89-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>para o crânio<a name=\"rf90-5294\"></a><sup><a href=\"#fn90-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>de rol<a name=\"rf91-5294\"></a><sup><a href=\"#fn91-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>das gargantas<a name=\"rf92-5294\"></a><sup><a href=\"#fn92-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>de vós<a name=\"rf93-5294\"></a><sup><a href=\"#fn93-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup><a name=\"rf94-5294\"></a><sup><a href=\"#fn94-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Um ômer<a name=\"rf90-5294\"></a><sup><a href=\"#fn90-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>para o crânio<a name=\"rf91-5294\"></a><sup><a href=\"#fn91-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>de rol<a name=\"rf92-5294\"></a><sup><a href=\"#fn92-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>das gargantas<a name=\"rf93-5294\"></a><sup><a href=\"#fn93-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>de vós<a name=\"rf94-5294\"></a><sup><a href=\"#fn94-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup><a name=\"rf95-5294\"></a><sup><a href=\"#fn95-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Um homem para quena tenda dele vós tomais.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Um homem para que<a name=\"rf95-5294\"></a><sup><a href=\"#fn95-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>na tenda dele vós tomais<a name=\"rf96-5294\"></a><sup><a href=\"#fn96-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Um homem para que<a name=\"rf96-5294\"></a><sup><a href=\"#fn96-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>na tenda dele vós tomais<a name=\"rf97-5294\"></a><sup><a href=\"#fn97-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
         }
       ]
     },
@@ -653,7 +678,7 @@
         {
           "line_index": 1,
           "text": "E juntam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E juntam eles<a name=\"rf97-5294\"></a><sup><a href=\"#fn97-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E juntam eles<a name=\"rf98-5294\"></a><sup><a href=\"#fn98-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -663,7 +688,7 @@
         {
           "line_index": 3,
           "text": "E os fazedores de ser pouco.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os fazedores de ser pouco<a name=\"rf98-5294\"></a><sup><a href=\"#fn98-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E os fazedores de ser pouco<a name=\"rf99-5294\"></a><sup><a href=\"#fn99-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
         }
       ]
     },
@@ -674,7 +699,7 @@
         {
           "line_index": 0,
           "text": "E medem eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E medem eles<a name=\"rf99-5294\"></a><sup><a href=\"#fn99-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E medem eles<a name=\"rf100-5294\"></a><sup><a href=\"#fn100-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -684,22 +709,22 @@
         {
           "line_index": 2,
           "text": "E não faz sobraro fazedor de multiplicar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não faz sobrar<a name=\"rf100-5294\"></a><sup><a href=\"#fn100-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>o fazedor de multiplicar. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E não faz sobrar<a name=\"rf101-5294\"></a><sup><a href=\"#fn101-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>o fazedor de multiplicar. </p>"
         },
         {
           "line_index": 3,
           "text": "E o fazedor de ser pouco não faz faltar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o fazedor de ser pouco não faz faltar<a name=\"rf101-5294\"></a><sup><a href=\"#fn101-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o fazedor de ser pouco não faz faltar<a name=\"rf102-5294\"></a><sup><a href=\"#fn102-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>. </p>"
         },
         {
           "line_index": 4,
           "text": "Um homem para o boca do comestíveldele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Um homem para o boca do comestível<a name=\"rf102-5294\"></a><sup><a href=\"#fn102-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Um homem para o boca do comestível<a name=\"rf103-5294\"></a><sup><a href=\"#fn103-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>dele.</p>"
         },
         {
           "line_index": 5,
           "text": "Juntam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Juntam eles<a name=\"rf103-5294\"></a><sup><a href=\"#fn103-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup><a name=\"rf104-5294\"></a><sup><a href=\"#fn104-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Juntam eles<a name=\"rf104-5294\"></a><sup><a href=\"#fn104-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup><a name=\"rf105-5294\"></a><sup><a href=\"#fn105-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
         }
       ]
     },
@@ -725,7 +750,7 @@
         {
           "line_index": 3,
           "text": "Não faz ele permanecer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não faz ele permanecer<a name=\"rf105-5294\"></a><sup><a href=\"#fn105-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não faz ele permanecer<a name=\"rf106-5294\"></a><sup><a href=\"#fn106-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -735,7 +760,7 @@
         {
           "line_index": 5,
           "text": "Até manhã.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até manhã<a name=\"rf106-5294\"></a><sup><a href=\"#fn106-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup><a name=\"rf107-5294\"></a><sup><a href=\"#fn107-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até manhã<a name=\"rf107-5294\"></a><sup><a href=\"#fn107-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup><a name=\"rf108-5294\"></a><sup><a href=\"#fn108-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup>.</p>"
         }
       ]
     },
@@ -756,7 +781,7 @@
         {
           "line_index": 2,
           "text": "E fazem permanecer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E fazem permanecer<a name=\"rf108-5294\"></a><sup><a href=\"#fn108-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E fazem permanecer<a name=\"rf109-5294\"></a><sup><a href=\"#fn109-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -771,22 +796,22 @@
         {
           "line_index": 5,
           "text": "Até manhã.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até manhã<a name=\"rf109-5294\"></a><sup><a href=\"#fn109-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup><a name=\"rf110-5294\"></a><sup><a href=\"#fn110-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até manhã<a name=\"rf110-5294\"></a><sup><a href=\"#fn110-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup><a name=\"rf111-5294\"></a><sup><a href=\"#fn111-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "E ele levantavermes.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele levanta<a name=\"rf111-5294\"></a><sup><a href=\"#fn111-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>vermes<a name=\"rf112-5294\"></a><sup><a href=\"#fn112-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele levanta<a name=\"rf112-5294\"></a><sup><a href=\"#fn112-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>vermes<a name=\"rf113-5294\"></a><sup><a href=\"#fn113-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "E ele fede.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele fede<a name=\"rf113-5294\"></a><sup><a href=\"#fn113-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele fede<a name=\"rf114-5294\"></a><sup><a href=\"#fn114-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
         },
         {
           "line_index": 8,
           "text": "E encolerizasobre eles Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E encoleriza<a name=\"rf114-5294\"></a><sup><a href=\"#fn114-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>sobre eles Mosheh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E encoleriza<a name=\"rf115-5294\"></a><sup><a href=\"#fn115-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>sobre eles Mosheh.</p>"
         }
       ]
     },
@@ -797,7 +822,7 @@
         {
           "line_index": 0,
           "text": "E juntam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E juntam eles<a name=\"rf115-5294\"></a><sup><a href=\"#fn115-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E juntam eles<a name=\"rf116-5294\"></a><sup><a href=\"#fn116-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -812,22 +837,22 @@
         {
           "line_index": 3,
           "text": "Na manhã.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na manhã<a name=\"rf116-5294\"></a><sup><a href=\"#fn116-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na manhã<a name=\"rf117-5294\"></a><sup><a href=\"#fn117-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Um homem conforme a boca do comestíveldele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Um homem conforme a boca do comestível<a name=\"rf117-5294\"></a><sup><a href=\"#fn117-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Um homem conforme a boca do comestível<a name=\"rf118-5294\"></a><sup><a href=\"#fn118-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>dele.</p>"
         },
         {
           "line_index": 5,
           "text": "E esquenta o sol.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E esquenta<a name=\"rf118-5294\"></a><sup><a href=\"#fn118-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup> o sol.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E esquenta<a name=\"rf119-5294\"></a><sup><a href=\"#fn119-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup> o sol.</p>"
         },
         {
           "line_index": 6,
           "text": "E ele dissolve.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele dissolve<a name=\"rf119-5294\"></a><sup><a href=\"#fn119-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele dissolve<a name=\"rf120-5294\"></a><sup><a href=\"#fn120-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
         }
       ]
     },
@@ -838,7 +863,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf120-5294\"></a><sup><a href=\"#fn120-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf121-5294\"></a><sup><a href=\"#fn121-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -853,12 +878,12 @@
         {
           "line_index": 3,
           "text": "E juntam eles pão dobrado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E juntam eles<a name=\"rf121-5294\"></a><sup><a href=\"#fn121-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup> pão dobrado.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E juntam eles<a name=\"rf122-5294\"></a><sup><a href=\"#fn122-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup> pão dobrado.</p>"
         },
         {
           "line_index": 4,
           "text": "Dois do ômer para o um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dois do ômer para o um<a name=\"rf122-5294\"></a><sup><a href=\"#fn122-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dois do ômer para o um<a name=\"rf123-5294\"></a><sup><a href=\"#fn123-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -868,12 +893,12 @@
         {
           "line_index": 6,
           "text": "O total dos levantadosda comunidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O total dos levantados<a name=\"rf123-5294\"></a><sup><a href=\"#fn123-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup><a name=\"rf124-5294\"></a><sup><a href=\"#fn124-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup>da comunidade<a name=\"rf125-5294\"></a><sup><a href=\"#fn125-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O total dos levantados<a name=\"rf124-5294\"></a><sup><a href=\"#fn124-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup><a name=\"rf125-5294\"></a><sup><a href=\"#fn125-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>da comunidade<a name=\"rf126-5294\"></a><sup><a href=\"#fn126-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "E fazem eles informar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E fazem eles informar<a name=\"rf126-5294\"></a><sup><a href=\"#fn126-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E fazem eles informar<a name=\"rf127-5294\"></a><sup><a href=\"#fn127-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -904,12 +929,12 @@
         {
           "line_index": 3,
           "text": "Que fala Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que fala Yahweh<a name=\"rf127-5294\"></a><sup><a href=\"#fn127-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que fala Yahweh<a name=\"rf128-5294\"></a><sup><a href=\"#fn128-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Cessamentíssimo!",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cessamentíssimo<a name=\"rf128-5294\"></a><sup><a href=\"#fn128-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>!</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cessamentíssimo<a name=\"rf129-5294\"></a><sup><a href=\"#fn129-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup>!</p>"
         },
         {
           "line_index": 5,
@@ -919,7 +944,7 @@
         {
           "line_index": 6,
           "text": "Para Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para Yahweh<a name=\"rf129-5294\"></a><sup><a href=\"#fn129-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para Yahweh<a name=\"rf130-5294\"></a><sup><a href=\"#fn130-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -949,12 +974,12 @@
         {
           "line_index": 12,
           "text": "E o total do sobrador.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o total do sobrador<a name=\"rf130-5294\"></a><sup><a href=\"#fn130-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o total do sobrador<a name=\"rf131-5294\"></a><sup><a href=\"#fn131-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup>.</p>"
         },
         {
           "line_index": 13,
           "text": "Fazei vós repousar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fazei vós repousar<a name=\"rf131-5294\"></a><sup><a href=\"#fn131-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Fazei vós repousar<a name=\"rf132-5294\"></a><sup><a href=\"#fn132-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup>.</p>"
         },
         {
           "line_index": 14,
@@ -964,12 +989,12 @@
         {
           "line_index": 15,
           "text": "Para guardamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para guardamento<a name=\"rf132-5294\"></a><sup><a href=\"#fn132-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para guardamento<a name=\"rf133-5294\"></a><sup><a href=\"#fn133-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
         },
         {
           "line_index": 16,
           "text": "Até a manhã.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até a manhã<a name=\"rf133-5294\"></a><sup><a href=\"#fn133-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até a manhã<a name=\"rf134-5294\"></a><sup><a href=\"#fn134-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
         }
       ]
     },
@@ -980,32 +1005,32 @@
         {
           "line_index": 0,
           "text": "E fazem eles repousar.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E fazem eles repousar<a name=\"rf134-5294\"></a><sup><a href=\"#fn134-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E fazem eles repousar<a name=\"rf135-5294\"></a><sup><a href=\"#fn135-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ele<a name=\"rf135-5294\"></a><sup><a href=\"#fn135-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ele<a name=\"rf136-5294\"></a><sup><a href=\"#fn136-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Até a manhã.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até a manhã<a name=\"rf136-5294\"></a><sup><a href=\"#fn136-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até a manhã<a name=\"rf137-5294\"></a><sup><a href=\"#fn137-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Conforme que manda Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que manda<a name=\"rf137-5294\"></a><sup><a href=\"#fn137-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup> Mosheh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que manda<a name=\"rf138-5294\"></a><sup><a href=\"#fn138-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup> Mosheh.</p>"
         },
         {
           "line_index": 4,
           "text": "E não faz ele feder.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não faz ele feder<a name=\"rf138-5294\"></a><sup><a href=\"#fn138-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E não faz ele feder<a name=\"rf139-5294\"></a><sup><a href=\"#fn139-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E larva.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E larva<a name=\"rf139-5294\"></a><sup><a href=\"#fn139-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E larva<a name=\"rf140-5294\"></a><sup><a href=\"#fn140-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -1031,12 +1056,12 @@
         {
           "line_index": 1,
           "text": "Comei o dia!",
-          "raw_html": "<p class=\"wp-block-paragraph\">Comei o dia<a name=\"rf140-5294\"></a><sup><a href=\"#fn140-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>! </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Comei o dia<a name=\"rf141-5294\"></a><sup><a href=\"#fn141-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>! </p>"
         },
         {
           "line_index": 2,
           "text": "Quesábado é o dia.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf141-5294\"></a><sup><a href=\"#fn141-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>sábado é o dia.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf142-5294\"></a><sup><a href=\"#fn142-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>sábado é o dia.</p>"
         },
         {
           "line_index": 3,
@@ -1057,12 +1082,12 @@
         {
           "line_index": 0,
           "text": "Seis de dias.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Seis de dias<a name=\"rf142-5294\"></a><sup><a href=\"#fn142-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Seis de dias<a name=\"rf143-5294\"></a><sup><a href=\"#fn143-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Juntais vós ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Juntais vós<a name=\"rf143-5294\"></a><sup><a href=\"#fn143-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup> ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Juntais vós<a name=\"rf144-5294\"></a><sup><a href=\"#fn144-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup> ele.</p>"
         },
         {
           "line_index": 2,
@@ -1093,7 +1118,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf144-5294\"></a><sup><a href=\"#fn144-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf145-5294\"></a><sup><a href=\"#fn145-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1113,7 +1138,7 @@
         {
           "line_index": 4,
           "text": "Para juntar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para juntar<a name=\"rf145-5294\"></a><sup><a href=\"#fn145-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para juntar<a name=\"rf146-5294\"></a><sup><a href=\"#fn146-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1134,7 +1159,7 @@
         {
           "line_index": 1,
           "text": "Até quandorecusareis?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até quando<a name=\"rf146-5294\"></a><sup><a href=\"#fn146-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>recusareis?</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até quando<a name=\"rf147-5294\"></a><sup><a href=\"#fn147-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>recusareis?</p>"
         },
         {
           "line_index": 2,
@@ -1200,7 +1225,7 @@
         {
           "line_index": 9,
           "text": "Sovado de dois-dias.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sovado de dois-dias<a name=\"rf147-5294\"></a><sup><a href=\"#fn147-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sovado de dois-dias<a name=\"rf148-5294\"></a><sup><a href=\"#fn148-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>.</p>"
         },
         {
           "line_index": 10,
@@ -1215,7 +1240,7 @@
         {
           "line_index": 12,
           "text": "Debaixo dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Debaixo dele<a name=\"rf148-5294\"></a><sup><a href=\"#fn148-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Debaixo dele<a name=\"rf149-5294\"></a><sup><a href=\"#fn149-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>.</p>"
         },
         {
           "line_index": 13,
@@ -1267,27 +1292,27 @@
         {
           "line_index": 3,
           "text": "Man.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Man<a name=\"rf149-5294\"></a><sup><a href=\"#fn149-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Man<a name=\"rf150-5294\"></a><sup><a href=\"#fn150-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele<a name=\"rf150-5294\"></a><sup><a href=\"#fn150-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele<a name=\"rf151-5294\"></a><sup><a href=\"#fn151-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Conforme semente de coentro branco.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme semente de coentro<a name=\"rf151-5294\"></a><sup><a href=\"#fn151-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup><a name=\"rf152-5294\"></a><sup><a href=\"#fn152-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup> branco.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme semente de coentro<a name=\"rf152-5294\"></a><sup><a href=\"#fn152-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup><a name=\"rf153-5294\"></a><sup><a href=\"#fn153-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup> branco.</p>"
         },
         {
           "line_index": 6,
           "text": "E o gostodele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o gosto<a name=\"rf153-5294\"></a><sup><a href=\"#fn153-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o gosto<a name=\"rf154-5294\"></a><sup><a href=\"#fn154-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>dele.</p>"
         },
         {
           "line_index": 7,
           "text": "Conforme favo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme favo<a name=\"rf154-5294\"></a><sup><a href=\"#fn154-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme favo<a name=\"rf155-5294\"></a><sup><a href=\"#fn155-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -1318,12 +1343,12 @@
         {
           "line_index": 3,
           "text": "Que manda Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que manda<a name=\"rf155-5294\"></a><sup><a href=\"#fn155-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup> Yahweh<a name=\"rf156-5294\"></a><sup><a href=\"#fn156-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup><a name=\"rf157-5294\"></a><sup><a href=\"#fn157-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup><a name=\"rf158-5294\"></a><sup><a href=\"#fn158-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que manda<a name=\"rf156-5294\"></a><sup><a href=\"#fn156-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup> Yahweh<a name=\"rf157-5294\"></a><sup><a href=\"#fn157-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup><a name=\"rf158-5294\"></a><sup><a href=\"#fn158-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup><a name=\"rf159-5294\"></a><sup><a href=\"#fn159-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "O enchimento do ômer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O enchimento do<a name=\"rf159-5294\"></a><sup><a href=\"#fn159-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup> ômer.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O enchimento do<a name=\"rf160-5294\"></a><sup><a href=\"#fn160-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup> ômer.</p>"
         },
         {
           "line_index": 5,
@@ -1333,17 +1358,17 @@
         {
           "line_index": 6,
           "text": "Para guardamentação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para guardamentação<a name=\"rf160-5294\"></a><sup><a href=\"#fn160-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para guardamentação<a name=\"rf161-5294\"></a><sup><a href=\"#fn161-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Para os geramentos de vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para os geramentos de vós<a name=\"rf161-5294\"></a><sup><a href=\"#fn161-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup><a name=\"rf162-5294\"></a><sup><a href=\"#fn162-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para os geramentos de vós<a name=\"rf162-5294\"></a><sup><a href=\"#fn162-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup><a name=\"rf163-5294\"></a><sup><a href=\"#fn163-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup>.</p>"
         },
         {
           "line_index": 8,
           "text": "Para que.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para que<a name=\"rf163-5294\"></a><sup><a href=\"#fn163-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para que<a name=\"rf164-5294\"></a><sup><a href=\"#fn164-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -1368,7 +1393,7 @@
         {
           "line_index": 13,
           "text": "No fazer sair de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No fazer sair de mim<a name=\"rf164-5294\"></a><sup><a href=\"#fn164-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No fazer sair de mim<a name=\"rf165-5294\"></a><sup><a href=\"#fn165-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 165\">165</a></sup>.</p>"
         },
         {
           "line_index": 14,
@@ -1404,7 +1429,7 @@
         {
           "line_index": 3,
           "text": "Urna uma.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Urna uma<a name=\"rf165-5294\"></a><sup><a href=\"#fn165-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 165\">165</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Urna uma<a name=\"rf166-5294\"></a><sup><a href=\"#fn166-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -1419,17 +1444,17 @@
         {
           "line_index": 6,
           "text": "O enchimento do ômer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O enchimento do<a name=\"rf166-5294\"></a><sup><a href=\"#fn166-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup> ômer.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O enchimento do<a name=\"rf167-5294\"></a><sup><a href=\"#fn167-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup> ômer.</p>"
         },
         {
           "line_index": 7,
           "text": "Man.",
-          "raw_html": "<p class=\"wp-block-paragraph\"><em>Man </em><a name=\"rf167-5294\"></a><sup><a href=\"#fn167-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"><em>Man </em><a name=\"rf168-5294\"></a><sup><a href=\"#fn168-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup>.</p>"
         },
         {
           "line_index": 8,
           "text": "E faze tu repousa.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faze tu repousa<a name=\"rf168-5294\"></a><sup><a href=\"#fn168-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faze tu repousa<a name=\"rf169-5294\"></a><sup><a href=\"#fn169-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -1439,12 +1464,12 @@
         {
           "line_index": 10,
           "text": "Para as faces de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de Yahweh<a name=\"rf169-5294\"></a><sup><a href=\"#fn169-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup><a name=\"rf170-5294\"></a><sup><a href=\"#fn170-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de Yahweh<a name=\"rf170-5294\"></a><sup><a href=\"#fn170-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup><a name=\"rf171-5294\"></a><sup><a href=\"#fn171-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup>.</p>"
         },
         {
           "line_index": 11,
           "text": "Para guardamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para guardamento<a name=\"rf171-5294\"></a><sup><a href=\"#fn171-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para guardamento<a name=\"rf172-5294\"></a><sup><a href=\"#fn172-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup>.</p>"
         },
         {
           "line_index": 12,
@@ -1460,7 +1485,7 @@
         {
           "line_index": 0,
           "text": "Conforme que manda.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Conforme que manda<a name=\"rf172-5294\"></a><sup><a href=\"#fn172-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Conforme que manda<a name=\"rf173-5294\"></a><sup><a href=\"#fn173-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 173\">173</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1475,7 +1500,7 @@
         {
           "line_index": 3,
           "text": "E faz repousar ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz repousar<a name=\"rf173-5294\"></a><sup><a href=\"#fn173-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 173\">173</a></sup> ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz repousar<a name=\"rf174-5294\"></a><sup><a href=\"#fn174-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 174\">174</a></sup> ele.</p>"
         },
         {
           "line_index": 4,
@@ -1485,12 +1510,12 @@
         {
           "line_index": 5,
           "text": "Para as faces do testemunho.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces do testemunho<a name=\"rf174-5294\"></a><sup><a href=\"#fn174-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 174\">174</a></sup><a name=\"rf175-5294\"></a><sup><a href=\"#fn175-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces do testemunho<a name=\"rf175-5294\"></a><sup><a href=\"#fn175-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 175\">175</a></sup><a name=\"rf176-5294\"></a><sup><a href=\"#fn176-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Para guardamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para guardamento<a name=\"rf176-5294\"></a><sup><a href=\"#fn176-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 176\">176</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para guardamento<a name=\"rf177-5294\"></a><sup><a href=\"#fn177-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
         }
       ]
     },
@@ -1506,7 +1531,7 @@
         {
           "line_index": 1,
           "text": "Comem eles o man.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Comem eles o <em>man</em><a name=\"rf177-5294\"></a><sup><a href=\"#fn177-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Comem eles o <em>man</em><a name=\"rf178-5294\"></a><sup><a href=\"#fn178-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1521,12 +1546,12 @@
         {
           "line_index": 4,
           "text": "A terra sido assentada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A terra<a name=\"rf178-5294\"></a><sup><a href=\"#fn178-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup> sido assentada.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A terra<a name=\"rf179-5294\"></a><sup><a href=\"#fn179-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup> sido assentada.</p>"
         },
         {
           "line_index": 5,
           "text": "O man.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O man<a name=\"rf179-5294\"></a><sup><a href=\"#fn179-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O man<a name=\"rf180-5294\"></a><sup><a href=\"#fn180-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -1557,7 +1582,7 @@
         {
           "line_index": 1,
           "text": "O décimo da efa ele é.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O décimo da efa<a name=\"rf180-5294\"></a><sup><a href=\"#fn180-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup> ele é<a name=\"rf181-5294\"></a><sup><a href=\"#fn181-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O décimo da efa<a name=\"rf181-5294\"></a><sup><a href=\"#fn181-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup> ele é<a name=\"rf182-5294\"></a><sup><a href=\"#fn182-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup>.</p>"
         }
       ]
     }
@@ -1992,8 +2017,8 @@
     {
       "ref_id": "fn72-5294",
       "number": 72,
-      "text": "“Orvalho” (tal). Cf. Gênesis 27.28.39.",
-      "raw_html": "<span>“Orvalho” (<em>tal</em>). Cf. Gênesis 27.28.39. </span>"
+      "text": "“Orvalho” (tal).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0702\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0702\" rel=\"noopener\" target=\"_blank\">Orvalho</a>” (<em>tal</em>). </span>"
     },
     {
       "ref_id": "fn73-5294",
@@ -2010,642 +2035,648 @@
     {
       "ref_id": "fn75-5294",
       "number": 75,
-      "text": "“Fina” (daq). Cf. Gênesis 41,3.4.6.7.23.24.",
-      "raw_html": "<span>“Fina” (<em>daq</em>). Cf. Gênesis 41,3.4.6.7.23.24. </span>"
+      "text": "“Orvalho” (tal).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0702\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0702\" rel=\"noopener\" target=\"_blank\">Orvalho</a>” (<em>tal</em>). </span>"
     },
     {
       "ref_id": "fn76-5294",
       "number": 76,
-      "text": "“Raspa” (mehuspas). É arbitrária a tradução. O termo só ocorre aqui. Chouraqui traduz “crosta”. Opto por “raspa” apenas para brincar com o sonoridade do termo hebraico. A ideia é de qualquer coisa em forma de “escama fina”. Koehler-Baumgartner afirmam haver termo correlato em árabe.",
-      "raw_html": "<span>“Raspa” (<em>mehuspas</em>). É arbitrária a tradução. O termo só ocorre aqui. Chouraqui traduz “crosta”. Opto por “raspa” apenas para brincar com o sonoridade do termo hebraico. A ideia é de qualquer coisa em forma de “escama fina”. Koehler-Baumgartner afirmam haver termo correlato em árabe. </span>"
+      "text": "“Fina” (daq). Cf. Gênesis 41,3.4.6.7.23.24.",
+      "raw_html": "<span>“Fina” (<em>daq</em>). Cf. Gênesis 41,3.4.6.7.23.24. </span>"
     },
     {
       "ref_id": "fn77-5294",
       "number": 77,
-      "text": "“Geada” (kepor). Primeira de 6 ocorrências.",
-      "raw_html": "<span>“Geada” (<em>kepor</em>). Primeira de 6 ocorrências. </span>"
+      "text": "“Raspa” (mehuspas). É arbitrária a tradução. O termo só ocorre aqui. Chouraqui traduz “crosta”. Opto por “raspa” apenas para brincar com o sonoridade do termo hebraico. A ideia é de qualquer coisa em forma de “escama fina”. Koehler-Baumgartner afirmam haver termo correlato em árabe.",
+      "raw_html": "<span>“Raspa” (<em>mehuspas</em>). É arbitrária a tradução. O termo só ocorre aqui. Chouraqui traduz “crosta”. Opto por “raspa” apenas para brincar com o sonoridade do termo hebraico. A ideia é de qualquer coisa em forma de “escama fina”. Koehler-Baumgartner afirmam haver termo correlato em árabe. </span>"
     },
     {
       "ref_id": "fn78-5294",
       "number": 78,
-      "text": "“O que é ele” traduz a forma inusitada man hu’. É a primeira vez que o termo man aparece.",
-      "raw_html": "<span>“O que é ele” traduz a forma inusitada <em>man hu’</em>. É a primeira vez que o termo <em>man</em> aparece. </span>"
+      "text": "“Geada” (kepor). Primeira de 6 ocorrências.",
+      "raw_html": "<span>“Geada” (<em>kepor</em>). Primeira de 6 ocorrências. </span>"
     },
     {
       "ref_id": "fn79-5294",
       "number": 79,
-      "text": "“Qual ele era” (mah-hu’). Aqui e em Números 16,11; Ester 8,1.",
-      "raw_html": "<span>“Qual ele era” (<em>mah-hu’</em>). Aqui e em Números 16,11; Ester 8,1. </span>"
+      "text": "“O que é ele” traduz a forma inusitada man hu’. É a primeira vez que o termo man aparece.",
+      "raw_html": "<span>“O que é ele” traduz a forma inusitada <em>man hu’</em>. É a primeira vez que o termo <em>man</em> aparece. </span>"
     },
     {
       "ref_id": "fn80-5294",
       "number": 80,
-      "text": "Observe que a pergunta se faz com man hu’, e a explicação se faz com mah-hu’. Primeiro man, depois mah. Alguns veem aqui um trocadilho entre man e “maná”.",
-      "raw_html": "<span>Observe que a pergunta se faz com <em>man hu’</em>, e a explicação se faz com <em>mah-hu’</em>. Primeiro <em>man</em>, depois <em>mah</em>. Alguns veem aqui um trocadilho entre <em>man</em> e “maná”. </span>"
+      "text": "“Qual ele era” (mah-hu’). Aqui e em Números 16,11; Ester 8,1.",
+      "raw_html": "<span>“Qual ele era” (<em>mah-hu’</em>). Aqui e em Números 16,11; Ester 8,1. </span>"
     },
     {
       "ref_id": "fn81-5294",
       "number": 81,
-      "text": "“Que dá Yahweh” (‘asher natan yehwah). Primeira de 13 ocorrências. Cf. Êxodo 16,15; 36,1.2.",
-      "raw_html": "<span>“Que dá Yahweh” (<em>‘asher natan yehwah</em>). Primeira de 13 ocorrências. Cf. Êxodo 16,15; 36,1.2. </span>"
+      "text": "Observe que a pergunta se faz com man hu’, e a explicação se faz com mah-hu’. Primeiro man, depois mah. Alguns veem aqui um trocadilho entre man e “maná”.",
+      "raw_html": "<span>Observe que a pergunta se faz com <em>man hu’</em>, e a explicação se faz com <em>mah-hu’</em>. Primeiro <em>man</em>, depois <em>mah</em>. Alguns veem aqui um trocadilho entre <em>man</em> e “maná”. </span>"
     },
     {
       "ref_id": "fn82-5294",
       "number": 82,
-      "text": "Até aqui ao menos, o texto é claro em identificar o que quer que seja a raspa fina permanecida depois da subida do orvalho com o “pão de Yahweh”. Chouraqui dirá que uma coisa é o pão e outra, o “maná”. Não diria que seja possível a distinção com base, ao menos, nesse texto.",
-      "raw_html": "<span>Até aqui ao menos, o texto é claro em identificar o que quer que seja a raspa fina permanecida depois da subida do orvalho com o “pão de Yahweh”. Chouraqui dirá que uma coisa é o pão e outra, o “maná”. Não diria que seja possível a distinção com base, ao menos, nesse texto. </span>"
+      "text": "“Que dá Yahweh” (‘asher natan yehwah). Primeira de 13 ocorrências. Cf. Êxodo 16,15; 36,1.2.",
+      "raw_html": "<span>“Que dá Yahweh” (<em>‘asher natan yehwah</em>). Primeira de 13 ocorrências. Cf. Êxodo 16,15; 36,1.2. </span>"
     },
     {
       "ref_id": "fn83-5294",
       "number": 83,
-      "text": "“Manda” (tswh). Cf. Gênesis 2,16; Êxodo 1,22.",
-      "raw_html": "<span>“Manda” (<em>tswh</em>). Cf. Gênesis 2,16; Êxodo 1,22. </span>"
+      "text": "Até aqui ao menos, o texto é claro em identificar o que quer que seja a raspa fina permanecida depois da subida do orvalho com o “pão de Yahweh”. Chouraqui dirá que uma coisa é o pão e outra, o “maná”. Não diria que seja possível a distinção com base, ao menos, nesse texto.",
+      "raw_html": "<span>Até aqui ao menos, o texto é claro em identificar o que quer que seja a raspa fina permanecida depois da subida do orvalho com o “pão de Yahweh”. Chouraqui dirá que uma coisa é o pão e outra, o “maná”. Não diria que seja possível a distinção com base, ao menos, nesse texto. </span>"
     },
     {
       "ref_id": "fn84-5294",
       "number": 84,
-      "text": "“Essa é a fala que manda Yahweh” (zeh haddabar ‘asher-tsiwwah yehwah). Primeira de 8 ocorrências. Cf. Êxodo 16,16.32; 35,4; Levítico 8,5; 9,6; Levítico 17,2; Números 30,2; 36,6.",
-      "raw_html": "<span>“Essa é a fala que manda Yahweh” (<em>zeh haddabar ‘asher-tsiwwah yehwah</em>). Primeira de 8 ocorrências. Cf. Êxodo 16,16.32; 35,4; Levítico 8,5; 9,6; Levítico 17,2; Números 30,2; 36,6. </span>"
+      "text": "“Manda” (tswh). Cf. Gênesis 2,16; Êxodo 1,22.",
+      "raw_html": "<span>“Manda” (<em>tswh</em>). Cf. Gênesis 2,16; Êxodo 1,22. </span>"
     },
     {
       "ref_id": "fn85-5294",
       "number": 85,
-      "text": "“Que manda Yahweh” (‘asher tsiwwah yehwah). Primeira de 54 ocorrências. Cf. Êxodo 16,16.32; 35,1.4.29; 36,1.5; 38,22; 39,32.42; 40,16; Levítico 7,36; Números 15,23; Josué 4,10.",
-      "raw_html": "<span>“Que manda Yahweh” (<em>‘asher tsiwwah yehwah</em>). Primeira de 54 ocorrências. Cf. Êxodo 16,16.32; 35,1.4.29; 36,1.5; 38,22; 39,32.42; 40,16; Levítico 7,36; Números 15,23; Josué 4,10. </span>"
+      "text": "“Essa é a fala que manda Yahweh” (zeh haddabar ‘asher-tsiwwah yehwah). Primeira de 8 ocorrências. Cf. Êxodo 16,16.32; 35,4; Levítico 8,5; 9,6; Levítico 17,2; Números 30,2; 36,6.",
+      "raw_html": "<span>“Essa é a fala que manda Yahweh” (<em>zeh haddabar ‘asher-tsiwwah yehwah</em>). Primeira de 8 ocorrências. Cf. Êxodo 16,16.32; 35,4; Levítico 8,5; 9,6; Levítico 17,2; Números 30,2; 36,6. </span>"
     },
     {
       "ref_id": "fn86-5294",
       "number": 86,
-      "text": "“Juntai vós” (lqt). Forma imperativa da raiz. Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
-      "raw_html": "<span>“Juntai vós” (<em>lqt</em>). Forma imperativa da raiz. Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
+      "text": "“Que manda Yahweh” (‘asher tsiwwah yehwah). Primeira de 54 ocorrências. Cf. Êxodo 16,16.32; 35,1.4.29; 36,1.5; 38,22; 39,32.42; 40,16; Levítico 7,36; Números 15,23; Josué 4,10.",
+      "raw_html": "<span>“Que manda Yahweh” (<em>‘asher tsiwwah yehwah</em>). Primeira de 54 ocorrências. Cf. Êxodo 16,16.32; 35,1.4.29; 36,1.5; 38,22; 39,32.42; 40,16; Levítico 7,36; Números 15,23; Josué 4,10. </span>"
     },
     {
       "ref_id": "fn87-5294",
       "number": 87,
-      "text": "“Comestível” (‘okel). Cf. Gênesis 14,11 (e nota); Êxodo 12,4.",
-      "raw_html": "<span>“Comestível” (<em>‘okel</em>). Cf. Gênesis 14,11 (e nota); Êxodo 12,4. </span>"
+      "text": "“Juntai vós” (lqt). Forma imperativa da raiz. Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
+      "raw_html": "<span>“Juntai vós” (<em>lqt</em>). Forma imperativa da raiz. Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
     },
     {
       "ref_id": "fn88-5294",
       "number": 88,
-      "text": "“Para a boca da comida dele” (‘ish lepi ‘aklo) é um idiomatismo: cada homem deve pegar o que for suficiente para ele comer.",
-      "raw_html": "<span>“Para a boca da comida dele” (<em>‘ish lepi ‘aklo</em>) é um idiomatismo: cada homem deve pegar o que for suficiente para ele comer. </span>"
+      "text": "“Comestível” (‘okel). Cf. Gênesis 14,11 (e nota); Êxodo 12,4.",
+      "raw_html": "<span>“Comestível” (<em>‘okel</em>). Cf. Gênesis 14,11 (e nota); Êxodo 12,4. </span>"
     },
     {
       "ref_id": "fn89-5294",
       "number": 89,
-      "text": "“Ômer” translitera o hebraico ‘omer. Trata-se de uma medida que corresponde a algo entre 4 e 5 litros. Se a medida for essa, parece um tanto quanto exagerada a medida para uma pessoa, caso se trate de ração diária.",
-      "raw_html": "<span>“Ômer” translitera o hebraico <em>‘omer</em>. Trata-se de uma medida que corresponde a algo entre 4 e 5 litros. Se a medida for essa, parece um tanto quanto exagerada a medida para uma pessoa, caso se trate de ração diária. </span>"
+      "text": "“Para a boca da comida dele” (‘ish lepi ‘aklo) é um idiomatismo: cada homem deve pegar o que for suficiente para ele comer.",
+      "raw_html": "<span>“Para a boca da comida dele” (<em>‘ish lepi ‘aklo</em>) é um idiomatismo: cada homem deve pegar o que for suficiente para ele comer. </span>"
     },
     {
       "ref_id": "fn90-5294",
       "number": 90,
-      "text": "“Crânio” (gulgolet). É a primeira de 17 ocorrências. A ideia é alguém tocando a cabeça de cada pessoa à sua frente, para realizar uma contagem. Cf. Êxodo 16,16; 38,26; Números 1,2.18.20.22; 3,47.",
-      "raw_html": "<span>“Crânio” (<em>gulgolet</em>). É a primeira de 17 ocorrências. A ideia é alguém tocando a cabeça de cada pessoa à sua frente, para realizar uma contagem. Cf. Êxodo 16,16; 38,26; Números 1,2.18.20.22; 3,47. </span>"
+      "text": "“Ômer” translitera o hebraico ‘omer. Trata-se de uma medida que corresponde a algo entre 4 e 5 litros. Se a medida for essa, parece um tanto quanto exagerada a medida para uma pessoa, caso se trate de ração diária.",
+      "raw_html": "<span>“Ômer” translitera o hebraico <em>‘omer</em>. Trata-se de uma medida que corresponde a algo entre 4 e 5 litros. Se a medida for essa, parece um tanto quanto exagerada a medida para uma pessoa, caso se trate de ração diária. </span>"
     },
     {
       "ref_id": "fn91-5294",
       "number": 91,
-      "text": "“Rol” (mispar). Cf. Gênesis 34,30; 41,49.",
-      "raw_html": "<span>“Rol” (<em>mispar</em>). Cf. Gênesis 34,30; 41,49. </span>"
+      "text": "“Crânio” (gulgolet). É a primeira de 17 ocorrências. A ideia é alguém tocando a cabeça de cada pessoa à sua frente, para realizar uma contagem. Cf. Êxodo 16,16; 38,26; Números 1,2.18.20.22; 3,47.",
+      "raw_html": "<span>“Crânio” (<em>gulgolet</em>). É a primeira de 17 ocorrências. A ideia é alguém tocando a cabeça de cada pessoa à sua frente, para realizar uma contagem. Cf. Êxodo 16,16; 38,26; Números 1,2.18.20.22; 3,47. </span>"
     },
     {
       "ref_id": "fn92-5294",
       "number": 92,
-      "text": "“Gargantas” (nefesh). Aqui, “pessoas”.",
-      "raw_html": "<span>“Gargantas” (<em>nefesh</em>). Aqui, “pessoas”. </span>"
+      "text": "“Rol” (mispar). Cf. Gênesis 34,30; 41,49.",
+      "raw_html": "<span>“Rol” (<em>mispar</em>). Cf. Gênesis 34,30; 41,49. </span>"
     },
     {
       "ref_id": "fn93-5294",
       "number": 93,
-      "text": "“As gargantas de vós” (napshotekem). Cf. Êxodo 30,15.16; levítico 11,43.",
-      "raw_html": "<span>“As gargantas de vós” (<em>napshotekem</em>). Cf. Êxodo 30,15.16; levítico 11,43. </span>"
+      "text": "“Gargantas” (nefesh). Aqui, “pessoas”.",
+      "raw_html": "<span>“Gargantas” (<em>nefesh</em>). Aqui, “pessoas”. </span>"
     },
     {
       "ref_id": "fn94-5294",
       "number": 94,
-      "text": "Ou seja, cada homem terá direito a um ômer do “pão de Yahweh”.",
-      "raw_html": "<span>Ou seja, cada homem terá direito a um ômer do “pão de Yahweh”. </span>"
+      "text": "“As gargantas de vós” (napshotekem). Cf. Êxodo 30,15.16; levítico 11,43.",
+      "raw_html": "<span>“As gargantas de vós” (<em>napshotekem</em>). Cf. Êxodo 30,15.16; levítico 11,43. </span>"
     },
     {
       "ref_id": "fn95-5294",
       "number": 95,
-      "text": "“Para que” (la’asher). Cf. Gênesis 27,8; 43,16; 44,4; Levítico 5,24.",
-      "raw_html": "<span>“Para que” (<em>la’asher</em>). Cf. Gênesis 27,8; 43,16; 44,4; Levítico 5,24. </span>"
+      "text": "Ou seja, cada homem terá direito a um ômer do “pão de Yahweh”.",
+      "raw_html": "<span>Ou seja, cada homem terá direito a um ômer do “pão de Yahweh”. </span>"
     },
     {
       "ref_id": "fn96-5294",
       "number": 96,
-      "text": "O “homem” deve recolher também para os que estão sob seu abrigo, em sua tenda.",
-      "raw_html": "<span>O “homem” deve recolher também para os que estão sob seu abrigo, em sua tenda. </span>"
+      "text": "“Para que” (la’asher). Cf. Gênesis 27,8; 43,16; 44,4; Levítico 5,24.",
+      "raw_html": "<span>“Para que” (<em>la’asher</em>). Cf. Gênesis 27,8; 43,16; 44,4; Levítico 5,24. </span>"
     },
     {
       "ref_id": "fn97-5294",
       "number": 97,
-      "text": "“Juntam eles” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
-      "raw_html": "<span>“Juntam eles” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
+      "text": "O “homem” deve recolher também para os que estão sob seu abrigo, em sua tenda.",
+      "raw_html": "<span>O “homem” deve recolher também para os que estão sob seu abrigo, em sua tenda. </span>"
     },
     {
       "ref_id": "fn98-5294",
       "number": 98,
-      "text": "“Fazedores de multiplicar e fazedores ser pouco”. Não é uma tradução fácil. São dois particípios verbais causativos, um da raiz rbh (cf. Gênesis 1,22; Êxodo 1,7) e outro da raiz m’t (cf. Êxodo 12,4). A ideia é que uns pegam mais e outros menos, e isso em relação à quantidade de gente em sua tenda. Cf. o verso seguinte.",
-      "raw_html": "<span>“Fazedores de multiplicar e fazedores ser pouco”. Não é uma tradução fácil. São dois particípios verbais causativos, um da raiz <em>rbh</em> (cf. Gênesis 1,22; Êxodo 1,7) e outro da raiz <em>m’t</em> (cf. Êxodo 12,4). A ideia é que uns pegam mais e outros menos, e isso em relação à quantidade de gente em sua tenda. Cf. o verso seguinte. </span>"
+      "text": "“Juntam eles” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
+      "raw_html": "<span>“Juntam eles” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
     },
     {
       "ref_id": "fn99-5294",
       "number": 99,
-      "text": "“Medem eles” (mdd).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFY\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFY\" rel=\"noreferrer noopener\" target=\"_blank\">Medem eles</a>” (<em>mdd</em>). </span>"
+      "text": "“Fazedores de multiplicar e fazedores ser pouco”. Não é uma tradução fácil. São dois particípios verbais causativos, um da raiz rbh (cf. Gênesis 1,22; Êxodo 1,7) e outro da raiz m’t (cf. Êxodo 12,4). A ideia é que uns pegam mais e outros menos, e isso em relação à quantidade de gente em sua tenda. Cf. o verso seguinte.",
+      "raw_html": "<span>“Fazedores de multiplicar e fazedores ser pouco”. Não é uma tradução fácil. São dois particípios verbais causativos, um da raiz <em>rbh</em> (cf. Gênesis 1,22; Êxodo 1,7) e outro da raiz <em>m’t</em> (cf. Êxodo 12,4). A ideia é que uns pegam mais e outros menos, e isso em relação à quantidade de gente em sua tenda. Cf. o verso seguinte. </span>"
     },
     {
       "ref_id": "fn100-5294",
       "number": 100,
-      "text": "“Faz sobrar” traduz forma verbal da raiz ‘dp. Primeira de 8 ocorrências. Cf. Êxodo 16,18.23; 26,12.",
-      "raw_html": "<span>“Faz sobrar” traduz forma verbal da raiz <em>‘dp</em>. Primeira de 8 ocorrências. Cf. Êxodo 16,18.23; 26,12. </span>"
+      "text": "“Medem eles” (mdd).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFY\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFY\" rel=\"noreferrer noopener\" target=\"_blank\">Medem eles</a>” (<em>mdd</em>). </span>"
     },
     {
       "ref_id": "fn101-5294",
       "number": 101,
-      "text": "“Faz faltar” (hsr). Cf. Gênesis 8,3.",
-      "raw_html": "<span>“Faz faltar” (<em>hsr</em>). Cf. Gênesis 8,3. </span>"
+      "text": "“Faz sobrar” traduz forma verbal da raiz ‘dp. Primeira de 8 ocorrências. Cf. Êxodo 16,18.23; 26,12.",
+      "raw_html": "<span>“Faz sobrar” traduz forma verbal da raiz <em>‘dp</em>. Primeira de 8 ocorrências. Cf. Êxodo 16,18.23; 26,12. </span>"
     },
     {
       "ref_id": "fn102-5294",
       "number": 102,
-      "text": "“Comestível”. Cf. v. 16.",
-      "raw_html": "<span>“Comestível”. Cf. v. 16. </span>"
+      "text": "“Faz faltar” (hsr). Cf. Gênesis 8,3.",
+      "raw_html": "<span>“Faz faltar” (<em>hsr</em>). Cf. Gênesis 8,3. </span>"
     },
     {
       "ref_id": "fn103-5294",
       "number": 103,
-      "text": "“Juntam eles” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
-      "raw_html": "<span>“Juntam eles” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
+      "text": "“Comestível”. Cf. v. 16.",
+      "raw_html": "<span>“Comestível”. Cf. v. 16. </span>"
     },
     {
       "ref_id": "fn104-5294",
       "number": 104,
-      "text": "Ou seja, quem pegou mais, não sobrou, e quem pegou menos, não faltou, mas cada pessoa teve aquilo de que precisava, nem mais nem menos.",
-      "raw_html": "<span>Ou seja, quem pegou mais, não sobrou, e quem pegou menos, não faltou, mas cada pessoa teve aquilo de que precisava, nem mais nem menos. </span>"
+      "text": "“Juntam eles” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
+      "raw_html": "<span>“Juntam eles” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
     },
     {
       "ref_id": "fn105-5294",
       "number": 105,
-      "text": "“Faz ele permanecer” (ytr). Forma causativa da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Faz ele permanecer</a>” (<em>ytr</em>). Forma causativa da raiz. </span>"
+      "text": "Ou seja, quem pegou mais, não sobrou, e quem pegou menos, não faltou, mas cada pessoa teve aquilo de que precisava, nem mais nem menos.",
+      "raw_html": "<span>Ou seja, quem pegou mais, não sobrou, e quem pegou menos, não faltou, mas cada pessoa teve aquilo de que precisava, nem mais nem menos. </span>"
     },
     {
       "ref_id": "fn106-5294",
       "number": 106,
-      "text": "“Desde ele até manhã” (mimmennu ‘ad-boqer). Cf. Êxodo 12,10; 16,20; 7,15.",
-      "raw_html": "<span>“Desde ele até manhã” (<em>mimmennu ‘ad-boqer</em>). Cf. Êxodo 12,10; 16,20; 7,15. </span>"
+      "text": "“Faz ele permanecer” (ytr). Forma causativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Faz ele permanecer</a>” (<em>ytr</em>). Forma causativa da raiz. </span>"
     },
     {
       "ref_id": "fn107-5294",
       "number": 107,
-      "text": "Ou seja, nada deve sobrar do “pão de Yahweh” até a manhã seguinte. Cf. a instrução análoga na páscoa (Gênesis 12,10).",
-      "raw_html": "<span>Ou seja, nada deve sobrar do “pão de Yahweh” até a manhã seguinte. Cf. a instrução análoga na páscoa (Gênesis 12,10). </span>"
+      "text": "“Desde ele até manhã” (mimmennu ‘ad-boqer). Cf. Êxodo 12,10; 16,20; 7,15.",
+      "raw_html": "<span>“Desde ele até manhã” (<em>mimmennu ‘ad-boqer</em>). Cf. Êxodo 12,10; 16,20; 7,15. </span>"
     },
     {
       "ref_id": "fn108-5294",
       "number": 108,
-      "text": "“Fazem permanecer” (ytr). Forma causativa da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Fazem permanecer</a>” (<em>ytr</em>). Forma causativa da raiz. </span>"
+      "text": "Ou seja, nada deve sobrar do “pão de Yahweh” até a manhã seguinte. Cf. a instrução análoga na páscoa (Gênesis 12,10).",
+      "raw_html": "<span>Ou seja, nada deve sobrar do “pão de Yahweh” até a manhã seguinte. Cf. a instrução análoga na páscoa (Gênesis 12,10). </span>"
     },
     {
       "ref_id": "fn109-5294",
       "number": 109,
-      "text": "“Manhã” (boqer). Cf. Gênesis 1,5.8.13; Êxodo 7,15.",
-      "raw_html": "<span>“Manhã” (<em>boqer</em>). Cf. Gênesis 1,5.8.13; Êxodo 7,15. </span>"
+      "text": "“Fazem permanecer” (ytr). Forma causativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Fazem permanecer</a>” (<em>ytr</em>). Forma causativa da raiz. </span>"
     },
     {
       "ref_id": "fn110-5294",
       "number": 110,
-      "text": "“Desde ele até manhã” (mimmennu ‘ad-boqer). Cf. v. 19.",
-      "raw_html": "<span>“Desde ele até manhã” (<em>mimmennu ‘ad-boqer</em>). Cf. v. 19. </span>"
+      "text": "“Manhã” (boqer). Cf. Gênesis 1,5.8.13; Êxodo 7,15.",
+      "raw_html": "<span>“Manhã” (<em>boqer</em>). Cf. Gênesis 1,5.8.13; Êxodo 7,15. </span>"
     },
     {
       "ref_id": "fn111-5294",
       "number": 111,
-      "text": "Levanta” traduz forma verbal da raiz rmm. Primeira de 5 ocorrências. Os dicionários dão o sentido de “apodrecer” para essa ocorrência, tratando-a como um raiz distinta da raiz de Números 17,10; Ezequiel 10,15.17; 10,19. Mas o sentido dela nessas passagens é “levantar”, “exaltar”. O sentido aqui aprece referir-se ao aparecimento dos vermes, que “saem de dentro”, que “se levantam” sobre uma carne morta. Ou seja: o maná deu bicho.",
-      "raw_html": "<span>Levanta” traduz forma verbal da raiz <em>rmm</em>. Primeira de 5 ocorrências. Os dicionários dão o sentido de “apodrecer” para essa ocorrência, tratando-a como um raiz distinta da raiz de Números 17,10; Ezequiel 10,15.17; 10,19. Mas o sentido dela nessas passagens é “levantar”, “exaltar”. O sentido aqui aprece referir-se ao aparecimento dos vermes, que “saem de dentro”, que “se levantam” sobre uma carne morta. Ou seja: o maná deu bicho. </span>"
+      "text": "“Desde ele até manhã” (mimmennu ‘ad-boqer). Cf. v. 19.",
+      "raw_html": "<span>“Desde ele até manhã” (<em>mimmennu ‘ad-boqer</em>). Cf. v. 19. </span>"
     },
     {
       "ref_id": "fn112-5294",
       "number": 112,
-      "text": "“Vermes” (tola’im). Primeira de 41 ocorrências. Cf. Êxodo 25,4; Levítico 14,4.",
-      "raw_html": "<span>“Vermes” (<em>tola’im</em>). Primeira de 41 ocorrências. Cf. Êxodo 25,4; Levítico 14,4. </span>"
+      "text": "Levanta” traduz forma verbal da raiz rmm. Primeira de 5 ocorrências. Os dicionários dão o sentido de “apodrecer” para essa ocorrência, tratando-a como um raiz distinta da raiz de Números 17,10; Ezequiel 10,15.17; 10,19. Mas o sentido dela nessas passagens é “levantar”, “exaltar”. O sentido aqui aprece referir-se ao aparecimento dos vermes, que “saem de dentro”, que “se levantam” sobre uma carne morta. Ou seja: o maná deu bicho.",
+      "raw_html": "<span>Levanta” traduz forma verbal da raiz <em>rmm</em>. Primeira de 5 ocorrências. Os dicionários dão o sentido de “apodrecer” para essa ocorrência, tratando-a como um raiz distinta da raiz de Números 17,10; Ezequiel 10,15.17; 10,19. Mas o sentido dela nessas passagens é “levantar”, “exaltar”. O sentido aqui aprece referir-se ao aparecimento dos vermes, que “saem de dentro”, que “se levantam” sobre uma carne morta. Ou seja: o maná deu bicho. </span>"
     },
     {
       "ref_id": "fn113-5294",
       "number": 113,
-      "text": "“Fede” (b’sh). Cf. Êxodo 7,18.",
-      "raw_html": "<span>“Fede” (<em>b’sh</em>). Cf. Êxodo 7,18. </span>"
+      "text": "“Vermes” (tola’im). Primeira de 41 ocorrências. Cf. Êxodo 25,4; Levítico 14,4.",
+      "raw_html": "<span>“Vermes” (<em>tola’im</em>). Primeira de 41 ocorrências. Cf. Êxodo 25,4; Levítico 14,4. </span>"
     },
     {
       "ref_id": "fn114-5294",
       "number": 114,
-      "text": "“Encoleriza” (qtsp). Cf. Gênesis 40,2; 41,10.",
-      "raw_html": "<span>“Encoleriza” (<em>qtsp</em>). Cf. Gênesis 40,2; 41,10. </span>"
+      "text": "“Fede” (b’sh). Cf. Êxodo 7,18.",
+      "raw_html": "<span>“Fede” (<em>b’sh</em>). Cf. Êxodo 7,18. </span>"
     },
     {
       "ref_id": "fn115-5294",
       "number": 115,
-      "text": "“Juntam eles” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
-      "raw_html": "<span>“Juntam eles” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
+      "text": "“Encoleriza” (qtsp). Cf. Gênesis 40,2; 41,10.",
+      "raw_html": "<span>“Encoleriza” (<em>qtsp</em>). Cf. Gênesis 40,2; 41,10. </span>"
     },
     {
       "ref_id": "fn116-5294",
       "number": 116,
-      "text": "“Na manhã, na manhã” (babboqer babboqer). Ou seja, cada manhã. Cf. Êxodo 30,7.",
-      "raw_html": "<span>“Na manhã, na manhã” (<em>babboqer</em> <em>babboqer</em>). Ou seja, cada manhã. Cf. Êxodo 30,7. </span>"
-    },
-    {
-      "ref_id": "fn117-5294",
-      "number": 117,
-      "text": "“Comestível”. Cf. v. 16.18.",
-      "raw_html": "<span>“Comestível”. Cf. v. 16.18. </span>"
-    },
-    {
-      "ref_id": "fn118-5294",
-      "number": 118,
-      "text": "“Aquece” traduz forma verbal da raiz hmm. Primeira de 20 ocorrências. Cf. Êxodo 16,21; Deuteronômio 19,6",
-      "raw_html": "<span>“Aquece” traduz forma verbal da raiz <em>hmm</em>. Primeira de 20 ocorrências. Cf. Êxodo 16,21; Deuteronômio 19,6 </span>"
-    },
-    {
-      "ref_id": "fn119-5294",
-      "number": 119,
-      "text": "“Dissolve” traduz forma verbal da raiz mss. Primeira de 21 ocorrências. Cf. Êxodo 16,21; Deuteronômio 1,28; 20,8; Josué 2,11; 5,1; 7,5.",
-      "raw_html": "<span>“Dissolve” traduz forma verbal da raiz <em>mss</em>. Primeira de 21 ocorrências. Cf. Êxodo 16,21; Deuteronômio 1,28; 20,8; Josué 2,11; 5,1; 7,5. </span>"
-    },
-    {
-      "ref_id": "fn120-5294",
-      "number": 120,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn121-5294",
-      "number": 121,
       "text": "“Juntam eles” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
       "raw_html": "<span>“Juntam eles” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
     },
     {
-      "ref_id": "fn122-5294",
-      "number": 122,
-      "text": "“Para o um” (la’ehad). Primeira ocorrência. Cf. Êxodo 16,22; Números 15,12.",
-      "raw_html": "<span>“Para o um” (<em>la’ehad</em>). Primeira ocorrência. Cf. Êxodo 16,22; Números 15,12. </span>"
+      "ref_id": "fn117-5294",
+      "number": 117,
+      "text": "“Na manhã, na manhã” (babboqer babboqer). Ou seja, cada manhã. Cf. Êxodo 30,7.",
+      "raw_html": "<span>“Na manhã, na manhã” (<em>babboqer</em> <em>babboqer</em>). Ou seja, cada manhã. Cf. Êxodo 30,7. </span>"
     },
     {
-      "ref_id": "fn123-5294",
-      "number": 123,
-      "text": "“Os levantados de” (nesi’e). Primeira de 21 ocorrências. Cf. Êxodo 16,22; Números 1,16; 3,32; 7,2.84; 16,2; 31,13; 32,2.",
-      "raw_html": "<span>“Os levantados de” (<em>nesi’e</em>). Primeira de 21 ocorrências. Cf. Êxodo 16,22; Números 1,16; 3,32; 7,2.84; 16,2; 31,13; 32,2. </span>"
+      "ref_id": "fn118-5294",
+      "number": 118,
+      "text": "“Comestível”. Cf. v. 16.18.",
+      "raw_html": "<span>“Comestível”. Cf. v. 16.18. </span>"
     },
     {
-      "ref_id": "fn124-5294",
-      "number": 124,
-      "text": "“Levantados” (nasi’). Cf. Gênesis 17,20; 23,6; 25,16; 34,2.",
-      "raw_html": "<span>“Levantados” (<em>nasi’</em>). Cf. Gênesis 17,20; 23,6; 25,16; 34,2. </span>"
+      "ref_id": "fn119-5294",
+      "number": 119,
+      "text": "“Aquece” traduz forma verbal da raiz hmm. Primeira de 20 ocorrências. Cf. Êxodo 16,21; Deuteronômio 19,6",
+      "raw_html": "<span>“Aquece” traduz forma verbal da raiz <em>hmm</em>. Primeira de 20 ocorrências. Cf. Êxodo 16,21; Deuteronômio 19,6 </span>"
     },
     {
-      "ref_id": "fn125-5294",
-      "number": 125,
-      "text": "“Os levantados da comunidade” (nesi’e ha’edah). Primeira de 5 ocorrências. Cf. Êxodo 16,22; Números 31,13; 32,2; Josué 9,15.18.",
-      "raw_html": "<span>“Os levantados da comunidade” (<em>nesi’e ha’edah</em>). Primeira de 5 ocorrências. Cf. Êxodo 16,22; Números 31,13; 32,2; Josué 9,15.18. </span>"
+      "ref_id": "fn120-5294",
+      "number": 120,
+      "text": "“Dissolve” traduz forma verbal da raiz mss. Primeira de 21 ocorrências. Cf. Êxodo 16,21; Deuteronômio 1,28; 20,8; Josué 2,11; 5,1; 7,5.",
+      "raw_html": "<span>“Dissolve” traduz forma verbal da raiz <em>mss</em>. Primeira de 21 ocorrências. Cf. Êxodo 16,21; Deuteronômio 1,28; 20,8; Josué 2,11; 5,1; 7,5. </span>"
     },
     {
-      "ref_id": "fn126-5294",
-      "number": 126,
-      "text": "“E fazem eles informar” (weyaggidu). Cf. Gênesis 42,29; Êxodo 16,22; 1 Samuel 11,9; 14,33; 1 Samuel 25,8.",
-      "raw_html": "<span>“E fazem eles informar” (<em>weyaggidu</em>). Cf. Gênesis 42,29; Êxodo 16,22; 1 Samuel 11,9; 14,33; 1 Samuel 25,8. </span>"
-    },
-    {
-      "ref_id": "fn127-5294",
-      "number": 127,
-      "text": "“Ele que fala Yahweh” (hu’ ‘asher-dibber yehwah“. “Ele” aqui tem o sentido de “isto”. Somente aqui e em Levítico 10,3.",
-      "raw_html": "<span>“Ele que fala Yahweh” (<em>hu’ ‘asher-dibber yehwah</em>“. “Ele” aqui tem o sentido de “isto”. Somente aqui e em Levítico 10,3. </span>"
-    },
-    {
-      "ref_id": "fn128-5294",
-      "number": 128,
-      "text": "“Sabadíssimo” (shabaton). Não há uma palavra em nossa língua para expressar a variação shabaton. O termo sábado é shabat. Fala-se de supervalorizar o termo. Na prática, é sufixá-lo com o nun. Primeira de 10 ocorrências (Êxodo 16,23; 31,15; 35,2; Levítico 16,31; 23,3.24.32.39; 25,4.5. Cf. em Êxodo 31,15 sabbat shabbaton.",
-      "raw_html": "<span>“Sabadíssimo” (<em>shabaton</em>). Não há uma palavra em nossa língua para expressar a variação <em>shabaton</em>. O termo sábado é <em>shabat</em>. Fala-se de supervalorizar o termo. Na prática, é sufixá-lo com o <em>nun</em>. Primeira de 10 ocorrências (Êxodo 16,23; 31,15; 35,2; Levítico 16,31; 23,3.24.32.39; 25,4.5. Cf. em Êxodo 31,15 <em>sabbat shabbaton</em>. </span>"
-    },
-    {
-      "ref_id": "fn129-5294",
-      "number": 129,
-      "text": "Essa fórmula parece esclarecer que shabaton é um sábado sagrado. Chouraqui usa essa passagem para dizer que está pressuposto já existir comemoração de sábado antes do texto. Parece ser mais plausível pressupor que essa supervalorização do shabat sirva exatamente por razões contrárias: é uma novidade.",
-      "raw_html": "<span>Essa fórmula parece esclarecer que <em>shabaton</em> é um sábado sagrado. Chouraqui usa essa passagem para dizer que está pressuposto já existir comemoração de sábado antes do texto. Parece ser mais plausível pressupor que essa supervalorização do <em>shabat</em> sirva exatamente por razões contrárias: é uma novidade. </span>"
-    },
-    {
-      "ref_id": "fn130-5294",
-      "number": 130,
-      "text": "“Sobrado” (‘dp). Forma participial da raiz. Cf. v. 18; Êxodo 26,12.",
-      "raw_html": "<span>“Sobrado” (<em>‘dp</em>). Forma participial da raiz. Cf. v. 18; Êxodo 26,12. </span>"
-    },
-    {
-      "ref_id": "fn131-5294",
-      "number": 131,
-      "text": "“Fazei vós repousar” (nwh). Forma causativa imperativa da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Fazei vós repousar</a>” (<em>nwh</em>). Forma causativa imperativa da raiz. </span>"
-    },
-    {
-      "ref_id": "fn132-5294",
-      "number": 132,
-      "text": "“Garda” (mishmeret). Cf. Gênesis 26,5; Êxodo 12,6; 16,32.33.34; Levítico 8,35.",
-      "raw_html": "<span>“Garda” (<em>mishmeret</em>). Cf. Gênesis 26,5; Êxodo 12,6; 16,32.33.34; Levítico 8,35. </span>"
-    },
-    {
-      "ref_id": "fn133-5294",
-      "number": 133,
-      "text": "“Até a manhã” (‘ad-habboqer). Cf. Êxodo 16,24; 29,34; Levítico 6,2",
-      "raw_html": "<span>“Até a manhã” (<em>‘ad-habboqer</em>). Cf. Êxodo 16,24; 29,34; Levítico 6,2 </span>"
-    },
-    {
-      "ref_id": "fn134-5294",
-      "number": 134,
-      "text": "“Fazem eles repousar” (nwh). Forma causativa da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Fazem eles repousar</a>” (<em>nwh</em>). Forma causativa da raiz. </span>"
-    },
-    {
-      "ref_id": "fn135-5294",
-      "number": 135,
-      "text": "“E fazem eles repousar ele” (wayyinnihu ‘oto). Aqui e em Números 15,34.",
-      "raw_html": "<span>“E fazem eles repousar ele” (<em>wayyinnihu ‘oto</em>). Aqui e em Números 15,34. </span>"
-    },
-    {
-      "ref_id": "fn136-5294",
-      "number": 136,
-      "text": "“Até a manhã”. Cf. v. 23.",
-      "raw_html": "<span>“Até a manhã”. Cf. v. 23. </span>"
-    },
-    {
-      "ref_id": "fn137-5294",
-      "number": 137,
-      "text": "Cf. v. 16.",
-      "raw_html": "<span>Cf. v. 16. </span>"
-    },
-    {
-      "ref_id": "fn138-5294",
-      "number": 138,
-      "text": "“Faz feder” (b’sh). Forma causativa da raiz. Cf. v. 20.",
-      "raw_html": "<span>“Faz feder” (<em>b’sh</em>). Forma causativa da raiz. Cf. v. 20. </span>"
-    },
-    {
-      "ref_id": "fn139-5294",
-      "number": 139,
-      "text": "“Larva” (rimmah). Primeira ocorrência do termo.",
-      "raw_html": "<span>“Larva” (<em>rimmah</em>). Primeira ocorrência do termo. </span>"
-    },
-    {
-      "ref_id": "fn140-5294",
-      "number": 140,
-      "text": "“O dia” significa “hoje”.",
-      "raw_html": "<span>“O dia” significa “hoje”. </span>"
-    },
-    {
-      "ref_id": "fn141-5294",
-      "number": 141,
-      "text": "“O dia. Que” (hayyom ki). Cf. Êxodo 14,13; 16,25; Deuteronômio 8,19; 9,3; 11,2; 30,18.",
-      "raw_html": "<span>“O dia. Que” (<em>hayyom ki</em>). Cf. Êxodo 14,13; 16,25; Deuteronômio 8,19; 9,3; 11,2; 30,18. </span>"
-    },
-    {
-      "ref_id": "fn142-5294",
-      "number": 142,
-      "text": "“Seis de dias” (sheshet yamim). Primeira de 14 ocorrências. Cf. Êxodo 16,26; 20,9.11; 23,12; 24,16; 31,15.17; 34,21; 35,2; Levítico 23,3; Deuteronômio 5,13; 16,8; Josué 6,3.14.",
-      "raw_html": "<span>“Seis de dias” (<em>sheshet yamim</em>). Primeira de 14 ocorrências. Cf. Êxodo 16,26; 20,9.11; 23,12; 24,16; 31,15.17; 34,21; 35,2; Levítico 23,3; Deuteronômio 5,13; 16,8; Josué 6,3.14. </span>"
-    },
-    {
-      "ref_id": "fn143-5294",
-      "number": 143,
-      "text": "“Juntais vós” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
-      "raw_html": "<span>“Juntais vós” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
-    },
-    {
-      "ref_id": "fn144-5294",
-      "number": 144,
+      "ref_id": "fn121-5294",
+      "number": 121,
       "text": "“E está” (wayehi).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
+      "ref_id": "fn122-5294",
+      "number": 122,
+      "text": "“Juntam eles” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
+      "raw_html": "<span>“Juntam eles” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
+    },
+    {
+      "ref_id": "fn123-5294",
+      "number": 123,
+      "text": "“Para o um” (la’ehad). Primeira ocorrência. Cf. Êxodo 16,22; Números 15,12.",
+      "raw_html": "<span>“Para o um” (<em>la’ehad</em>). Primeira ocorrência. Cf. Êxodo 16,22; Números 15,12. </span>"
+    },
+    {
+      "ref_id": "fn124-5294",
+      "number": 124,
+      "text": "“Os levantados de” (nesi’e). Primeira de 21 ocorrências. Cf. Êxodo 16,22; Números 1,16; 3,32; 7,2.84; 16,2; 31,13; 32,2.",
+      "raw_html": "<span>“Os levantados de” (<em>nesi’e</em>). Primeira de 21 ocorrências. Cf. Êxodo 16,22; Números 1,16; 3,32; 7,2.84; 16,2; 31,13; 32,2. </span>"
+    },
+    {
+      "ref_id": "fn125-5294",
+      "number": 125,
+      "text": "“Levantados” (nasi’). Cf. Gênesis 17,20; 23,6; 25,16; 34,2.",
+      "raw_html": "<span>“Levantados” (<em>nasi’</em>). Cf. Gênesis 17,20; 23,6; 25,16; 34,2. </span>"
+    },
+    {
+      "ref_id": "fn126-5294",
+      "number": 126,
+      "text": "“Os levantados da comunidade” (nesi’e ha’edah). Primeira de 5 ocorrências. Cf. Êxodo 16,22; Números 31,13; 32,2; Josué 9,15.18.",
+      "raw_html": "<span>“Os levantados da comunidade” (<em>nesi’e ha’edah</em>). Primeira de 5 ocorrências. Cf. Êxodo 16,22; Números 31,13; 32,2; Josué 9,15.18. </span>"
+    },
+    {
+      "ref_id": "fn127-5294",
+      "number": 127,
+      "text": "“E fazem eles informar” (weyaggidu). Cf. Gênesis 42,29; Êxodo 16,22; 1 Samuel 11,9; 14,33; 1 Samuel 25,8.",
+      "raw_html": "<span>“E fazem eles informar” (<em>weyaggidu</em>). Cf. Gênesis 42,29; Êxodo 16,22; 1 Samuel 11,9; 14,33; 1 Samuel 25,8. </span>"
+    },
+    {
+      "ref_id": "fn128-5294",
+      "number": 128,
+      "text": "“Ele que fala Yahweh” (hu’ ‘asher-dibber yehwah“. “Ele” aqui tem o sentido de “isto”. Somente aqui e em Levítico 10,3.",
+      "raw_html": "<span>“Ele que fala Yahweh” (<em>hu’ ‘asher-dibber yehwah</em>“. “Ele” aqui tem o sentido de “isto”. Somente aqui e em Levítico 10,3. </span>"
+    },
+    {
+      "ref_id": "fn129-5294",
+      "number": 129,
+      "text": "“Sabadíssimo” (shabaton). Não há uma palavra em nossa língua para expressar a variação shabaton. O termo sábado é shabat. Fala-se de supervalorizar o termo. Na prática, é sufixá-lo com o nun. Primeira de 10 ocorrências (Êxodo 16,23; 31,15; 35,2; Levítico 16,31; 23,3.24.32.39; 25,4.5. Cf. em Êxodo 31,15 sabbat shabbaton.",
+      "raw_html": "<span>“Sabadíssimo” (<em>shabaton</em>). Não há uma palavra em nossa língua para expressar a variação <em>shabaton</em>. O termo sábado é <em>shabat</em>. Fala-se de supervalorizar o termo. Na prática, é sufixá-lo com o <em>nun</em>. Primeira de 10 ocorrências (Êxodo 16,23; 31,15; 35,2; Levítico 16,31; 23,3.24.32.39; 25,4.5. Cf. em Êxodo 31,15 <em>sabbat shabbaton</em>. </span>"
+    },
+    {
+      "ref_id": "fn130-5294",
+      "number": 130,
+      "text": "Essa fórmula parece esclarecer que shabaton é um sábado sagrado. Chouraqui usa essa passagem para dizer que está pressuposto já existir comemoração de sábado antes do texto. Parece ser mais plausível pressupor que essa supervalorização do shabat sirva exatamente por razões contrárias: é uma novidade.",
+      "raw_html": "<span>Essa fórmula parece esclarecer que <em>shabaton</em> é um sábado sagrado. Chouraqui usa essa passagem para dizer que está pressuposto já existir comemoração de sábado antes do texto. Parece ser mais plausível pressupor que essa supervalorização do <em>shabat</em> sirva exatamente por razões contrárias: é uma novidade. </span>"
+    },
+    {
+      "ref_id": "fn131-5294",
+      "number": 131,
+      "text": "“Sobrado” (‘dp). Forma participial da raiz. Cf. v. 18; Êxodo 26,12.",
+      "raw_html": "<span>“Sobrado” (<em>‘dp</em>). Forma participial da raiz. Cf. v. 18; Êxodo 26,12. </span>"
+    },
+    {
+      "ref_id": "fn132-5294",
+      "number": 132,
+      "text": "“Fazei vós repousar” (nwh). Forma causativa imperativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Fazei vós repousar</a>” (<em>nwh</em>). Forma causativa imperativa da raiz. </span>"
+    },
+    {
+      "ref_id": "fn133-5294",
+      "number": 133,
+      "text": "“Garda” (mishmeret). Cf. Gênesis 26,5; Êxodo 12,6; 16,32.33.34; Levítico 8,35.",
+      "raw_html": "<span>“Garda” (<em>mishmeret</em>). Cf. Gênesis 26,5; Êxodo 12,6; 16,32.33.34; Levítico 8,35. </span>"
+    },
+    {
+      "ref_id": "fn134-5294",
+      "number": 134,
+      "text": "“Até a manhã” (‘ad-habboqer). Cf. Êxodo 16,24; 29,34; Levítico 6,2",
+      "raw_html": "<span>“Até a manhã” (<em>‘ad-habboqer</em>). Cf. Êxodo 16,24; 29,34; Levítico 6,2 </span>"
+    },
+    {
+      "ref_id": "fn135-5294",
+      "number": 135,
+      "text": "“Fazem eles repousar” (nwh). Forma causativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Fazem eles repousar</a>” (<em>nwh</em>). Forma causativa da raiz. </span>"
+    },
+    {
+      "ref_id": "fn136-5294",
+      "number": 136,
+      "text": "“E fazem eles repousar ele” (wayyinnihu ‘oto). Aqui e em Números 15,34.",
+      "raw_html": "<span>“E fazem eles repousar ele” (<em>wayyinnihu ‘oto</em>). Aqui e em Números 15,34. </span>"
+    },
+    {
+      "ref_id": "fn137-5294",
+      "number": 137,
+      "text": "“Até a manhã”. Cf. v. 23.",
+      "raw_html": "<span>“Até a manhã”. Cf. v. 23. </span>"
+    },
+    {
+      "ref_id": "fn138-5294",
+      "number": 138,
+      "text": "Cf. v. 16.",
+      "raw_html": "<span>Cf. v. 16. </span>"
+    },
+    {
+      "ref_id": "fn139-5294",
+      "number": 139,
+      "text": "“Faz feder” (b’sh). Forma causativa da raiz. Cf. v. 20.",
+      "raw_html": "<span>“Faz feder” (<em>b’sh</em>). Forma causativa da raiz. Cf. v. 20. </span>"
+    },
+    {
+      "ref_id": "fn140-5294",
+      "number": 140,
+      "text": "“Larva” (rimmah). Primeira ocorrência do termo.",
+      "raw_html": "<span>“Larva” (<em>rimmah</em>). Primeira ocorrência do termo. </span>"
+    },
+    {
+      "ref_id": "fn141-5294",
+      "number": 141,
+      "text": "“O dia” significa “hoje”.",
+      "raw_html": "<span>“O dia” significa “hoje”. </span>"
+    },
+    {
+      "ref_id": "fn142-5294",
+      "number": 142,
+      "text": "“O dia. Que” (hayyom ki). Cf. Êxodo 14,13; 16,25; Deuteronômio 8,19; 9,3; 11,2; 30,18.",
+      "raw_html": "<span>“O dia. Que” (<em>hayyom ki</em>). Cf. Êxodo 14,13; 16,25; Deuteronômio 8,19; 9,3; 11,2; 30,18. </span>"
+    },
+    {
+      "ref_id": "fn143-5294",
+      "number": 143,
+      "text": "“Seis de dias” (sheshet yamim). Primeira de 14 ocorrências. Cf. Êxodo 16,26; 20,9.11; 23,12; 24,16; 31,15.17; 34,21; 35,2; Levítico 23,3; Deuteronômio 5,13; 16,8; Josué 6,3.14.",
+      "raw_html": "<span>“Seis de dias” (<em>sheshet yamim</em>). Primeira de 14 ocorrências. Cf. Êxodo 16,26; 20,9.11; 23,12; 24,16; 31,15.17; 34,21; 35,2; Levítico 23,3; Deuteronômio 5,13; 16,8; Josué 6,3.14. </span>"
+    },
+    {
+      "ref_id": "fn144-5294",
+      "number": 144,
+      "text": "“Juntais vós” (lqt). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
+      "raw_html": "<span>“Juntais vós” (<em>lqt</em>). Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
+    },
+    {
       "ref_id": "fn145-5294",
       "number": 145,
-      "text": "“Juntar” (lqt). Forma infinitiva da raiz. Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
-      "raw_html": "<span>“Juntar” (<em>lqt</em>). Forma infinitiva da raiz. Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn146-5294",
       "number": 146,
-      "text": "“Até quando” (‘ad-‘anah). Primeira de 10 ocorrências. Cf. Êxodo 16,28; Números 14,11.",
-      "raw_html": "<span>“Até quando” (<em>‘ad-‘anah</em>). Primeira de 10 ocorrências. Cf. Êxodo 16,28; Números 14,11. </span>"
+      "text": "“Juntar” (lqt). Forma infinitiva da raiz. Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38.",
+      "raw_html": "<span>“Juntar” (<em>lqt</em>). Forma infinitiva da raiz. Cf. Gênesis 31,36; 47,14; Êxodo 16,4.5.16.17.18.21.22.26.27; Levítico 19,9.10; 23,22; Números 11,8; Juízes 1,7; 11,3; Rute 2,2.3.7.8.15.16.17.18.19.23; 1 Samuel 20,38. </span>"
     },
     {
       "ref_id": "fn147-5294",
       "number": 147,
-      "text": "“Dois dias” (yomayim). Aqui e em Êxodo 21,21; Números 11,19. Trata-se do dual de dias. Logo, dois dias. Desagrada-me usar duas palavras (“dois dias”) para traduzir uma só (yomayim).",
-      "raw_html": "<span>“Dois dias” (<em>yomayim</em>). Aqui e em Êxodo 21,21; Números 11,19. Trata-se do dual de dias. Logo, dois dias. Desagrada-me usar duas palavras (“dois dias”) para traduzir uma só (<em>yomayim</em>). </span>"
+      "text": "“Até quando” (‘ad-‘anah). Primeira de 10 ocorrências. Cf. Êxodo 16,28; Números 14,11.",
+      "raw_html": "<span>“Até quando” (<em>‘ad-‘anah</em>). Primeira de 10 ocorrências. Cf. Êxodo 16,28; Números 14,11. </span>"
     },
     {
       "ref_id": "fn148-5294",
       "number": 148,
-      "text": "“Debaixo dele” (tahtayw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHT\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHT\" rel=\"noreferrer noopener\" target=\"_blank\">Debaixo dele</a>” (<em>tahtayw</em>). </span>"
+      "text": "“Dois dias” (yomayim). Aqui e em Êxodo 21,21; Números 11,19. Trata-se do dual de dias. Logo, dois dias. Desagrada-me usar duas palavras (“dois dias”) para traduzir uma só (yomayim).",
+      "raw_html": "<span>“Dois dias” (<em>yomayim</em>). Aqui e em Êxodo 21,21; Números 11,19. Trata-se do dual de dias. Logo, dois dias. Desagrada-me usar duas palavras (“dois dias”) para traduzir uma só (<em>yomayim</em>). </span>"
     },
     {
       "ref_id": "fn149-5294",
       "number": 149,
-      "text": "“Man” translitera man. As versões tornaram comum a forma “maná”. A forma hebraica deixa claro agora que a pergunta do povo do v. 15 constituía já uma paródia de etiologia para o “pão de Yahweh”. O povo pergunta man hu’? E o “pão de Yahweh” é então chamado de man. Lembra a anedota que circula quanto à etimologia de canguru.",
-      "raw_html": "<span>“Man” translitera <em>man</em>. As versões tornaram comum a forma “maná”. A forma hebraica deixa claro agora que a pergunta do povo do v. 15 constituía já uma paródia de etiologia para o “pão de Yahweh”. O povo pergunta <em>man hu’</em>? E o “pão de Yahweh” é então chamado de <em>man</em>. Lembra a anedota que circula quanto à etimologia de canguru. </span>"
+      "text": "“Debaixo dele” (tahtayw).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHT\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHT\" rel=\"noreferrer noopener\" target=\"_blank\">Debaixo dele</a>” (<em>tahtayw</em>). </span>"
     },
     {
       "ref_id": "fn150-5294",
       "number": 150,
-      "text": "“E ele” (wehu’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADO\" rel=\"noreferrer noopener\" target=\"_blank\">E ele</a>” (<em>wehu’</em>). </span>"
+      "text": "“Man” translitera man. As versões tornaram comum a forma “maná”. A forma hebraica deixa claro agora que a pergunta do povo do v. 15 constituía já uma paródia de etiologia para o “pão de Yahweh”. O povo pergunta man hu’? E o “pão de Yahweh” é então chamado de man. Lembra a anedota que circula quanto à etimologia de canguru.",
+      "raw_html": "<span>“Man” translitera <em>man</em>. As versões tornaram comum a forma “maná”. A forma hebraica deixa claro agora que a pergunta do povo do v. 15 constituía já uma paródia de etiologia para o “pão de Yahweh”. O povo pergunta <em>man hu’</em>? E o “pão de Yahweh” é então chamado de <em>man</em>. Lembra a anedota que circula quanto à etimologia de canguru. </span>"
     },
     {
       "ref_id": "fn151-5294",
       "number": 151,
-      "text": "“Conforme semente de coentro” (kizra’-gad). Aqui e em Números 11,7.",
-      "raw_html": "<span>“Conforme semente de coentro” (<em>kizra’-gad</em>). Aqui e em Números 11,7. </span>"
+      "text": "“E ele” (wehu’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADO\" rel=\"noreferrer noopener\" target=\"_blank\">E ele</a>” (<em>wehu’</em>). </span>"
     },
     {
       "ref_id": "fn152-5294",
       "number": 152,
-      "text": "“Coentro” (gad). Koehler-Baumgartner são assertivos: Coriandrum sativa.",
-      "raw_html": "<span>“Coentro” (<em>gad</em>). Koehler-Baumgartner são assertivos: <em><a data-id=\"https://pt.wikipedia.org/wiki/Coentro\" data-type=\"link\" href=\"https://pt.wikipedia.org/wiki/Coentro\" rel=\"noreferrer noopener\" target=\"_blank\">Coriandrum sativa</a></em>. </span>"
+      "text": "“Conforme semente de coentro” (kizra’-gad). Aqui e em Números 11,7.",
+      "raw_html": "<span>“Conforme semente de coentro” (<em>kizra’-gad</em>). Aqui e em Números 11,7. </span>"
     },
     {
       "ref_id": "fn153-5294",
       "number": 153,
-      "text": "“Gosto” (ta’am). Primeira de 12 ocorrências. Cf. Êxodo 16,31; Números 11,8.",
-      "raw_html": "<span>“Gosto” (<em>ta’am</em>). Primeira de 12 ocorrências. Cf. Êxodo 16,31; Números 11,8. </span>"
+      "text": "“Coentro” (gad). Koehler-Baumgartner são assertivos: Coriandrum sativa.",
+      "raw_html": "<span>“Coentro” (<em>gad</em>). Koehler-Baumgartner são assertivos: <em><a data-id=\"https://pt.wikipedia.org/wiki/Coentro\" data-type=\"link\" href=\"https://pt.wikipedia.org/wiki/Coentro\" rel=\"noreferrer noopener\" target=\"_blank\">Coriandrum sativa</a></em>. </span>"
     },
     {
       "ref_id": "fn154-5294",
       "number": 154,
-      "text": "“Favo” (tsappihit). Sigo Chouraqui. Fala-se de “bolo de mel” em outras fontes. Chega-se a dar por se tratar de um alimento líquido à base de mel. O termo só ocorre aqui. Não vem ao caso o que é que o autor tinha na cabeça. Ele quer dizer que era doce e gostoso…",
-      "raw_html": "<span>“Favo” (<em>tsappihit</em>). Sigo Chouraqui. Fala-se de “bolo de mel” em outras fontes. Chega-se a dar por se tratar de um alimento líquido à base de mel. O termo só ocorre aqui. Não vem ao caso o que é que o autor tinha na cabeça. Ele quer dizer que era doce e gostoso… </span>"
+      "text": "“Gosto” (ta’am). Primeira de 12 ocorrências. Cf. Êxodo 16,31; Números 11,8.",
+      "raw_html": "<span>“Gosto” (<em>ta’am</em>). Primeira de 12 ocorrências. Cf. Êxodo 16,31; Números 11,8. </span>"
     },
     {
       "ref_id": "fn155-5294",
       "number": 155,
-      "text": "Cf. v. 16.24.",
-      "raw_html": "<span>Cf. v. 16.24. </span>"
+      "text": "“Favo” (tsappihit). Sigo Chouraqui. Fala-se de “bolo de mel” em outras fontes. Chega-se a dar por se tratar de um alimento líquido à base de mel. O termo só ocorre aqui. Não vem ao caso o que é que o autor tinha na cabeça. Ele quer dizer que era doce e gostoso…",
+      "raw_html": "<span>“Favo” (<em>tsappihit</em>). Sigo Chouraqui. Fala-se de “bolo de mel” em outras fontes. Chega-se a dar por se tratar de um alimento líquido à base de mel. O termo só ocorre aqui. Não vem ao caso o que é que o autor tinha na cabeça. Ele quer dizer que era doce e gostoso… </span>"
     },
     {
       "ref_id": "fn156-5294",
       "number": 156,
-      "text": "“Que manda Yahweh”. Cf. v. 16.",
-      "raw_html": "<span>“Que manda Yahweh”. Cf. v. 16. </span>"
+      "text": "Cf. v. 16.24.",
+      "raw_html": "<span>Cf. v. 16.24. </span>"
     },
     {
       "ref_id": "fn157-5294",
       "number": 157,
-      "text": "“Esta é a fala que manda Yahweh” (zeh haddabar ‘asher-tsiwwah yehwah. Cf. v. 16.",
-      "raw_html": "<span>“Esta é a fala que manda Yahweh” (<em>zeh haddabar ‘asher-tsiwwah yehwah</em>. Cf. v. 16. </span>"
+      "text": "“Que manda Yahweh”. Cf. v. 16.",
+      "raw_html": "<span>“Que manda Yahweh”. Cf. v. 16. </span>"
     },
     {
       "ref_id": "fn158-5294",
       "number": 158,
-      "text": "“E diz Mosheh. Esta é a fala que manda Yahweh” (wayyomer mosheh zeh haddabar ‘asher tsiwwah yehwah). Somente aqui e em Levítico 9,6.",
-      "raw_html": "<span>“E diz Mosheh. Esta é a fala que manda Yahweh” (<em>wayyomer mosheh zeh haddabar ‘asher tsiwwah yehwah</em>). Somente aqui e em Levítico 9,6. </span>"
+      "text": "“Esta é a fala que manda Yahweh” (zeh haddabar ‘asher-tsiwwah yehwah. Cf. v. 16.",
+      "raw_html": "<span>“Esta é a fala que manda Yahweh” (<em>zeh haddabar ‘asher-tsiwwah yehwah</em>. Cf. v. 16. </span>"
     },
     {
       "ref_id": "fn159-5294",
       "number": 159,
-      "text": "“O enchimento do” (melo’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGI\" rel=\"noreferrer noopener\" target=\"_blank\">O enchimento do</a>” (<em>melo’</em>). </span>"
+      "text": "“E diz Mosheh. Esta é a fala que manda Yahweh” (wayyomer mosheh zeh haddabar ‘asher tsiwwah yehwah). Somente aqui e em Levítico 9,6.",
+      "raw_html": "<span>“E diz Mosheh. Esta é a fala que manda Yahweh” (<em>wayyomer mosheh zeh haddabar ‘asher tsiwwah yehwah</em>). Somente aqui e em Levítico 9,6. </span>"
     },
     {
       "ref_id": "fn160-5294",
       "number": 160,
-      "text": "“Guardamento”. Cf. v. 23.",
-      "raw_html": "<span>“Guardamento”. Cf. v. 23. </span>"
-    },
-    {
-      "ref_id": "fn161-5294",
-      "number": 161,
-      "text": "“Para as gerações de vós (ledorotekem). Cf. Gênesis 17,12; Êxodo 12,14.17; 16,32.33; 29,42; 30,8.10.31; 31,13; Levítico 3,17; 6,11",
-      "raw_html": "<span>“Para as gerações de vós (<em>ledorotekem</em>). Cf. Gênesis 17,12; Êxodo 12,14.17; 16,32.33; 29,42; 30,8.10.31; 31,13; Levítico 3,17; 6,11 </span>"
-    },
-    {
-      "ref_id": "fn162-5294",
-      "number": 162,
-      "text": "O narrador diz que Moisés mandou tomarem um jarro e o encherem com o “pão de Yahweh”. As “relíquias” famosas dos cristianismos têm lastro bíblico!",
-      "raw_html": "<span>O narrador diz que Moisés mandou tomarem um jarro e o encherem com o “pão de Yahweh”. As “relíquias” famosas dos cristianismos têm lastro bíblico! </span>"
-    },
-    {
-      "ref_id": "fn163-5294",
-      "number": 163,
-      "text": "“Para que” (lema’an). Cf. Gênesis 12,13; Êxodo 16,4.",
-      "raw_html": "<span>“Para que” (<em>lema’an</em>). Cf. Gênesis 12,13; Êxodo 16,4. </span>"
-    },
-    {
-      "ref_id": "fn164-5294",
-      "number": 164,
-      "text": "“No fazer de mim sair” (behotsi’i). Aqui e em Levítico 23,42; Ezequiel 20,41.",
-      "raw_html": "<span>“No fazer de mim sair” (<em>behotsi’i</em>). Aqui e em Levítico 23,42; Ezequiel 20,41. </span>"
-    },
-    {
-      "ref_id": "fn165-5294",
-      "number": 165,
-      "text": "“Urna” (tsintsenet). Ninguém parece saber o que é que de fato é isso. Cada qual dá a coisa por uma coisa. Fala-se de “jarro”, “frasco”, “cesto”. Sigo Chouraqui. Mas somente para não inventar eu alguma outra coisa também.",
-      "raw_html": "<span>“Urna” (<em>tsintsenet</em>). Ninguém parece saber o que é que de fato é isso. Cada qual dá a coisa por uma coisa. Fala-se de “jarro”, “frasco”, “cesto”. Sigo Chouraqui. Mas somente para não inventar eu alguma outra coisa também. </span>"
-    },
-    {
-      "ref_id": "fn166-5294",
-      "number": 166,
       "text": "“O enchimento do” (melo’).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGI\" rel=\"noreferrer noopener\" target=\"_blank\">O enchimento do</a>” (<em>melo’</em>). </span>"
     },
     {
+      "ref_id": "fn161-5294",
+      "number": 161,
+      "text": "“Guardamento”. Cf. v. 23.",
+      "raw_html": "<span>“Guardamento”. Cf. v. 23. </span>"
+    },
+    {
+      "ref_id": "fn162-5294",
+      "number": 162,
+      "text": "“Para as gerações de vós (ledorotekem). Cf. Gênesis 17,12; Êxodo 12,14.17; 16,32.33; 29,42; 30,8.10.31; 31,13; Levítico 3,17; 6,11",
+      "raw_html": "<span>“Para as gerações de vós (<em>ledorotekem</em>). Cf. Gênesis 17,12; Êxodo 12,14.17; 16,32.33; 29,42; 30,8.10.31; 31,13; Levítico 3,17; 6,11 </span>"
+    },
+    {
+      "ref_id": "fn163-5294",
+      "number": 163,
+      "text": "O narrador diz que Moisés mandou tomarem um jarro e o encherem com o “pão de Yahweh”. As “relíquias” famosas dos cristianismos têm lastro bíblico!",
+      "raw_html": "<span>O narrador diz que Moisés mandou tomarem um jarro e o encherem com o “pão de Yahweh”. As “relíquias” famosas dos cristianismos têm lastro bíblico! </span>"
+    },
+    {
+      "ref_id": "fn164-5294",
+      "number": 164,
+      "text": "“Para que” (lema’an). Cf. Gênesis 12,13; Êxodo 16,4.",
+      "raw_html": "<span>“Para que” (<em>lema’an</em>). Cf. Gênesis 12,13; Êxodo 16,4. </span>"
+    },
+    {
+      "ref_id": "fn165-5294",
+      "number": 165,
+      "text": "“No fazer de mim sair” (behotsi’i). Aqui e em Levítico 23,42; Ezequiel 20,41.",
+      "raw_html": "<span>“No fazer de mim sair” (<em>behotsi’i</em>). Aqui e em Levítico 23,42; Ezequiel 20,41. </span>"
+    },
+    {
+      "ref_id": "fn166-5294",
+      "number": 166,
+      "text": "“Urna” (tsintsenet). Ninguém parece saber o que é que de fato é isso. Cada qual dá a coisa por uma coisa. Fala-se de “jarro”, “frasco”, “cesto”. Sigo Chouraqui. Mas somente para não inventar eu alguma outra coisa também.",
+      "raw_html": "<span>“Urna” (<em>tsintsenet</em>). Ninguém parece saber o que é que de fato é isso. Cada qual dá a coisa por uma coisa. Fala-se de “jarro”, “frasco”, “cesto”. Sigo Chouraqui. Mas somente para não inventar eu alguma outra coisa também. </span>"
+    },
+    {
       "ref_id": "fn167-5294",
       "number": 167,
-      "text": "“Man” é o famoso maná. Sintaticamente, a palavra não está em relação de construto com a anterior, a despeito de assim pressuporem as versões e mesmo Chouraqui.",
-      "raw_html": "<span>“Man” é o famoso <em>maná</em>. Sintaticamente, a palavra não está em relação de construto com a anterior, a despeito de assim pressuporem as versões e mesmo Chouraqui. </span>"
+      "text": "“O enchimento do” (melo’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGI\" rel=\"noreferrer noopener\" target=\"_blank\">O enchimento do</a>” (<em>melo’</em>). </span>"
     },
     {
       "ref_id": "fn168-5294",
       "number": 168,
-      "text": "“Faze tu repousar” (nwh). Forma causativa imperativa da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Faze tu repousar</a>” (<em>nwh</em>). Forma causativa imperativa da raiz. </span>"
+      "text": "“Man” é o famoso maná. Sintaticamente, a palavra não está em relação de construto com a anterior, a despeito de assim pressuporem as versões e mesmo Chouraqui.",
+      "raw_html": "<span>“Man” é o famoso <em>maná</em>. Sintaticamente, a palavra não está em relação de construto com a anterior, a despeito de assim pressuporem as versões e mesmo Chouraqui. </span>"
     },
     {
       "ref_id": "fn169-5294",
       "number": 169,
-      "text": "“Para as faces de Yahweh”. Cf. 9.",
-      "raw_html": "<span>“Para as faces de Yahweh”. Cf. 9. </span>"
+      "text": "“Faze tu repousar” (nwh). Forma causativa imperativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Faze tu repousar</a>” (<em>nwh</em>). Forma causativa imperativa da raiz. </span>"
     },
     {
       "ref_id": "fn170-5294",
       "number": 170,
-      "text": "Aqui se denuncia tratar-se de uma redação que pressupõe o templo de Jerusalém. “As faces de Yahweh” aqui apontam para o altar do templo.",
-      "raw_html": "<span>Aqui se denuncia tratar-se de uma redação que pressupõe o templo de Jerusalém. “As faces de Yahweh” aqui apontam para o altar do templo. </span>"
+      "text": "“Para as faces de Yahweh”. Cf. 9.",
+      "raw_html": "<span>“Para as faces de Yahweh”. Cf. 9. </span>"
     },
     {
       "ref_id": "fn171-5294",
       "number": 171,
-      "text": "“Guardamento”. Cf. v. 23.32.",
-      "raw_html": "<span>“Guardamento”. Cf. v. 23.32. </span>"
+      "text": "Aqui se denuncia tratar-se de uma redação que pressupõe o templo de Jerusalém. “As faces de Yahweh” aqui apontam para o altar do templo.",
+      "raw_html": "<span>Aqui se denuncia tratar-se de uma redação que pressupõe o templo de Jerusalém. “As faces de Yahweh” aqui apontam para o altar do templo. </span>"
     },
     {
       "ref_id": "fn172-5294",
       "number": 172,
-      "text": "Cf. v. 16.24.32.",
-      "raw_html": "<span>Cf. v. 16.24.32. </span>"
+      "text": "“Guardamento”. Cf. v. 23.32.",
+      "raw_html": "<span>“Guardamento”. Cf. v. 23.32. </span>"
     },
     {
       "ref_id": "fn173-5294",
       "number": 173,
-      "text": "“Faz repousar” (nwh). Forma causativa da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Faz repousar</a>” (<em>nwh</em>). Forma causativa da raiz. </span>"
+      "text": "Cf. v. 16.24.32.",
+      "raw_html": "<span>Cf. v. 16.24.32. </span>"
     },
     {
       "ref_id": "fn174-5294",
       "number": 174,
-      "text": "“Testemunho” (‘edut). Provavelmente aponte para a retroprojeção litúrgica feita pelo redator para encenar no passado a funcionalidade do templo de Jerusalém. É a primeira vez que ‘edut é empregado. Primeira de 27 ocorrências. Cf. Êxodo 16,34; 25,16.21.22.34.",
-      "raw_html": "<span>“Testemunho” (<em>‘edut</em>). Provavelmente aponte para a retroprojeção litúrgica feita pelo redator para encenar no passado a funcionalidade do templo de Jerusalém. É a primeira vez que ‘<em>edut</em> é empregado. Primeira de 27 ocorrências. Cf. Êxodo 16,34; 25,16.21.22.34. </span>"
+      "text": "“Faz repousar” (nwh). Forma causativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAES\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAES\" rel=\"noreferrer noopener\" target=\"_blank\">Faz repousar</a>” (<em>nwh</em>). Forma causativa da raiz. </span>"
     },
     {
       "ref_id": "fn175-5294",
       "number": 175,
-      "text": "Com base em Números 17,19, pergunto-me se em lugar de traduzir ‘edut como “testemunho”, eu não deveria traduzir como “comunhão”. O termo ‘edah é “comunidade”. E a raiz y’d é “comungar”. Salvo se são raízes distintas, não faz sentido ‘edut ser “testemunho” (como querem os dicionários).",
-      "raw_html": "<span>Com base em Números 17,19, pergunto-me se em lugar de traduzir <em>‘edut</em> como “testemunho”, eu não deveria traduzir como “comunhão”. O termo <em>‘edah</em> é “comunidade”. E a raiz <em>y’d</em> é “comungar”. Salvo se são raízes distintas, não faz sentido <em>‘edut </em>ser “testemunho” (como querem os dicionários). </span>"
+      "text": "“Testemunho” (‘edut). Provavelmente aponte para a retroprojeção litúrgica feita pelo redator para encenar no passado a funcionalidade do templo de Jerusalém. É a primeira vez que ‘edut é empregado. Primeira de 27 ocorrências. Cf. Êxodo 16,34; 25,16.21.22.34.",
+      "raw_html": "<span>“Testemunho” (<em>‘edut</em>). Provavelmente aponte para a retroprojeção litúrgica feita pelo redator para encenar no passado a funcionalidade do templo de Jerusalém. É a primeira vez que ‘<em>edut</em> é empregado. Primeira de 27 ocorrências. Cf. Êxodo 16,34; 25,16.21.22.34. </span>"
     },
     {
       "ref_id": "fn176-5294",
       "number": 176,
-      "text": "“Guardamento”. Cf. v. 23.32.33.",
-      "raw_html": "<span>“Guardamento”. Cf. v. 23.32.33. </span>"
+      "text": "Com base em Números 17,19, pergunto-me se em lugar de traduzir ‘edut como “testemunho”, eu não deveria traduzir como “comunhão”. O termo ‘edah é “comunidade”. E a raiz y’d é “comungar”. Salvo se são raízes distintas, não faz sentido ‘edut ser “testemunho” (como querem os dicionários).",
+      "raw_html": "<span>Com base em Números 17,19, pergunto-me se em lugar de traduzir <em>‘edut</em> como “testemunho”, eu não deveria traduzir como “comunhão”. O termo <em>‘edah</em> é “comunidade”. E a raiz <em>y’d</em> é “comungar”. Salvo se são raízes distintas, não faz sentido <em>‘edut </em>ser “testemunho” (como querem os dicionários). </span>"
     },
     {
       "ref_id": "fn177-5294",
       "number": 177,
-      "text": "“O man” (‘et-hamman). Somente em Êxodo 16,35; Deuteronômio 8,3.",
-      "raw_html": "<span>“O <em>man</em>” (<em>‘et-hamman</em>). Somente em Êxodo 16,35; Deuteronômio 8,3. </span>"
+      "text": "“Guardamento”. Cf. v. 23.32.33.",
+      "raw_html": "<span>“Guardamento”. Cf. v. 23.32.33. </span>"
     },
     {
       "ref_id": "fn178-5294",
       "number": 178,
-      "text": "“A terra” (‘el-‘erets). Cf. Gênesis 21,32; 22,2; 25,6; 31,3.13; 36,6; 48,21; Êxodo 3,8.17; 13,5.11; 16,35; Levítico 14,34; 16,22; Números 15,2; 16,14; 33,51; 35,28; Deuteronômio 2,37; 8,7; 29,27; 33,28; Josué 22,4.9.13.15.19.32; Josué 24,8; Rute 1,7; 1 Samuel 13,17; 27,1; 29,11.",
-      "raw_html": "<span>“A terra” (<em>‘el-‘erets</em>). Cf. Gênesis 21,32; 22,2; 25,6; 31,3.13; 36,6; 48,21; Êxodo 3,8.17; 13,5.11; 16,35; Levítico 14,34; 16,22; Números 15,2; 16,14; 33,51; 35,28; Deuteronômio 2,37; 8,7; 29,27; 33,28; Josué 22,4.9.13.15.19.32; Josué 24,8; Rute 1,7; 1 Samuel 13,17; 27,1; 29,11. </span>"
+      "text": "“O man” (‘et-hamman). Somente em Êxodo 16,35; Deuteronômio 8,3.",
+      "raw_html": "<span>“O <em>man</em>” (<em>‘et-hamman</em>). Somente em Êxodo 16,35; Deuteronômio 8,3. </span>"
     },
     {
       "ref_id": "fn179-5294",
       "number": 179,
-      "text": "“O man” (‘et-hamman). Cf. acima.",
-      "raw_html": "<span>“O <em>man</em>” (<em>‘et-hamman</em>). Cf. acima. </span>"
+      "text": "“A terra” (‘el-‘erets). Cf. Gênesis 21,32; 22,2; 25,6; 31,3.13; 36,6; 48,21; Êxodo 3,8.17; 13,5.11; 16,35; Levítico 14,34; 16,22; Números 15,2; 16,14; 33,51; 35,28; Deuteronômio 2,37; 8,7; 29,27; 33,28; Josué 22,4.9.13.15.19.32; Josué 24,8; Rute 1,7; 1 Samuel 13,17; 27,1; 29,11.",
+      "raw_html": "<span>“A terra” (<em>‘el-‘erets</em>). Cf. Gênesis 21,32; 22,2; 25,6; 31,3.13; 36,6; 48,21; Êxodo 3,8.17; 13,5.11; 16,35; Levítico 14,34; 16,22; Números 15,2; 16,14; 33,51; 35,28; Deuteronômio 2,37; 8,7; 29,27; 33,28; Josué 22,4.9.13.15.19.32; Josué 24,8; Rute 1,7; 1 Samuel 13,17; 27,1; 29,11. </span>"
     },
     {
       "ref_id": "fn180-5294",
       "number": 180,
-      "text": "“Efa” (‘epah). Cf. Levítico 5,11.",
-      "raw_html": "<span>“Efa” (<em>‘epah</em>). Cf. Levítico 5,11. </span>"
+      "text": "“O man” (‘et-hamman). Cf. acima.",
+      "raw_html": "<span>“O <em>man</em>” (<em>‘et-hamman</em>). Cf. acima. </span>"
     },
     {
       "ref_id": "fn181-5294",
       "number": 181,
+      "text": "“Efa” (‘epah). Cf. Levítico 5,11.",
+      "raw_html": "<span>“Efa” (<em>‘epah</em>). Cf. Levítico 5,11. </span>"
+    },
+    {
+      "ref_id": "fn182-5294",
+      "number": 182,
       "text": "O verso é naturalmente uma glosa explicativa.",
       "raw_html": "<span>O verso é naturalmente uma glosa explicativa. </span>"
     }

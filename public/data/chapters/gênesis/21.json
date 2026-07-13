@@ -1280,7 +1280,7 @@
     },
     {
       "number": 34,
-      "text": "E peregrina ‘Abraham. Em terra de pelishtim. Dias numerosos.",
+      "text": "E peregrina ‘Abraham. Em terra de pelishtim. Dias múltiplos.",
       "lines": [
         {
           "line_index": 0,
@@ -1294,8 +1294,8 @@
         },
         {
           "line_index": 2,
-          "text": "Dias numerosos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dias numerosos<a name=\"rf102-1862\"></a><sup><a href=\"#fn102-1862\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup><a name=\"rf103-1862\"></a><sup><a href=\"#fn103-1862\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
+          "text": "Dias múltiplos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Dias múltiplos<a name=\"rf102-1862\"></a><sup><a href=\"#fn102-1862\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup><a name=\"rf103-1862\"></a><sup><a href=\"#fn103-1862\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
         }
       ]
     }
@@ -1910,8 +1910,8 @@
     {
       "ref_id": "fn102-1862",
       "number": 102,
-      "text": "“Dias numerosos” (yamim rabbim). Primeira de 24 ocorrências. Cf. Gênesis 21,34; 37,34; Levítico 15,25; Números 9,19; 20,15.",
-      "raw_html": "<span>“Dias numerosos” (<em>yamim rabbim</em>). Primeira de 24 ocorrências. Cf. Gênesis 21,34; 37,34; Levítico 15,25; Números 9,19; 20,15. </span>"
+      "text": "“Dias múltiplos” (yamim rabbim). Primeira de 24 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0800\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0800\" rel=\"noopener\" target=\"_blank\">Dias múltiplos</a>” (<em>yamim rabbim</em>). Primeira de 24 ocorrências. </span>"
     },
     {
       "ref_id": "fn103-1862",

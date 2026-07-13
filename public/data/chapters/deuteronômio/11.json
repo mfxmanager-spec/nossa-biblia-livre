@@ -477,7 +477,7 @@
     },
     {
       "number": 11,
-      "text": "E a terra. Quevós sois passadores para lá. Para possuir ela. Terra de montes e planícies. Para a chuvadoscéusbebe ela águas.",
+      "text": "E a terra. Quevós sois passadores para lá. Para possuir ela. Terra de montes e planícies. Para o chuvaréu dos céus. Bebe ela águas.",
       "lines": [
         {
           "line_index": 0,
@@ -501,8 +501,13 @@
         },
         {
           "line_index": 4,
-          "text": "Para a chuvadoscéusbebe ela águas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para a chuva<a name=\"rf109-14052\"></a><sup><a href=\"#fn109-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup>dos<a name=\"rf110-14052\"></a><sup><a href=\"#fn110-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>céus<a name=\"rf111-14052\"></a><sup><a href=\"#fn111-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>bebe ela águas<a name=\"rf112-14052\"></a><sup><a href=\"#fn112-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
+          "text": "Para o chuvaréu dos céus.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o chuvaréu<a name=\"rf109-14052\"></a><sup><a href=\"#fn109-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup> dos<a name=\"rf110-14052\"></a><sup><a href=\"#fn110-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup> céus<a name=\"rf111-14052\"></a><sup><a href=\"#fn111-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Bebe ela águas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Bebe ela águas<a name=\"rf112-14052\"></a><sup><a href=\"#fn112-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
         }
       ]
     },
@@ -620,35 +625,40 @@
     },
     {
       "number": 14,
-      "text": "E dou euo chuvaréuda terra de vós. No tempo dele. Temporão e serôdio. E reúnes tuo cereal de ti. E o mosto de ti. E o azeite de ti.",
+      "text": "E dou eu. O chuvaréu da terra de vós. No tempo dele. Temporão e serôdio. E reúnes tuo cereal de ti. E o mosto de ti. E o azeite de ti.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E dou euo chuvaréuda terra de vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E dou eu<a name=\"rf141-14052\"></a><sup><a href=\"#fn141-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>o chuvaréu<a name=\"rf142-14052\"></a><sup><a href=\"#fn142-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>da terra de vós<a name=\"rf143-14052\"></a><sup><a href=\"#fn143-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
+          "text": "E dou eu.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E dou eu<a name=\"rf141-14052\"></a><sup><a href=\"#fn141-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>.</p>"
         },
         {
           "line_index": 1,
+          "text": "O chuvaréu da terra de vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O chuvaréu<a name=\"rf142-14052\"></a><sup><a href=\"#fn142-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup> da terra de vós<a name=\"rf143-14052\"></a><sup><a href=\"#fn143-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "No tempo dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">No tempo dele<a name=\"rf144-14052\"></a><sup><a href=\"#fn144-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 3,
           "text": "Temporão e serôdio.",
           "raw_html": "<p class=\"wp-block-paragraph\">Temporão e serôdio<a name=\"rf145-14052\"></a><sup><a href=\"#fn145-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "E reúnes tuo cereal de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">E reúnes tu<a name=\"rf146-14052\"></a><sup><a href=\"#fn146-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>o cereal de ti.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "E o mosto de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o mosto de ti.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "E o azeite de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o azeite de ti<a name=\"rf147-14052\"></a><sup><a href=\"#fn147-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>.</p>"
         }
@@ -718,45 +728,50 @@
     },
     {
       "number": 17,
-      "text": "E arde a narina de Yahweh em vós. E detém ele os céus. E não estáchuvaréu. E a ‘adamah. Nãodá elao produto dela. E pereceis vós depressa. Desde sobre a terraboa. QueYahweh é dador para vós.",
+      "text": "E arde a narina de Yahweh. Em vós. E detém ele os céus. E não está chuvaréu. E a ‘adamah. Nãodá elao produto dela. E pereceis vós depressa. Desde sobre a terraboa. QueYahweh é dador para vós.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E arde a narina de Yahweh em vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E arde a narina de Yahweh em vós<a name=\"rf159-14052\"></a><sup><a href=\"#fn159-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
+          "text": "E arde a narina de Yahweh.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E arde a narina de Yahweh.</p>"
         },
         {
           "line_index": 1,
+          "text": "Em vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Em vós<a name=\"rf159-14052\"></a><sup><a href=\"#fn159-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 159\">159</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "E detém ele os céus.",
           "raw_html": "<p class=\"wp-block-paragraph\">E detém<a name=\"rf160-14052\"></a><sup><a href=\"#fn160-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 160\">160</a></sup> ele os céus<a name=\"rf161-14052\"></a><sup><a href=\"#fn161-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 161\">161</a></sup>.</p>"
         },
         {
-          "line_index": 2,
-          "text": "E não estáchuvaréu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não está<a name=\"rf162-14052\"></a><sup><a href=\"#fn162-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup>chuvaréu<a name=\"rf163-14052\"></a><sup><a href=\"#fn163-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup><a name=\"rf164-14052\"></a><sup><a href=\"#fn164-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
+          "line_index": 3,
+          "text": "E não está chuvaréu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E não está<a name=\"rf162-14052\"></a><sup><a href=\"#fn162-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 162\">162</a></sup> chuvaréu<a name=\"rf163-14052\"></a><sup><a href=\"#fn163-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 163\">163</a></sup><a name=\"rf164-14052\"></a><sup><a href=\"#fn164-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 164\">164</a></sup>.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "E a ‘adamah.",
           "raw_html": "<p class=\"wp-block-paragraph\">E a <em>‘adamah</em>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Nãodá elao produto dela.",
           "raw_html": "<p class=\"wp-block-paragraph\">Não<a name=\"rf165-14052\"></a><sup><a href=\"#fn165-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 165\">165</a></sup>dá ela<a name=\"rf166-14052\"></a><sup><a href=\"#fn166-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 166\">166</a></sup>o produto dela<a name=\"rf167-14052\"></a><sup><a href=\"#fn167-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 167\">167</a></sup><a name=\"rf168-14052\"></a><sup><a href=\"#fn168-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 168\">168</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "E pereceis vós depressa.",
           "raw_html": "<p class=\"wp-block-paragraph\">E pereceis vós depressa<a name=\"rf169-14052\"></a><sup><a href=\"#fn169-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 169\">169</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Desde sobre a terraboa.",
           "raw_html": "<p class=\"wp-block-paragraph\">Desde sobre a terra<a name=\"rf170-14052\"></a><sup><a href=\"#fn170-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 170\">170</a></sup>boa.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "QueYahweh é dador para vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf171-14052\"></a><sup><a href=\"#fn171-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 171\">171</a></sup>Yahweh é dador para vós<a name=\"rf172-14052\"></a><sup><a href=\"#fn172-14052\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 172\">172</a></sup>.</p>"
         }
@@ -2070,8 +2085,8 @@
     {
       "ref_id": "fn109-14052",
       "number": 109,
-      "text": "“Chuvaréu” (matar). Cf. Êxodo 9,33.34; Deuteronômio 11,11.14.17.",
-      "raw_html": "<span>“Chuvaréu” (<em>matar</em>). Cf. Êxodo 9,33.34; Deuteronômio 11,11.14.17. </span>"
+      "text": "“Chuvaréu” (matar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0704\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0704\" rel=\"noopener\" target=\"_blank\">Chuvaréu</a>” (<em>matar</em>). </span>"
     },
     {
       "ref_id": "fn110-14052",
@@ -2268,8 +2283,8 @@
     {
       "ref_id": "fn142-14052",
       "number": 142,
-      "text": "“Chuvaréu” (matar). Cf. Êxodo 9,33.34; Deuteronômio 11,11.14.17.",
-      "raw_html": "<span>“Chuvaréu” (<em>matar</em>). Cf. Êxodo 9,33.34; Deuteronômio 11,11.14.17. </span>"
+      "text": "“Chuvaréu” (matar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0704\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0704\" rel=\"noopener\" target=\"_blank\">Chuvaréu</a>” (<em>matar</em>). </span>"
     },
     {
       "ref_id": "fn143-14052",
@@ -2400,8 +2415,8 @@
     {
       "ref_id": "fn164-14052",
       "number": 164,
-      "text": "“Chuvaréu” (matar). Cf. Êxodo 9,33.34; Deuteronômio 11,11.14.17.",
-      "raw_html": "<span>“Chuvaréu” (<em>matar</em>). Cf. Êxodo 9,33.34; Deuteronômio 11,11.14.17. </span>"
+      "text": "“Chuvaréu” (matar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0704\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0704\" rel=\"noopener\" target=\"_blank\">Chuvaréu</a>” (<em>matar</em>). </span>"
     },
     {
       "ref_id": "fn165-14052",

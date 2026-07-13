@@ -443,27 +443,62 @@
     },
     {
       "number": 12,
-      "text": "Fazei vós multiplicar sobre mim muito. Dotee dação. E eu dou conforme o que disserdes para mim. E daipara mim a moça por mulher.",
+      "text": "Fazei vós multiplicar. Sobre mim. Muito. Dotee dação. E dou eu. Conforme o que dizeis vós. A mim. E dai vós. Para mim. A moça. Por mulher.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Fazei vós multiplicar sobre mim muito.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Fazei vós multiplicar sobre mim muito.</p>"
+          "text": "Fazei vós multiplicar.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> Fazei vós multiplicar.</p>"
         },
         {
           "line_index": 1,
+          "text": "Sobre mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre mim.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Muito.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Muito.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "Dotee dação.",
           "raw_html": "<p class=\"wp-block-paragraph\">Dote<a name=\"rf38-2835\"></a><sup><a href=\"#fn38-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup>e dação<a name=\"rf39-2835\"></a><sup><a href=\"#fn39-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>.</p>"
         },
         {
-          "line_index": 2,
-          "text": "E eu dou conforme o que disserdes para mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E eu dou conforme o que disserdes para mim. </p>"
+          "line_index": 4,
+          "text": "E dou eu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E dou eu<a name=\"rf40-2835\"></a><sup><a href=\"#fn40-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>.</p>"
         },
         {
-          "line_index": 3,
-          "text": "E daipara mim a moça por mulher.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E dai<a name=\"rf40-2835\"></a><sup><a href=\"#fn40-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>para mim a moça por mulher.</p>"
+          "line_index": 5,
+          "text": "Conforme o que dizeis vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o que dizeis vós.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "A mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A mim.</p>"
+        },
+        {
+          "line_index": 7,
+          "text": "E dai vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E dai vós<a name=\"rf41-2835\"></a><sup><a href=\"#fn41-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup>.</p>"
+        },
+        {
+          "line_index": 8,
+          "text": "Para mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para mim.</p>"
+        },
+        {
+          "line_index": 9,
+          "text": "A moça.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A moça.</p>"
+        },
+        {
+          "line_index": 10,
+          "text": "Por mulher.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Por mulher.</p>"
         }
       ]
     },
@@ -484,17 +519,17 @@
         {
           "line_index": 2,
           "text": "Com mentira.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Com mentira<a name=\"rf41-2835\"></a><sup><a href=\"#fn41-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Com mentira<a name=\"rf42-2835\"></a><sup><a href=\"#fn42-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>. </p>"
         },
         {
           "line_index": 3,
           "text": "E falam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E falam eles<a name=\"rf42-2835\"></a><sup><a href=\"#fn42-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E falam eles<a name=\"rf43-2835\"></a><sup><a href=\"#fn43-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Que impurifica eleDinah a irmã deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que impurifica ele<a name=\"rf43-2835\"></a><sup><a href=\"#fn43-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>Dinah a irmã deles<a name=\"rf44-2835\"></a><sup><a href=\"#fn44-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que impurifica ele<a name=\"rf44-2835\"></a><sup><a href=\"#fn44-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>Dinah a irmã deles<a name=\"rf45-2835\"></a><sup><a href=\"#fn45-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>.</p>"
         }
       ]
     },
@@ -545,7 +580,7 @@
         {
           "line_index": 8,
           "text": "Que para ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf45-2835\"></a><sup><a href=\"#fn45-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup> para ele<a name=\"rf46-2835\"></a><sup><a href=\"#fn46-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf46-2835\"></a><sup><a href=\"#fn46-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup> para ele<a name=\"rf47-2835\"></a><sup><a href=\"#fn47-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -555,7 +590,7 @@
         {
           "line_index": 10,
           "text": "Que humilhação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que humilhação<a name=\"rf47-2835\"></a><sup><a href=\"#fn47-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que humilhação<a name=\"rf48-2835\"></a><sup><a href=\"#fn48-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
         },
         {
           "line_index": 11,
@@ -565,7 +600,7 @@
         {
           "line_index": 12,
           "text": "Para nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para nós<a name=\"rf48-2835\"></a><sup><a href=\"#fn48-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para nós<a name=\"rf49-2835\"></a><sup><a href=\"#fn49-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
         }
       ]
     },
@@ -576,7 +611,7 @@
         {
           "line_index": 0,
           "text": "Somente com isto nós estamos sinalizadospara vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Somente com isto nós estamos sinalizados<a name=\"rf49-2835\"></a><sup><a href=\"#fn49-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>para vós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Somente com isto nós estamos sinalizados<a name=\"rf50-2835\"></a><sup><a href=\"#fn50-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>para vós.</p>"
         },
         {
           "line_index": 1,
@@ -586,7 +621,7 @@
         {
           "line_index": 2,
           "text": "Para circuncidar para vós totalidade de macho.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para circuncidar para vós totalidade de macho<a name=\"rf50-2835\"></a><sup><a href=\"#fn50-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para circuncidar para vós totalidade de macho<a name=\"rf51-2835\"></a><sup><a href=\"#fn51-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
         }
       ]
     },
@@ -623,12 +658,12 @@
         {
           "line_index": 0,
           "text": "Se não nos ouvirdes vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Se não nos ouvirdes vós<a name=\"rf51-2835\"></a><sup><a href=\"#fn51-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Se não nos ouvirdes vós<a name=\"rf52-2835\"></a><sup><a href=\"#fn52-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Para ser circuncidado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ser circuncidado<a name=\"rf52-2835\"></a><sup><a href=\"#fn52-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ser circuncidado<a name=\"rf53-2835\"></a><sup><a href=\"#fn53-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -638,7 +673,7 @@
         {
           "line_index": 3,
           "text": "E caminhamos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E caminhamos<a name=\"rf53-2835\"></a><sup><a href=\"#fn53-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E caminhamos<a name=\"rf54-2835\"></a><sup><a href=\"#fn54-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
         }
       ]
     },
@@ -654,7 +689,7 @@
         {
           "line_index": 1,
           "text": "E nos olhosde Shekem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E nos olhos<a name=\"rf54-2835\"></a><sup><a href=\"#fn54-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>de Shekem.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E nos olhos<a name=\"rf55-2835\"></a><sup><a href=\"#fn55-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>de Shekem.</p>"
         },
         {
           "line_index": 2,
@@ -670,7 +705,7 @@
         {
           "line_index": 0,
           "text": "E não retém o moço.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E não retém<a name=\"rf55-2835\"></a><sup><a href=\"#fn55-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup> o moço.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E não retém<a name=\"rf56-2835\"></a><sup><a href=\"#fn56-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup> o moço.</p>"
         },
         {
           "line_index": 1,
@@ -680,7 +715,7 @@
         {
           "line_index": 2,
           "text": "Que deleita ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que deleita ele<a name=\"rf56-2835\"></a><sup><a href=\"#fn56-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que deleita ele<a name=\"rf57-2835\"></a><sup><a href=\"#fn57-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -690,17 +725,17 @@
         {
           "line_index": 4,
           "text": "E ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele<a name=\"rf57-2835\"></a><sup><a href=\"#fn57-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele<a name=\"rf58-2835\"></a><sup><a href=\"#fn58-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Pesado está ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Pesado está ele<a name=\"rf58-2835\"></a><sup><a href=\"#fn58-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Pesado está ele<a name=\"rf59-2835\"></a><sup><a href=\"#fn59-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Desde o total do lar do pai dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o total do lar do pai dele<a name=\"rf59-2835\"></a><sup><a href=\"#fn59-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o total do lar do pai dele<a name=\"rf60-2835\"></a><sup><a href=\"#fn60-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
         }
       ]
     },
@@ -731,7 +766,7 @@
         {
           "line_index": 4,
           "text": "E falam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E falam eles<a name=\"rf60-2835\"></a><sup><a href=\"#fn60-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E falam eles<a name=\"rf61-2835\"></a><sup><a href=\"#fn61-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -752,12 +787,12 @@
         {
           "line_index": 0,
           "text": "Os homens esses.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os homens esses<a name=\"rf61-2835\"></a><sup><a href=\"#fn61-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os homens esses<a name=\"rf62-2835\"></a><sup><a href=\"#fn62-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Completoseles estão conosco.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf62-2835\"></a><sup><a href=\"#fn62-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>eles estão conosco.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Completos<a name=\"rf63-2835\"></a><sup><a href=\"#fn63-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>eles estão conosco.</p>"
         },
         {
           "line_index": 2,
@@ -767,12 +802,12 @@
         {
           "line_index": 3,
           "text": "E que eles comercializem nela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E que eles comercializem nela<a name=\"rf63-2835\"></a><sup><a href=\"#fn63-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E que eles comercializem nela<a name=\"rf64-2835\"></a><sup><a href=\"#fn64-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E a terra, eis largade mãospara as faces deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a terra, eis larga<a name=\"rf64-2835\"></a><sup><a href=\"#fn64-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>de mãos<a name=\"rf65-2835\"></a><sup><a href=\"#fn65-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>para as faces deles. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a terra, eis larga<a name=\"rf65-2835\"></a><sup><a href=\"#fn65-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>de mãos<a name=\"rf66-2835\"></a><sup><a href=\"#fn66-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>para as faces deles. </p>"
         },
         {
           "line_index": 5,
@@ -793,7 +828,7 @@
         {
           "line_index": 0,
           "text": "Somente nisto estão sinalizados para nósos homens.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Somente nisto estão sinalizados para nós<a name=\"rf66-2835\"></a><sup><a href=\"#fn66-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>os homens.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Somente nisto estão sinalizados para nós<a name=\"rf67-2835\"></a><sup><a href=\"#fn67-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>os homens.</p>"
         },
         {
           "line_index": 1,
@@ -819,17 +854,17 @@
         {
           "line_index": 0,
           "text": "O rebanho deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> O rebanho deles<a name=\"rf67-2835\"></a><sup><a href=\"#fn67-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> O rebanho deles<a name=\"rf68-2835\"></a><sup><a href=\"#fn68-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "E o adquiridodeles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o adquirido<a name=\"rf68-2835\"></a><sup><a href=\"#fn68-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o adquirido<a name=\"rf69-2835\"></a><sup><a href=\"#fn69-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>deles.</p>"
         },
         {
           "line_index": 2,
           "text": "E o total da animáliadeles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o total da animália<a name=\"rf69-2835\"></a><sup><a href=\"#fn69-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>deles<a name=\"rf70-2835\"></a><sup><a href=\"#fn70-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o total da animália<a name=\"rf70-2835\"></a><sup><a href=\"#fn70-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>deles<a name=\"rf71-2835\"></a><sup><a href=\"#fn71-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -839,7 +874,7 @@
         {
           "line_index": 4,
           "text": "Somente que nós estejamos sinalizadospara eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Somente que nós estejamos sinalizados<a name=\"rf71-2835\"></a><sup><a href=\"#fn71-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>para eles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Somente que nós estejamos sinalizados<a name=\"rf72-2835\"></a><sup><a href=\"#fn72-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>para eles.</p>"
         },
         {
           "line_index": 5,
@@ -870,7 +905,7 @@
         {
           "line_index": 3,
           "text": "E são circuncidados totalidade de macho.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E são circuncidados totalidade de macho<a name=\"rf72-2835\"></a><sup><a href=\"#fn72-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E são circuncidados totalidade de macho<a name=\"rf73-2835\"></a><sup><a href=\"#fn73-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -886,12 +921,12 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf73-2835\"></a><sup><a href=\"#fn73-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup><a name=\"rf74-2835\"></a><sup><a href=\"#fn74-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf74-2835\"></a><sup><a href=\"#fn74-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup><a name=\"rf75-2835\"></a><sup><a href=\"#fn75-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "No dia terceiro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No dia terceiro<a name=\"rf75-2835\"></a><sup><a href=\"#fn75-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia terceiro<a name=\"rf76-2835\"></a><sup><a href=\"#fn76-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -911,7 +946,7 @@
         {
           "line_index": 5,
           "text": "E Lewi.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E Lewi<a name=\"rf76-2835\"></a><sup><a href=\"#fn76-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup><a name=\"rf77-2835\"></a><sup><a href=\"#fn77-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E Lewi<a name=\"rf77-2835\"></a><sup><a href=\"#fn77-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup><a name=\"rf78-2835\"></a><sup><a href=\"#fn78-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -936,17 +971,17 @@
         {
           "line_index": 10,
           "text": "Seguramente.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Seguramente<a name=\"rf78-2835\"></a><sup><a href=\"#fn78-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Seguramente<a name=\"rf79-2835\"></a><sup><a href=\"#fn79-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>.</p>"
         },
         {
           "line_index": 11,
           "text": "E matam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E matam<a name=\"rf79-2835\"></a><sup><a href=\"#fn79-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup> eles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E matam<a name=\"rf80-2835\"></a><sup><a href=\"#fn80-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup> eles.</p>"
         },
         {
           "line_index": 12,
           "text": "Total de macho.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Total de macho<a name=\"rf80-2835\"></a><sup><a href=\"#fn80-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Total de macho<a name=\"rf81-2835\"></a><sup><a href=\"#fn81-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
         }
       ]
     },
@@ -967,17 +1002,17 @@
         {
           "line_index": 2,
           "text": "Matam ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Matam<a name=\"rf81-2835\"></a><sup><a href=\"#fn81-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup> ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Matam<a name=\"rf82-2835\"></a><sup><a href=\"#fn82-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup> ele.</p>"
         },
         {
           "line_index": 3,
           "text": "Para boca de espada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para boca<a name=\"rf82-2835\"></a><sup><a href=\"#fn82-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup> de espada<a name=\"rf83-2835\"></a><sup><a href=\"#fn83-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup><a name=\"rf84-2835\"></a><sup><a href=\"#fn84-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para boca<a name=\"rf83-2835\"></a><sup><a href=\"#fn83-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> de espada<a name=\"rf84-2835\"></a><sup><a href=\"#fn84-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup><a name=\"rf85-2835\"></a><sup><a href=\"#fn85-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E eles tomamDinah da casa de Shekem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E eles tomam<a name=\"rf85-2835\"></a><sup><a href=\"#fn85-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>Dinah da casa de Shekem.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E eles tomam<a name=\"rf86-2835\"></a><sup><a href=\"#fn86-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>Dinah da casa de Shekem.</p>"
         },
         {
           "line_index": 5,
@@ -998,22 +1033,22 @@
         {
           "line_index": 1,
           "text": "Vão eles..",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vão eles<a name=\"rf86-2835\"></a><sup><a href=\"#fn86-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>..</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Vão eles<a name=\"rf87-2835\"></a><sup><a href=\"#fn87-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>..</p>"
         },
         {
           "line_index": 2,
           "text": "Sobre os transpassados.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre os transpassados<a name=\"rf87-2835\"></a><sup><a href=\"#fn87-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre os transpassados<a name=\"rf88-2835\"></a><sup><a href=\"#fn88-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E espoliam eles a cidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E espoliam eles<a name=\"rf88-2835\"></a><sup><a href=\"#fn88-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup> a cidade.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E espoliam eles<a name=\"rf89-2835\"></a><sup><a href=\"#fn89-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup> a cidade.</p>"
         },
         {
           "line_index": 4,
           "text": "Que impurificaram eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que impurificaram eles<a name=\"rf89-2835\"></a><sup><a href=\"#fn89-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que impurificaram eles<a name=\"rf90-2835\"></a><sup><a href=\"#fn90-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1029,7 +1064,7 @@
         {
           "line_index": 0,
           "text": "A greideles e o gadodeles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> A grei<a name=\"rf90-2835\"></a><sup><a href=\"#fn90-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>deles e o gado<a name=\"rf91-2835\"></a><sup><a href=\"#fn91-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> A grei<a name=\"rf91-2835\"></a><sup><a href=\"#fn91-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>deles e o gado<a name=\"rf92-2835\"></a><sup><a href=\"#fn92-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>deles.</p>"
         },
         {
           "line_index": 1,
@@ -1055,17 +1090,17 @@
         {
           "line_index": 0,
           "text": "E o total do organizamento deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E o total do organizamento<a name=\"rf92-2835\"></a><sup><a href=\"#fn92-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup><a name=\"rf93-2835\"></a><sup><a href=\"#fn93-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup> deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E o total do organizamento<a name=\"rf93-2835\"></a><sup><a href=\"#fn93-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup><a name=\"rf94-2835\"></a><sup><a href=\"#fn94-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup> deles.</p>"
         },
         {
           "line_index": 1,
           "text": "E o total da prole deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o total da prole<a name=\"rf94-2835\"></a><sup><a href=\"#fn94-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup> deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o total da prole<a name=\"rf95-2835\"></a><sup><a href=\"#fn95-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup> deles.</p>"
         },
         {
           "line_index": 2,
           "text": "E as mulheres deles eles capturam.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as mulheres deles eles capturam<a name=\"rf95-2835\"></a><sup><a href=\"#fn95-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as mulheres deles eles capturam<a name=\"rf96-2835\"></a><sup><a href=\"#fn96-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1075,7 +1110,7 @@
         {
           "line_index": 4,
           "text": "Ea totalidade do que está na casa.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E<a name=\"rf96-2835\"></a><sup><a href=\"#fn96-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>a totalidade do que está na casa<a name=\"rf97-2835\"></a><sup><a href=\"#fn97-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E<a name=\"rf97-2835\"></a><sup><a href=\"#fn97-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>a totalidade do que está na casa<a name=\"rf98-2835\"></a><sup><a href=\"#fn98-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
         }
       ]
     },
@@ -1086,12 +1121,12 @@
         {
           "line_index": 0,
           "text": "E diz Ya’aqob para Shim’on e para Lewi.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Ya’aqob para Shim’on e para Lewi<a name=\"rf98-2835\"></a><sup><a href=\"#fn98-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Ya’aqob para Shim’on e para Lewi<a name=\"rf99-2835\"></a><sup><a href=\"#fn99-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Arruinais vós eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Arruinais vós<a name=\"rf99-2835\"></a><sup><a href=\"#fn99-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup> eu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Arruinais vós<a name=\"rf100-2835\"></a><sup><a href=\"#fn100-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup> eu.</p>"
         },
         {
           "line_index": 2,
@@ -1101,7 +1136,7 @@
         {
           "line_index": 3,
           "text": "Para o kena’anie para o perizzi.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o kena’ani<a name=\"rf100-2835\"></a><sup><a href=\"#fn100-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>e para o perizzi<a name=\"rf101-2835\"></a><sup><a href=\"#fn101-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o kena’ani<a name=\"rf101-2835\"></a><sup><a href=\"#fn101-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>e para o perizzi<a name=\"rf102-2835\"></a><sup><a href=\"#fn102-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>. </p>"
         },
         {
           "line_index": 4,
@@ -1111,12 +1146,12 @@
         {
           "line_index": 5,
           "text": "Sujeitos de de rol.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sujeitos de<a name=\"rf102-2835\"></a><sup><a href=\"#fn102-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup> de rol<a name=\"rf103-2835\"></a><sup><a href=\"#fn103-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup><a name=\"rf104-2835\"></a><sup><a href=\"#fn104-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sujeitos de<a name=\"rf103-2835\"></a><sup><a href=\"#fn103-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup> de rol<a name=\"rf104-2835\"></a><sup><a href=\"#fn104-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup><a name=\"rf105-2835\"></a><sup><a href=\"#fn105-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "E eles se reúnemcontra mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E eles se reúnem<a name=\"rf105-2835\"></a><sup><a href=\"#fn105-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>contra mim. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E eles se reúnem<a name=\"rf106-2835\"></a><sup><a href=\"#fn106-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>contra mim. </p>"
         },
         {
           "line_index": 7,
@@ -1126,7 +1161,7 @@
         {
           "line_index": 8,
           "text": "E eles me exterminam.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E eles me exterminam<a name=\"rf106-2835\"></a><sup><a href=\"#fn106-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E eles me exterminam<a name=\"rf107-2835\"></a><sup><a href=\"#fn107-2835\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -1385,402 +1420,408 @@
     {
       "ref_id": "fn40-2835",
       "number": 40,
-      "text": "“E dai” (utenu). Primeira de 5 ocorrências. Cf. Gênesis 34,12; Números 16,7.",
-      "raw_html": "<span>“E dai” (<em>utenu</em>). Primeira de 5 ocorrências. Cf. Gênesis 34,12; Números 16,7. </span>"
+      "text": "“E dou eu” (we’ettenah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0821\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0821\" rel=\"noopener\" target=\"_blank\">E dou eu</a>” (<em>we’ettenah</em>). </span>"
     },
     {
       "ref_id": "fn41-2835",
       "number": 41,
-      "text": "“Mentira”. Mesmo termo empregado por Isaque para referir-se ao comportamento de Jacó (cf. Gênesis 27,35).",
-      "raw_html": "<span>“Mentira”. Mesmo termo empregado por Isaque para referir-se ao comportamento de Jacó (cf. Gênesis 27,35). </span>"
+      "text": "“E dai” (utenu). Primeira de 5 ocorrências. Cf. Gênesis 34,12; Números 16,7.",
+      "raw_html": "<span>“E dai” (<em>utenu</em>). Primeira de 5 ocorrências. Cf. Gênesis 34,12; Números 16,7. </span>"
     },
     {
       "ref_id": "fn42-2835",
       "number": 42,
-      "text": "“E falam eles” (wayedabberu). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40.",
-      "raw_html": "<span>“E falam eles” (<em>wayedabberu</em>). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40. </span>"
+      "text": "“Mentira”. Mesmo termo empregado por Isaque para referir-se ao comportamento de Jacó (cf. Gênesis 27,35).",
+      "raw_html": "<span>“Mentira”. Mesmo termo empregado por Isaque para referir-se ao comportamento de Jacó (cf. Gênesis 27,35). </span>"
     },
     {
       "ref_id": "fn43-2835",
       "number": 43,
-      "text": "“impurificou” (timme’). Mesmo termo do v. 5.",
-      "raw_html": "<span>“impurificou” (<em>timme’</em>). Mesmo termo do v. 5. </span>"
-    },
-    {
-      "ref_id": "fn44-2835",
-      "number": 44,
-      "text": "Ou seja, eles assumem que a opressão está consumada e agem enganosamente com Siquém.",
-      "raw_html": "<span>Ou seja, eles assumem que a opressão está consumada e agem enganosamente com Siquém. </span>"
-    },
-    {
-      "ref_id": "fn45-2835",
-      "number": 45,
-      "text": "“Para um homem que” (le’ish ‘asher). Primeira de 11 ocorrências. Cf. Gênesis 34,14; 38,25; Levítico 25,27; Deuteronômio 25,9; 1 Samuel 17,26.27; 2 Reis 22,15; 2 Crônicas 34,23; Ester 6,9.11; Malaquias 2,12.",
-      "raw_html": "<span>“Para um homem que” (<em>le’ish ‘asher</em>). Primeira de 11 ocorrências. Cf. Gênesis 34,14; 38,25; Levítico 25,27; Deuteronômio 25,9; 1 Samuel 17,26.27; 2 Reis 22,15; 2 Crônicas 34,23; Ester 6,9.11; Malaquias 2,12. </span>"
-    },
-    {
-      "ref_id": "fn46-2835",
-      "number": 46,
-      "text": "“Que para ele” (‘asher-lo). Ou seja, “que ele tem”.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00000016\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00000016\" rel=\"noopener\" target=\"_blank\">Que para ele</a>” (<em>‘asher-lo</em>). Ou seja, “que ele tem”. </span>"
-    },
-    {
-      "ref_id": "fn47-2835",
-      "number": 47,
-      "text": "“Humilhação”. Até aqui, o termo só havia sido empregado em Gênesis 30,23.",
-      "raw_html": "<span>“Humilhação”. Até aqui, o termo só havia sido empregado em Gênesis 30,23. </span>"
-    },
-    {
-      "ref_id": "fn48-2835",
-      "number": 48,
-      "text": "No texto aparece o pronome pessoal hiv’ (“ela”). Sintaticamente, pode exercer, todavia, função de verbo de ligação. Para manter a absoluta literalidade, permanece “ela”, mas parece correto assumir que seria dispensável. Seja como for, “ela”, isto é, a “humilhação” para nós.",
-      "raw_html": "<span>No texto aparece o pronome pessoal <em>hiv’</em> (“ela”). Sintaticamente, pode exercer, todavia, função de verbo de ligação. Para manter a absoluta literalidade, permanece “ela”, mas parece correto assumir que seria dispensável. Seja como for, “ela”, isto é, a “humilhação” para nós. </span>"
-    },
-    {
-      "ref_id": "fn49-2835",
-      "number": 49,
-      "text": "“Estar sinalizado” é a tradução da forma verbal passiva de ‘ot, que em sua forma substantivada significa “sinal” (cf. Gênesis 1,14 e nota. Aqui tem o sentido de “estar em concórdia”.",
-      "raw_html": "<span>“Estar sinalizado” é a tradução da forma verbal passiva de <em>‘ot</em>, que em sua forma substantivada significa “sinal” (cf. Gênesis 1,14 e nota. Aqui tem o sentido de “estar em concórdia”. </span>"
-    },
-    {
-      "ref_id": "fn50-2835",
-      "number": 50,
-      "text": "“Totaliade de macho” (kol-zakar). Cf. Gênesis 17,10.12.23; 34,22,24,25; Êxodo 12,48; Levítico 6,11.",
-      "raw_html": "<span>“Totaliade de macho” (<em>kol-zakar</em>). Cf. Gênesis 17,10.12.23; 34,22,24,25; Êxodo 12,48; Levítico 6,11. </span>"
-    },
-    {
-      "ref_id": "fn51-2835",
-      "number": 51,
-      "text": "“E se não ouvirdes vós” (we’im-lo’ tishme’u). Primeira de 5 ocorrências. Cf. Gênesis 34,17; Levítico 26,14; 1 Samuel 12,15; Jeremias 17,27; 22,5.",
-      "raw_html": "<span>“E se não ouvirdes vós” (<em>we’im-lo’ tishme’u</em>). Primeira de 5 ocorrências. Cf. Gênesis 34,17; Levítico 26,14; 1 Samuel 12,15; Jeremias 17,27; 22,5. </span>"
-    },
-    {
-      "ref_id": "fn52-2835",
-      "number": 52,
-      "text": "“Para o ser circuncidado” (lehimmol). Somente em Gênesis 34,17; Josué 5,8.",
-      "raw_html": "<span>“Para o ser circuncidado” (<em>lehimmol</em>). Somente em Gênesis 34,17; Josué 5,8. </span>"
-    },
-    {
-      "ref_id": "fn53-2835",
-      "number": 53,
-      "text": "Os irmãos de Jacó dão um ultimato a Siquém: ou ele aceita os termos ou fica sem Diná.",
-      "raw_html": "<span>Os irmãos de Jacó dão um ultimato a Siquém: ou ele aceita os termos ou fica sem Diná. </span>"
-    },
-    {
-      "ref_id": "fn54-2835",
-      "number": 54,
-      "text": "“E nos olhos de” (ube’ene). Primeira de 10 ocorrências. Cf. Gênesis 34,18; 41,37; 45,16; Êxodo 5,21; 11,3; Números 11,10.",
-      "raw_html": "<span>“E nos olhos de” (<em>ube’ene</em>). Primeira de 10 ocorrências. Cf. Gênesis 34,18; 41,37; 45,16; Êxodo 5,21; 11,3; Números 11,10. </span>"
-    },
-    {
-      "ref_id": "fn55-2835",
-      "number": 55,
-      "text": "“Retém” (‘hr). Forma intensiva da raiz. Cf. Gênesis 24,56; Êxodo 22,28.",
-      "raw_html": "<span>“Retém” (<em>‘hr</em>). Forma intensiva da raiz. Cf. Gênesis 24,56; Êxodo 22,28. </span>"
-    },
-    {
-      "ref_id": "fn56-2835",
-      "number": 56,
-      "text": "“Deleita ele” traduz aqui a forma verbal da raiz hpts. Primeira de 69 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00244\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00244\" rel=\"noopener\" target=\"_blank\">Deleita ele</a>” traduz aqui a forma verbal da raiz <em>hpts</em>. Primeira de 69 ocorrências. </span>"
-    },
-    {
-      "ref_id": "fn57-2835",
-      "number": 57,
-      "text": "“E ele” (wehu’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADO\" rel=\"noreferrer noopener\" target=\"_blank\">E ele</a>” (<em>wehu’</em>). </span>"
-    },
-    {
-      "ref_id": "fn58-2835",
-      "number": 58,
-      "text": "“Pesado” traduz o particípio da raiz kbd (“ser pesado”). Cf. Gênesis 12,10 e 13,2 e as respectivas notas, bem como Êxodo 14,4.",
-      "raw_html": "<span>“Pesado” traduz o particípio da raiz <em>kbd</em> (“ser pesado”). Cf. Gênesis 12,10 e 13,2 e as respectivas notas, bem como Êxodo 14,4. </span>"
-    },
-    {
-      "ref_id": "fn59-2835",
-      "number": 59,
-      "text": "Idiomatismo em dois sentidos. Primeiro, uma questão sintática. Ao pé da letra: “ele era pesado desde a totalidade da casa do pai dele”. É assim que o hebraico bíblico constrói frases do tipo “mais do que”. Logo, Shekem é o mais “pesado” da casa dele. Segundo aspecto: “pesado”, por sua vez, é fruto da pobreza da língua. Aí se quer dizer que ele é o mais importante da família de Hamor. Em Língua Portuguesa conhecemos a expressão “um homem de peso”, ou seja, um homem importante.",
-      "raw_html": "<span>Idiomatismo em dois sentidos. Primeiro, uma questão sintática. Ao pé da letra: “ele era pesado desde a totalidade da casa do pai dele”. É assim que o hebraico bíblico constrói frases do tipo “mais do que”. Logo, Shekem é o mais “pesado” da casa dele. Segundo aspecto: “pesado”, por sua vez, é fruto da pobreza da língua. Aí se quer dizer que ele é o mais importante da família de Hamor. Em Língua Portuguesa conhecemos a expressão “um homem de peso”, ou seja, um homem importante. </span>"
-    },
-    {
-      "ref_id": "fn60-2835",
-      "number": 60,
       "text": "“E falam eles” (wayedabberu). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40.",
       "raw_html": "<span>“E falam eles” (<em>wayedabberu</em>). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40. </span>"
     },
     {
+      "ref_id": "fn44-2835",
+      "number": 44,
+      "text": "“impurificou” (timme’). Mesmo termo do v. 5.",
+      "raw_html": "<span>“impurificou” (<em>timme’</em>). Mesmo termo do v. 5. </span>"
+    },
+    {
+      "ref_id": "fn45-2835",
+      "number": 45,
+      "text": "Ou seja, eles assumem que a opressão está consumada e agem enganosamente com Siquém.",
+      "raw_html": "<span>Ou seja, eles assumem que a opressão está consumada e agem enganosamente com Siquém. </span>"
+    },
+    {
+      "ref_id": "fn46-2835",
+      "number": 46,
+      "text": "“Para um homem que” (le’ish ‘asher). Primeira de 11 ocorrências. Cf. Gênesis 34,14; 38,25; Levítico 25,27; Deuteronômio 25,9; 1 Samuel 17,26.27; 2 Reis 22,15; 2 Crônicas 34,23; Ester 6,9.11; Malaquias 2,12.",
+      "raw_html": "<span>“Para um homem que” (<em>le’ish ‘asher</em>). Primeira de 11 ocorrências. Cf. Gênesis 34,14; 38,25; Levítico 25,27; Deuteronômio 25,9; 1 Samuel 17,26.27; 2 Reis 22,15; 2 Crônicas 34,23; Ester 6,9.11; Malaquias 2,12. </span>"
+    },
+    {
+      "ref_id": "fn47-2835",
+      "number": 47,
+      "text": "“Que para ele” (‘asher-lo). Ou seja, “que ele tem”.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00000016\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00000016\" rel=\"noopener\" target=\"_blank\">Que para ele</a>” (<em>‘asher-lo</em>). Ou seja, “que ele tem”. </span>"
+    },
+    {
+      "ref_id": "fn48-2835",
+      "number": 48,
+      "text": "“Humilhação”. Até aqui, o termo só havia sido empregado em Gênesis 30,23.",
+      "raw_html": "<span>“Humilhação”. Até aqui, o termo só havia sido empregado em Gênesis 30,23. </span>"
+    },
+    {
+      "ref_id": "fn49-2835",
+      "number": 49,
+      "text": "No texto aparece o pronome pessoal hiv’ (“ela”). Sintaticamente, pode exercer, todavia, função de verbo de ligação. Para manter a absoluta literalidade, permanece “ela”, mas parece correto assumir que seria dispensável. Seja como for, “ela”, isto é, a “humilhação” para nós.",
+      "raw_html": "<span>No texto aparece o pronome pessoal <em>hiv’</em> (“ela”). Sintaticamente, pode exercer, todavia, função de verbo de ligação. Para manter a absoluta literalidade, permanece “ela”, mas parece correto assumir que seria dispensável. Seja como for, “ela”, isto é, a “humilhação” para nós. </span>"
+    },
+    {
+      "ref_id": "fn50-2835",
+      "number": 50,
+      "text": "“Estar sinalizado” é a tradução da forma verbal passiva de ‘ot, que em sua forma substantivada significa “sinal” (cf. Gênesis 1,14 e nota. Aqui tem o sentido de “estar em concórdia”.",
+      "raw_html": "<span>“Estar sinalizado” é a tradução da forma verbal passiva de <em>‘ot</em>, que em sua forma substantivada significa “sinal” (cf. Gênesis 1,14 e nota. Aqui tem o sentido de “estar em concórdia”. </span>"
+    },
+    {
+      "ref_id": "fn51-2835",
+      "number": 51,
+      "text": "“Totaliade de macho” (kol-zakar). Cf. Gênesis 17,10.12.23; 34,22,24,25; Êxodo 12,48; Levítico 6,11.",
+      "raw_html": "<span>“Totaliade de macho” (<em>kol-zakar</em>). Cf. Gênesis 17,10.12.23; 34,22,24,25; Êxodo 12,48; Levítico 6,11. </span>"
+    },
+    {
+      "ref_id": "fn52-2835",
+      "number": 52,
+      "text": "“E se não ouvirdes vós” (we’im-lo’ tishme’u). Primeira de 5 ocorrências. Cf. Gênesis 34,17; Levítico 26,14; 1 Samuel 12,15; Jeremias 17,27; 22,5.",
+      "raw_html": "<span>“E se não ouvirdes vós” (<em>we’im-lo’ tishme’u</em>). Primeira de 5 ocorrências. Cf. Gênesis 34,17; Levítico 26,14; 1 Samuel 12,15; Jeremias 17,27; 22,5. </span>"
+    },
+    {
+      "ref_id": "fn53-2835",
+      "number": 53,
+      "text": "“Para o ser circuncidado” (lehimmol). Somente em Gênesis 34,17; Josué 5,8.",
+      "raw_html": "<span>“Para o ser circuncidado” (<em>lehimmol</em>). Somente em Gênesis 34,17; Josué 5,8. </span>"
+    },
+    {
+      "ref_id": "fn54-2835",
+      "number": 54,
+      "text": "Os irmãos de Jacó dão um ultimato a Siquém: ou ele aceita os termos ou fica sem Diná.",
+      "raw_html": "<span>Os irmãos de Jacó dão um ultimato a Siquém: ou ele aceita os termos ou fica sem Diná. </span>"
+    },
+    {
+      "ref_id": "fn55-2835",
+      "number": 55,
+      "text": "“E nos olhos de” (ube’ene). Primeira de 10 ocorrências. Cf. Gênesis 34,18; 41,37; 45,16; Êxodo 5,21; 11,3; Números 11,10.",
+      "raw_html": "<span>“E nos olhos de” (<em>ube’ene</em>). Primeira de 10 ocorrências. Cf. Gênesis 34,18; 41,37; 45,16; Êxodo 5,21; 11,3; Números 11,10. </span>"
+    },
+    {
+      "ref_id": "fn56-2835",
+      "number": 56,
+      "text": "“Retém” (‘hr). Forma intensiva da raiz. Cf. Gênesis 24,56; Êxodo 22,28.",
+      "raw_html": "<span>“Retém” (<em>‘hr</em>). Forma intensiva da raiz. Cf. Gênesis 24,56; Êxodo 22,28. </span>"
+    },
+    {
+      "ref_id": "fn57-2835",
+      "number": 57,
+      "text": "“Deleita ele” traduz aqui a forma verbal da raiz hpts. Primeira de 69 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00244\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00244\" rel=\"noopener\" target=\"_blank\">Deleita ele</a>” traduz aqui a forma verbal da raiz <em>hpts</em>. Primeira de 69 ocorrências. </span>"
+    },
+    {
+      "ref_id": "fn58-2835",
+      "number": 58,
+      "text": "“E ele” (wehu’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADO\" rel=\"noreferrer noopener\" target=\"_blank\">E ele</a>” (<em>wehu’</em>). </span>"
+    },
+    {
+      "ref_id": "fn59-2835",
+      "number": 59,
+      "text": "“Pesado” traduz o particípio da raiz kbd (“ser pesado”). Cf. Gênesis 12,10 e 13,2 e as respectivas notas, bem como Êxodo 14,4.",
+      "raw_html": "<span>“Pesado” traduz o particípio da raiz <em>kbd</em> (“ser pesado”). Cf. Gênesis 12,10 e 13,2 e as respectivas notas, bem como Êxodo 14,4. </span>"
+    },
+    {
+      "ref_id": "fn60-2835",
+      "number": 60,
+      "text": "Idiomatismo em dois sentidos. Primeiro, uma questão sintática. Ao pé da letra: “ele era pesado desde a totalidade da casa do pai dele”. É assim que o hebraico bíblico constrói frases do tipo “mais do que”. Logo, Shekem é o mais “pesado” da casa dele. Segundo aspecto: “pesado”, por sua vez, é fruto da pobreza da língua. Aí se quer dizer que ele é o mais importante da família de Hamor. Em Língua Portuguesa conhecemos a expressão “um homem de peso”, ou seja, um homem importante.",
+      "raw_html": "<span>Idiomatismo em dois sentidos. Primeiro, uma questão sintática. Ao pé da letra: “ele era pesado desde a totalidade da casa do pai dele”. É assim que o hebraico bíblico constrói frases do tipo “mais do que”. Logo, Shekem é o mais “pesado” da casa dele. Segundo aspecto: “pesado”, por sua vez, é fruto da pobreza da língua. Aí se quer dizer que ele é o mais importante da família de Hamor. Em Língua Portuguesa conhecemos a expressão “um homem de peso”, ou seja, um homem importante. </span>"
+    },
+    {
       "ref_id": "fn61-2835",
       "number": 61,
-      "text": "“Os homens esses” (ha’anashim ha’elleh). Primeira de 14 ocorrências. Cf. Gênesis 34,21; Números 1,17; 16,30; 22,9.",
-      "raw_html": "<span>“Os homens esses” (<em>ha’anashim ha’elleh</em>). Primeira de 14 ocorrências. Cf. Gênesis 34,21; Números 1,17; 16,30; 22,9. </span>"
+      "text": "“E falam eles” (wayedabberu). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40.",
+      "raw_html": "<span>“E falam eles” (<em>wayedabberu</em>). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40. </span>"
     },
     {
       "ref_id": "fn62-2835",
       "number": 62,
-      "text": "“Completos” (shelemim). Ou seja, “inteiros”, “íntegros”, “honestos”. Não sabem de nada, coitados. Cf. Gênesis 14,18 e nota; 15,16; 33,18.",
-      "raw_html": "<span>“Completos” (<em>shelemim</em>). Ou seja, “inteiros”, “íntegros”, “honestos”. Não sabem de nada, coitados. Cf. Gênesis 14,18 e nota; 15,16; 33,18. </span>"
+      "text": "“Os homens esses” (ha’anashim ha’elleh). Primeira de 14 ocorrências. Cf. Gênesis 34,21; Números 1,17; 16,30; 22,9.",
+      "raw_html": "<span>“Os homens esses” (<em>ha’anashim ha’elleh</em>). Primeira de 14 ocorrências. Cf. Gênesis 34,21; Números 1,17; 16,30; 22,9. </span>"
     },
     {
       "ref_id": "fn63-2835",
       "number": 63,
-      "text": "Cf. a nota do v. 10.",
-      "raw_html": "<span>Cf. a nota do v. 10. </span>"
+      "text": "“Completos” (shelemim). Ou seja, “inteiros”, “íntegros”, “honestos”. Não sabem de nada, coitados. Cf. Gênesis 14,18 e nota; 15,16; 33,18.",
+      "raw_html": "<span>“Completos” (<em>shelemim</em>). Ou seja, “inteiros”, “íntegros”, “honestos”. Não sabem de nada, coitados. Cf. Gênesis 14,18 e nota; 15,16; 33,18. </span>"
     },
     {
       "ref_id": "fn64-2835",
       "number": 64,
-      "text": "“Larga” é adjetivo constituído com a mesma raiz de “largura” (rhb). Cf. Gênesis 6,15 e nota.",
-      "raw_html": "<span>“Larga” é adjetivo constituído com a mesma raiz de “largura” (<em>rhb</em>). Cf. Gênesis 6,15 e nota. </span>"
+      "text": "Cf. a nota do v. 10.",
+      "raw_html": "<span>Cf. a nota do v. 10. </span>"
     },
     {
       "ref_id": "fn65-2835",
       "number": 65,
-      "text": "Idiomatismo. Deve significar que ela é espaçosa o suficiente para acomodar também a gente de Jacó. Não se deve pensar na Palestina como um todo, nem mesmo as terras do norte ou do sul. Trata-se, no contexto, apenas do perímetro da cidade de Hamor e Siquém.",
-      "raw_html": "<span>Idiomatismo. Deve significar que ela é espaçosa o suficiente para acomodar também a gente de Jacó. Não se deve pensar na Palestina como um todo, nem mesmo as terras do norte ou do sul. Trata-se, no contexto, apenas do perímetro da cidade de Hamor e Siquém. </span>"
+      "text": "“Larga” é adjetivo constituído com a mesma raiz de “largura” (rhb). Cf. Gênesis 6,15 e nota.",
+      "raw_html": "<span>“Larga” é adjetivo constituído com a mesma raiz de “largura” (<em>rhb</em>). Cf. Gênesis 6,15 e nota. </span>"
     },
     {
       "ref_id": "fn66-2835",
       "number": 66,
-      "text": "Cf. v. 15.",
-      "raw_html": "<span>Cf. v. 15. </span>"
+      "text": "Idiomatismo. Deve significar que ela é espaçosa o suficiente para acomodar também a gente de Jacó. Não se deve pensar na Palestina como um todo, nem mesmo as terras do norte ou do sul. Trata-se, no contexto, apenas do perímetro da cidade de Hamor e Siquém.",
+      "raw_html": "<span>Idiomatismo. Deve significar que ela é espaçosa o suficiente para acomodar também a gente de Jacó. Não se deve pensar na Palestina como um todo, nem mesmo as terras do norte ou do sul. Trata-se, no contexto, apenas do perímetro da cidade de Hamor e Siquém. </span>"
     },
     {
       "ref_id": "fn67-2835",
       "number": 67,
-      "text": "“O rebanho deles” (miqnehem). Somente em Gênesis 34,23; 47,17; Números 31,9.",
-      "raw_html": "<span>“O rebanho deles” (<em>miqnehem</em>). Somente em Gênesis 34,23; 47,17; Números 31,9. </span>"
+      "text": "Cf. v. 15.",
+      "raw_html": "<span>Cf. v. 15. </span>"
     },
     {
       "ref_id": "fn68-2835",
       "number": 68,
-      "text": "“Adquirido” (qin’yan). Em Gênesis 31,18 o termo é empregado para designar o rebanho adquirido (comprado?). Recomenda-se a consulta a Gênesis 4,20 e nota.",
-      "raw_html": "<span>“Adquirido” (<em>qin’yan</em>). Em Gênesis 31,18 o termo é empregado para designar o rebanho adquirido (comprado?). Recomenda-se a consulta a Gênesis 4,20 e nota. </span>"
+      "text": "“O rebanho deles” (miqnehem). Somente em Gênesis 34,23; 47,17; Números 31,9.",
+      "raw_html": "<span>“O rebanho deles” (<em>miqnehem</em>). Somente em Gênesis 34,23; 47,17; Números 31,9. </span>"
     },
     {
       "ref_id": "fn69-2835",
       "number": 69,
-      "text": "“Animália” (behemah). Cf. Gênesis 1,24 (e nota); 2,2; 3,14; 6,7; 7,2; 8,1; 9,10.",
-      "raw_html": "<span>“Animália” (<em>behemah</em>). Cf. Gênesis 1,24 (e nota); 2,2; 3,14; 6,7; 7,2; 8,1; 9,10. </span>"
+      "text": "“Adquirido” (qin’yan). Em Gênesis 31,18 o termo é empregado para designar o rebanho adquirido (comprado?). Recomenda-se a consulta a Gênesis 4,20 e nota.",
+      "raw_html": "<span>“Adquirido” (<em>qin’yan</em>). Em Gênesis 31,18 o termo é empregado para designar o rebanho adquirido (comprado?). Recomenda-se a consulta a Gênesis 4,20 e nota. </span>"
     },
     {
       "ref_id": "fn70-2835",
       "number": 70,
-      "text": "“A animália deles” (behemtam). Primeira de 4 ocorrências. Cf. Gênesis 34,23; Números 3,45; 31,9; 35,3.",
-      "raw_html": "<span>“A animália deles” (<em>behemtam</em>). Primeira de 4 ocorrências. Cf. Gênesis 34,23; Números 3,45; 31,9; 35,3. </span>"
+      "text": "“Animália” (behemah). Cf. Gênesis 1,24 (e nota); 2,2; 3,14; 6,7; 7,2; 8,1; 9,10.",
+      "raw_html": "<span>“Animália” (<em>behemah</em>). Cf. Gênesis 1,24 (e nota); 2,2; 3,14; 6,7; 7,2; 8,1; 9,10. </span>"
     },
     {
       "ref_id": "fn71-2835",
       "number": 71,
-      "text": "Cf. v. 15.22.",
-      "raw_html": "<span>Cf. v. 15.22. </span>"
+      "text": "“A animália deles” (behemtam). Primeira de 4 ocorrências. Cf. Gênesis 34,23; Números 3,45; 31,9; 35,3.",
+      "raw_html": "<span>“A animália deles” (<em>behemtam</em>). Primeira de 4 ocorrências. Cf. Gênesis 34,23; Números 3,45; 31,9; 35,3. </span>"
     },
     {
       "ref_id": "fn72-2835",
       "number": 72,
-      "text": "Outro idiomatismo, como kol funcionando como coletivo: verbo no plural e coletivo no singular. Nós diríamos: “e foram circuncidados todos os machos”, que, a rigor, é o que se quer dizer.",
-      "raw_html": "<span>Outro idiomatismo, como <em>kol</em> funcionando como coletivo: verbo no plural e coletivo no singular. Nós diríamos: “e foram circuncidados todos os machos”, que, a rigor, é o que se quer dizer. </span>"
+      "text": "Cf. v. 15.22.",
+      "raw_html": "<span>Cf. v. 15.22. </span>"
     },
     {
       "ref_id": "fn73-2835",
       "number": 73,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "Outro idiomatismo, como kol funcionando como coletivo: verbo no plural e coletivo no singular. Nós diríamos: “e foram circuncidados todos os machos”, que, a rigor, é o que se quer dizer.",
+      "raw_html": "<span>Outro idiomatismo, como <em>kol</em> funcionando como coletivo: verbo no plural e coletivo no singular. Nós diríamos: “e foram circuncidados todos os machos”, que, a rigor, é o que se quer dizer. </span>"
     },
     {
       "ref_id": "fn74-2835",
       "number": 74,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn75-2835",
       "number": 75,
-      "text": "“No dia terceiro” (bayom hashshelishi). Cf. Gênesis 22,4; 31,22; 40,20; 42,18; Êxodo 19,11.16; 7,17.",
-      "raw_html": "<span>“No dia terceiro” (<em>bayom hashshelishi</em>). Cf. Gênesis 22,4; 31,22; 40,20; 42,18; Êxodo 19,11.16; 7,17. </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn76-2835",
       "number": 76,
-      "text": "“Shim’on e Lewi” (shim’on welewi). Somente em Gênesis 34,35; 49,5; Deuteronômio 27,12.",
-      "raw_html": "<span>“Shim’on e Lewi” (<em>shim’on welewi</em>). Somente em Gênesis 34,35; 49,5; Deuteronômio 27,12. </span>"
+      "text": "“No dia terceiro” (bayom hashshelishi). Cf. Gênesis 22,4; 31,22; 40,20; 42,18; Êxodo 19,11.16; 7,17.",
+      "raw_html": "<span>“No dia terceiro” (<em>bayom hashshelishi</em>). Cf. Gênesis 22,4; 31,22; 40,20; 42,18; Êxodo 19,11.16; 7,17. </span>"
     },
     {
       "ref_id": "fn77-2835",
       "number": 77,
-      "text": "Cf. Gênesis 29,34 e nota.",
-      "raw_html": "<span>Cf. Gênesis 29,34 e nota. </span>"
+      "text": "“Shim’on e Lewi” (shim’on welewi). Somente em Gênesis 34,35; 49,5; Deuteronômio 27,12.",
+      "raw_html": "<span>“Shim’on e Lewi” (<em>shim’on welewi</em>). Somente em Gênesis 34,35; 49,5; Deuteronômio 27,12. </span>"
     },
     {
       "ref_id": "fn78-2835",
       "number": 78,
-      "text": "“Seguramente”. O termo betah pode ser substantivo, “segurança”. Mas “cidade segura” ou “cidade confiada” parece subverter toda a regra sintática conhecida, já que cidade tem artigo, e betah, não. Como o termo conhece uso adverbial, a opção é que o termo esteja determinando a ação verbal: Simeão e Levi entram na cidade sem nenhuma preocupação.",
-      "raw_html": "<span>“Seguramente”. O termo <em>betah</em> pode ser substantivo, “segurança”. Mas “cidade segura” ou “cidade confiada” parece subverter toda a regra sintática conhecida, já que cidade tem artigo, e <em>betah</em>, não. Como o termo conhece uso adverbial, a opção é que o termo esteja determinando a ação verbal: Simeão e Levi entram na cidade sem nenhuma preocupação. </span>"
+      "text": "Cf. Gênesis 29,34 e nota.",
+      "raw_html": "<span>Cf. Gênesis 29,34 e nota. </span>"
     },
     {
       "ref_id": "fn79-2835",
       "number": 79,
-      "text": "“Matam” (hrg). Cf. Gênesis 4,8; 12,12; 20,4; 26,7; 27,41; 34,25",
-      "raw_html": "<span>“Matam” (<em>hrg</em>). Cf. Gênesis 4,8; 12,12; 20,4; 26,7; 27,41; 34,25 </span>"
+      "text": "“Seguramente”. O termo betah pode ser substantivo, “segurança”. Mas “cidade segura” ou “cidade confiada” parece subverter toda a regra sintática conhecida, já que cidade tem artigo, e betah, não. Como o termo conhece uso adverbial, a opção é que o termo esteja determinando a ação verbal: Simeão e Levi entram na cidade sem nenhuma preocupação.",
+      "raw_html": "<span>“Seguramente”. O termo <em>betah</em> pode ser substantivo, “segurança”. Mas “cidade segura” ou “cidade confiada” parece subverter toda a regra sintática conhecida, já que cidade tem artigo, e <em>betah</em>, não. Como o termo conhece uso adverbial, a opção é que o termo esteja determinando a ação verbal: Simeão e Levi entram na cidade sem nenhuma preocupação. </span>"
     },
     {
       "ref_id": "fn80-2835",
       "number": 80,
-      "text": "“E matam eles total de macho” (wayyahargu kol-zakar). Aqui e em Números 31,7.",
-      "raw_html": "<span>“E matam eles total de macho” (<em>wayyahargu kol-zakar</em>). Aqui e em Números 31,7. </span>"
+      "text": "“Matam” (hrg). Cf. Gênesis 4,8; 12,12; 20,4; 26,7; 27,41; 34,25",
+      "raw_html": "<span>“Matam” (<em>hrg</em>). Cf. Gênesis 4,8; 12,12; 20,4; 26,7; 27,41; 34,25 </span>"
     },
     {
       "ref_id": "fn81-2835",
       "number": 81,
-      "text": "“Matam” (hrg). Cf. v. 25.",
-      "raw_html": "<span>“Matam” (<em>hrg</em>). Cf. v. 25. </span>"
+      "text": "“E matam eles total de macho” (wayyahargu kol-zakar). Aqui e em Números 31,7.",
+      "raw_html": "<span>“E matam eles total de macho” (<em>wayyahargu kol-zakar</em>). Aqui e em Números 31,7. </span>"
     },
     {
       "ref_id": "fn82-2835",
       "number": 82,
-      "text": "“Boca”. Idiomatismo. Significa “o fio da espada”.",
-      "raw_html": "<span>“Boca”. Idiomatismo. Significa “o fio da espada”. </span>"
+      "text": "“Matam” (hrg). Cf. v. 25.",
+      "raw_html": "<span>“Matam” (<em>hrg</em>). Cf. v. 25. </span>"
     },
     {
       "ref_id": "fn83-2835",
       "number": 83,
-      "text": "“Para boca de espada” (lepi-hareb). Primeira de 32 ocorrências. Cf. Gênesis 34,26; Êxodo 17,13; Números 21,24; Deuteronômio 13,16; 20,13. Josué 6,21; 8,24; 10,28.30.32.35.37.39; 11,11.12.14; 19,47.",
-      "raw_html": "<span>“Para boca de espada” (<em>lepi-hareb</em>). Primeira de 32 ocorrências. Cf. Gênesis 34,26; Êxodo 17,13; Números 21,24; Deuteronômio 13,16; 20,13. Josué 6,21; 8,24; 10,28.30.32.35.37.39; 11,11.12.14; 19,47. </span>"
+      "text": "“Boca”. Idiomatismo. Significa “o fio da espada”.",
+      "raw_html": "<span>“Boca”. Idiomatismo. Significa “o fio da espada”. </span>"
     },
     {
       "ref_id": "fn84-2835",
       "number": 84,
-      "text": "Não há na nossa cultura argumento de nenhuma natureza, salvo a cumplicidade teológica igualmente injustificável, para o ato descrito. Não saberia dizer se pareceria a um judaíta da época algo de louvável, ou se, já na origem, se trata de narrar uma história de indignação. A perfídia, covardia e depravação moral dos personagens envolvidos – todos – é de um grau nauseabundo.",
-      "raw_html": "<span>Não há na nossa cultura argumento de nenhuma natureza, salvo a cumplicidade teológica igualmente injustificável, para o ato descrito. Não saberia dizer se pareceria a um judaíta da época algo de louvável, ou se, já na origem, se trata de narrar uma história de indignação. A perfídia, covardia e depravação moral dos personagens envolvidos – todos – é de um grau nauseabundo. </span>"
+      "text": "“Para boca de espada” (lepi-hareb). Primeira de 32 ocorrências. Cf. Gênesis 34,26; Êxodo 17,13; Números 21,24; Deuteronômio 13,16; 20,13. Josué 6,21; 8,24; 10,28.30.32.35.37.39; 11,11.12.14; 19,47.",
+      "raw_html": "<span>“Para boca de espada” (<em>lepi-hareb</em>). Primeira de 32 ocorrências. Cf. Gênesis 34,26; Êxodo 17,13; Números 21,24; Deuteronômio 13,16; 20,13. Josué 6,21; 8,24; 10,28.30.32.35.37.39; 11,11.12.14; 19,47. </span>"
     },
     {
       "ref_id": "fn85-2835",
       "number": 85,
-      "text": "E eles tomam” (wayyiqhu ‘et). Cf. Gênesis 14,11.12; 37,31; 46,6; Levítico 9,5.",
-      "raw_html": "<span>E eles tomam” (<em>wayyiqhu ‘et</em>). Cf. Gênesis 14,11.12; 37,31; 46,6; Levítico 9,5. </span>"
+      "text": "Não há na nossa cultura argumento de nenhuma natureza, salvo a cumplicidade teológica igualmente injustificável, para o ato descrito. Não saberia dizer se pareceria a um judaíta da época algo de louvável, ou se, já na origem, se trata de narrar uma história de indignação. A perfídia, covardia e depravação moral dos personagens envolvidos – todos – é de um grau nauseabundo.",
+      "raw_html": "<span>Não há na nossa cultura argumento de nenhuma natureza, salvo a cumplicidade teológica igualmente injustificável, para o ato descrito. Não saberia dizer se pareceria a um judaíta da época algo de louvável, ou se, já na origem, se trata de narrar uma história de indignação. A perfídia, covardia e depravação moral dos personagens envolvidos – todos – é de um grau nauseabundo. </span>"
     },
     {
       "ref_id": "fn86-2835",
       "number": 86,
-      "text": "“Vão eles” (ba’u).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADT\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADT\" rel=\"noreferrer noopener\" target=\"_blank\">Vão eles</a>” (<em>ba’u</em>). </span>"
+      "text": "E eles tomam” (wayyiqhu ‘et). Cf. Gênesis 14,11.12; 37,31; 46,6; Levítico 9,5.",
+      "raw_html": "<span>E eles tomam” (<em>wayyiqhu ‘et</em>). Cf. Gênesis 14,11.12; 37,31; 46,6; Levítico 9,5. </span>"
     },
     {
       "ref_id": "fn87-2835",
       "number": 87,
-      "text": "“Transpassados” (halalim). Plural de halal, dado pelos léxicos como adjetivo, mas funcionando aqui como substantivo. Com esse sentido, primeira ocorrência. Raiz de igual forma aparece em Gênesis 4,26; 6,1; 9,20; 10.8 e 11,6, mas com o sentido de “começar”. Em determinadas passagens, suporta ainda o sentido de “desonrar” e, na forma intensiva, “profanar”. Cf. Gênesis 34,27; Levítico 21,7.14; Números 19,16.18; 23,24; 31,8.19; Deuteronômio 21,1.2.3.6.",
-      "raw_html": "<span>“Transpassados” (<em>halalim</em>). Plural de <em>halal</em>, dado pelos léxicos como adjetivo, mas funcionando aqui como substantivo. Com esse sentido, primeira ocorrência. Raiz de igual forma aparece em Gênesis 4,26; 6,1; 9,20; 10.8 e 11,6, mas com o sentido de “começar”. Em determinadas passagens, suporta ainda o sentido de “desonrar” e, na forma intensiva, “profanar”. Cf. Gênesis 34,27; Levítico 21,7.14; Números 19,16.18; 23,24; 31,8.19; Deuteronômio 21,1.2.3.6. </span>"
+      "text": "“Vão eles” (ba’u).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADT\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADT\" rel=\"noreferrer noopener\" target=\"_blank\">Vão eles</a>” (<em>ba’u</em>). </span>"
     },
     {
       "ref_id": "fn88-2835",
       "number": 88,
-      "text": "“Espoliam” traduz forma verbal da raiz bzz. Primeira de 39 ocorrências. Cf. Gênesis 34,27.29; Números 31,9.32.53.",
-      "raw_html": "<span>“Espoliam” traduz forma verbal da raiz <em>bzz</em>. Primeira de 39 ocorrências. Cf. Gênesis 34,27.29; Números 31,9.32.53. </span>"
+      "text": "“Transpassados” (halalim). Plural de halal, dado pelos léxicos como adjetivo, mas funcionando aqui como substantivo. Com esse sentido, primeira ocorrência. Raiz de igual forma aparece em Gênesis 4,26; 6,1; 9,20; 10.8 e 11,6, mas com o sentido de “começar”. Em determinadas passagens, suporta ainda o sentido de “desonrar” e, na forma intensiva, “profanar”. Cf. Gênesis 34,27; Levítico 21,7.14; Números 19,16.18; 23,24; 31,8.19; Deuteronômio 21,1.2.3.6.",
+      "raw_html": "<span>“Transpassados” (<em>halalim</em>). Plural de <em>halal</em>, dado pelos léxicos como adjetivo, mas funcionando aqui como substantivo. Com esse sentido, primeira ocorrência. Raiz de igual forma aparece em Gênesis 4,26; 6,1; 9,20; 10.8 e 11,6, mas com o sentido de “começar”. Em determinadas passagens, suporta ainda o sentido de “desonrar” e, na forma intensiva, “profanar”. Cf. Gênesis 34,27; Levítico 21,7.14; Números 19,16.18; 23,24; 31,8.19; Deuteronômio 21,1.2.3.6. </span>"
     },
     {
       "ref_id": "fn89-2835",
       "number": 89,
-      "text": "Sim, “cidade”, singular, e “impurificaram”, plural. No texto está assim, porque “cidade” acaba funcionando como coletivo e sinédoque: os homens da cidade impurificaram Diná. Conquanto, sejamos honestos, foi um homem apenas quem o fez. Para “impurificaram” (tm’). Cf. v. 5.13; Levítico 11,44; 13,8.",
-      "raw_html": "<span>Sim, “cidade”, singular, e “impurificaram”, plural. No texto está assim, porque “cidade” acaba funcionando como coletivo e sinédoque: os homens da cidade impurificaram Diná. Conquanto, sejamos honestos, foi um homem apenas quem o fez. Para “impurificaram” (<em>tm’</em>). Cf. v. 5.13; Levítico 11,44; 13,8. </span>"
+      "text": "“Espoliam” traduz forma verbal da raiz bzz. Primeira de 39 ocorrências. Cf. Gênesis 34,27.29; Números 31,9.32.53.",
+      "raw_html": "<span>“Espoliam” traduz forma verbal da raiz <em>bzz</em>. Primeira de 39 ocorrências. Cf. Gênesis 34,27.29; Números 31,9.32.53. </span>"
     },
     {
       "ref_id": "fn90-2835",
       "number": 90,
-      "text": "Ou “miunça”, rebanho de gado miúdo: ovelhas e cabras.",
-      "raw_html": "<span>Ou “miunça”, rebanho de gado miúdo: ovelhas e cabras. </span>"
+      "text": "Sim, “cidade”, singular, e “impurificaram”, plural. No texto está assim, porque “cidade” acaba funcionando como coletivo e sinédoque: os homens da cidade impurificaram Diná. Conquanto, sejamos honestos, foi um homem apenas quem o fez. Para “impurificaram” (tm’). Cf. v. 5.13; Levítico 11,44; 13,8.",
+      "raw_html": "<span>Sim, “cidade”, singular, e “impurificaram”, plural. No texto está assim, porque “cidade” acaba funcionando como coletivo e sinédoque: os homens da cidade impurificaram Diná. Conquanto, sejamos honestos, foi um homem apenas quem o fez. Para “impurificaram” (<em>tm’</em>). Cf. v. 5.13; Levítico 11,44; 13,8. </span>"
     },
     {
       "ref_id": "fn91-2835",
       "number": 91,
-      "text": "Rebanho de gado graúdo, bois e vacas.",
-      "raw_html": "<span>Rebanho de gado graúdo, bois e vacas. </span>"
+      "text": "Ou “miunça”, rebanho de gado miúdo: ovelhas e cabras.",
+      "raw_html": "<span>Ou “miunça”, rebanho de gado miúdo: ovelhas e cabras. </span>"
     },
     {
       "ref_id": "fn92-2835",
       "number": 92,
-      "text": "“E o total do organizamento” (we’et-kol-helam). Somente em Gênesis 34,29; Números 31,9.",
-      "raw_html": "<span>“E o total do organizamento” (<em>we’et-kol-helam</em>). Somente em Gênesis 34,29; Números 31,9. </span>"
+      "text": "Rebanho de gado graúdo, bois e vacas.",
+      "raw_html": "<span>Rebanho de gado graúdo, bois e vacas. </span>"
     },
     {
       "ref_id": "fn93-2835",
       "number": 93,
-      "text": "“Organizamento” (hayil). O termo hayil designa uma série de grandezas concomitantes ou separadas. Suporta a ideia de “força” (militar”), de “suprimentos” e de “energia”. Primeira de 244 ocorrências. Cf. Gênesis 34,29; Deuteronômio 8,17.18.",
-      "raw_html": "<span>“Organizamento” (<em>hayil</em>). O termo <em>hayil</em> designa uma série de grandezas concomitantes ou separadas. Suporta a ideia de “força” (militar”), de “suprimentos” e de “energia”. Primeira de 244 ocorrências. Cf. Gênesis 34,29; Deuteronômio 8,17.18. </span>"
+      "text": "“E o total do organizamento” (we’et-kol-helam). Somente em Gênesis 34,29; Números 31,9.",
+      "raw_html": "<span>“E o total do organizamento” (<em>we’et-kol-helam</em>). Somente em Gênesis 34,29; Números 31,9. </span>"
     },
     {
       "ref_id": "fn94-2835",
       "number": 94,
-      "text": "“Prole” (tap). Primeira de 41 ocorrências. Cf. Gênesis 34,29; 43,8; 45,19; 46,5; 47,24; 50,8.21; Êxodo 10,10.24; 12,37; Números 14,3.",
-      "raw_html": "<span>“Prole” (<em>tap</em>). Primeira de 41 ocorrências. Cf. Gênesis 34,29; 43,8; 45,19; 46,5; 47,24; 50,8.21; Êxodo 10,10.24; 12,37; Números 14,3. </span>"
+      "text": "“Organizamento” (hayil). O termo hayil designa uma série de grandezas concomitantes ou separadas. Suporta a ideia de “força” (militar”), de “suprimentos” e de “energia”. Primeira de 244 ocorrências. Cf. Gênesis 34,29; Deuteronômio 8,17.18.",
+      "raw_html": "<span>“Organizamento” (<em>hayil</em>). O termo <em>hayil</em> designa uma série de grandezas concomitantes ou separadas. Suporta a ideia de “força” (militar”), de “suprimentos” e de “energia”. Primeira de 244 ocorrências. Cf. Gênesis 34,29; Deuteronômio 8,17.18. </span>"
     },
     {
       "ref_id": "fn95-2835",
       "number": 95,
-      "text": "“Capturam” (shbh). Cf. Gênesis 14,14; 31,26; Êxodo 22,9.",
-      "raw_html": "<span>“Capturam” (<em>shbh</em>). Cf. Gênesis 14,14; 31,26; Êxodo 22,9. </span>"
+      "text": "“Prole” (tap). Primeira de 41 ocorrências. Cf. Gênesis 34,29; 43,8; 45,19; 46,5; 47,24; 50,8.21; Êxodo 10,10.24; 12,37; Números 14,3.",
+      "raw_html": "<span>“Prole” (<em>tap</em>). Primeira de 41 ocorrências. Cf. Gênesis 34,29; 43,8; 45,19; 46,5; 47,24; 50,8.21; Êxodo 10,10.24; 12,37; Números 14,3. </span>"
     },
     {
       "ref_id": "fn96-2835",
       "number": 96,
-      "text": "Não posso fazer isso, mas a narrativa parece pedir que esse vav (“e”) seja tomado como nosso “bem como”.",
-      "raw_html": "<span>Não posso fazer isso, mas a narrativa parece pedir que esse <em>vav </em>(“e”) seja tomado como nosso “bem como”. </span>"
+      "text": "“Capturam” (shbh). Cf. Gênesis 14,14; 31,26; Êxodo 22,9.",
+      "raw_html": "<span>“Capturam” (<em>shbh</em>). Cf. Gênesis 14,14; 31,26; Êxodo 22,9. </span>"
     },
     {
       "ref_id": "fn97-2835",
       "number": 97,
-      "text": "A sintaxe dos períodos desse verso é bastante truncada. O resultado, ao pé da letra, tem o resultado apresentado. As conjunções vav parecem ter sido colocadas em lugar errado, para apenas indicar a impressão produzida pelo ato de traduzir o texto.",
-      "raw_html": "<span>A sintaxe dos períodos desse verso é bastante truncada. O resultado, ao pé da letra, tem o resultado apresentado. As conjunções <em>vav</em> parecem ter sido colocadas em lugar errado, para apenas indicar a impressão produzida pelo ato de traduzir o texto. </span>"
+      "text": "Não posso fazer isso, mas a narrativa parece pedir que esse vav (“e”) seja tomado como nosso “bem como”.",
+      "raw_html": "<span>Não posso fazer isso, mas a narrativa parece pedir que esse <em>vav </em>(“e”) seja tomado como nosso “bem como”. </span>"
     },
     {
       "ref_id": "fn98-2835",
       "number": 98,
-      "text": "Cf. v. 25.",
-      "raw_html": "<span>Cf. v. 25. </span>"
+      "text": "A sintaxe dos períodos desse verso é bastante truncada. O resultado, ao pé da letra, tem o resultado apresentado. As conjunções vav parecem ter sido colocadas em lugar errado, para apenas indicar a impressão produzida pelo ato de traduzir o texto.",
+      "raw_html": "<span>A sintaxe dos períodos desse verso é bastante truncada. O resultado, ao pé da letra, tem o resultado apresentado. As conjunções <em>vav</em> parecem ter sido colocadas em lugar errado, para apenas indicar a impressão produzida pelo ato de traduzir o texto. </span>"
     },
     {
       "ref_id": "fn99-2835",
       "number": 99,
-      "text": "“Arruinais” traduz forma verbal da raiz ‘kr. Primeira de 13 ocorrências. Cf. Gênesis 34,30; Josué 6,18; 7,25.",
-      "raw_html": "<span>“Arruinais” traduz forma verbal da raiz <em>‘kr</em>. Primeira de 13 ocorrências. Cf. Gênesis 34,30; Josué 6,18; 7,25. </span>"
+      "text": "Cf. v. 25.",
+      "raw_html": "<span>Cf. v. 25. </span>"
     },
     {
       "ref_id": "fn100-2835",
       "number": 100,
-      "text": "Cf. Gênesis 10,18 e nota.",
-      "raw_html": "<span>Cf. Gênesis 10,18 e nota. </span>"
+      "text": "“Arruinais” traduz forma verbal da raiz ‘kr. Primeira de 13 ocorrências. Cf. Gênesis 34,30; Josué 6,18; 7,25.",
+      "raw_html": "<span>“Arruinais” traduz forma verbal da raiz <em>‘kr</em>. Primeira de 13 ocorrências. Cf. Gênesis 34,30; Josué 6,18; 7,25. </span>"
     },
     {
       "ref_id": "fn101-2835",
       "number": 101,
-      "text": "Cf. Gênesis 13,7 e nota.",
-      "raw_html": "<span>Cf. Gênesis 13,7 e nota. </span>"
+      "text": "Cf. Gênesis 10,18 e nota.",
+      "raw_html": "<span>Cf. Gênesis 10,18 e nota. </span>"
     },
     {
       "ref_id": "fn102-2835",
       "number": 102,
-      "text": "“Sujeitos” (metim. O termo aparece apenas no plural, em todas as suas 21 ocorrências. Cf. Gênesis 34,30; Deuteronômio 2,34; 3,6; 4,27; 26,5; 28,62.",
-      "raw_html": "<span>“Sujeitos” (<em>metim</em>. O termo aparece apenas no plural, em todas as suas 21 ocorrências. Cf. Gênesis 34,30; Deuteronômio 2,34; 3,6; 4,27; 26,5; 28,62. </span>"
+      "text": "Cf. Gênesis 13,7 e nota.",
+      "raw_html": "<span>Cf. Gênesis 13,7 e nota. </span>"
     },
     {
       "ref_id": "fn103-2835",
       "number": 103,
-      "text": "“Pessoais de rol” (mete misppar), no plural mesmo. A expressão empregada para dar a ideia de pouco numerosa reunião de gente (cf. Deuteronômio 4,27; 1 Crônicas 16,19). São tão poucos os homens que estão com Jacó que podem ser contados. Para a ideia oposta, cf. Gênesis 41,49.",
-      "raw_html": "<span>“Pessoais de rol” (<em>mete misppar</em>), no plural mesmo. A expressão empregada para dar a ideia de pouco numerosa reunião de gente (cf. Deuteronômio 4,27; 1 Crônicas 16,19). São tão poucos os homens que estão com Jacó que podem ser contados. Para a ideia oposta, cf. Gênesis 41,49. </span>"
+      "text": "“Sujeitos” (metim. O termo aparece apenas no plural, em todas as suas 21 ocorrências. Cf. Gênesis 34,30; Deuteronômio 2,34; 3,6; 4,27; 26,5; 28,62.",
+      "raw_html": "<span>“Sujeitos” (<em>metim</em>. O termo aparece apenas no plural, em todas as suas 21 ocorrências. Cf. Gênesis 34,30; Deuteronômio 2,34; 3,6; 4,27; 26,5; 28,62. </span>"
     },
     {
       "ref_id": "fn104-2835",
       "number": 104,
-      "text": "“Rol” (mispar). Mesma raiz de “rolo” (spr). Daí, “rol”.",
-      "raw_html": "<span>“Rol” (<em>mispar</em>). Mesma raiz de “rolo” (<em>spr</em>). Daí, “rol”. </span>"
+      "text": "“Pessoais de rol” (mete misppar), no plural mesmo. A expressão empregada para dar a ideia de pouco numerosa reunião de gente (cf. Deuteronômio 4,27; 1 Crônicas 16,19). São tão poucos os homens que estão com Jacó que podem ser contados. Para a ideia oposta, cf. Gênesis 41,49.",
+      "raw_html": "<span>“Pessoais de rol” (<em>mete misppar</em>), no plural mesmo. A expressão empregada para dar a ideia de pouco numerosa reunião de gente (cf. Deuteronômio 4,27; 1 Crônicas 16,19). São tão poucos os homens que estão com Jacó que podem ser contados. Para a ideia oposta, cf. Gênesis 41,49. </span>"
     },
     {
       "ref_id": "fn105-2835",
       "number": 105,
-      "text": "Cf. Gênesis 6,21 e nota.",
-      "raw_html": "<span>Cf. Gênesis 6,21 e nota. </span>"
+      "text": "“Rol” (mispar). Mesma raiz de “rolo” (spr). Daí, “rol”.",
+      "raw_html": "<span>“Rol” (<em>mispar</em>). Mesma raiz de “rolo” (<em>spr</em>). Daí, “rol”. </span>"
     },
     {
       "ref_id": "fn106-2835",
       "number": 106,
+      "text": "Cf. Gênesis 6,21 e nota.",
+      "raw_html": "<span>Cf. Gênesis 6,21 e nota. </span>"
+    },
+    {
+      "ref_id": "fn107-2835",
+      "number": 107,
       "text": "“Exterminam” traduz forma verbal da raiz shmd. Primeira de 86 ocorrências. Cf. Gênesis 34,30; Levítico 26,30.",
       "raw_html": "<span>“Exterminam” traduz forma verbal da raiz <em>shmd</em>. Primeira de 86 ocorrências. Cf. Gênesis 34,30; Levítico 26,30. </span>"
     }

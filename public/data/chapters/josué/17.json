@@ -7,12 +7,12 @@
   "verses": [
     {
       "number": 1,
-      "text": "E está o sorteio. Para o galho de Menashsheh. Que ele. Primogênito de Yosep. Para Makir. O primogênito de Menashsheh. Pai do Gil’ad. Que ele era homem de batalha. E está. Para ele. O Gil’ad. E o Bashan.",
+      "text": "E está o sorteio. Para o galho de Menashsheh. Que ele. Primogênito de Yosep. Para Makir. O primogênito de Menashsheh. Pai do Gil’ad. Que ele. Está ele. Homem de batalha. E está. Para ele. O Gil’ad. E o Bashan.",
       "lines": [
         {
           "line_index": 0,
           "text": "E está o sorteio.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf1-18660\"></a><sup><a href=\"#fn1-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup> o sorteio<a name=\"rf2-18660\"></a><sup><a href=\"#fn2-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf1-18660\"></a><sup><a href=\"#fn1-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup><a name=\"rf2-18660\"></a><sup><a href=\"#fn2-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup> o sorteio<a name=\"rf3-18660\"></a><sup><a href=\"#fn3-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -46,26 +46,36 @@
         },
         {
           "line_index": 7,
-          "text": "Que ele era homem de batalha.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que ele era homem de batalha.</p>"
+          "text": "Que ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que ele.</p>"
         },
         {
           "line_index": 8,
-          "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf3-18660\"></a><sup><a href=\"#fn3-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup>.</p>"
+          "text": "Está ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Está ele<a name=\"rf4-18660\"></a><sup><a href=\"#fn4-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup>.</p>"
         },
         {
           "line_index": 9,
+          "text": "Homem de batalha.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Homem de batalha.</p>"
+        },
+        {
+          "line_index": 10,
+          "text": "E está.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf5-18660\"></a><sup><a href=\"#fn5-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup><a name=\"rf6-18660\"></a><sup><a href=\"#fn6-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup>.</p>"
+        },
+        {
+          "line_index": 11,
           "text": "Para ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para ele.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 12,
           "text": "O Gil’ad.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O Gil’ad<a name=\"rf4-18660\"></a><sup><a href=\"#fn4-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O Gil’ad<a name=\"rf7-18660\"></a><sup><a href=\"#fn7-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 13,
           "text": "E o Bashan.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o Bashan.</p>"
         }
@@ -78,7 +88,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf5-18660\"></a><sup><a href=\"#fn5-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf8-18660\"></a><sup><a href=\"#fn8-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup><a name=\"rf9-18660\"></a><sup><a href=\"#fn9-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -88,12 +98,12 @@
         {
           "line_index": 2,
           "text": "Os sido permanecidos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os sido permanecidos<a name=\"rf6-18660\"></a><sup><a href=\"#fn6-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os sido permanecidos<a name=\"rf10-18660\"></a><sup><a href=\"#fn10-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Para as castas deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as castas<a name=\"rf7-18660\"></a><sup><a href=\"#fn7-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup> deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as castas<a name=\"rf11-18660\"></a><sup><a href=\"#fn11-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup> deles.</p>"
         },
         {
           "line_index": 4,
@@ -143,13 +153,13 @@
         {
           "line_index": 13,
           "text": "Para as castas deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as castas<a name=\"rf8-18660\"></a><sup><a href=\"#fn8-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup> deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as castas<a name=\"rf12-18660\"></a><sup><a href=\"#fn12-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup> deles.</p>"
         }
       ]
     },
     {
       "number": 3,
-      "text": "E para Tselapehad. O filho de Heped. O filho de Gil’ad. O filho de Makir. O filho de Menashsheh. Não estão para ele filhos. Que sim filhas. E esses. Os nomes das filhas dele. Mahlah. E No’ah. Hoglah. Milkah. E Tirtsah.",
+      "text": "E para Tselapehad. O filho de Heped. O filho de Gil’ad. O filho de Makir. O filho de Menashsheh. Não estão. Para ele. Filhos. Que sim filhas. E esses. Os nomes das filhas dele. Mahlah. E No’ah. Hoglah. Milkah. E Tirtsah.",
       "lines": [
         {
           "line_index": 0,
@@ -178,46 +188,56 @@
         },
         {
           "line_index": 5,
-          "text": "Não estão para ele filhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não estão para ele filhos.</p>"
+          "text": "Não estão.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não estão<a name=\"rf13-18660\"></a><sup><a href=\"#fn13-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup>.</p>"
         },
         {
           "line_index": 6,
-          "text": "Que sim filhas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sim<a name=\"rf9-18660\"></a><sup><a href=\"#fn9-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup> filhas.</p>"
+          "text": "Para ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ele.</p>"
         },
         {
           "line_index": 7,
-          "text": "E esses.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E esses<a name=\"rf10-18660\"></a><sup><a href=\"#fn10-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup>.</p>"
+          "text": "Filhos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Filhos.</p>"
         },
         {
           "line_index": 8,
-          "text": "Os nomes das filhas dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os nomes<a name=\"rf11-18660\"></a><sup><a href=\"#fn11-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup> das filhas dele.</p>"
+          "text": "Que sim filhas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sim<a name=\"rf14-18660\"></a><sup><a href=\"#fn14-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup> filhas.</p>"
         },
         {
           "line_index": 9,
+          "text": "E esses.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E esses<a name=\"rf15-18660\"></a><sup><a href=\"#fn15-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
+        },
+        {
+          "line_index": 10,
+          "text": "Os nomes das filhas dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Os nomes<a name=\"rf16-18660\"></a><sup><a href=\"#fn16-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup> das filhas dele.</p>"
+        },
+        {
+          "line_index": 11,
           "text": "Mahlah.",
           "raw_html": "<p class=\"wp-block-paragraph\">Mahlah.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 12,
           "text": "E No’ah.",
           "raw_html": "<p class=\"wp-block-paragraph\">E No’ah.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 13,
           "text": "Hoglah.",
           "raw_html": "<p class=\"wp-block-paragraph\">Hoglah.</p>"
         },
         {
-          "line_index": 12,
+          "line_index": 14,
           "text": "Milkah.",
           "raw_html": "<p class=\"wp-block-paragraph\">Milkah.</p>"
         },
         {
-          "line_index": 13,
+          "line_index": 15,
           "text": "E Tirtsah.",
           "raw_html": "<p class=\"wp-block-paragraph\">E Tirtsah.</p>"
         }
@@ -230,17 +250,17 @@
         {
           "line_index": 0,
           "text": "E aproximam elas.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E aproximam elas<a name=\"rf12-18660\"></a><sup><a href=\"#fn12-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E aproximam elas<a name=\"rf17-18660\"></a><sup><a href=\"#fn17-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Para as faces de ‘El’azar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de ‘El’azar<a name=\"rf13-18660\"></a><sup><a href=\"#fn13-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de ‘El’azar<a name=\"rf18-18660\"></a><sup><a href=\"#fn18-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "O sacerdote.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O sacerdote<a name=\"rf14-18660\"></a><sup><a href=\"#fn14-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O sacerdote<a name=\"rf19-18660\"></a><sup><a href=\"#fn19-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -250,27 +270,27 @@
         {
           "line_index": 4,
           "text": "O filho de Nun.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O filho de Nun<a name=\"rf15-18660\"></a><sup><a href=\"#fn15-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O filho de Nun<a name=\"rf20-18660\"></a><sup><a href=\"#fn20-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 20\">20</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E para as faces dos levantados.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para as faces dos<a name=\"rf16-18660\"></a><sup><a href=\"#fn16-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup> levantados.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E para as faces dos<a name=\"rf21-18660\"></a><sup><a href=\"#fn21-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 21\">21</a></sup> levantados.</p>"
         },
         {
           "line_index": 6,
           "text": "Para dizer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf17-18660\"></a><sup><a href=\"#fn17-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf22-18660\"></a><sup><a href=\"#fn22-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Yahweh manda Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Yahweh manda<a name=\"rf18-18660\"></a><sup><a href=\"#fn18-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup> Mosheh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Yahweh manda<a name=\"rf23-18660\"></a><sup><a href=\"#fn23-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup> Mosheh.</p>"
         },
         {
           "line_index": 8,
           "text": "Para dar para nós herdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para dar para nós herdade<a name=\"rf19-18660\"></a><sup><a href=\"#fn19-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para dar para nós herdade<a name=\"rf24-18660\"></a><sup><a href=\"#fn24-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -290,12 +310,12 @@
         {
           "line_index": 12,
           "text": "À boca de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">À boca de<a name=\"rf20-18660\"></a><sup><a href=\"#fn20-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 20\">20</a></sup> Yahweh<a name=\"rf21-18660\"></a><sup><a href=\"#fn21-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 21\">21</a></sup><a name=\"rf22-18660\"></a><sup><a href=\"#fn22-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">À boca de<a name=\"rf25-18660\"></a><sup><a href=\"#fn25-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup> Yahweh<a name=\"rf26-18660\"></a><sup><a href=\"#fn26-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup><a name=\"rf27-18660\"></a><sup><a href=\"#fn27-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup>.</p>"
         },
         {
           "line_index": 13,
           "text": "Herdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Herdade<a name=\"rf23-18660\"></a><sup><a href=\"#fn23-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Herdade<a name=\"rf28-18660\"></a><sup><a href=\"#fn28-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
         },
         {
           "line_index": 14,
@@ -311,12 +331,12 @@
         {
           "line_index": 0,
           "text": "E caem os cordames de Menashsheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E caem<a name=\"rf24-18660\"></a><sup><a href=\"#fn24-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup> os cordames de<a name=\"rf25-18660\"></a><sup><a href=\"#fn25-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup> Menashsheh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E caem<a name=\"rf29-18660\"></a><sup><a href=\"#fn29-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup> os cordames de<a name=\"rf30-18660\"></a><sup><a href=\"#fn30-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup> Menashsheh.</p>"
         },
         {
           "line_index": 1,
           "text": "Dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dez<a name=\"rf26-18660\"></a><sup><a href=\"#fn26-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dez<a name=\"rf31-18660\"></a><sup><a href=\"#fn31-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -326,7 +346,7 @@
         {
           "line_index": 3,
           "text": "Desde a terra do Gil’ad.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a terra do<a name=\"rf27-18660\"></a><sup><a href=\"#fn27-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup> Gil’ad<a name=\"rf28-18660\"></a><sup><a href=\"#fn28-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a terra do<a name=\"rf32-18660\"></a><sup><a href=\"#fn32-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup> Gil’ad<a name=\"rf33-18660\"></a><sup><a href=\"#fn33-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 33\">33</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -336,7 +356,7 @@
         {
           "line_index": 5,
           "text": "Que desde passadouro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que desde passadouro<a name=\"rf29-18660\"></a><sup><a href=\"#fn29-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que desde passadouro<a name=\"rf34-18660\"></a><sup><a href=\"#fn34-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 34\">34</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -347,7 +367,7 @@
     },
     {
       "number": 6,
-      "text": "Que as filhas de Menashsheh. Herdam elas herdade. No meio dos (“No meio dos” (betok). Cf. Gênesis 1,6; Josué 7,21; 8,9.13.22; 13,9.16; 15,13; 16,9; 17,4.6.9; 19,1.9.)) filhos dele. E a terra do Gil’ad. Está para os filhos de Menashsheh. Os sido permanecidos",
+      "text": "Que as filhas de Menashsheh. Herdam elas herdade. No meio dos (“No meio dos” (betok). Cf. Gênesis 1,6; Josué 7,21; 8,9.13.22; 13,9.16; 15,13; 16,9; 17,4.6.9; 19,1.9.)) filhos dele. E a terra do Gil’ad. Está ela. Para os filhos de Menashsheh. Os sido permanecidos",
       "lines": [
         {
           "line_index": 0,
@@ -357,7 +377,7 @@
         {
           "line_index": 1,
           "text": "Herdam elas herdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Herdam elas herdade<a name=\"rf30-18660\"></a><sup><a href=\"#fn30-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Herdam elas herdade<a name=\"rf35-18660\"></a><sup><a href=\"#fn35-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 35\">35</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -367,17 +387,22 @@
         {
           "line_index": 3,
           "text": "E a terra do Gil’ad.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a terra do Gil’ad<a name=\"rf31-18660\"></a><sup><a href=\"#fn31-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a terra do Gil’ad<a name=\"rf36-18660\"></a><sup><a href=\"#fn36-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup>.</p>"
         },
         {
           "line_index": 4,
-          "text": "Está para os filhos de Menashsheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Está para os filhos de Menashsheh.</p>"
+          "text": "Está ela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Está ela<a name=\"rf37-18660\"></a><sup><a href=\"#fn37-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup>.</p>"
         },
         {
           "line_index": 5,
+          "text": "Para os filhos de Menashsheh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para os filhos de Menashsheh.</p>"
+        },
+        {
+          "line_index": 6,
           "text": "Os sido permanecidos",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os sido permanecidos<a name=\"rf32-18660\"></a><sup><a href=\"#fn32-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup></p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os sido permanecidos<a name=\"rf38-18660\"></a><sup><a href=\"#fn38-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup></p>"
         }
       ]
     },
@@ -388,7 +413,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf33-18660\"></a><sup><a href=\"#fn33-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 33\">33</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf39-18660\"></a><sup><a href=\"#fn39-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup><a name=\"rf40-18660\"></a><sup><a href=\"#fn40-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -408,12 +433,12 @@
         {
           "line_index": 4,
           "text": "Que sobre as faces de Shehem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre as faces de<a name=\"rf34-18660\"></a><sup><a href=\"#fn34-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 34\">34</a></sup> Shehem.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre as faces de<a name=\"rf41-18660\"></a><sup><a href=\"#fn41-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> Shehem.</p>"
         },
         {
           "line_index": 5,
           "text": "E anda o limite à direita.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E anda<a name=\"rf35-18660\"></a><sup><a href=\"#fn35-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 35\">35</a></sup> o limite à direita<a name=\"rf36-18660\"></a><sup><a href=\"#fn36-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E anda<a name=\"rf42-18660\"></a><sup><a href=\"#fn42-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup> o limite à direita<a name=\"rf43-18660\"></a><sup><a href=\"#fn43-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -424,7 +449,7 @@
     },
     {
       "number": 8,
-      "text": "Para Menashsheh. Estava a terra de Tappuah. E Tappuah ao limite de Menashsheh. Para os filhos de ‘Eprayim.",
+      "text": "Para Menashsheh. Está. A terra de Tappuah. E Tappuah. Ao limite de Menashsheh. Para os filhos de ‘Eprayim.",
       "lines": [
         {
           "line_index": 0,
@@ -433,16 +458,26 @@
         },
         {
           "line_index": 1,
-          "text": "Estava a terra de Tappuah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Estava a terra de Tappuah.</p>"
+          "text": "Está.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Está<a name=\"rf44-18660\"></a><sup><a href=\"#fn44-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "E Tappuah ao limite de Menashsheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E Tappuah ao limite de Menashsheh.</p>"
+          "text": "A terra de Tappuah.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A terra de Tappuah.</p>"
         },
         {
           "line_index": 3,
+          "text": "E Tappuah.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E Tappuah.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Ao limite de Menashsheh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao limite de Menashsheh.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Para os filhos de ‘Eprayim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para os filhos de ‘Eprayim.</p>"
         }
@@ -465,7 +500,7 @@
         {
           "line_index": 2,
           "text": "Para Negeb.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para Negeb<a name=\"rf37-18660\"></a><sup><a href=\"#fn37-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para Negeb<a name=\"rf45-18660\"></a><sup><a href=\"#fn45-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -510,7 +545,7 @@
         {
           "line_index": 11,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf38-18660\"></a><sup><a href=\"#fn38-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf46-18660\"></a><sup><a href=\"#fn46-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup><a name=\"rf47-18660\"></a><sup><a href=\"#fn47-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
         },
         {
           "line_index": 12,
@@ -531,7 +566,7 @@
         {
           "line_index": 0,
           "text": "Para Negeb.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Para Negeb<a name=\"rf39-18660\"></a><sup><a href=\"#fn39-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Para Negeb<a name=\"rf48-18660\"></a><sup><a href=\"#fn48-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -551,7 +586,7 @@
         {
           "line_index": 4,
           "text": "E está o mar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf40-18660\"></a><sup><a href=\"#fn40-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup> o mar.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf49-18660\"></a><sup><a href=\"#fn49-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup><a name=\"rf50-18660\"></a><sup><a href=\"#fn50-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup> o mar.</p>"
         },
         {
           "line_index": 5,
@@ -592,7 +627,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf41-18660\"></a><sup><a href=\"#fn41-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf51-18660\"></a><sup><a href=\"#fn51-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup><a name=\"rf52-18660\"></a><sup><a href=\"#fn52-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -672,7 +707,7 @@
         {
           "line_index": 16,
           "text": "Os três dos outeiros.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os três dos<a name=\"rf42-18660\"></a><sup><a href=\"#fn42-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup> outeiros.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os três dos<a name=\"rf53-18660\"></a><sup><a href=\"#fn53-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup> outeiros.</p>"
         }
       ]
     },
@@ -683,7 +718,7 @@
         {
           "line_index": 0,
           "text": "E não estão capazes os filhos de Menashsheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E não estão capazes<a name=\"rf43-18660\"></a><sup><a href=\"#fn43-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup><a name=\"rf44-18660\"></a><sup><a href=\"#fn44-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup> os filhos de<a name=\"rf45-18660\"></a><sup><a href=\"#fn45-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup> Menashsheh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E não estão capazes<a name=\"rf54-18660\"></a><sup><a href=\"#fn54-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup><a name=\"rf55-18660\"></a><sup><a href=\"#fn55-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup> os filhos de<a name=\"rf56-18660\"></a><sup><a href=\"#fn56-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup> Menashsheh.</p>"
         },
         {
           "line_index": 1,
@@ -693,12 +728,12 @@
         {
           "line_index": 2,
           "text": "E faz decidir o kena’ani.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz decidir<a name=\"rf46-18660\"></a><sup><a href=\"#fn46-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup> o kena’ani<a name=\"rf47-18660\"></a><sup><a href=\"#fn47-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz decidir<a name=\"rf57-18660\"></a><sup><a href=\"#fn57-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup> o kena’ani<a name=\"rf58-18660\"></a><sup><a href=\"#fn58-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Para assentar na terra essa.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para assentar na terra<a name=\"rf48-18660\"></a><sup><a href=\"#fn48-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup> essa.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para assentar na terra<a name=\"rf59-18660\"></a><sup><a href=\"#fn59-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup> essa.</p>"
         }
       ]
     },
@@ -709,22 +744,22 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf49-18660\"></a><sup><a href=\"#fn49-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf60-18660\"></a><sup><a href=\"#fn60-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup><a name=\"rf61-18660\"></a><sup><a href=\"#fn61-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Que fortalecem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf50-18660\"></a><sup><a href=\"#fn50-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup> fortalecem.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf62-18660\"></a><sup><a href=\"#fn62-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup> fortalecem.</p>"
         },
         {
           "line_index": 2,
           "text": "Os filhos de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os filhos de Yisra’el<a name=\"rf51-18660\"></a><sup><a href=\"#fn51-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os filhos de Yisra’el<a name=\"rf63-18660\"></a><sup><a href=\"#fn63-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E dão eles o kena’ani.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E dão eles o kena’ani<a name=\"rf52-18660\"></a><sup><a href=\"#fn52-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E dão eles o kena’ani<a name=\"rf64-18660\"></a><sup><a href=\"#fn64-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -750,7 +785,7 @@
         {
           "line_index": 0,
           "text": "E falam os filhos de Yosep.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E falam<a name=\"rf53-18660\"></a><sup><a href=\"#fn53-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup> os filhos de Yosep.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E falam<a name=\"rf65-18660\"></a><sup><a href=\"#fn65-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup> os filhos de Yosep.</p>"
         },
         {
           "line_index": 1,
@@ -760,7 +795,7 @@
         {
           "line_index": 2,
           "text": "Para dizer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf54-18660\"></a><sup><a href=\"#fn54-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf66-18660\"></a><sup><a href=\"#fn66-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -770,12 +805,12 @@
         {
           "line_index": 4,
           "text": "Herdade de sorteio um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Herdade<a name=\"rf55-18660\"></a><sup><a href=\"#fn55-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup> de sorteio<a name=\"rf56-18660\"></a><sup><a href=\"#fn56-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup> um.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Herdade<a name=\"rf67-18660\"></a><sup><a href=\"#fn67-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup> de sorteio<a name=\"rf68-18660\"></a><sup><a href=\"#fn68-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup> um.</p>"
         },
         {
           "line_index": 5,
           "text": "E cordame um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cordame<a name=\"rf57-18660\"></a><sup><a href=\"#fn57-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup> um.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cordame<a name=\"rf69-18660\"></a><sup><a href=\"#fn69-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup> um.</p>"
         },
         {
           "line_index": 6,
@@ -795,7 +830,7 @@
         {
           "line_index": 9,
           "text": "Até destarte.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até destarte<a name=\"rf58-18660\"></a><sup><a href=\"#fn58-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até destarte<a name=\"rf70-18660\"></a><sup><a href=\"#fn70-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         },
         {
           "line_index": 10,
@@ -811,7 +846,7 @@
         {
           "line_index": 0,
           "text": "E diz a eles Yehoshua’.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E diz a eles<a name=\"rf59-18660\"></a><sup><a href=\"#fn59-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup> Yehoshua’.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E diz a eles<a name=\"rf71-18660\"></a><sup><a href=\"#fn71-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup> Yehoshua’.</p>"
         },
         {
           "line_index": 1,
@@ -821,7 +856,7 @@
         {
           "line_index": 2,
           "text": "Sobe tu para ti o bosque.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobe tu<a name=\"rf60-18660\"></a><sup><a href=\"#fn60-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup><a name=\"rf61-18660\"></a><sup><a href=\"#fn61-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup> para ti o bosque.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobe tu<a name=\"rf72-18660\"></a><sup><a href=\"#fn72-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup><a name=\"rf73-18660\"></a><sup><a href=\"#fn73-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup> para ti o bosque.</p>"
         },
         {
           "line_index": 3,
@@ -831,7 +866,7 @@
         {
           "line_index": 4,
           "text": "Na terra do perizzi.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na terra<a name=\"rf62-18660\"></a><sup><a href=\"#fn62-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup> do perizzi.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na terra<a name=\"rf74-18660\"></a><sup><a href=\"#fn74-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup> do perizzi.</p>"
         },
         {
           "line_index": 5,
@@ -872,7 +907,7 @@
         {
           "line_index": 3,
           "text": "No total do kena’ani.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No total do kena’ani<a name=\"rf63-18660\"></a><sup><a href=\"#fn63-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No total do kena’ani<a name=\"rf75-18660\"></a><sup><a href=\"#fn75-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -882,7 +917,7 @@
         {
           "line_index": 5,
           "text": "Na terra do vale.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na terra<a name=\"rf64-18660\"></a><sup><a href=\"#fn64-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup> do vale.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na terra<a name=\"rf76-18660\"></a><sup><a href=\"#fn76-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup> do vale.</p>"
         },
         {
           "line_index": 6,
@@ -907,7 +942,7 @@
         {
           "line_index": 10,
           "text": "No vale de Yizr’e’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No vale de Yizr’e’el<a name=\"rf65-18660\"></a><sup><a href=\"#fn65-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No vale de Yizr’e’el<a name=\"rf77-18660\"></a><sup><a href=\"#fn77-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>.</p>"
         }
       ]
     },
@@ -918,12 +953,12 @@
         {
           "line_index": 0,
           "text": "E diz Yehoshua’.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Yehoshua’<a name=\"rf66-18660\"></a><sup><a href=\"#fn66-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Yehoshua’<a name=\"rf78-18660\"></a><sup><a href=\"#fn78-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Ao lar de Yosep.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao lar<a name=\"rf67-18660\"></a><sup><a href=\"#fn67-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup> de<a name=\"rf68-18660\"></a><sup><a href=\"#fn68-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup> Yosep.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao lar<a name=\"rf79-18660\"></a><sup><a href=\"#fn79-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup> de<a name=\"rf80-18660\"></a><sup><a href=\"#fn80-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup> Yosep.</p>"
         },
         {
           "line_index": 2,
@@ -938,7 +973,7 @@
         {
           "line_index": 4,
           "text": "Para dizer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf69-18660\"></a><sup><a href=\"#fn69-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf81-18660\"></a><sup><a href=\"#fn81-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -963,7 +998,7 @@
         {
           "line_index": 9,
           "text": "Não está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não está.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não está<a name=\"rf82-18660\"></a><sup><a href=\"#fn82-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
         },
         {
           "line_index": 10,
@@ -973,51 +1008,66 @@
         {
           "line_index": 11,
           "text": "Sorteio um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sorteio<a name=\"rf70-18660\"></a><sup><a href=\"#fn70-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup> um.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sorteio<a name=\"rf83-18660\"></a><sup><a href=\"#fn83-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> um.</p>"
         }
       ]
     },
     {
       "number": 18,
-      "text": "Que monte está para ti. Que bosque ele. E recria tu ele. E está ele para ti. As saídas dele. Que faz tu despossuir o kena’ani. Que montamento de ferro para ele. Que forte ele.",
+      "text": "Que monte. Está ele. Para ti. Que bosque ele. E recria tu ele. E está. Para ti. As saídas dele. Que faz tu despossuir o kena’ani. Que montamento de ferro para ele. Que forte ele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Que monte está para ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Que monte está para ti.</p>"
+          "text": "Que monte.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> Que monte.</p>"
         },
         {
           "line_index": 1,
+          "text": "Está ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Está ele<a name=\"rf84-18660\"></a><sup><a href=\"#fn84-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Para ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ti.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "Que bosque ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que bosque ele.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 4,
           "text": "E recria tu ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E recria tu ele.</p>"
         },
         {
-          "line_index": 3,
-          "text": "E está ele para ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf71-18660\"></a><sup><a href=\"#fn71-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup> ele para ti.</p>"
+          "line_index": 5,
+          "text": "E está.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf85-18660\"></a><sup><a href=\"#fn85-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup><a name=\"rf86-18660\"></a><sup><a href=\"#fn86-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
+          "text": "Para ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ti.</p>"
+        },
+        {
+          "line_index": 7,
           "text": "As saídas dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">As saídas dele.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 8,
           "text": "Que faz tu despossuir o kena’ani.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que faz tu despossuir o kena’ani<a name=\"rf72-18660\"></a><sup><a href=\"#fn72-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que faz tu despossuir o kena’ani<a name=\"rf87-18660\"></a><sup><a href=\"#fn87-18660\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 9,
           "text": "Que montamento de ferro para ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que montamento de ferro para ele.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 10,
           "text": "Que forte ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que forte ele.</p>"
         }
@@ -1034,20 +1084,20 @@
     {
       "ref_id": "fn2-18660",
       "number": 2,
-      "text": "“Sorteio” (goral). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3.",
-      "raw_html": "<span>“Sorteio” (<em>goral</em>). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3. </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn3-18660",
       "number": 3,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“Sorteio” (goral). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3.",
+      "raw_html": "<span>“Sorteio” (<em>goral</em>). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3. </span>"
     },
     {
       "ref_id": "fn4-18660",
       "number": 4,
-      "text": "“O Gil’ad” (haggil’ad). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4.",
-      "raw_html": "<span>“O Gil’ad” (<em>haggil’ad</em>). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4. </span>"
+      "text": "“Está ele” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está ele</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn5-18660",
@@ -1058,260 +1108,260 @@
     {
       "ref_id": "fn6-18660",
       "number": 6,
-      "text": "“Os sido permanecidos” (ytr). Forma passiva participial da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Os sido permanecidos</a>” (<em>ytr</em>). Forma passiva participial da raiz. </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn7-18660",
       "number": 7,
-      "text": "“Castas” (mishpahah). Cf. Gênesis 8,19; Josué 7,14.17; 13,15.23.24.28,29.31; 15,1.12.20; 16,5.8; 17,2; 18,11.20.21.28; 19,1.8.10.16.17.23.24.31.32.39.40.48.",
-      "raw_html": "<span>“Castas” (<em>mishpahah</em>). Cf. Gênesis 8,19; Josué 7,14.17; 13,15.23.24.28,29.31; 15,1.12.20; 16,5.8; 17,2; 18,11.20.21.28; 19,1.8.10.16.17.23.24.31.32.39.40.48. </span>"
+      "text": "“O Gil’ad” (haggil’ad). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4.",
+      "raw_html": "<span>“O Gil’ad” (<em>haggil’ad</em>). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4. </span>"
     },
     {
       "ref_id": "fn8-18660",
       "number": 8,
-      "text": "“Castas” (mishpahah). Cf. acima.",
-      "raw_html": "<span>“Castas” (<em>mishpahah</em>). Cf. acima. </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn9-18660",
       "number": 9,
-      "text": "“Que sim” (ki ‘im). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22.",
-      "raw_html": "<span>“Que sim” (<em>ki ‘im</em>). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22. </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn10-18660",
       "number": 10,
-      "text": "“E esses” (we’elleh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0000009\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0000009\" rel=\"noopener\" target=\"_blank\">E esses</a>” (<em>we’elleh</em>). </span>"
-    },
-    {
-      "ref_id": "fn11-18660",
-      "number": 11,
-      "text": "“Nome” (shem). Cf. Gênesis 2,11; Josué 15,15; 17,3; 19,47; 21,9; 23,7; Juízes 1,11.17.23.26; 2,5; 8,31; 13,2.6.17.18.24; 15,19; 16,4; 17,1; 18,29; Rute 1,2.4; 2,1.19; 4,5.10.11.14.17; 1 Samuel 1,1.2.20; 7,12; 8,2; 9,1.2; 12,22; 14,4.49.50; 17,4.12.13.23.45; 18,30; 20,42; 21,8; 22,20; 24,22; 25,3.5.9.25.",
-      "raw_html": "<span>“Nome” (<em>shem</em>). Cf. Gênesis 2,11; Josué 15,15; 17,3; 19,47; 21,9; 23,7; Juízes 1,11.17.23.26; 2,5; 8,31; 13,2.6.17.18.24; 15,19; 16,4; 17,1; 18,29; Rute 1,2.4; 2,1.19; 4,5.10.11.14.17; 1 Samuel 1,1.2.20; 7,12; 8,2; 9,1.2; 12,22; 14,4.49.50; 17,4.12.13.23.45; 18,30; 20,42; 21,8; 22,20; 24,22; 25,3.5.9.25. </span>"
-    },
-    {
-      "ref_id": "fn12-18660",
-      "number": 12,
-      "text": "“Aproximam” (qrb). f. Gênesis 12,11; Josué 7,14.16.17.18; 8,5,23; 10,24. 17,4.",
-      "raw_html": "<span>“Aproximam” (<em>qrb</em>). f. Gênesis 12,11; Josué 7,14.16.17.18; 8,5,23; 10,24. 17,4. </span>"
-    },
-    {
-      "ref_id": "fn13-18660",
-      "number": 13,
-      "text": "“‘El’azar”. Cf. Êxodo 6,23; Josué 14,1; 17,4; 19,51; 21,1.",
-      "raw_html": "<span>“‘El’azar”. Cf. Êxodo 6,23; Josué 14,1; 17,4; 19,51; 21,1. </span>"
-    },
-    {
-      "ref_id": "fn14-18660",
-      "number": 14,
-      "text": "“‘El’azar. O sacerdote” (‘el’azar hakkohen). Cf. Números 17,4; Josué 14,1; 17,4; 19,51; 21,1.",
-      "raw_html": "<span>“‘El’azar. O sacerdote” (<em>‘el’azar hakkohen</em>). Cf. Números 17,4; Josué 14,1; 17,4; 19,51; 21,1. </span>"
-    },
-    {
-      "ref_id": "fn15-18660",
-      "number": 15,
-      "text": "“Yehoshua’. Filho de Nun” (yehoshua’ ben-nun). Primeira de 15 ocorrências. Cf. Êxodo 33,11; Números 11,28; 27,18; 32,28; Deuteronômio 1,38; 31,23; Josué 1,1; 2.1.23; 6,6; 17,4.",
-      "raw_html": "<span>“Yehoshua’. Filho de Nun” (<em>yehoshua’ ben-nun</em>). Primeira de 15 ocorrências. Cf. Êxodo 33,11; Números 11,28; 27,18; 32,28; Deuteronômio 1,38; 31,23; Josué 1,1; 2.1.23; 6,6; 17,4. </span>"
-    },
-    {
-      "ref_id": "fn16-18660",
-      "number": 16,
-      "text": "“Para as faces dos” (lipne). Cf. Gênesis 6,11; Josué 7,4.5.6.7.12.13.23; 8,10.14.32; 10,10.12; 11,6; 17,4; 18,6.8.10; 19,51; 20,6.9.",
-      "raw_html": "<span>“Para as faces dos” (<em>lipne</em>). Cf. Gênesis 6,11; Josué 7,4.5.6.7.12.13.23; 8,10.14.32; 10,10.12; 11,6; 17,4; 18,6.8.10; 19,51; 20,6.9. </span>"
-    },
-    {
-      "ref_id": "fn17-18660",
-      "number": 17,
-      "text": "“Para dizer” (le’mor). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2.",
-      "raw_html": "<span>“Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2. </span>"
-    },
-    {
-      "ref_id": "fn18-18660",
-      "number": 18,
-      "text": "“Para dizer. Yahweh manda” (le’mor yehwah tsiwwah). Somente em Josué 17,4; 21,2.",
-      "raw_html": "<span>“Para dizer. Yahweh manda” (<em>le’mor yehwah tsiwwah</em>). Somente em Josué 17,4; 21,2. </span>"
-    },
-    {
-      "ref_id": "fn19-18660",
-      "number": 19,
-      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
-    },
-    {
-      "ref_id": "fn20-18660",
-      "number": 20,
-      "text": "“À boca de” (‘el-pi). Cf. Josué 10,18; 15,13; 17,4; 21,3; Daniel 10,3.",
-      "raw_html": "<span>“À boca de” (<em>‘el-pi</em>). Cf. Josué 10,18; 15,13; 17,4; 21,3; Daniel 10,3. </span>"
-    },
-    {
-      "ref_id": "fn21-18660",
-      "number": 21,
-      "text": "“À boca de Yahweh” (‘el-pi yehwah). Somente em Josué 15,13; 17,4; 21,3.",
-      "raw_html": "<span>“À boca de Yahweh” (<em>‘el-pi yehwah</em>). Somente em Josué 15,13; 17,4; 21,3. </span>"
-    },
-    {
-      "ref_id": "fn22-18660",
-      "number": 22,
-      "text": "“Boca de Yahweh” (pi yehwah). Cf. Êxodo 17,1; Josué 9,14; 15,13; 17,4; 19,50. 21,3.",
-      "raw_html": "<span>“Boca de Yahweh” (<em>pi yehwah</em>). Cf. Êxodo 17,1; Josué 9,14; 15,13; 17,4; 19,50. 21,3. </span>"
-    },
-    {
-      "ref_id": "fn23-18660",
-      "number": 23,
-      "text": "“Herdade” (nahalah). Cf. acima.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn24-18660",
-      "number": 24,
-      "text": "“Caem” (npl). Cf. Gênesis 2,21; Josué 7,10; 8,24.25; 11,7; 13,6; 17,5.",
-      "raw_html": "<span>“Caem” (<em>npl</em>). Cf. Gênesis 2,21; Josué 7,10; 8,24.25; 11,7; 13,6; 17,5. </span>"
-    },
-    {
-      "ref_id": "fn25-18660",
-      "number": 25,
-      "text": "“Os cordames de” (hebel).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFZ\" rel=\"noreferrer noopener\" target=\"_blank\">Os cordames de</a>” (<em>hebel</em>). </span>"
-    },
-    {
-      "ref_id": "fn26-18660",
-      "number": 26,
-      "text": "“Dez” (‘asarah). Cf. Gênesis 5,8; Josué 15,36.41.51.57; 17,25; 18,24.28; 19,6.15.22.38; 21,4.5.6.7.19.26.33.40; 22,14.29; Juízes 1,4; 2,8; 3,14.29; 4,6.10.14; 6,27; 7,3; 8,10; 10,8; 12,11; 17,10; 19,29; 20,10.25.34.44; 21,10; Rute 1,4; 4,2; 1 Samuel 1,8; 15,4; 17,17.18; 25,5.38.",
-      "raw_html": "<span>“Dez” (<em>‘asarah</em>). Cf. Gênesis 5,8; Josué 15,36.41.51.57; 17,25; 18,24.28; 19,6.15.22.38; 21,4.5.6.7.19.26.33.40; 22,14.29; Juízes 1,4; 2,8; 3,14.29; 4,6.10.14; 6,27; 7,3; 8,10; 10,8; 12,11; 17,10; 19,29; 20,10.25.34.44; 21,10; Rute 1,4; 4,2; 1 Samuel 1,8; 15,4; 17,17.18; 25,5.38. </span>"
-    },
-    {
-      "ref_id": "fn27-18660",
-      "number": 27,
-      "text": "“Desde a terra de” (me’erets).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0083\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0083\" rel=\"noopener\" target=\"_blank\">Desde a terra de</a>” (<em>me’erets</em>). </span>"
-    },
-    {
-      "ref_id": "fn28-18660",
-      "number": 28,
-      "text": "“O Gil’ad” (haggil’ad). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4.",
-      "raw_html": "<span>“O Gil’ad” (<em>haggil’ad</em>). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4. </span>"
-    },
-    {
-      "ref_id": "fn29-18660",
-      "number": 29,
-      "text": "“Passadouro” (‘ever). Cf. Gênesis 50,10.11; Êxodo 25,37; 28,26; 32,15; 39,19; Números 21,13; 22,1; 32,19.32; 34,15; 35,14; Deuteronômio 1,1.5; 3,8.20.25; 4,41.46.47.49; 11,30; 30,13; Josué 1,14.",
-      "raw_html": "<span>“Passadouro” (<em>‘ever</em>). Cf. Gênesis 50,10.11; Êxodo 25,37; 28,26; 32,15; 39,19; Números 21,13; 22,1; 32,19.32; 34,15; 35,14; Deuteronômio 1,1.5; 3,8.20.25; 4,41.46.47.49; 11,30; 30,13; Josué 1,14. </span>"
-    },
-    {
-      "ref_id": "fn30-18660",
-      "number": 30,
-      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
-    },
-    {
-      "ref_id": "fn31-18660",
-      "number": 31,
-      "text": "“O Gil’ad” (haggil’ad). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4.",
-      "raw_html": "<span>“O Gil’ad” (<em>haggil’ad</em>). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4. </span>"
-    },
-    {
-      "ref_id": "fn32-18660",
-      "number": 32,
       "text": "“Os sido permanecidos” (ytr). Forma passiva participial da raiz.",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Os sido permanecidos</a>” (<em>ytr</em>). Forma passiva participial da raiz. </span>"
     },
     {
+      "ref_id": "fn11-18660",
+      "number": 11,
+      "text": "“Castas” (mishpahah). Cf. Gênesis 8,19; Josué 7,14.17; 13,15.23.24.28,29.31; 15,1.12.20; 16,5.8; 17,2; 18,11.20.21.28; 19,1.8.10.16.17.23.24.31.32.39.40.48.",
+      "raw_html": "<span>“Castas” (<em>mishpahah</em>). Cf. Gênesis 8,19; Josué 7,14.17; 13,15.23.24.28,29.31; 15,1.12.20; 16,5.8; 17,2; 18,11.20.21.28; 19,1.8.10.16.17.23.24.31.32.39.40.48. </span>"
+    },
+    {
+      "ref_id": "fn12-18660",
+      "number": 12,
+      "text": "“Castas” (mishpahah). Cf. acima.",
+      "raw_html": "<span>“Castas” (<em>mishpahah</em>). Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn13-18660",
+      "number": 13,
+      "text": "“Estão” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Estão</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn14-18660",
+      "number": 14,
+      "text": "“Que sim” (ki ‘im). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22.",
+      "raw_html": "<span>“Que sim” (<em>ki ‘im</em>). Cf. Gênesis 15,4; Josué 14,4; 17,3; 23,8.12; Juízes 15,7; Rute 3,12.18; 1 Samuel 2,15; 8,19; 14,39; 20,9; 21,5.6.7; 25,34; 26,10; 30,17.22. </span>"
+    },
+    {
+      "ref_id": "fn15-18660",
+      "number": 15,
+      "text": "“E esses” (we’elleh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0000009\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0000009\" rel=\"noopener\" target=\"_blank\">E esses</a>” (<em>we’elleh</em>). </span>"
+    },
+    {
+      "ref_id": "fn16-18660",
+      "number": 16,
+      "text": "“Nome” (shem). Cf. Gênesis 2,11; Josué 15,15; 17,3; 19,47; 21,9; 23,7; Juízes 1,11.17.23.26; 2,5; 8,31; 13,2.6.17.18.24; 15,19; 16,4; 17,1; 18,29; Rute 1,2.4; 2,1.19; 4,5.10.11.14.17; 1 Samuel 1,1.2.20; 7,12; 8,2; 9,1.2; 12,22; 14,4.49.50; 17,4.12.13.23.45; 18,30; 20,42; 21,8; 22,20; 24,22; 25,3.5.9.25.",
+      "raw_html": "<span>“Nome” (<em>shem</em>). Cf. Gênesis 2,11; Josué 15,15; 17,3; 19,47; 21,9; 23,7; Juízes 1,11.17.23.26; 2,5; 8,31; 13,2.6.17.18.24; 15,19; 16,4; 17,1; 18,29; Rute 1,2.4; 2,1.19; 4,5.10.11.14.17; 1 Samuel 1,1.2.20; 7,12; 8,2; 9,1.2; 12,22; 14,4.49.50; 17,4.12.13.23.45; 18,30; 20,42; 21,8; 22,20; 24,22; 25,3.5.9.25. </span>"
+    },
+    {
+      "ref_id": "fn17-18660",
+      "number": 17,
+      "text": "“Aproximam” (qrb). f. Gênesis 12,11; Josué 7,14.16.17.18; 8,5,23; 10,24. 17,4.",
+      "raw_html": "<span>“Aproximam” (<em>qrb</em>). f. Gênesis 12,11; Josué 7,14.16.17.18; 8,5,23; 10,24. 17,4. </span>"
+    },
+    {
+      "ref_id": "fn18-18660",
+      "number": 18,
+      "text": "“‘El’azar”. Cf. Êxodo 6,23; Josué 14,1; 17,4; 19,51; 21,1.",
+      "raw_html": "<span>“‘El’azar”. Cf. Êxodo 6,23; Josué 14,1; 17,4; 19,51; 21,1. </span>"
+    },
+    {
+      "ref_id": "fn19-18660",
+      "number": 19,
+      "text": "“‘El’azar. O sacerdote” (‘el’azar hakkohen). Cf. Números 17,4; Josué 14,1; 17,4; 19,51; 21,1.",
+      "raw_html": "<span>“‘El’azar. O sacerdote” (<em>‘el’azar hakkohen</em>). Cf. Números 17,4; Josué 14,1; 17,4; 19,51; 21,1. </span>"
+    },
+    {
+      "ref_id": "fn20-18660",
+      "number": 20,
+      "text": "“Yehoshua’. Filho de Nun” (yehoshua’ ben-nun). Primeira de 15 ocorrências. Cf. Êxodo 33,11; Números 11,28; 27,18; 32,28; Deuteronômio 1,38; 31,23; Josué 1,1; 2.1.23; 6,6; 17,4.",
+      "raw_html": "<span>“Yehoshua’. Filho de Nun” (<em>yehoshua’ ben-nun</em>). Primeira de 15 ocorrências. Cf. Êxodo 33,11; Números 11,28; 27,18; 32,28; Deuteronômio 1,38; 31,23; Josué 1,1; 2.1.23; 6,6; 17,4. </span>"
+    },
+    {
+      "ref_id": "fn21-18660",
+      "number": 21,
+      "text": "“Para as faces dos” (lipne). Cf. Gênesis 6,11; Josué 7,4.5.6.7.12.13.23; 8,10.14.32; 10,10.12; 11,6; 17,4; 18,6.8.10; 19,51; 20,6.9.",
+      "raw_html": "<span>“Para as faces dos” (<em>lipne</em>). Cf. Gênesis 6,11; Josué 7,4.5.6.7.12.13.23; 8,10.14.32; 10,10.12; 11,6; 17,4; 18,6.8.10; 19,51; 20,6.9. </span>"
+    },
+    {
+      "ref_id": "fn22-18660",
+      "number": 22,
+      "text": "“Para dizer” (le’mor). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2.",
+      "raw_html": "<span>“Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2. </span>"
+    },
+    {
+      "ref_id": "fn23-18660",
+      "number": 23,
+      "text": "“Para dizer. Yahweh manda” (le’mor yehwah tsiwwah). Somente em Josué 17,4; 21,2.",
+      "raw_html": "<span>“Para dizer. Yahweh manda” (<em>le’mor yehwah tsiwwah</em>). Somente em Josué 17,4; 21,2. </span>"
+    },
+    {
+      "ref_id": "fn24-18660",
+      "number": 24,
+      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
+    },
+    {
+      "ref_id": "fn25-18660",
+      "number": 25,
+      "text": "“À boca de” (‘el-pi). Cf. Josué 10,18; 15,13; 17,4; 21,3; Daniel 10,3.",
+      "raw_html": "<span>“À boca de” (<em>‘el-pi</em>). Cf. Josué 10,18; 15,13; 17,4; 21,3; Daniel 10,3. </span>"
+    },
+    {
+      "ref_id": "fn26-18660",
+      "number": 26,
+      "text": "“À boca de Yahweh” (‘el-pi yehwah). Somente em Josué 15,13; 17,4; 21,3.",
+      "raw_html": "<span>“À boca de Yahweh” (<em>‘el-pi yehwah</em>). Somente em Josué 15,13; 17,4; 21,3. </span>"
+    },
+    {
+      "ref_id": "fn27-18660",
+      "number": 27,
+      "text": "“Boca de Yahweh” (pi yehwah). Cf. Êxodo 17,1; Josué 9,14; 15,13; 17,4; 19,50. 21,3.",
+      "raw_html": "<span>“Boca de Yahweh” (<em>pi yehwah</em>). Cf. Êxodo 17,1; Josué 9,14; 15,13; 17,4; 19,50. 21,3. </span>"
+    },
+    {
+      "ref_id": "fn28-18660",
+      "number": 28,
+      "text": "“Herdade” (nahalah). Cf. acima.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn29-18660",
+      "number": 29,
+      "text": "“Caem” (npl). Cf. Gênesis 2,21; Josué 7,10; 8,24.25; 11,7; 13,6; 17,5.",
+      "raw_html": "<span>“Caem” (<em>npl</em>). Cf. Gênesis 2,21; Josué 7,10; 8,24.25; 11,7; 13,6; 17,5. </span>"
+    },
+    {
+      "ref_id": "fn30-18660",
+      "number": 30,
+      "text": "“Os cordames de” (hebel).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFZ\" rel=\"noreferrer noopener\" target=\"_blank\">Os cordames de</a>” (<em>hebel</em>). </span>"
+    },
+    {
+      "ref_id": "fn31-18660",
+      "number": 31,
+      "text": "“Dez” (‘asarah). Cf. Gênesis 5,8; Josué 15,36.41.51.57; 17,25; 18,24.28; 19,6.15.22.38; 21,4.5.6.7.19.26.33.40; 22,14.29; Juízes 1,4; 2,8; 3,14.29; 4,6.10.14; 6,27; 7,3; 8,10; 10,8; 12,11; 17,10; 19,29; 20,10.25.34.44; 21,10; Rute 1,4; 4,2; 1 Samuel 1,8; 15,4; 17,17.18; 25,5.38.",
+      "raw_html": "<span>“Dez” (<em>‘asarah</em>). Cf. Gênesis 5,8; Josué 15,36.41.51.57; 17,25; 18,24.28; 19,6.15.22.38; 21,4.5.6.7.19.26.33.40; 22,14.29; Juízes 1,4; 2,8; 3,14.29; 4,6.10.14; 6,27; 7,3; 8,10; 10,8; 12,11; 17,10; 19,29; 20,10.25.34.44; 21,10; Rute 1,4; 4,2; 1 Samuel 1,8; 15,4; 17,17.18; 25,5.38. </span>"
+    },
+    {
+      "ref_id": "fn32-18660",
+      "number": 32,
+      "text": "“Desde a terra de” (me’erets).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0083\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0083\" rel=\"noopener\" target=\"_blank\">Desde a terra de</a>” (<em>me’erets</em>). </span>"
+    },
+    {
       "ref_id": "fn33-18660",
       "number": 33,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“O Gil’ad” (haggil’ad). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4.",
+      "raw_html": "<span>“O Gil’ad” (<em>haggil’ad</em>). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4. </span>"
     },
     {
       "ref_id": "fn34-18660",
       "number": 34,
-      "text": "“Que sobre as faces de” (‘ahser ‘al-pene). Cf. Gênesis 1,29; Josué 13,3.25; 15,8; 17,7; 18,14.16; 19,11; Juízes 16,3; 1 Samuel 15,7; 26,3.",
-      "raw_html": "<span>“Que sobre as faces de” (<em>‘ahser ‘al-pene</em>). Cf. Gênesis 1,29; Josué 13,3.25; 15,8; 17,7; 18,14.16; 19,11; Juízes 16,3; 1 Samuel 15,7; 26,3. </span>"
+      "text": "“Passadouro” (‘ever). Cf. Gênesis 50,10.11; Êxodo 25,37; 28,26; 32,15; 39,19; Números 21,13; 22,1; 32,19.32; 34,15; 35,14; Deuteronômio 1,1.5; 3,8.20.25; 4,41.46.47.49; 11,30; 30,13; Josué 1,14.",
+      "raw_html": "<span>“Passadouro” (<em>‘ever</em>). Cf. Gênesis 50,10.11; Êxodo 25,37; 28,26; 32,15; 39,19; Números 21,13; 22,1; 32,19.32; 34,15; 35,14; Deuteronômio 1,1.5; 3,8.20.25; 4,41.46.47.49; 11,30; 30,13; Josué 1,14. </span>"
     },
     {
       "ref_id": "fn35-18660",
       "number": 35,
-      "text": "“Anda” (hlk). Cf. Gênesis 2,14; Josué 6,8.9.13; 8,9.13.35; 9,4.6.11.12; 10,24; 14,10; 16,8; 17,7; 18,4.8.9.",
-      "raw_html": "<span>“Anda” (<em>hlk</em>). Cf. Gênesis 2,14; Josué 6,8.9.13; 8,9.13.35; 9,4.6.11.12; 10,24; 14,10; 16,8; 17,7; 18,4.8.9. </span>"
+      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
     },
     {
       "ref_id": "fn36-18660",
       "number": 36,
-      "text": "“Direita” (yamin). Os léxicos sugerem que aqui se trate de “sul”.",
-      "raw_html": "<span>“Direita” (<em>yamin</em>). Os léxicos sugerem que aqui se trate de “sul”. </span>"
+      "text": "“O Gil’ad” (haggil’ad). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4.",
+      "raw_html": "<span>“O Gil’ad” (<em>haggil’ad</em>). Cf. Gênesis 31,21; Josué 12,2.5; 13,25.31; 17,1.5.6; 22,9.13.15.32; Juízes 7,3; 10,4. </span>"
     },
     {
       "ref_id": "fn37-18660",
       "number": 37,
-      "text": "“Negeb” (negeb).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAL\" rel=\"noreferrer noopener\" target=\"_blank\">Negeb</a>” (<em>negeb</em>). </span>"
+      "text": "“Está ela” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está ela</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn38-18660",
       "number": 38,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“Os sido permanecidos” (ytr). Forma passiva participial da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Os sido permanecidos</a>” (<em>ytr</em>). Forma passiva participial da raiz. </span>"
     },
     {
       "ref_id": "fn39-18660",
       "number": 39,
-      "text": "“Negeb” (negeb).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAL\" rel=\"noreferrer noopener\" target=\"_blank\">Negeb</a>” (<em>negeb</em>). </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn40-18660",
       "number": 40,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn41-18660",
       "number": 41,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "“Que sobre as faces de” (‘ahser ‘al-pene). Cf. Gênesis 1,29; Josué 13,3.25; 15,8; 17,7; 18,14.16; 19,11; Juízes 16,3; 1 Samuel 15,7; 26,3.",
+      "raw_html": "<span>“Que sobre as faces de” (<em>‘ahser ‘al-pene</em>). Cf. Gênesis 1,29; Josué 13,3.25; 15,8; 17,7; 18,14.16; 19,11; Juízes 16,3; 1 Samuel 15,7; 26,3. </span>"
     },
     {
       "ref_id": "fn42-18660",
       "number": 42,
-      "text": "“Os três dos” (sheloshet). Cf. Gênesis 30,36; Josué 1,11; 2,16.22; 3,2; 9,16; 17,11; Juízes 7,20; 14,14; 15,11; 19,4; 1 Samuel 9,20; 10,3; 13,2; 17,13; 20,20; 24,3; 25,2; 26,2; 31,8.",
-      "raw_html": "<span>“Os três dos” (<em>sheloshet</em>). Cf. Gênesis 30,36; Josué 1,11; 2,16.22; 3,2; 9,16; 17,11; Juízes 7,20; 14,14; 15,11; 19,4; 1 Samuel 9,20; 10,3; 13,2; 17,13; 20,20; 24,3; 25,2; 26,2; 31,8. </span>"
+      "text": "“Anda” (hlk). Cf. Gênesis 2,14; Josué 6,8.9.13; 8,9.13.35; 9,4.6.11.12; 10,24; 14,10; 16,8; 17,7; 18,4.8.9.",
+      "raw_html": "<span>“Anda” (<em>hlk</em>). Cf. Gênesis 2,14; Josué 6,8.9.13; 8,9.13.35; 9,4.6.11.12; 10,24; 14,10; 16,8; 17,7; 18,4.8.9. </span>"
     },
     {
       "ref_id": "fn43-18660",
       "number": 43,
-      "text": "“E não estão capazes” (welo’ yuklu). Cf. Gênesis 13,6; Josué 7,12; 17,12.",
-      "raw_html": "<span>“E não estão capazes” (<em>welo’ yuklu</em>). Cf. Gênesis 13,6; Josué 7,12; 17,12. </span>"
+      "text": "“Direita” (yamin). Os léxicos sugerem que aqui se trate de “sul”.",
+      "raw_html": "<span>“Direita” (<em>yamin</em>). Os léxicos sugerem que aqui se trate de “sul”. </span>"
     },
     {
       "ref_id": "fn44-18660",
       "number": 44,
-      "text": "“Estão capazes” (ykl). Cf. Gênesis 13,6; Josué 15,63; 17,12; 24,19; Juízes 2,14; 8,3; 11,35; 14,13.14; 16,5; 21,18; Rute 4,6; 1 Samuel 3,2; 4,15; 6,20; 17,9.33.39; 26,25.",
-      "raw_html": "<span>“Estão capazes” (<em>ykl</em>). Cf. Gênesis 13,6; Josué 15,63; 17,12; 24,19; Juízes 2,14; 8,3; 11,35; 14,13.14; 16,5; 21,18; Rute 4,6; 1 Samuel 3,2; 4,15; 6,20; 17,9.33.39; 26,25. </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn45-18660",
       "number": 45,
-      "text": "“E não são capazes os filhos de” (welo’ yuklu bene). Somente em Josué 7,12; 17,12.",
-      "raw_html": "<span>“E não são capazes os filhos de” (<em>welo’ yuklu bene</em>). Somente em Josué 7,12; 17,12. </span>"
+      "text": "“Negeb” (negeb).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAL\" rel=\"noreferrer noopener\" target=\"_blank\">Negeb</a>” (<em>negeb</em>). </span>"
     },
     {
       "ref_id": "fn46-18660",
       "number": 46,
-      "text": "“Faz decidir” (y’l). Forma causativa da raiz. Cf. Gênesis 18,27.31; Êxodo 2,21; Deuteronômio 1,5; Josué 7,7; 17,12.",
-      "raw_html": "<span>“Faz decidir” (<em>y’l</em>). Forma causativa da raiz. Cf. Gênesis 18,27.31; Êxodo 2,21; Deuteronômio 1,5; Josué 7,7; 17,12. </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn47-18660",
       "number": 47,
-      "text": "“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18.",
-      "raw_html": "<span>“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18. </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn48-18660",
       "number": 48,
-      "text": "“Na terra” (ba’arets). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9.",
-      "raw_html": "<span>“Na terra” (<em>ba’arets</em>). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9. </span>"
+      "text": "“Negeb” (negeb).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAL\" rel=\"noreferrer noopener\" target=\"_blank\">Negeb</a>” (<em>negeb</em>). </span>"
     },
     {
       "ref_id": "fn49-18660",
@@ -1322,138 +1372,228 @@
     {
       "ref_id": "fn50-18660",
       "number": 50,
-      "text": "“E está. Que” (wayehi ki).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAEP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAEP\" rel=\"noreferrer noopener\" target=\"_blank\">E está. Que</a>” (<em>wayehi ki</em>). </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn51-18660",
       "number": 51,
-      "text": "“Os filhos de Yisra’el” (bene-yisra’el). Cf. Gênesis 32,33; Josué 7,1.12.23; 8,21.32; 9,17.18.26; 10,4.11.12.14.19.22; 12,1; 13,6.13.22; 14,1.5; 17,13; 18,1.3; 19,49.51; 20,2.9.",
-      "raw_html": "<span>“Os filhos de Yisra’el” (<em>bene-yisra’el</em>). Cf. Gênesis 32,33; Josué 7,1.12.23; 8,21.32; 9,17.18.26; 10,4.11.12.14.19.22; 12,1; 13,6.13.22; 14,1.5; 17,13; 18,1.3; 19,49.51; 20,2.9. </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn52-18660",
       "number": 52,
-      "text": "“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18.",
-      "raw_html": "<span>“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18. </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn53-18660",
       "number": 53,
-      "text": "“E falam” (wayedabberu). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40.",
-      "raw_html": "<span>“E falam” (<em>wayedabberu</em>). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40. </span>"
+      "text": "“Os três dos” (sheloshet). Cf. Gênesis 30,36; Josué 1,11; 2,16.22; 3,2; 9,16; 17,11; Juízes 7,20; 14,14; 15,11; 19,4; 1 Samuel 9,20; 10,3; 13,2; 17,13; 20,20; 24,3; 25,2; 26,2; 31,8.",
+      "raw_html": "<span>“Os três dos” (<em>sheloshet</em>). Cf. Gênesis 30,36; Josué 1,11; 2,16.22; 3,2; 9,16; 17,11; Juízes 7,20; 14,14; 15,11; 19,4; 1 Samuel 9,20; 10,3; 13,2; 17,13; 20,20; 24,3; 25,2; 26,2; 31,8. </span>"
     },
     {
       "ref_id": "fn54-18660",
       "number": 54,
-      "text": "“Para dizer” (le’mor). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2.",
-      "raw_html": "<span>“Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2. </span>"
+      "text": "“E não estão capazes” (welo’ yuklu). Cf. Gênesis 13,6; Josué 7,12; 17,12.",
+      "raw_html": "<span>“E não estão capazes” (<em>welo’ yuklu</em>). Cf. Gênesis 13,6; Josué 7,12; 17,12. </span>"
     },
     {
       "ref_id": "fn55-18660",
       "number": 55,
-      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
+      "text": "“Estão capazes” (ykl). Cf. Gênesis 13,6; Josué 15,63; 17,12; 24,19; Juízes 2,14; 8,3; 11,35; 14,13.14; 16,5; 21,18; Rute 4,6; 1 Samuel 3,2; 4,15; 6,20; 17,9.33.39; 26,25.",
+      "raw_html": "<span>“Estão capazes” (<em>ykl</em>). Cf. Gênesis 13,6; Josué 15,63; 17,12; 24,19; Juízes 2,14; 8,3; 11,35; 14,13.14; 16,5; 21,18; Rute 4,6; 1 Samuel 3,2; 4,15; 6,20; 17,9.33.39; 26,25. </span>"
     },
     {
       "ref_id": "fn56-18660",
       "number": 56,
-      "text": "“Sorteio” (goral). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3.",
-      "raw_html": "<span>“Sorteio” (<em>goral</em>). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3. </span>"
+      "text": "“E não são capazes os filhos de” (welo’ yuklu bene). Somente em Josué 7,12; 17,12.",
+      "raw_html": "<span>“E não são capazes os filhos de” (<em>welo’ yuklu bene</em>). Somente em Josué 7,12; 17,12. </span>"
     },
     {
       "ref_id": "fn57-18660",
       "number": 57,
-      "text": "“Cordame” (hebel).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFZ\" rel=\"noreferrer noopener\" target=\"_blank\">Cordame</a>” (<em>hebel</em>). </span>"
+      "text": "“Faz decidir” (y’l). Forma causativa da raiz. Cf. Gênesis 18,27.31; Êxodo 2,21; Deuteronômio 1,5; Josué 7,7; 17,12.",
+      "raw_html": "<span>“Faz decidir” (<em>y’l</em>). Forma causativa da raiz. Cf. Gênesis 18,27.31; Êxodo 2,21; Deuteronômio 1,5; Josué 7,7; 17,12. </span>"
     },
     {
       "ref_id": "fn58-18660",
       "number": 58,
-      "text": "“Destarte” (koh). Cf. Gênesis 15,5; Josué 17,14; 22,16; 24,2; Juízes 6,8; 11,15; Rute 2,8.27; 3,17; 1 Samuel 2,27; 3,17; 9,9; 10,18; 11,7.9; 10,18; 11,7.9; 14,9.10.44; 15,2; 17,27; 18,25; 20,7.13.22; 25,6.22; 27,11.",
-      "raw_html": "<span>“Destarte” (<em>koh</em>). Cf. Gênesis 15,5; Josué 17,14; 22,16; 24,2; Juízes 6,8; 11,15; Rute 2,8.27; 3,17; 1 Samuel 2,27; 3,17; 9,9; 10,18; 11,7.9; 10,18; 11,7.9; 14,9.10.44; 15,2; 17,27; 18,25; 20,7.13.22; 25,6.22; 27,11. </span>"
-    },
-    {
-      "ref_id": "fn59-18660",
-      "number": 59,
-      "text": "“A eles” (‘alehem). Cf. Gênesis 19,10; Josué 7,2; 9,11.22; 10,9.25; 17,15; 20,4; 21,2.",
-      "raw_html": "<span>“A eles” (<em>‘alehem</em>). Cf. Gênesis 19,10; Josué 7,2; 9,11.22; 10,9.25; 17,15; 20,4; 21,2. </span>"
-    },
-    {
-      "ref_id": "fn60-18660",
-      "number": 60,
-      "text": "“Sobe tu” (‘lh). Cf. Gênesis 2,6; Josué 6,5.15.20; 7,2.3.4.6.24; 8,1.3.10.11.20.21.31; 10,4.5.6.7.9.33.36; 11,17; 12,7; 14,8; 15,3.6.7.8.15; 16,1; 17,15. 18,11.12; 19,10.11.12.437.",
-      "raw_html": "<span>“Sobe tu” (<em>‘lh</em>). Cf. Gênesis 2,6; Josué 6,5.15.20; 7,2.3.4.6.24; 8,1.3.10.11.20.21.31; 10,4.5.6.7.9.33.36; 11,17; 12,7; 14,8; 15,3.6.7.8.15; 16,1; 17,15. 18,11.12; 19,10.11.12.437. </span>"
-    },
-    {
-      "ref_id": "fn61-18660",
-      "number": 61,
-      "text": "“Sobe tu” (‘aleh). Cf. Gênesis 35,1; 50,6; Êxodo 24,1.12; 33,1; Números 27,12; Deuteronômio 1,21; 3,27; 32,49; Josué 8,1; 10,6; 17,15; Juízes 1,3.",
-      "raw_html": "<span>“Sobe tu” (<em>‘aleh</em>). Cf. Gênesis 35,1; 50,6; Êxodo 24,1.12; 33,1; Números 27,12; Deuteronômio 1,21; 3,27; 32,49; Josué 8,1; 10,6; 17,15; Juízes 1,3. </span>"
-    },
-    {
-      "ref_id": "fn62-18660",
-      "number": 62,
-      "text": "“Na terra” (ba’arets). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9.",
-      "raw_html": "<span>“Na terra” (<em>ba’arets</em>). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9. </span>"
-    },
-    {
-      "ref_id": "fn63-18660",
-      "number": 63,
       "text": "“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18.",
       "raw_html": "<span>“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18. </span>"
     },
     {
-      "ref_id": "fn64-18660",
-      "number": 64,
+      "ref_id": "fn59-18660",
+      "number": 59,
       "text": "“Na terra” (ba’arets). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9.",
       "raw_html": "<span>“Na terra” (<em>ba’arets</em>). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9. </span>"
     },
     {
+      "ref_id": "fn60-18660",
+      "number": 60,
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+    },
+    {
+      "ref_id": "fn61-18660",
+      "number": 61,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn62-18660",
+      "number": 62,
+      "text": "“E está. Que” (wayehi ki).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAEP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAEP\" rel=\"noreferrer noopener\" target=\"_blank\">E está. Que</a>” (<em>wayehi ki</em>). </span>"
+    },
+    {
+      "ref_id": "fn63-18660",
+      "number": 63,
+      "text": "“Os filhos de Yisra’el” (bene-yisra’el). Cf. Gênesis 32,33; Josué 7,1.12.23; 8,21.32; 9,17.18.26; 10,4.11.12.14.19.22; 12,1; 13,6.13.22; 14,1.5; 17,13; 18,1.3; 19,49.51; 20,2.9.",
+      "raw_html": "<span>“Os filhos de Yisra’el” (<em>bene-yisra’el</em>). Cf. Gênesis 32,33; Josué 7,1.12.23; 8,21.32; 9,17.18.26; 10,4.11.12.14.19.22; 12,1; 13,6.13.22; 14,1.5; 17,13; 18,1.3; 19,49.51; 20,2.9. </span>"
+    },
+    {
+      "ref_id": "fn64-18660",
+      "number": 64,
+      "text": "“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18.",
+      "raw_html": "<span>“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18. </span>"
+    },
+    {
       "ref_id": "fn65-18660",
       "number": 65,
-      "text": "“Yizre’e’l” (yizre’e’l).",
-      "raw_html": "<span>“<a href=\"https://nossabiblialivre.com/referencias/#AAACV\" rel=\"noreferrer noopener\" target=\"_blank\">Yizre’e’l</a>” (<em>yizre’e’l</em>). </span>"
+      "text": "“E falam” (wayedabberu). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40.",
+      "raw_html": "<span>“E falam” (<em>wayedabberu</em>). Cf. Gênesis 34,13.20; 43,19; 45,17; Números 22,7; 36,1; Josué 17,14; 21,12; 22,15.21; Juízes 9,3; 21,13; 1 Samuel 11,4; 18,23; 25,9.40. </span>"
     },
     {
       "ref_id": "fn66-18660",
       "number": 66,
-      "text": "“E diz Yehoshua'” (wayyo’mer yehoshua’). Cf. Josué 3,5.6.9.10; 6,16; 7,7.19.25; 10,18.22; 17,17; 18,3.",
-      "raw_html": "<span>“E diz Yehoshua'” (<em>wayyo’mer yehoshua’</em>). Cf. Josué 3,5.6.9.10; 6,16; 7,7.19.25; 10,18.22; 17,17; 18,3. </span>"
-    },
-    {
-      "ref_id": "fn67-18660",
-      "number": 67,
-      "text": "“Lar” (bayit). Cf. Gênesis 6,14; Josué 17,17; 18,5; 20,6; 21,45; 22,14; 24,15.17; Juízes 1,22.23.35; 4,17; 6,8.15.27; 8,27.29.35; 9,1.4.5.16.18.19.27.46; 10,9; 11,2.7.31.34; 12,1; 14,15.19; 16,21.25.26.27.29.30.31; 17,4.5.8.12; 18,2.3.13.14.15.18.19.22.25.26.31; 19,2.3.15.18.21.22.23.26.27.29. 20,5.8; Rute 1,8.9; 2,7; 4,11.12; 1 Samuel 1,7.19.21.24; 2,11.27.28.30.31.32.33.35.36; 3,12.13.14.15; 5,2.5; 6,7.10; 7,1.2.3.17; 9,18.20; 10,25.26; 15,34; 17,25; 18,2.10; 19,9.11; 20,15.16; 21,16; 22,1.11.14.15.16.22; 23,18; 24,22.23; 25,1.6.17.28.35.36.",
-      "raw_html": "<span>“Lar” (<em>bayit</em>). Cf. Gênesis 6,14; Josué 17,17; 18,5; 20,6; 21,45; 22,14; 24,15.17; Juízes 1,22.23.35; 4,17; 6,8.15.27; 8,27.29.35; 9,1.4.5.16.18.19.27.46; 10,9; 11,2.7.31.34; 12,1; 14,15.19; 16,21.25.26.27.29.30.31; 17,4.5.8.12; 18,2.3.13.14.15.18.19.22.25.26.31; 19,2.3.15.18.21.22.23.26.27.29. 20,5.8; Rute 1,8.9; 2,7; 4,11.12; 1 Samuel 1,7.19.21.24; 2,11.27.28.30.31.32.33.35.36; 3,12.13.14.15; 5,2.5; 6,7.10; 7,1.2.3.17; 9,18.20; 10,25.26; 15,34; 17,25; 18,2.10; 19,9.11; 20,15.16; 21,16; 22,1.11.14.15.16.22; 23,18; 24,22.23; 25,1.6.17.28.35.36. </span>"
-    },
-    {
-      "ref_id": "fn68-18660",
-      "number": 68,
-      "text": "“Ao lar de” (‘el-bet).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADM\" rel=\"noreferrer noopener\" target=\"_blank\">Ao lar de</a>” (<em>‘el-bet</em>). </span>"
-    },
-    {
-      "ref_id": "fn69-18660",
-      "number": 69,
       "text": "“Para dizer” (le’mor). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2.",
       "raw_html": "<span>“Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2. </span>"
     },
     {
-      "ref_id": "fn70-18660",
-      "number": 70,
+      "ref_id": "fn67-18660",
+      "number": 67,
+      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
+    },
+    {
+      "ref_id": "fn68-18660",
+      "number": 68,
       "text": "“Sorteio” (goral). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3.",
       "raw_html": "<span>“Sorteio” (<em>goral</em>). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3. </span>"
     },
     {
+      "ref_id": "fn69-18660",
+      "number": 69,
+      "text": "“Cordame” (hebel).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFZ\" rel=\"noreferrer noopener\" target=\"_blank\">Cordame</a>” (<em>hebel</em>). </span>"
+    },
+    {
+      "ref_id": "fn70-18660",
+      "number": 70,
+      "text": "“Destarte” (koh). Cf. Gênesis 15,5; Josué 17,14; 22,16; 24,2; Juízes 6,8; 11,15; Rute 2,8.27; 3,17; 1 Samuel 2,27; 3,17; 9,9; 10,18; 11,7.9; 10,18; 11,7.9; 14,9.10.44; 15,2; 17,27; 18,25; 20,7.13.22; 25,6.22; 27,11.",
+      "raw_html": "<span>“Destarte” (<em>koh</em>). Cf. Gênesis 15,5; Josué 17,14; 22,16; 24,2; Juízes 6,8; 11,15; Rute 2,8.27; 3,17; 1 Samuel 2,27; 3,17; 9,9; 10,18; 11,7.9; 10,18; 11,7.9; 14,9.10.44; 15,2; 17,27; 18,25; 20,7.13.22; 25,6.22; 27,11. </span>"
+    },
+    {
       "ref_id": "fn71-18660",
       "number": 71,
-      "text": "“E está” (wehayah). Cf. Gênesis 2,10; Josué 6,5. 7,14.15; 8,5.8; 9,12; 15,4; 17,8; 18,12.14.19.",
-      "raw_html": "<span>“E está” (<em>wehayah</em>). Cf. Gênesis 2,10; Josué 6,5. 7,14.15; 8,5.8; 9,12; 15,4; 17,8; 18,12.14.19. </span>"
+      "text": "“A eles” (‘alehem). Cf. Gênesis 19,10; Josué 7,2; 9,11.22; 10,9.25; 17,15; 20,4; 21,2.",
+      "raw_html": "<span>“A eles” (<em>‘alehem</em>). Cf. Gênesis 19,10; Josué 7,2; 9,11.22; 10,9.25; 17,15; 20,4; 21,2. </span>"
     },
     {
       "ref_id": "fn72-18660",
       "number": 72,
+      "text": "“Sobe tu” (‘lh). Cf. Gênesis 2,6; Josué 6,5.15.20; 7,2.3.4.6.24; 8,1.3.10.11.20.21.31; 10,4.5.6.7.9.33.36; 11,17; 12,7; 14,8; 15,3.6.7.8.15; 16,1; 17,15. 18,11.12; 19,10.11.12.437.",
+      "raw_html": "<span>“Sobe tu” (<em>‘lh</em>). Cf. Gênesis 2,6; Josué 6,5.15.20; 7,2.3.4.6.24; 8,1.3.10.11.20.21.31; 10,4.5.6.7.9.33.36; 11,17; 12,7; 14,8; 15,3.6.7.8.15; 16,1; 17,15. 18,11.12; 19,10.11.12.437. </span>"
+    },
+    {
+      "ref_id": "fn73-18660",
+      "number": 73,
+      "text": "“Sobe tu” (‘aleh). Cf. Gênesis 35,1; 50,6; Êxodo 24,1.12; 33,1; Números 27,12; Deuteronômio 1,21; 3,27; 32,49; Josué 8,1; 10,6; 17,15; Juízes 1,3.",
+      "raw_html": "<span>“Sobe tu” (<em>‘aleh</em>). Cf. Gênesis 35,1; 50,6; Êxodo 24,1.12; 33,1; Números 27,12; Deuteronômio 1,21; 3,27; 32,49; Josué 8,1; 10,6; 17,15; Juízes 1,3. </span>"
+    },
+    {
+      "ref_id": "fn74-18660",
+      "number": 74,
+      "text": "“Na terra” (ba’arets). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9.",
+      "raw_html": "<span>“Na terra” (<em>ba’arets</em>). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9. </span>"
+    },
+    {
+      "ref_id": "fn75-18660",
+      "number": 75,
+      "text": "“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18.",
+      "raw_html": "<span>“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18. </span>"
+    },
+    {
+      "ref_id": "fn76-18660",
+      "number": 76,
+      "text": "“Na terra” (ba’arets). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9.",
+      "raw_html": "<span>“Na terra” (<em>ba’arets</em>). Cf. Gênesis 1,22; Josué 1,4; 2,18; 7,21; 11,3.22; 14,1.4; 17,12.15.16; 18,4.8.9; 21,2; 22,9.10; Juízes 1,27; 4,21; 6,5; 10,4.8; 11,3; 12,12.15; 18,7.10; 21,12; 1 Samuel 9,4.5; 23,23; 26,7; 31,9. </span>"
+    },
+    {
+      "ref_id": "fn77-18660",
+      "number": 77,
+      "text": "“Yizre’e’l” (yizre’e’l).",
+      "raw_html": "<span>“<a href=\"https://nossabiblialivre.com/referencias/#AAACV\" rel=\"noreferrer noopener\" target=\"_blank\">Yizre’e’l</a>” (<em>yizre’e’l</em>). </span>"
+    },
+    {
+      "ref_id": "fn78-18660",
+      "number": 78,
+      "text": "“E diz Yehoshua'” (wayyo’mer yehoshua’). Cf. Josué 3,5.6.9.10; 6,16; 7,7.19.25; 10,18.22; 17,17; 18,3.",
+      "raw_html": "<span>“E diz Yehoshua'” (<em>wayyo’mer yehoshua’</em>). Cf. Josué 3,5.6.9.10; 6,16; 7,7.19.25; 10,18.22; 17,17; 18,3. </span>"
+    },
+    {
+      "ref_id": "fn79-18660",
+      "number": 79,
+      "text": "“Lar” (bayit). Cf. Gênesis 6,14; Josué 17,17; 18,5; 20,6; 21,45; 22,14; 24,15.17; Juízes 1,22.23.35; 4,17; 6,8.15.27; 8,27.29.35; 9,1.4.5.16.18.19.27.46; 10,9; 11,2.7.31.34; 12,1; 14,15.19; 16,21.25.26.27.29.30.31; 17,4.5.8.12; 18,2.3.13.14.15.18.19.22.25.26.31; 19,2.3.15.18.21.22.23.26.27.29. 20,5.8; Rute 1,8.9; 2,7; 4,11.12; 1 Samuel 1,7.19.21.24; 2,11.27.28.30.31.32.33.35.36; 3,12.13.14.15; 5,2.5; 6,7.10; 7,1.2.3.17; 9,18.20; 10,25.26; 15,34; 17,25; 18,2.10; 19,9.11; 20,15.16; 21,16; 22,1.11.14.15.16.22; 23,18; 24,22.23; 25,1.6.17.28.35.36.",
+      "raw_html": "<span>“Lar” (<em>bayit</em>). Cf. Gênesis 6,14; Josué 17,17; 18,5; 20,6; 21,45; 22,14; 24,15.17; Juízes 1,22.23.35; 4,17; 6,8.15.27; 8,27.29.35; 9,1.4.5.16.18.19.27.46; 10,9; 11,2.7.31.34; 12,1; 14,15.19; 16,21.25.26.27.29.30.31; 17,4.5.8.12; 18,2.3.13.14.15.18.19.22.25.26.31; 19,2.3.15.18.21.22.23.26.27.29. 20,5.8; Rute 1,8.9; 2,7; 4,11.12; 1 Samuel 1,7.19.21.24; 2,11.27.28.30.31.32.33.35.36; 3,12.13.14.15; 5,2.5; 6,7.10; 7,1.2.3.17; 9,18.20; 10,25.26; 15,34; 17,25; 18,2.10; 19,9.11; 20,15.16; 21,16; 22,1.11.14.15.16.22; 23,18; 24,22.23; 25,1.6.17.28.35.36. </span>"
+    },
+    {
+      "ref_id": "fn80-18660",
+      "number": 80,
+      "text": "“Ao lar de” (‘el-bet).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADM\" rel=\"noreferrer noopener\" target=\"_blank\">Ao lar de</a>” (<em>‘el-bet</em>). </span>"
+    },
+    {
+      "ref_id": "fn81-18660",
+      "number": 81,
+      "text": "“Para dizer” (le’mor). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2.",
+      "raw_html": "<span>“Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2. </span>"
+    },
+    {
+      "ref_id": "fn82-18660",
+      "number": 82,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn83-18660",
+      "number": 83,
+      "text": "“Sorteio” (goral). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3.",
+      "raw_html": "<span>“Sorteio” (<em>goral</em>). Cf. Levítico 16,8; Josué 14,2; 15,1; 16,1; 17,1.14.17; 18,6.8.10.11; 19,1.10.17.24.32.40.51; 21,4.5.6.8.10.20.40; Juízes 1,3. </span>"
+    },
+    {
+      "ref_id": "fn84-18660",
+      "number": 84,
+      "text": "“Está ele” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está ele</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn85-18660",
+      "number": 85,
+      "text": "“E está” (wehayah). Cf. Gênesis 2,10; Josué 6,5. 7,14.15; 8,5.8; 9,12; 15,4; 17,8; 18,12.14.19.",
+      "raw_html": "<span>“E está” (<em>wehayah</em>). Cf. Gênesis 2,10; Josué 6,5. 7,14.15; 8,5.8; 9,12; 15,4; 17,8; 18,12.14.19. </span>"
+    },
+    {
+      "ref_id": "fn86-18660",
+      "number": 86,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn87-18660",
+      "number": 87,
       "text": "“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18.",
       "raw_html": "<span>“Kena’ani). Cf. Gênesis 10,18; Josué 7,9; 9,1.10.3; 12,8; 13,3.4; 16,10; 17,10,12.13.16.18. </span>"
     }
