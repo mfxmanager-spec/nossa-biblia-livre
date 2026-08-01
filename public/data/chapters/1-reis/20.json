@@ -3,7 +3,7 @@
   "book_name": "1 Reis",
   "book_slug": "1-reis",
   "chapter_number": 20,
-  "introduction": "<p class=\"wp-block-paragraph\"><a href=\"https://www.die-bibel.de/en/bible/BHS/1KI.20\" rel=\"noopener\" target=\"_blank\">1 Reis 20 na <em>Biblia Hebraica Stuttgartensia</em></a></p>\n<p class=\"wp-block-paragraph\"><a href=\"https://www.youtube.com/live/9Q3zVhHwvYo\" rel=\"noopener\" target=\"_blank\">Comentário a 1 Reis 20,1-43</a></p>\n<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Aviso</mark></strong>: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.</p>\n<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>",
+  "introduction": "<p class=\"wp-block-paragraph\"><a href=\"https://www.die-bibel.de/en/bible/BHS/1KI.20\" rel=\"noopener\" target=\"_blank\">1 Reis 20 na <em>Biblia Hebraica Stuttgartensia</em></a></p>\n<p class=\"wp-block-paragraph\">Comentário a 1 Reis 20,1-43</p>\n<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Aviso</mark></strong>: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.</p>\n<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>",
   "verses": [
     {
       "number": 1,
@@ -362,7 +362,7 @@
         {
           "line_index": 9,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf1-34825\"></a><sup><a href=\"#fn1-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está.</p>"
         },
         {
           "line_index": 10,
@@ -651,7 +651,7 @@
         {
           "line_index": 8,
           "text": "Se cabe.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Se cabe<a name=\"rf2-34825\"></a><sup><a href=\"#fn2-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Se cabe<a name=\"rf1-34825\"></a><sup><a href=\"#fn1-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -712,7 +712,7 @@
         {
           "line_index": 6,
           "text": "Conforme sobre-abridor.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme sobre-abridor<a name=\"rf3-34825\"></a><sup><a href=\"#fn3-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme sobre-abridor<a name=\"rf2-34825\"></a><sup><a href=\"#fn2-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup>.</p>"
         }
       ]
     },
@@ -723,7 +723,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf4-34825\"></a><sup><a href=\"#fn4-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup><a name=\"rf5-34825\"></a><sup><a href=\"#fn5-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está.</p>"
         },
         {
           "line_index": 1,
@@ -925,7 +925,7 @@
         {
           "line_index": 5,
           "text": "Nos moços dos príncipes das judiciadouras.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nos moços dos príncipes das judiciadouras<a name=\"rf6-34825\"></a><sup><a href=\"#fn6-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Nos moços dos príncipes das judiciadouras<a name=\"rf3-34825\"></a><sup><a href=\"#fn3-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -966,7 +966,7 @@
         {
           "line_index": 2,
           "text": "E estão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E estão eles<a name=\"rf7-34825\"></a><sup><a href=\"#fn7-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E estão eles.</p>"
         },
         {
           "line_index": 3,
@@ -1276,7 +1276,7 @@
         {
           "line_index": 11,
           "text": "E destacados.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E destacados<a name=\"rf8-34825\"></a><sup><a href=\"#fn8-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E destacados<a name=\"rf4-34825\"></a><sup><a href=\"#fn4-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup>.</p>"
         }
       ]
     },
@@ -1414,7 +1414,7 @@
         {
           "line_index": 3,
           "text": "‘Elohim de montes.",
-          "raw_html": "<p class=\"wp-block-paragraph\"><em>‘Elohim</em><a name=\"rf9-34825\"></a><sup><a href=\"#fn9-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup> de montes.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"><em>‘Elohim</em><a name=\"rf5-34825\"></a><sup><a href=\"#fn5-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup> de montes.</p>"
         },
         {
           "line_index": 4,
@@ -1632,7 +1632,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf10-34825\"></a><sup><a href=\"#fn10-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup><a name=\"rf11-34825\"></a><sup><a href=\"#fn11-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está.</p>"
         },
         {
           "line_index": 1,
@@ -1723,7 +1723,7 @@
         {
           "line_index": 8,
           "text": "Como dois de descascados de cabras.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Como dois de descascados de<a name=\"rf12-34825\"></a><sup><a href=\"#fn12-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup> cabras.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Como dois de descascados de<a name=\"rf6-34825\"></a><sup><a href=\"#fn6-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup> cabras.</p>"
         },
         {
           "line_index": 9,
@@ -1880,7 +1880,7 @@
         {
           "line_index": 4,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf13-34825\"></a><sup><a href=\"#fn13-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup><a name=\"rf14-34825\"></a><sup><a href=\"#fn14-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está.</p>"
         },
         {
           "line_index": 5,
@@ -1925,7 +1925,7 @@
         {
           "line_index": 13,
           "text": "Em dia um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Em dia um<a name=\"rf15-34825\"></a><sup><a href=\"#fn15-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Em dia um<a name=\"rf7-34825\"></a><sup><a href=\"#fn7-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>.</p>"
         }
       ]
     },
@@ -1971,7 +1971,7 @@
         {
           "line_index": 7,
           "text": "Homem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Homem<a name=\"rf16-34825\"></a><sup><a href=\"#fn16-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Homem<a name=\"rf8-34825\"></a><sup><a href=\"#fn8-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -2640,7 +2640,7 @@
         {
           "line_index": 0,
           "text": "E está o rei.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf17-34825\"></a><sup><a href=\"#fn17-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup><a name=\"rf18-34825\"></a><sup><a href=\"#fn18-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup> o rei.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está o rei.</p>"
         },
         {
           "line_index": 1,
@@ -2745,7 +2745,7 @@
         {
           "line_index": 21,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf19-34825\"></a><sup><a href=\"#fn19-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está.</p>"
         },
         {
           "line_index": 22,
@@ -2776,7 +2776,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf20-34825\"></a><sup><a href=\"#fn20-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 20\">20</a></sup><a name=\"rf21-34825\"></a><sup><a href=\"#fn21-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 21\">21</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está.</p>"
         },
         {
           "line_index": 1,
@@ -2938,7 +2938,7 @@
         {
           "line_index": 8,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf22-34825\"></a><sup><a href=\"#fn22-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está.</p>"
         },
         {
           "line_index": 9,
@@ -2964,7 +2964,7 @@
     },
     {
       "number": 43,
-      "text": "E anda. O rei de Yisra’el. Sobre o lar dele. Apartado. E espumante. E vai ele. Para Shimron. Aviso: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas. _________________________________________________________________________________________________________",
+      "text": "E anda. O rei de Yisra’el. Sobre o lar dele. Apartado. E espumante. E vai ele. Para Shimron.",
       "lines": [
         {
           "line_index": 0,
@@ -3000,16 +3000,6 @@
           "line_index": 6,
           "text": "Para Shimron.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para Shimron.</p>"
-        },
-        {
-          "line_index": 7,
-          "text": "Aviso: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.",
-          "raw_html": "<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Aviso</mark></strong>: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.</p>"
-        },
-        {
-          "line_index": 8,
-          "text": "_________________________________________________________________________________________________________",
-          "raw_html": "<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>"
         }
       ]
     }
@@ -3018,134 +3008,50 @@
     {
       "ref_id": "fn1-34825",
       "number": 1,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn2-34825",
-      "number": 2,
       "text": "“Cabe” (spq). Com a consoante sin, a raiz ocorre apenas em 1 Reis 20,10. Jó 20,22. Discute-se se se trata da mesma raiz de spq (sameq) [cf. Números 24,10]. Como são grafadas distintamente, trato-as como raízes distintas.",
       "raw_html": "<span>“Cabe” (<em>spq</em>). Com a consoante <em>sin</em>, a raiz ocorre apenas em 1 Reis 20,10. Jó 20,22. Discute-se se se trata da mesma raiz de <em>spq </em>(<em>sameq</em>) [cf. Números 24,10]. Como são grafadas distintamente, trato-as como raízes distintas. </span>"
     },
     {
-      "ref_id": "fn3-34825",
-      "number": 3,
+      "ref_id": "fn2-34825",
+      "number": 2,
       "text": "“Não se louva. Cintador. Conforme sobre-abridor”. O sentido parece ser o de que aquele que se arma para a batalha não deve se gabar antes que tire o cinto de batalha – ou seja: antes de ter vencido.",
       "raw_html": "<span>“Não se louva. Cintador. Conforme sobre-abridor”. O sentido parece ser o de que aquele que se arma para a batalha não deve se gabar antes que tire o cinto de batalha – ou seja: antes de ter vencido. </span>"
     },
     {
-      "ref_id": "fn4-34825",
-      "number": 4,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn5-34825",
-      "number": 5,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn6-34825",
-      "number": 6,
+      "ref_id": "fn3-34825",
+      "number": 3,
       "text": "“Judiciadouras”, mas poderia ser “jurisdições”.",
       "raw_html": "<span>“Judiciadouras”, mas poderia ser “jurisdições”. </span>"
     },
     {
-      "ref_id": "fn7-34825",
-      "number": 7,
-      "text": "“Estão eles” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Estão eles</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn8-34825",
-      "number": 8,
+      "ref_id": "fn4-34825",
+      "number": 4,
       "text": "“Destacados” (parashim). Trata-se da cavalaria.",
       "raw_html": "<span>“Destacados” (<em>parashim</em>). Trata-se da cavalaria. </span>"
     },
     {
-      "ref_id": "fn9-34825",
-      "number": 9,
+      "ref_id": "fn5-34825",
+      "number": 5,
       "text": "“‘Elohim” aqui poderia ser tratado tanto quanto plçural quanto singular, porque não há nenhuma marca objetiva o número da atualização. Todavia, à luz do v. 28, parece correto – se estamos diante do mesmo autor, nos dois casos – que a referência é ao “deus” dos israelitas. Logo, a retórica pressupõe tratar-se de Yahweh, não de “deuses” no plural. Todavia, lá usa-se o termo ‘amaqim (“vales”), e não o termo mishur (“planalto”), o que pode indicar outra mão redacional.",
       "raw_html": "<span>“<em>‘Elohim</em>” aqui poderia ser tratado tanto quanto plçural quanto singular, porque não há nenhuma marca objetiva o número da atualização. Todavia, à luz do v. 28, parece correto – se estamos diante do mesmo autor, nos dois casos – que a referência é ao “deus” dos israelitas. Logo, a retórica pressupõe tratar-se de Yahweh, não de “deuses” no plural. Todavia, lá usa-se o termo <em>‘amaqim </em>(“vales”), e não o termo <em>mishur </em>(“planalto”), o que pode indicar outra mão redacional. </span>"
     },
     {
-      "ref_id": "fn10-34825",
-      "number": 10,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn11-34825",
-      "number": 11,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn12-34825",
-      "number": 12,
+      "ref_id": "fn6-34825",
+      "number": 6,
       "text": "“Descascados de” (hsp). Cf. Gênesis 30,37.",
       "raw_html": "<span>“Descascados de” (<em>hsp</em>). Cf. Gênesis 30,37. </span>"
     },
     {
-      "ref_id": "fn13-34825",
-      "number": 13,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn14-34825",
-      "number": 14,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn15-34825",
-      "number": 15,
+      "ref_id": "fn7-34825",
+      "number": 7,
       "text": "“Em dia um” (beyom ‘ehad). Aqui, “num so dia”, “de uma vez só”.",
       "raw_html": "<span>“Em dia um” (<em>beyom ‘ehad</em>). Aqui, “num so dia”, “de uma vez só”. </span>"
     },
     {
-      "ref_id": "fn16-34825",
-      "number": 16,
+      "ref_id": "fn8-34825",
+      "number": 8,
       "text": "“Vinte. E sete. Milhar. Homem” (‘esrim weshib’ah ‘elep ‘ish). “Vinte e sete mil homens”.",
       "raw_html": "<span>“Vinte. E sete. Milhar. Homem” (<em>‘esrim weshib’ah ‘elep ‘ish</em>). “Vinte e sete mil homens”. </span>"
-    },
-    {
-      "ref_id": "fn17-34825",
-      "number": 17,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn18-34825",
-      "number": 18,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn19-34825",
-      "number": 19,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn20-34825",
-      "number": 20,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn21-34825",
-      "number": 21,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn22-34825",
-      "number": 22,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     }
   ]
 }

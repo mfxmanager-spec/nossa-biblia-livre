@@ -211,7 +211,7 @@
     },
     {
       "number": 5,
-      "text": "E elmo de cobre. Sobre a cabeça dele. E couraça de escamas. Ele. Vestido. E o pesamento da couraça. Cinco milhares. Pesos. Bronze.",
+      "text": "E elmo de cobre. Sobre a cabeça dele. E couraça escamas. Ele. Vestido. E o pesamento da couraça. Cinco milhares. Pesos. Bronze.",
       "lines": [
         {
           "line_index": 0,
@@ -225,8 +225,8 @@
         },
         {
           "line_index": 2,
-          "text": "E couraça de escamas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E couraça de escamas.</p>"
+          "text": "E couraça escamas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E couraça escamas.</p>"
         },
         {
           "line_index": 3,

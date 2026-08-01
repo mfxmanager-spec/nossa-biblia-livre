@@ -2822,7 +2822,7 @@
     },
     {
       "number": 46,
-      "text": "E a mão de Yahweh. Está ela. A ‘Eliyyahu. E sobre-cinge ele. Os dois-lombos dele. E corre ele. Para as faces de ‘Ah’ab. Até o ir de ti. Para Yizre’e’l. Aviso: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas. _________________________________________________________________________________________________________",
+      "text": "E a mão de Yahweh. Está ela. A ‘Eliyyahu. E sobre-cinge ele. Os dois-lombos dele. E corre ele. Para as faces de ‘Ah’ab. Até o ir de ti. Para Yizre’e’l.",
       "lines": [
         {
           "line_index": 0,
@@ -2832,12 +2832,12 @@
         {
           "line_index": 1,
           "text": "Está ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Está ela<a name=\"rf219-34302\"></a><sup><a href=\"#fn219-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 219\">219</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Está ela.</p>"
         },
         {
           "line_index": 2,
           "text": "A ‘Eliyyahu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A<a name=\"rf220-34302\"></a><sup><a href=\"#fn220-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 220\">220</a></sup> ‘Eliyyahu<a name=\"rf221-34302\"></a><sup><a href=\"#fn221-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 221\">221</a></sup><a name=\"rf222-34302\"></a><sup><a href=\"#fn222-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 222\">222</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A<a name=\"rf219-34302\"></a><sup><a href=\"#fn219-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 219\">219</a></sup> ‘Eliyyahu<a name=\"rf220-34302\"></a><sup><a href=\"#fn220-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 220\">220</a></sup><a name=\"rf221-34302\"></a><sup><a href=\"#fn221-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 221\">221</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -2857,7 +2857,7 @@
         {
           "line_index": 6,
           "text": "Para as faces de ‘Ah’ab.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de<a name=\"rf223-34302\"></a><sup><a href=\"#fn223-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 223\">223</a></sup> ‘Ah’ab<a name=\"rf224-34302\"></a><sup><a href=\"#fn224-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 224\">224</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de<a name=\"rf222-34302\"></a><sup><a href=\"#fn222-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 222\">222</a></sup> ‘Ah’ab<a name=\"rf223-34302\"></a><sup><a href=\"#fn223-34302\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 223\">223</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -2868,16 +2868,6 @@
           "line_index": 8,
           "text": "Para Yizre’e’l.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para Yizre’e’l.</p>"
-        },
-        {
-          "line_index": 9,
-          "text": "Aviso: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.",
-          "raw_html": "<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Aviso</mark></strong>: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.</p>"
-        },
-        {
-          "line_index": 10,
-          "text": "_________________________________________________________________________________________________________",
-          "raw_html": "<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>"
         }
       ]
     }
@@ -4194,36 +4184,30 @@
     {
       "ref_id": "fn219-34302",
       "number": 219,
-      "text": "“Está ela” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está ela</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn220-34302",
-      "number": 220,
       "text": "“A” (‘el).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0612\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0612\" rel=\"noopener\" target=\"_blank\">A</a>” (<em>‘el</em>). </span>"
     },
     {
-      "ref_id": "fn221-34302",
-      "number": 221,
+      "ref_id": "fn220-34302",
+      "number": 220,
       "text": "“A ‘Eliyyahu” (‘el-‘eliyyahu).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0809\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0809\" rel=\"noopener\" target=\"_blank\">A ‘Eliyyahu</a>” (<em>‘el-‘eliyyahu</em>). </span>"
     },
     {
-      "ref_id": "fn222-34302",
-      "number": 222,
+      "ref_id": "fn221-34302",
+      "number": 221,
       "text": "“‘Eliyyahu” (‘eliyyahu).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0607\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0607\" rel=\"noopener\" target=\"_blank\">‘Eliyyahu</a>” (<em>‘eliyyahu</em>). </span>"
     },
     {
-      "ref_id": "fn223-34302",
-      "number": 223,
+      "ref_id": "fn222-34302",
+      "number": 222,
       "text": "“As faces de” (paneh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALG\" rel=\"noopener\" target=\"_blank\">As faces de</a>” (<em>paneh</em>). </span>"
     },
     {
-      "ref_id": "fn224-34302",
-      "number": 224,
+      "ref_id": "fn223-34302",
+      "number": 223,
       "text": "“‘Ah’ab” (‘ah’ab).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0613\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0613\" rel=\"noopener\" target=\"_blank\">‘Ah’ab</a>” (<em>‘ah’ab</em>). </span>"
     }
