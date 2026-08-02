@@ -916,7 +916,7 @@
     },
     {
       "number": 25,
-      "text": "E está. No dia terceiro. No estar deles doloridos. E tomam os dois dos filhos de Ya’aqob. Shim’on. E Lewi. Os irmãos de Dinah. Homem a espada dele. E vão eles. Sobre a cidade. Seguramente. E matam eles. Total de macho.",
+      "text": "E está. No dia terceiro. No estar deles danificados. E tomam os dois dos filhos de Ya’aqob. Shim’on. E Lewi. Os irmãos de Dinah. Homem a espada dele. E vão eles. Sobre a cidade. Seguramente. E matam eles. Total de macho.",
       "lines": [
         {
           "line_index": 0,
@@ -930,8 +930,8 @@
         },
         {
           "line_index": 2,
-          "text": "No estar deles doloridos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No estar deles doloridos. </p>"
+          "text": "No estar deles danificados.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No estar deles danificados.</p>"
         },
         {
           "line_index": 3,
