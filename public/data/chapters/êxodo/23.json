@@ -216,7 +216,7 @@
     },
     {
       "number": 10,
-      "text": "Seis anos tu semeaisa terrade ti. E reúnestu a colheitadela.",
+      "text": "Seis anos tu semeaisa terrade ti. E reúnestu. A idança dela.",
       "lines": [
         {
           "line_index": 0,
@@ -225,8 +225,13 @@
         },
         {
           "line_index": 1,
-          "text": "E reúnestu a colheitadela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E reúnes<a name=\"rf54-5713\"></a><sup><a href=\"#fn54-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>tu a colheita<a name=\"rf55-5713\"></a><sup><a href=\"#fn55-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>dela<a name=\"rf56-5713\"></a><sup><a href=\"#fn56-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup><a name=\"rf57-5713\"></a><sup><a href=\"#fn57-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "text": "E reúnestu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E reúnes<a name=\"rf54-5713\"></a><sup><a href=\"#fn54-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>tu.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "A idança dela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A idança<a name=\"rf55-5713\"></a><sup><a href=\"#fn55-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup> dela<a name=\"rf56-5713\"></a><sup><a href=\"#fn56-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup><a name=\"rf57-5713\"></a><sup><a href=\"#fn57-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
         }
       ]
     },
@@ -1302,8 +1307,8 @@
     {
       "ref_id": "fn55-5713",
       "number": 55,
-      "text": "“Colheita” (tebu’ah). Cf. Gênesis 47,24.",
-      "raw_html": "<span>“Colheita” (<em>tebu’ah</em>). Cf. Gênesis 47,24. </span>"
+      "text": "“Idança” (tebu’ah).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1001\" rel=\"noopener\" target=\"_blank\">Idança</a>” (<em>tebu’ah</em>). </span>"
     },
     {
       "ref_id": "fn56-5713",

@@ -1001,7 +1001,7 @@
     },
     {
       "number": 20,
-      "text": "E está. Conforme o sobre-acabar de Yehoshua’. E os filhos de Yisra’el. Para o fazer ferir deles. Calamidade grande. Muito. Até o completar deles. E sobreviventes sobrevivem desde eles. E vão eles. Às cidades do encercamento.",
+      "text": "E está. Conforme o sobre-acabar de Yehoshua’. E os filhos de Yisra’el. Para o fazer ferir deles. Calamidade grande. Muito. Até o completar deles. E sobramentos sobram. Desde eles. E vão eles. Às cidades do encercamento.",
       "lines": [
         {
           "line_index": 0,
@@ -1040,16 +1040,21 @@
         },
         {
           "line_index": 7,
-          "text": "E sobreviventes sobrevivem desde eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sobreviventes sobrevivem desde eles<a name=\"rf92-18345\"></a><sup><a href=\"#fn92-18345\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
+          "text": "E sobramentos sobram.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E sobramentos sobram.</p>"
         },
         {
           "line_index": 8,
+          "text": "Desde eles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde eles<a name=\"rf92-18345\"></a><sup><a href=\"#fn92-18345\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
+        },
+        {
+          "line_index": 9,
           "text": "E vão eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E vão eles<a name=\"rf93-18345\"></a><sup><a href=\"#fn93-18345\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup><a name=\"rf94-18345\"></a><sup><a href=\"#fn94-18345\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Às cidades do encercamento.",
           "raw_html": "<p class=\"wp-block-paragraph\">Às cidades do encercamento.</p>"
         }
