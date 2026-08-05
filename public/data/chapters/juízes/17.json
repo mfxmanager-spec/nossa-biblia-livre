@@ -576,7 +576,7 @@
     },
     {
       "number": 10,
-      "text": "E diz. Para ele. Mikah. Assenta tu comigo. E está tu. Para mim. Para pai. E para sacerdote. E eu. Dou eu. Para ti. Dez de argento. Para os dias. Posição. Vestimentos. E as sobrevivências de ti. E anda o lewi.",
+      "text": "E diz. Para ele. Mikah. Assenta tu comigo. E está tu. Para mim. Para pai. E para sacerdote. E eu. Dou eu. Para ti. Dez de argento. Para os dias. E posição de vestimentos. E as sobrevivências de ti. E anda o lewi.",
       "lines": [
         {
           "line_index": 0,
@@ -645,21 +645,16 @@
         },
         {
           "line_index": 13,
-          "text": "Posição.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Posição.</p>"
+          "text": "E posição de vestimentos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E posição de vestimentos.</p>"
         },
         {
           "line_index": 14,
-          "text": "Vestimentos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vestimentos.</p>"
-        },
-        {
-          "line_index": 15,
           "text": "E as sobrevivências de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">E as sobrevivências de ti.</p>"
         },
         {
-          "line_index": 16,
+          "line_index": 15,
           "text": "E anda o lewi.",
           "raw_html": "<p class=\"wp-block-paragraph\">E anda<a name=\"rf83-20507\"></a><sup><a href=\"#fn83-20507\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> o lewi.</p>"
         }
