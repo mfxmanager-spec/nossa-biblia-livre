@@ -944,7 +944,7 @@
     },
     {
       "number": 18,
-      "text": "E está. Conforme o ver de Zimri. Que capturada está a cidade. E vai ele. A ‘Armon. O lar do rei. E arde ele. Sobre ele. O lar do rei. Na flama. E morre ele.",
+      "text": "E está. Conforme o ver de Zimri. Que capturada está a cidade. E vai ele. Ao erguedário do lar do rei. E arde ele. Sobre ele. O lar do rei. Na flama. E morre ele.",
       "lines": [
         {
           "line_index": 0,
@@ -968,36 +968,31 @@
         },
         {
           "line_index": 4,
-          "text": "A ‘Armon.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A<a name=\"rf138-33441\"></a><sup><a href=\"#fn138-33441\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup> ‘Armon.</p>"
+          "text": "Ao erguedário do lar do rei.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao<a name=\"rf138-33441\"></a><sup><a href=\"#fn138-33441\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup> erguedário do lar do rei.</p>"
         },
         {
           "line_index": 5,
-          "text": "O lar do rei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O lar do rei.</p>"
-        },
-        {
-          "line_index": 6,
           "text": "E arde ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E arde ele.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 6,
           "text": "Sobre ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre<a name=\"rf139-33441\"></a><sup><a href=\"#fn139-33441\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup> ele.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 7,
           "text": "O lar do rei.",
           "raw_html": "<p class=\"wp-block-paragraph\">O lar do rei.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 8,
           "text": "Na flama.",
           "raw_html": "<p class=\"wp-block-paragraph\">Na flama.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 9,
           "text": "E morre ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E morre ele.</p>"
         }
