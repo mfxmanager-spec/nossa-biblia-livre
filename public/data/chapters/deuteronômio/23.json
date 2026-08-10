@@ -425,7 +425,7 @@
     },
     {
       "number": 14,
-      "text": "E estaca está para ti. Sobre o equipamento de ti. E é no assentar de ti fora. E cavas tu dela. E voltas tu. E sobre-cobres tu. A saideira de ti.",
+      "text": "E estaca está para ti. Sobre o equipamento de ti. E é no assentar de ti fora. E cavas tu dela. E voltas tu. E cobres tu a saideira de ti.",
       "lines": [
         {
           "line_index": 0,
@@ -454,13 +454,8 @@
         },
         {
           "line_index": 5,
-          "text": "E sobre-cobres tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sobre-cobres tu<a name=\"rf151-15470\"></a><sup><a href=\"#fn151-15470\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
-        },
-        {
-          "line_index": 6,
-          "text": "A saideira de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A saideira<a name=\"rf152-15470\"></a><sup><a href=\"#fn152-15470\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup> de ti.</p>"
+          "text": "E cobres tu a saideira de ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E cobres<a name=\"rf151-15470\"></a><sup><a href=\"#fn151-15470\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup> tu a saideira<a name=\"rf152-15470\"></a><sup><a href=\"#fn152-15470\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup> de ti.</p>"
         }
       ]
     },
@@ -1846,8 +1841,8 @@
     {
       "ref_id": "fn151-15470",
       "number": 151,
-      "text": "“Sobre-cobres” (ksh). Forma intensiva da raiz.",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1018\" rel=\"noopener\" target=\"_blank\">Sobre-cobres</a>” (<em>ksh</em>). Forma intensiva da raiz. </span>"
+      "text": "“Cobres” (ksh). Cf. Gênesis 7,19; Deuteronômio 23,14.",
+      "raw_html": "<span>“Cobres” (<em>ksh</em>). Cf. Gênesis 7,19; Deuteronômio 23,14. </span>"
     },
     {
       "ref_id": "fn152-15470",

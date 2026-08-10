@@ -861,7 +861,7 @@
     },
     {
       "number": 15,
-      "text": "Para separamento. Desde os homens dos permanecedores. E o comércio dos mercadejadores. E o total dos reis do ‘Ereb. E os prepostos da terra.",
+      "text": "Para separamento. Desde os homens dos permanecedores. E o comércio dos mercadejadores. E o total dos reis do ‘Ereb. E os pahot da terra.",
       "lines": [
         {
           "line_index": 0,
@@ -885,8 +885,8 @@
         },
         {
           "line_index": 4,
-          "text": "E os prepostos da terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os prepostos da terra.</p>"
+          "text": "E os pahot da terra.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E os <em>pahot</em> da terra.</p>"
         }
       ]
     },

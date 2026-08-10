@@ -1284,7 +1284,7 @@
     },
     {
       "number": 33,
-      "text": "E descem eles. Elese total que é para eles. Vivos. Para o she’ol. E sobre-cobre. Sobre eles. A terra. E perecem eles. Desde o meio da assembleia.",
+      "text": "E descem eles. Elese total que é para eles. Vivos. Para o she’ol. E cobresobre elesa terra. E perecem eles. Desde o meio da assembleia.",
       "lines": [
         {
           "line_index": 0,
@@ -1308,26 +1308,16 @@
         },
         {
           "line_index": 4,
-          "text": "E sobre-cobre.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sobre-cobre<a name=\"rf324-11650\"></a><sup><a href=\"#fn324-11650\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 324\">324</a></sup>.</p>"
+          "text": "E cobresobre elesa terra.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E cobre<a name=\"rf324-11650\"></a><sup><a href=\"#fn324-11650\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 324\">324</a></sup>sobre eles<a name=\"rf325-11650\"></a><sup><a href=\"#fn325-11650\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 325\">325</a></sup>a terra<a name=\"rf326-11650\"></a><sup><a href=\"#fn326-11650\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 326\">326</a></sup>.</p>"
         },
         {
           "line_index": 5,
-          "text": "Sobre eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre eles<a name=\"rf325-11650\"></a><sup><a href=\"#fn325-11650\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 325\">325</a></sup>.</p>"
-        },
-        {
-          "line_index": 6,
-          "text": "A terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A terra<a name=\"rf326-11650\"></a><sup><a href=\"#fn326-11650\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 326\">326</a></sup>.</p>"
-        },
-        {
-          "line_index": 7,
           "text": "E perecem eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E perecem eles<a name=\"rf327-11650\"></a><sup><a href=\"#fn327-11650\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 327\">327</a></sup>.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 6,
           "text": "Desde o meio da assembleia.",
           "raw_html": "<p class=\"wp-block-paragraph\">Desde o meio da assembleia<a name=\"rf328-11650\"></a><sup><a href=\"#fn328-11650\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 328\">328</a></sup>.</p>"
         }
@@ -3343,8 +3333,8 @@
     {
       "ref_id": "fn324-11650",
       "number": 324,
-      "text": "“Sobre-cobre” (ksh). Forma intensiva da raiz.",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1018\" rel=\"noopener\" target=\"_blank\">Sobre-cobre</a>” (<em>ksh</em>). Forma intensiva da raiz. </span>"
+      "text": "“Cobre” (ksh). Cf. Gênesis 7,19.",
+      "raw_html": "<span>“Cobre” (<em>ksh</em>). Cf. Gênesis 7,19. </span>"
     },
     {
       "ref_id": "fn325-11650",
