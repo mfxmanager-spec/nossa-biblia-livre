@@ -641,12 +641,12 @@
     },
     {
       "number": 15,
-      "text": "Senhor de mim. Ouve tu eu. Terra de quatro de centenasde pesode prata. Entre mim e entre ti. Que ela é? E o morto de ti. Sepulta tu.",
+      "text": "O senhor de mim. Ouve tu eu. Terra de quatro de centenas de aferido de prata. Entre mim. E entre ti. Que ela é? E o morto de ti. Sepulta tu.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Senhor de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Senhor de mim.</p>"
+          "text": "O senhor de mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> O senhor de mim.</p>"
         },
         {
           "line_index": 1,
@@ -655,26 +655,31 @@
         },
         {
           "line_index": 2,
-          "text": "Terra de quatro de centenasde pesode prata.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Terra de quatro de centenas<a name=\"rf51-2011\"></a><sup><a href=\"#fn51-2011\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>de peso<a name=\"rf52-2011\"></a><sup><a href=\"#fn52-2011\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>de prata.</p>"
+          "text": "Terra de quatro de centenas de aferido de prata.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Terra de quatro de centenas<a name=\"rf51-2011\"></a><sup><a href=\"#fn51-2011\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup> de aferido<a name=\"rf52-2011\"></a><sup><a href=\"#fn52-2011\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup> de prata.</p>"
         },
         {
           "line_index": 3,
-          "text": "Entre mim e entre ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Entre mim e entre ti.</p>"
+          "text": "Entre mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Entre mim.</p>"
         },
         {
           "line_index": 4,
+          "text": "E entre ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E entre ti.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Que ela é?",
           "raw_html": "<p class=\"wp-block-paragraph\">Que ela é<a name=\"rf53-2011\"></a><sup><a href=\"#fn53-2011\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup><a name=\"rf54-2011\"></a><sup><a href=\"#fn54-2011\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>?</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "E o morto de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o morto de ti.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Sepulta tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sepulta tu<a name=\"rf55-2011\"></a><sup><a href=\"#fn55-2011\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
         }
@@ -1206,8 +1211,8 @@
     {
       "ref_id": "fn52-2011",
       "number": 52,
-      "text": "“Peso” (shekel). Substantivo formado com a raiz shkl. Cf. o v. seguinte.",
-      "raw_html": "<span>“Peso” (<em>shekel</em>). Substantivo formado com a raiz <em>shkl</em>. Cf. o v. seguinte. </span>"
+      "text": "“Aferido” (shekel). Substantivo formado com a raiz shkl. Cf. o v. seguinte.",
+      "raw_html": "<span>“Aferido” (<em>shekel</em>). Substantivo formado com a raiz <em>shkl</em>. Cf. o v. seguinte. </span>"
     },
     {
       "ref_id": "fn53-2011",

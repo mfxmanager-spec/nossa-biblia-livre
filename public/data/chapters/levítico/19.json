@@ -801,7 +801,7 @@
     },
     {
       "number": 25,
-      "text": "E no anoquinto. Comeis vóso fruto dela. Para acrescentarpara vós a colheitadele. Eu sou Yahweh. O deus de vós.",
+      "text": "E no anoquinto. Comeis vóso fruto dela. Para acrescentar. Para vós. A idança dele. Eu sou Yahweh. O deus de vós.",
       "lines": [
         {
           "line_index": 0,
@@ -815,16 +815,26 @@
         },
         {
           "line_index": 2,
-          "text": "Para acrescentarpara vós a colheitadele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para acrescentar<a name=\"rf275-9104\"></a><sup><a href=\"#fn275-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 275\">275</a></sup><a name=\"rf276-9104\"></a><sup><a href=\"#fn276-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 276\">276</a></sup>para vós a colheita<a name=\"rf277-9104\"></a><sup><a href=\"#fn277-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 277\">277</a></sup>dele<a name=\"rf278-9104\"></a><sup><a href=\"#fn278-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 278\">278</a></sup>.</p>"
+          "text": "Para acrescentar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para acrescentar<a name=\"rf275-9104\"></a><sup><a href=\"#fn275-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 275\">275</a></sup><a name=\"rf276-9104\"></a><sup><a href=\"#fn276-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 276\">276</a></sup>.</p>"
         },
         {
           "line_index": 3,
+          "text": "Para vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para vós.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "A idança dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A idança<a name=\"rf277-9104\"></a><sup><a href=\"#fn277-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 277\">277</a></sup> dele<a name=\"rf278-9104\"></a><sup><a href=\"#fn278-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 278\">278</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Eu sou Yahweh.",
           "raw_html": "<p class=\"wp-block-paragraph\">Eu sou Yahweh.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
           "text": "O deus de vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">O deus de vós<a name=\"rf279-9104\"></a><sup><a href=\"#fn279-9104\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 279\">279</a></sup>.</p>"
         }
@@ -2903,8 +2913,8 @@
     {
       "ref_id": "fn277-9104",
       "number": 277,
-      "text": "“Colheita” (tebu’ah). Cf. Gênesis 47,24; Êxodo 23,10.",
-      "raw_html": "<span>“Colheita” (<em>tebu’ah</em>). Cf. Gênesis 47,24; Êxodo 23,10. </span>"
+      "text": "“Idança” (tebu’ah).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1001\" rel=\"noopener\" target=\"_blank\">Idança</a>” (<em>tebu’ah</em>). </span>"
     },
     {
       "ref_id": "fn278-9104",

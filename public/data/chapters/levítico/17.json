@@ -671,7 +671,7 @@
         {
           "line_index": 7,
           "text": "Os vestimentos dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os vestimentos dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os vestimentos dele<a name=\"rf203-8993\"></a><sup><a href=\"#fn203-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 203\">203</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -691,12 +691,12 @@
         {
           "line_index": 11,
           "text": "Até a tarde.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até a tarde<a name=\"rf203-8993\"></a><sup><a href=\"#fn203-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 203\">203</a></sup><a name=\"rf204-8993\"></a><sup><a href=\"#fn204-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 204\">204</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até a tarde<a name=\"rf204-8993\"></a><sup><a href=\"#fn204-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 204\">204</a></sup><a name=\"rf205-8993\"></a><sup><a href=\"#fn205-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 205\">205</a></sup>.</p>"
         },
         {
           "line_index": 12,
           "text": "E ela está pura.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ela está pura<a name=\"rf205-8993\"></a><sup><a href=\"#fn205-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 205\">205</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ela está pura<a name=\"rf206-8993\"></a><sup><a href=\"#fn206-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 206\">206</a></sup>.</p>"
         }
       ]
     },
@@ -707,17 +707,17 @@
         {
           "line_index": 0,
           "text": "E se nãoenxágua.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E se não<a name=\"rf206-8993\"></a><sup><a href=\"#fn206-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 206\">206</a></sup>enxágua<a name=\"rf207-8993\"></a><sup><a href=\"#fn207-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 207\">207</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E se não<a name=\"rf207-8993\"></a><sup><a href=\"#fn207-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 207\">207</a></sup>enxágua<a name=\"rf208-8993\"></a><sup><a href=\"#fn208-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "E a carnedela não banhaela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a carne<a name=\"rf208-8993\"></a><sup><a href=\"#fn208-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup>dela não banha<a name=\"rf209-8993\"></a><sup><a href=\"#fn209-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 209\">209</a></sup>ela.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a carne<a name=\"rf209-8993\"></a><sup><a href=\"#fn209-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 209\">209</a></sup>dela não banha<a name=\"rf210-8993\"></a><sup><a href=\"#fn210-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup>ela.</p>"
         },
         {
           "line_index": 2,
           "text": "E ela carrega a culpa dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ela carrega a culpa dela<a name=\"rf210-8993\"></a><sup><a href=\"#fn210-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ela carrega a culpa dela<a name=\"rf211-8993\"></a><sup><a href=\"#fn211-8993\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup>.</p>"
         }
       ]
     }
@@ -1938,48 +1938,54 @@
     {
       "ref_id": "fn203-8993",
       "number": 203,
-      "text": "“E ela enxágua as vestes dela. E ela se banha nas águas. E ela está impura até a tarde” (wekibbes begadayw werahats bammayim wetam’ ‘ad-ha’areb). Somente em Levítico 15,8.11.27; 17,15.",
-      "raw_html": "<span>“E ela enxágua as vestes dela. E ela se banha nas águas. E ela está impura até a tarde” (<em>wekibbes begadayw werahats bammayim wetam’ ‘ad-ha’areb</em>). Somente em Levítico 15,8.11.27; 17,15. </span>"
+      "text": "“Os vestimentos dele” (begadayw).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1016\" rel=\"noopener\" target=\"_blank\">Os vestimentos dele</a>” (<em>begadayw</em>). </span>"
     },
     {
       "ref_id": "fn204-8993",
       "number": 204,
-      "text": "“A tarde” (ha’ereb).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJL\" rel=\"noreferrer noopener\" target=\"_blank\">A tarde</a>” (<em>ha’ereb</em>). </span>"
+      "text": "“E ela enxágua as vestes dela. E ela se banha nas águas. E ela está impura até a tarde” (wekibbes begadayw werahats bammayim wetam’ ‘ad-ha’areb). Somente em Levítico 15,8.11.27; 17,15.",
+      "raw_html": "<span>“E ela enxágua as vestes dela. E ela se banha nas águas. E ela está impura até a tarde” (<em>wekibbes begadayw werahats bammayim wetam’ ‘ad-ha’areb</em>). Somente em Levítico 15,8.11.27; 17,15. </span>"
     },
     {
       "ref_id": "fn205-8993",
       "number": 205,
-      "text": "“E ela está pura” (wetaher). Cf. Levítico 11,32; 13,6.13.17.34.58; 14,8.9.20.48.53; 15,13.",
-      "raw_html": "<span>“E ela está pura” (<em>wetaher</em>). Cf. Levítico 11,32; 13,6.13.17.34.58; 14,8.9.20.48.53; 15,13. </span>"
+      "text": "“A tarde” (ha’ereb).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJL\" rel=\"noreferrer noopener\" target=\"_blank\">A tarde</a>” (<em>ha’ereb</em>). </span>"
     },
     {
       "ref_id": "fn206-8993",
       "number": 206,
-      "text": "“E se não” (wei’m lo’). Cf. Gênesis 4,7; Êxodo 13,13; Levítico 5,7.",
-      "raw_html": "<span>“E se não” (<em>wei’m lo’</em>). Cf. Gênesis 4,7; Êxodo 13,13; Levítico 5,7. </span>"
+      "text": "“E ela está pura” (wetaher). Cf. Levítico 11,32; 13,6.13.17.34.58; 14,8.9.20.48.53; 15,13.",
+      "raw_html": "<span>“E ela está pura” (<em>wetaher</em>). Cf. Levítico 11,32; 13,6.13.17.34.58; 14,8.9.20.48.53; 15,13. </span>"
     },
     {
       "ref_id": "fn207-8993",
       "number": 207,
-      "text": "“Enxágua” (kbs). Cf. v. 15.",
-      "raw_html": "<span>“Enxágua” (<em>kbs</em>). Cf. v. 15. </span>"
+      "text": "“E se não” (wei’m lo’). Cf. Gênesis 4,7; Êxodo 13,13; Levítico 5,7.",
+      "raw_html": "<span>“E se não” (<em>wei’m lo’</em>). Cf. Gênesis 4,7; Êxodo 13,13; Levítico 5,7. </span>"
     },
     {
       "ref_id": "fn208-8993",
       "number": 208,
-      "text": "“Carne” (basar). Cf. v. 11.14.",
-      "raw_html": "<span>“Carne” (<em>basar</em>). Cf. v. 11.14. </span>"
+      "text": "“Enxágua” (kbs). Cf. v. 15.",
+      "raw_html": "<span>“Enxágua” (<em>kbs</em>). Cf. v. 15. </span>"
     },
     {
       "ref_id": "fn209-8993",
       "number": 209,
-      "text": "“Banha” (rhts). Cf. v. 15.",
-      "raw_html": "<span>“Banha” (<em>rhts</em>). Cf. v. 15. </span>"
+      "text": "“Carne” (basar). Cf. v. 11.14.",
+      "raw_html": "<span>“Carne” (<em>basar</em>). Cf. v. 11.14. </span>"
     },
     {
       "ref_id": "fn210-8993",
       "number": 210,
+      "text": "“Banha” (rhts). Cf. v. 15.",
+      "raw_html": "<span>“Banha” (<em>rhts</em>). Cf. v. 15. </span>"
+    },
+    {
+      "ref_id": "fn211-8993",
+      "number": 211,
       "text": "“E ela carrega a culpa dela” (wenasa’ ‘avono). Somente em levítico 5,1.17; 17,16.",
       "raw_html": "<span>“E ela carrega a culpa dela” (<em>wenasa’ ‘avono</em>). Somente em levítico 5,1.17; 17,16. </span>"
     }

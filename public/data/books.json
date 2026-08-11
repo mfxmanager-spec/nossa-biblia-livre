@@ -1623,5 +1623,18 @@
         "title": "1 Reis 22"
       }
     ]
+  },
+  {
+    "id": 11,
+    "name": "2 Reis",
+    "slug": "2-reis",
+    "testament": "OT",
+    "chapters": [
+      {
+        "number": 1,
+        "slug": "2-reis-1",
+        "title": "2 Reis 1"
+      }
+    ]
   }
 ]

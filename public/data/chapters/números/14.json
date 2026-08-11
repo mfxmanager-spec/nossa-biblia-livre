@@ -162,7 +162,7 @@
     },
     {
       "number": 6,
-      "text": "E Yehoshua’. Filho de Nun. E Kaleb. Filho de Yepunneh. Desdeos prospectadoresda terra. Rasgam elesas vestes deles.",
+      "text": "E Yehoshua’. Filho de Nun. E Kaleb. Filho de Yepunneh. Desdeos prospectadoresda terra. Rasgam eles. Os vestimentos deles.",
       "lines": [
         {
           "line_index": 0,
@@ -191,8 +191,13 @@
         },
         {
           "line_index": 5,
-          "text": "Rasgam elesas vestes deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Rasgam eles<a name=\"rf53-11329\"></a><sup><a href=\"#fn53-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>as vestes deles<a name=\"rf54-11329\"></a><sup><a href=\"#fn54-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
+          "text": "Rasgam eles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Rasgam eles<a name=\"rf53-11329\"></a><sup><a href=\"#fn53-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Os vestimentos deles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Os vestimentos deles<a name=\"rf54-11329\"></a><sup><a href=\"#fn54-11329\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
         }
       ]
     },
@@ -2047,8 +2052,8 @@
     {
       "ref_id": "fn53-11329",
       "number": 53,
-      "text": "“Rasgam eles” (qar’u). Primeira de 4 ocorrências.",
-      "raw_html": "<span>“Rasgam eles” (<em>qar’u</em>). Primeira de 4 ocorrências. </span>"
+      "text": "“Rasgam eles” (qr’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1014\" rel=\"noopener\" target=\"_blank\">Rasgam eles</a>” (<em>qr’</em>). </span>"
     },
     {
       "ref_id": "fn54-11329",

@@ -607,7 +607,7 @@
     },
     {
       "number": 21,
-      "text": "E tu tomarás desde o sangue que sobre o sacrificiatório. E desde o óleoda unção. E tu farás aspergirsobre ‘Aharon. E sobre as vestesdele. E sobre os filhos dele. E sobre as vestes dos filhos dele com ele. E sagrado estáele. E as vestes dele. E os filhos dele. E as vestes dos filhos dele com ele.",
+      "text": "E tu tomarás desde o sangue que sobre o sacrificiatório. E desde o óleoda unção. E tu farás aspergir. Sobre ‘Aharon. E sobre os vestimentos dele. E sobre os filhos dele. E sobre as vestes dos filhos dele com ele. E sagrado estáele. E as vestes dele. E os filhos dele. E as vestes dos filhos dele com ele.",
       "lines": [
         {
           "line_index": 0,
@@ -621,41 +621,46 @@
         },
         {
           "line_index": 2,
-          "text": "E tu farás aspergirsobre ‘Aharon.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E tu farás aspergir<a name=\"rf177-6227\"></a><sup><a href=\"#fn177-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>sobre ‘Aharon<a name=\"rf178-6227\"></a><sup><a href=\"#fn178-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>.</p>"
+          "text": "E tu farás aspergir.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E tu farás aspergir<a name=\"rf177-6227\"></a><sup><a href=\"#fn177-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 177\">177</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "E sobre as vestesdele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sobre as vestes<a name=\"rf179-6227\"></a><sup><a href=\"#fn179-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>dele. </p>"
+          "text": "Sobre ‘Aharon.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre ‘Aharon<a name=\"rf178-6227\"></a><sup><a href=\"#fn178-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 178\">178</a></sup>.</p>"
         },
         {
           "line_index": 4,
+          "text": "E sobre os vestimentos dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E sobre os vestimentos dele<a name=\"rf179-6227\"></a><sup><a href=\"#fn179-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 179\">179</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "E sobre os filhos dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E sobre os filhos dele.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "E sobre as vestes dos filhos dele com ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E sobre as vestes dos filhos dele com ele<a name=\"rf180-6227\"></a><sup><a href=\"#fn180-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 180\">180</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "E sagrado estáele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E sagrado está<a name=\"rf181-6227\"></a><sup><a href=\"#fn181-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 181\">181</a></sup>ele<a name=\"rf182-6227\"></a><sup><a href=\"#fn182-6227\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 182\">182</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "E as vestes dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E as vestes dele. </p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "E os filhos dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E os filhos dele. </p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "E as vestes dos filhos dele com ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E as vestes dos filhos dele com ele.</p>"
         }
@@ -2559,8 +2564,8 @@
     {
       "ref_id": "fn179-6227",
       "number": 179,
-      "text": "Cf. v. 5.",
-      "raw_html": "<span>Cf. v. 5. </span>"
+      "text": "“Os vestimentos dele” (begadayw).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1016\" rel=\"noopener\" target=\"_blank\">Os vestimentos dele</a>” (<em>begadayw</em>). </span>"
     },
     {
       "ref_id": "fn180-6227",

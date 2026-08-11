@@ -1340,7 +1340,7 @@
     },
     {
       "number": 34,
-      "text": "E levanta o povo. O grume dele. Não ainda leveda ele. As amassadeirasdeles estão apertadasnas indumentáriasdeles. Sobre os ombros deles.",
+      "text": "E levanta o povo. O grume dele. Não ainda leveda ele. As amassadeiras deles. Sido apertadas. Nas indumentárias deles. Sobre os ombros deles.",
       "lines": [
         {
           "line_index": 0,
@@ -1359,11 +1359,21 @@
         },
         {
           "line_index": 3,
-          "text": "As amassadeirasdeles estão apertadasnas indumentáriasdeles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">As amassadeiras<a name=\"rf188-4870\"></a><sup><a href=\"#fn188-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 188\">188</a></sup>deles estão apertadas<a name=\"rf189-4870\"></a><sup><a href=\"#fn189-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 189\">189</a></sup>nas indumentárias<a name=\"rf190-4870\"></a><sup><a href=\"#fn190-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 190\">190</a></sup>deles.</p>"
+          "text": "As amassadeiras deles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">As amassadeiras<a name=\"rf188-4870\"></a><sup><a href=\"#fn188-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 188\">188</a></sup> deles.</p>"
         },
         {
           "line_index": 4,
+          "text": "Sido apertadas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sido apertadas<a name=\"rf189-4870\"></a><sup><a href=\"#fn189-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 189\">189</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Nas indumentárias deles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Nas indumentárias<a name=\"rf190-4870\"></a><sup><a href=\"#fn190-4870\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 190\">190</a></sup> deles.</p>"
+        },
+        {
+          "line_index": 6,
           "text": "Sobre os ombros deles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre os ombros deles. </p>"
         }
@@ -3084,8 +3094,8 @@
     {
       "ref_id": "fn189-4870",
       "number": 189,
-      "text": "“Apertadas” (tsrr). Cf. Gênesis 32,8 e nota.",
-      "raw_html": "<span>“Apertadas” (<em>tsrr</em>). Cf. Gênesis 32,8 e nota. </span>"
+      "text": "“Sido apertadas” (tsrr). Forma passiva participial da raiz.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/1006\">Sido apertadas</a>” (<em>tsrr</em>). Forma passiva participial da raiz. </span>"
     },
     {
       "ref_id": "fn190-4870",

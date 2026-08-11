@@ -236,7 +236,7 @@
     },
     {
       "number": 5,
-      "text": "E Yahweh. O deus de vós. Empurra ele eles. Desde as faces de vós. E faz ele despossuir eles. Desde para as faces de vós. E possuís vós as terras deles. Conforme que fala Yahweh. O deus de vós. Para vós.",
+      "text": "E Yahweh. O deus de vós. Ele. Empurra ele eles. Desde as faces de vós. E faz ele despossuir eles. Desde para as faces de vós. E possuís vós as terras deles. Conforme que fala Yahweh. O deus de vós. Para vós.",
       "lines": [
         {
           "line_index": 0,
@@ -250,41 +250,46 @@
         },
         {
           "line_index": 2,
+          "text": "Ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ele.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "Empurra ele eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Empurra ele eles.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "Desde as faces de vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">Desde as faces de vós.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "E faz ele despossuir eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E faz ele despossuir eles.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Desde para as faces de vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">Desde para as faces de vós.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "E possuís vós as terras deles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E possuís vós as terras deles.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "Conforme que fala Yahweh.",
           "raw_html": "<p class=\"wp-block-paragraph\">Conforme que fala Yahweh.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "O deus de vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">O deus de vós.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Para vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para vós.</p>"
         }
