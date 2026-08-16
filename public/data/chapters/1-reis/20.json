@@ -83,30 +83,25 @@
     },
     {
       "number": 2,
-      "text": "E envia ele. Mensageiros. A ‘Ah’ab. O rei de Yisra’el. Para a cidade.",
+      "text": "E envia ele mensageiros. A ‘Ah’ab. O rei de Yisra’el. Para a cidade.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E envia ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E envia ele<a name=\"rf3-34825\"></a><sup><a href=\"#fn3-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup>.</p>"
+          "text": "E envia ele mensageiros.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E envia ele mensageiros.</p>"
         },
         {
           "line_index": 1,
-          "text": "Mensageiros.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mensageiros.</p>"
-        },
-        {
-          "line_index": 2,
           "text": "A ‘Ah’ab.",
           "raw_html": "<p class=\"wp-block-paragraph\">A ‘Ah’ab.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 2,
           "text": "O rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf4-34825\"></a><sup><a href=\"#fn4-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf3-34825\"></a><sup><a href=\"#fn3-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup> Yisra’el.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 3,
           "text": "Para a cidade.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para a cidade.</p>"
         }
@@ -195,7 +190,7 @@
         {
           "line_index": 1,
           "text": "O rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf5-34825\"></a><sup><a href=\"#fn5-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf4-34825\"></a><sup><a href=\"#fn4-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 2,
@@ -215,7 +210,7 @@
         {
           "line_index": 5,
           "text": "O rei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei<a name=\"rf6-34825\"></a><sup><a href=\"#fn6-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup><a name=\"rf7-34825\"></a><sup><a href=\"#fn7-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei<a name=\"rf5-34825\"></a><sup><a href=\"#fn5-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup><a name=\"rf6-34825\"></a><sup><a href=\"#fn6-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -271,7 +266,7 @@
         {
           "line_index": 5,
           "text": "Que envio eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que envio eu<a name=\"rf8-34825\"></a><sup><a href=\"#fn8-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que envio eu.</p>"
         },
         {
           "line_index": 6,
@@ -337,7 +332,7 @@
         {
           "line_index": 3,
           "text": "Envio eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Envio eu<a name=\"rf9-34825\"></a><sup><a href=\"#fn9-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Envio eu.</p>"
         },
         {
           "line_index": 4,
@@ -367,7 +362,7 @@
         {
           "line_index": 9,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf10-34825\"></a><sup><a href=\"#fn10-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf7-34825\"></a><sup><a href=\"#fn7-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>.</p>"
         },
         {
           "line_index": 10,
@@ -403,7 +398,7 @@
         {
           "line_index": 1,
           "text": "O rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf11-34825\"></a><sup><a href=\"#fn11-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf8-34825\"></a><sup><a href=\"#fn8-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 2,
@@ -443,7 +438,7 @@
         {
           "line_index": 9,
           "text": "Que envia ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que envia ele<a name=\"rf12-34825\"></a><sup><a href=\"#fn12-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que envia ele.</p>"
         },
         {
           "line_index": 10,
@@ -509,7 +504,7 @@
         {
           "line_index": 4,
           "text": "Não ouves tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não ouves tu<a name=\"rf13-34825\"></a><sup><a href=\"#fn13-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não ouves tu<a name=\"rf9-34825\"></a><sup><a href=\"#fn9-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -545,7 +540,7 @@
         {
           "line_index": 4,
           "text": "O rei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei<a name=\"rf14-34825\"></a><sup><a href=\"#fn14-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup><a name=\"rf15-34825\"></a><sup><a href=\"#fn15-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei<a name=\"rf10-34825\"></a><sup><a href=\"#fn10-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup><a name=\"rf11-34825\"></a><sup><a href=\"#fn11-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -555,7 +550,7 @@
         {
           "line_index": 6,
           "text": "Que envias tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que envias tu<a name=\"rf16-34825\"></a><sup><a href=\"#fn16-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que envias tu.</p>"
         },
         {
           "line_index": 7,
@@ -616,7 +611,7 @@
         {
           "line_index": 0,
           "text": "E envia.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E envia<a name=\"rf17-34825\"></a><sup><a href=\"#fn17-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E envia.</p>"
         },
         {
           "line_index": 1,
@@ -656,7 +651,7 @@
         {
           "line_index": 8,
           "text": "Se cabe.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Se cabe<a name=\"rf18-34825\"></a><sup><a href=\"#fn18-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Se cabe<a name=\"rf12-34825\"></a><sup><a href=\"#fn12-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -692,7 +687,7 @@
         {
           "line_index": 1,
           "text": "O rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf19-34825\"></a><sup><a href=\"#fn19-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf13-34825\"></a><sup><a href=\"#fn13-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 2,
@@ -717,7 +712,7 @@
         {
           "line_index": 6,
           "text": "Conforme sobre-abridor.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme sobre-abridor<a name=\"rf20-34825\"></a><sup><a href=\"#fn20-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 20\">20</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme sobre-abridor<a name=\"rf14-34825\"></a><sup><a href=\"#fn14-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup>.</p>"
         }
       ]
     },
@@ -728,12 +723,12 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf21-34825\"></a><sup><a href=\"#fn21-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 21\">21</a></sup><a name=\"rf22-34825\"></a><sup><a href=\"#fn22-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf15-34825\"></a><sup><a href=\"#fn15-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup><a name=\"rf16-34825\"></a><sup><a href=\"#fn16-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Conforme ouvir.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme ouvir<a name=\"rf23-34825\"></a><sup><a href=\"#fn23-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup><a name=\"rf24-34825\"></a><sup><a href=\"#fn24-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme ouvir<a name=\"rf17-34825\"></a><sup><a href=\"#fn17-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup><a name=\"rf18-34825\"></a><sup><a href=\"#fn18-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -763,7 +758,7 @@
         {
           "line_index": 7,
           "text": "E os reis.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os reis<a name=\"rf25-34825\"></a><sup><a href=\"#fn25-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup><a name=\"rf26-34825\"></a><sup><a href=\"#fn26-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E os reis<a name=\"rf19-34825\"></a><sup><a href=\"#fn19-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup><a name=\"rf20-34825\"></a><sup><a href=\"#fn20-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 20\">20</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -824,7 +819,7 @@
         {
           "line_index": 4,
           "text": "O rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf27-34825\"></a><sup><a href=\"#fn27-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf21-34825\"></a><sup><a href=\"#fn21-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 21\">21</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 5,
@@ -879,7 +874,7 @@
         {
           "line_index": 15,
           "text": "O dia.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O dia<a name=\"rf28-34825\"></a><sup><a href=\"#fn28-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O dia.</p>"
         },
         {
           "line_index": 16,
@@ -930,7 +925,7 @@
         {
           "line_index": 5,
           "text": "Nos moços dos príncipes das judiciadouras.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nos moços dos príncipes das judiciadouras<a name=\"rf29-34825\"></a><sup><a href=\"#fn29-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Nos moços dos príncipes das judiciadouras<a name=\"rf22-34825\"></a><sup><a href=\"#fn22-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -971,7 +966,7 @@
         {
           "line_index": 2,
           "text": "E estão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E estão eles<a name=\"rf30-34825\"></a><sup><a href=\"#fn30-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E estão eles<a name=\"rf23-34825\"></a><sup><a href=\"#fn23-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1057,7 +1052,7 @@
         {
           "line_index": 7,
           "text": "E os reis.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os reis<a name=\"rf31-34825\"></a><sup><a href=\"#fn31-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup><a name=\"rf32-34825\"></a><sup><a href=\"#fn32-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E os reis<a name=\"rf24-34825\"></a><sup><a href=\"#fn24-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup><a name=\"rf25-34825\"></a><sup><a href=\"#fn25-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -1067,7 +1062,7 @@
         {
           "line_index": 9,
           "text": "Reis.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Reis<a name=\"rf33-34825\"></a><sup><a href=\"#fn33-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 33\">33</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Reis<a name=\"rf26-34825\"></a><sup><a href=\"#fn26-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup>.</p>"
         },
         {
           "line_index": 10,
@@ -1098,7 +1093,7 @@
         {
           "line_index": 3,
           "text": "E envia Ben-Hadad.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E envia<a name=\"rf34-34825\"></a><sup><a href=\"#fn34-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 34\">34</a></sup> Ben-Hadad.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E envia Ben-Hadad.</p>"
         },
         {
           "line_index": 4,
@@ -1271,7 +1266,7 @@
         {
           "line_index": 9,
           "text": "O rei de ‘Aram.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf35-34825\"></a><sup><a href=\"#fn35-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 35\">35</a></sup> ‘Aram.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf27-34825\"></a><sup><a href=\"#fn27-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup> ‘Aram.</p>"
         },
         {
           "line_index": 10,
@@ -1281,7 +1276,7 @@
         {
           "line_index": 11,
           "text": "E destacados.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E destacados<a name=\"rf36-34825\"></a><sup><a href=\"#fn36-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E destacados<a name=\"rf28-34825\"></a><sup><a href=\"#fn28-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
         }
       ]
     },
@@ -1292,7 +1287,7 @@
         {
           "line_index": 0,
           "text": "E sai o rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E sai o rei de<a name=\"rf37-34825\"></a><sup><a href=\"#fn37-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E sai o rei de<a name=\"rf29-34825\"></a><sup><a href=\"#fn29-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 1,
@@ -1338,7 +1333,7 @@
         {
           "line_index": 1,
           "text": "Ao rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei de<a name=\"rf38-34825\"></a><sup><a href=\"#fn38-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei de<a name=\"rf30-34825\"></a><sup><a href=\"#fn30-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 2,
@@ -1383,7 +1378,7 @@
         {
           "line_index": 10,
           "text": "O rei de ‘Aram.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf39-34825\"></a><sup><a href=\"#fn39-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup> ‘Aram.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf31-34825\"></a><sup><a href=\"#fn31-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup> ‘Aram.</p>"
         },
         {
           "line_index": 11,
@@ -1404,7 +1399,7 @@
         {
           "line_index": 0,
           "text": "E os servos do rei de ‘Aram.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E os servos do rei de<a name=\"rf40-34825\"></a><sup><a href=\"#fn40-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup> ‘Aram.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E os servos do rei de<a name=\"rf32-34825\"></a><sup><a href=\"#fn32-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup> ‘Aram.</p>"
         },
         {
           "line_index": 1,
@@ -1419,7 +1414,7 @@
         {
           "line_index": 3,
           "text": "‘Elohim de montes.",
-          "raw_html": "<p class=\"wp-block-paragraph\"><em>‘Elohim</em><a name=\"rf41-34825\"></a><sup><a href=\"#fn41-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> de montes.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"><em>‘Elohim</em><a name=\"rf33-34825\"></a><sup><a href=\"#fn33-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 33\">33</a></sup> de montes.</p>"
         },
         {
           "line_index": 4,
@@ -1500,7 +1495,7 @@
         {
           "line_index": 3,
           "text": "Faze tu apartar os reis.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Faze tu apartar os reis<a name=\"rf42-34825\"></a><sup><a href=\"#fn42-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup><a name=\"rf43-34825\"></a><sup><a href=\"#fn43-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Faze tu apartar os reis<a name=\"rf34-34825\"></a><sup><a href=\"#fn34-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 34\">34</a></sup><a name=\"rf35-34825\"></a><sup><a href=\"#fn35-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 35\">35</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -1611,7 +1606,7 @@
         {
           "line_index": 16,
           "text": "E ouve ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ouve ele<a name=\"rf44-34825\"></a><sup><a href=\"#fn44-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ouve ele<a name=\"rf36-34825\"></a><sup><a href=\"#fn36-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup>.</p>"
         },
         {
           "line_index": 17,
@@ -1637,7 +1632,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf45-34825\"></a><sup><a href=\"#fn45-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup><a name=\"rf46-34825\"></a><sup><a href=\"#fn46-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf37-34825\"></a><sup><a href=\"#fn37-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup><a name=\"rf38-34825\"></a><sup><a href=\"#fn38-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1728,7 +1723,7 @@
         {
           "line_index": 8,
           "text": "Como dois de descascados de cabras.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Como dois de descascados de<a name=\"rf47-34825\"></a><sup><a href=\"#fn47-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup> cabras.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Como dois de descascados de<a name=\"rf39-34825\"></a><sup><a href=\"#fn39-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup> cabras.</p>"
         },
         {
           "line_index": 9,
@@ -1764,7 +1759,7 @@
         {
           "line_index": 3,
           "text": "Ao rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei de<a name=\"rf48-34825\"></a><sup><a href=\"#fn48-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei de<a name=\"rf40-34825\"></a><sup><a href=\"#fn40-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 4,
@@ -1880,17 +1875,17 @@
         {
           "line_index": 3,
           "text": "Sete de dias.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sete de dias<a name=\"rf49-34825\"></a><sup><a href=\"#fn49-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup><a name=\"rf50-34825\"></a><sup><a href=\"#fn50-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sete de dias.</p>"
         },
         {
           "line_index": 4,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf51-34825\"></a><sup><a href=\"#fn51-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup><a name=\"rf52-34825\"></a><sup><a href=\"#fn52-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf41-34825\"></a><sup><a href=\"#fn41-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup><a name=\"rf42-34825\"></a><sup><a href=\"#fn42-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "No dia.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No dia<a name=\"rf53-34825\"></a><sup><a href=\"#fn53-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia.</p>"
         },
         {
           "line_index": 6,
@@ -1930,7 +1925,7 @@
         {
           "line_index": 13,
           "text": "Em dia um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Em dia<a name=\"rf54-34825\"></a><sup><a href=\"#fn54-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup> um<a name=\"rf55-34825\"></a><sup><a href=\"#fn55-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Em dia um<a name=\"rf43-34825\"></a><sup><a href=\"#fn43-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
         }
       ]
     },
@@ -1976,7 +1971,7 @@
         {
           "line_index": 7,
           "text": "Homem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Homem<a name=\"rf56-34825\"></a><sup><a href=\"#fn56-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Homem<a name=\"rf44-34825\"></a><sup><a href=\"#fn44-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -1996,7 +1991,7 @@
         {
           "line_index": 11,
           "text": "E vai ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E vai ele<a name=\"rf57-34825\"></a><sup><a href=\"#fn57-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E vai ele<a name=\"rf45-34825\"></a><sup><a href=\"#fn45-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>.</p>"
         },
         {
           "line_index": 12,
@@ -2047,17 +2042,17 @@
         {
           "line_index": 5,
           "text": "Ouvimos nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ouvimos nós<a name=\"rf58-34825\"></a><sup><a href=\"#fn58-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ouvimos nós<a name=\"rf46-34825\"></a><sup><a href=\"#fn46-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Que os reis do lar de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que os reis do<a name=\"rf59-34825\"></a><sup><a href=\"#fn59-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup> lar de Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que os reis do<a name=\"rf47-34825\"></a><sup><a href=\"#fn47-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup> lar de Yisra’el.</p>"
         },
         {
           "line_index": 7,
           "text": "Que reis de comprometimento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que reis de<a name=\"rf60-34825\"></a><sup><a href=\"#fn60-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup> comprometimento.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que reis de<a name=\"rf48-34825\"></a><sup><a href=\"#fn48-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup> comprometimento.</p>"
         },
         {
           "line_index": 8,
@@ -2077,7 +2072,7 @@
         {
           "line_index": 11,
           "text": "Sacos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sacos<a name=\"rf61-34825\"></a><sup><a href=\"#fn61-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sacos<a name=\"rf49-34825\"></a><sup><a href=\"#fn49-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
         },
         {
           "line_index": 12,
@@ -2102,7 +2097,7 @@
         {
           "line_index": 16,
           "text": "Ao rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei de<a name=\"rf62-34825\"></a><sup><a href=\"#fn62-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei de<a name=\"rf50-34825\"></a><sup><a href=\"#fn50-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 17,
@@ -2128,7 +2123,7 @@
         {
           "line_index": 0,
           "text": "E cintam eles sacos.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E cintam eles sacos<a name=\"rf63-34825\"></a><sup><a href=\"#fn63-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E cintam eles sacos<a name=\"rf51-34825\"></a><sup><a href=\"#fn51-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -2153,7 +2148,7 @@
         {
           "line_index": 5,
           "text": "Ao rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei de<a name=\"rf64-34825\"></a><sup><a href=\"#fn64-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei de<a name=\"rf52-34825\"></a><sup><a href=\"#fn52-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 6,
@@ -2385,7 +2380,7 @@
         {
           "line_index": 16,
           "text": "Sobre-envio eu tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre-envio eu<a name=\"rf65-34825\"></a><sup><a href=\"#fn65-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup> tu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre-envio eu tu.</p>"
         },
         {
           "line_index": 17,
@@ -2405,7 +2400,7 @@
         {
           "line_index": 20,
           "text": "E sobre-envia ele ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sobre-envia ele<a name=\"rf66-34825\"></a><sup><a href=\"#fn66-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup> ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E sobre-envia ele ele.</p>"
         }
       ]
     },
@@ -2482,7 +2477,7 @@
         {
           "line_index": 3,
           "text": "Não ouves tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não ouves tu<a name=\"rf67-34825\"></a><sup><a href=\"#fn67-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não ouves tu<a name=\"rf53-34825\"></a><sup><a href=\"#fn53-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -2614,7 +2609,7 @@
         {
           "line_index": 3,
           "text": "Para o rei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o rei<a name=\"rf68-34825\"></a><sup><a href=\"#fn68-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup><a name=\"rf69-34825\"></a><sup><a href=\"#fn69-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o rei<a name=\"rf54-34825\"></a><sup><a href=\"#fn54-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup><a name=\"rf55-34825\"></a><sup><a href=\"#fn55-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -2645,7 +2640,7 @@
         {
           "line_index": 0,
           "text": "E está o rei.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf70-34825\"></a><sup><a href=\"#fn70-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup><a name=\"rf71-34825\"></a><sup><a href=\"#fn71-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup> o rei<a name=\"rf72-34825\"></a><sup><a href=\"#fn72-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup><a name=\"rf73-34825\"></a><sup><a href=\"#fn73-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf56-34825\"></a><sup><a href=\"#fn56-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup><a name=\"rf57-34825\"></a><sup><a href=\"#fn57-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup> o rei<a name=\"rf58-34825\"></a><sup><a href=\"#fn58-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup><a name=\"rf59-34825\"></a><sup><a href=\"#fn59-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -2670,7 +2665,7 @@
         {
           "line_index": 5,
           "text": "Ao rei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei<a name=\"rf74-34825\"></a><sup><a href=\"#fn74-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup><a name=\"rf75-34825\"></a><sup><a href=\"#fn75-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao rei<a name=\"rf60-34825\"></a><sup><a href=\"#fn60-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup><a name=\"rf61-34825\"></a><sup><a href=\"#fn61-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -2750,7 +2745,7 @@
         {
           "line_index": 21,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf76-34825\"></a><sup><a href=\"#fn76-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf62-34825\"></a><sup><a href=\"#fn62-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
         },
         {
           "line_index": 22,
@@ -2781,7 +2776,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf77-34825\"></a><sup><a href=\"#fn77-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup><a name=\"rf78-34825\"></a><sup><a href=\"#fn78-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf63-34825\"></a><sup><a href=\"#fn63-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup><a name=\"rf64-34825\"></a><sup><a href=\"#fn64-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -2826,7 +2821,7 @@
         {
           "line_index": 9,
           "text": "O rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf79-34825\"></a><sup><a href=\"#fn79-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf65-34825\"></a><sup><a href=\"#fn65-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 10,
@@ -2882,7 +2877,7 @@
         {
           "line_index": 5,
           "text": "O rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf80-34825\"></a><sup><a href=\"#fn80-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf66-34825\"></a><sup><a href=\"#fn66-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 6,
@@ -2928,7 +2923,7 @@
         {
           "line_index": 5,
           "text": "Sobre-envias tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre-envias tu<a name=\"rf81-34825\"></a><sup><a href=\"#fn81-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre-envias tu.</p>"
         },
         {
           "line_index": 6,
@@ -2943,7 +2938,7 @@
         {
           "line_index": 8,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf82-34825\"></a><sup><a href=\"#fn82-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf67-34825\"></a><sup><a href=\"#fn67-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -2979,7 +2974,7 @@
         {
           "line_index": 1,
           "text": "O rei de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf83-34825\"></a><sup><a href=\"#fn83-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf68-34825\"></a><sup><a href=\"#fn68-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 2,
@@ -2999,7 +2994,7 @@
         {
           "line_index": 5,
           "text": "E vai ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E vai ele<a name=\"rf84-34825\"></a><sup><a href=\"#fn84-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E vai ele<a name=\"rf69-34825\"></a><sup><a href=\"#fn69-34825\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -3035,8 +3030,8 @@
     {
       "ref_id": "fn3-34825",
       "number": 3,
-      "text": "“Envia ele” (shlh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Envia ele</a>” (<em>shlh</em>). </span>"
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn4-34825",
@@ -3047,128 +3042,128 @@
     {
       "ref_id": "fn5-34825",
       "number": 5,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+      "text": "“O rei” (hammelek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">O rei</a>” (<em>hammelek</em>). </span>"
     },
     {
       "ref_id": "fn6-34825",
       "number": 6,
-      "text": "“O rei” (hammelek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">O rei</a>” (<em>hammelek</em>). </span>"
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn7-34825",
       "number": 7,
-      "text": "“Rei” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn8-34825",
       "number": 8,
-      "text": "“Envio eu” (shlh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Envio eu</a>” (<em>shlh</em>). </span>"
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn9-34825",
       "number": 9,
-      "text": "“Envio eu” (shlh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Envio eu</a>” (<em>shlh</em>). </span>"
-    },
-    {
-      "ref_id": "fn10-34825",
-      "number": 10,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn11-34825",
-      "number": 11,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn12-34825",
-      "number": 12,
-      "text": "“Envia ele” (shlh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Envia ele</a>” (<em>shlh</em>). </span>"
-    },
-    {
-      "ref_id": "fn13-34825",
-      "number": 13,
       "text": "“Ouves tu” (shm’).",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/AAAAZ\">Ouves tu</a>” (<em>shm’</em>). </span>"
     },
     {
-      "ref_id": "fn14-34825",
-      "number": 14,
+      "ref_id": "fn10-34825",
+      "number": 10,
       "text": "“O rei” (hammelek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">O rei</a>” (<em>hammelek</em>). </span>"
     },
     {
-      "ref_id": "fn15-34825",
-      "number": 15,
+      "ref_id": "fn11-34825",
+      "number": 11,
       "text": "“Rei” (melek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
     },
     {
-      "ref_id": "fn16-34825",
-      "number": 16,
-      "text": "“Envias tu” (shlh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Envias tu</a>” (<em>shlh</em>). </span>"
-    },
-    {
-      "ref_id": "fn17-34825",
-      "number": 17,
-      "text": "“Envia” (shlh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Envia</a>” (<em>shlh</em>). </span>"
-    },
-    {
-      "ref_id": "fn18-34825",
-      "number": 18,
+      "ref_id": "fn12-34825",
+      "number": 12,
       "text": "“Cabe” (spq). Com a consoante sin, a raiz ocorre apenas em 1 Reis 20,10. Jó 20,22. Discute-se se se trata da mesma raiz de spq (sameq) [cf. Números 24,10]. Como são grafadas distintamente, trato-as como raízes distintas.",
       "raw_html": "<span>“Cabe” (<em>spq</em>). Com a consoante <em>sin</em>, a raiz ocorre apenas em 1 Reis 20,10. Jó 20,22. Discute-se se se trata da mesma raiz de <em>spq </em>(<em>sameq</em>) [cf. Números 24,10]. Como são grafadas distintamente, trato-as como raízes distintas. </span>"
     },
     {
-      "ref_id": "fn19-34825",
-      "number": 19,
+      "ref_id": "fn13-34825",
+      "number": 13,
       "text": "“O rei de” (melek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
     },
     {
-      "ref_id": "fn20-34825",
-      "number": 20,
+      "ref_id": "fn14-34825",
+      "number": 14,
       "text": "“Não se louva. Cintador. Conforme sobre-abridor”. O sentido parece ser o de que aquele que se arma para a batalha não deve se gabar antes que tire o cinto de batalha – ou seja: antes de ter vencido.",
       "raw_html": "<span>“Não se louva. Cintador. Conforme sobre-abridor”. O sentido parece ser o de que aquele que se arma para a batalha não deve se gabar antes que tire o cinto de batalha – ou seja: antes de ter vencido. </span>"
     },
     {
-      "ref_id": "fn21-34825",
-      "number": 21,
+      "ref_id": "fn15-34825",
+      "number": 15,
       "text": "“E está” (wayehi).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
-      "ref_id": "fn22-34825",
-      "number": 22,
+      "ref_id": "fn16-34825",
+      "number": 16,
       "text": "“Está” (hyh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
-      "ref_id": "fn23-34825",
-      "number": 23,
+      "ref_id": "fn17-34825",
+      "number": 17,
       "text": "“E está. Conforme ouvir” (wayehi kishmoa’).",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1010\" rel=\"noopener\" target=\"_blank\">E está. Conforme ouvir</a>” (<em>wayehi kishmoa’</em>). </span>"
     },
     {
-      "ref_id": "fn24-34825",
-      "number": 24,
+      "ref_id": "fn18-34825",
+      "number": 18,
       "text": "“Ouvir” (shm’). Forma infinitiva da raiz.",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/AAAAZ\">Ouvir</a>” (<em>shm’</em>). Forma infinitiva da raiz. </span>"
     },
     {
-      "ref_id": "fn25-34825",
-      "number": 25,
+      "ref_id": "fn19-34825",
+      "number": 19,
       "text": "“Os reis” (hammelek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">Os reis</a>” (<em>hammelek</em>). </span>"
+    },
+    {
+      "ref_id": "fn20-34825",
+      "number": 20,
+      "text": "“Reis” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Reis</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn21-34825",
+      "number": 21,
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn22-34825",
+      "number": 22,
+      "text": "“Judiciadouras”, mas poderia ser “jurisdições”.",
+      "raw_html": "<span>“Judiciadouras”, mas poderia ser “jurisdições”. </span>"
+    },
+    {
+      "ref_id": "fn23-34825",
+      "number": 23,
+      "text": "“Estão eles” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Estão eles</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn24-34825",
+      "number": 24,
+      "text": "“Os reis” (hammelek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">Os reis</a>” (<em>hammelek</em>). </span>"
+    },
+    {
+      "ref_id": "fn25-34825",
+      "number": 25,
+      "text": "“Reis” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Reis</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn26-34825",
@@ -3185,74 +3180,74 @@
     {
       "ref_id": "fn28-34825",
       "number": 28,
-      "text": "“Dia” (yom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
-    },
-    {
-      "ref_id": "fn29-34825",
-      "number": 29,
-      "text": "“Judiciadouras”, mas poderia ser “jurisdições”.",
-      "raw_html": "<span>“Judiciadouras”, mas poderia ser “jurisdições”. </span>"
-    },
-    {
-      "ref_id": "fn30-34825",
-      "number": 30,
-      "text": "“Estão eles” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Estão eles</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn31-34825",
-      "number": 31,
-      "text": "“Os reis” (hammelek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">Os reis</a>” (<em>hammelek</em>). </span>"
-    },
-    {
-      "ref_id": "fn32-34825",
-      "number": 32,
-      "text": "“Reis” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Reis</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn33-34825",
-      "number": 33,
-      "text": "“Reis” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Reis</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn34-34825",
-      "number": 34,
-      "text": "“Envia” (shlh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Envia</a>” (<em>shlh</em>). </span>"
-    },
-    {
-      "ref_id": "fn35-34825",
-      "number": 35,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn36-34825",
-      "number": 36,
       "text": "“Destacados” (parashim). Trata-se da cavalaria.",
       "raw_html": "<span>“Destacados” (<em>parashim</em>). Trata-se da cavalaria. </span>"
     },
     {
-      "ref_id": "fn37-34825",
-      "number": 37,
+      "ref_id": "fn29-34825",
+      "number": 29,
       "text": "“O rei de” (melek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn30-34825",
+      "number": 30,
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn31-34825",
+      "number": 31,
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn32-34825",
+      "number": 32,
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn33-34825",
+      "number": 33,
+      "text": "“‘Elohim” aqui poderia ser tratado tanto quanto plçural quanto singular, porque não há nenhuma marca objetiva o número da atualização. Todavia, à luz do v. 28, parece correto – se estamos diante do mesmo autor, nos dois casos – que a referência é ao “deus” dos israelitas. Logo, a retórica pressupõe tratar-se de Yahweh, não de “deuses” no plural. Todavia, lá usa-se o termo ‘amaqim (“vales”), e não o termo mishur (“planalto”), o que pode indicar outra mão redacional.",
+      "raw_html": "<span>“<em>‘Elohim</em>” aqui poderia ser tratado tanto quanto plçural quanto singular, porque não há nenhuma marca objetiva o número da atualização. Todavia, à luz do v. 28, parece correto – se estamos diante do mesmo autor, nos dois casos – que a referência é ao “deus” dos israelitas. Logo, a retórica pressupõe tratar-se de Yahweh, não de “deuses” no plural. Todavia, lá usa-se o termo <em>‘amaqim </em>(“vales”), e não o termo <em>mishur </em>(“planalto”), o que pode indicar outra mão redacional. </span>"
+    },
+    {
+      "ref_id": "fn34-34825",
+      "number": 34,
+      "text": "“Os reis” (hammelek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">Os reis</a>” (<em>hammelek</em>). </span>"
+    },
+    {
+      "ref_id": "fn35-34825",
+      "number": 35,
+      "text": "“Reis” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Reis</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn36-34825",
+      "number": 36,
+      "text": "“Ouve ele” (shm’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/AAAAZ\">Ouve ele</a>” (<em>shm’</em>). </span>"
+    },
+    {
+      "ref_id": "fn37-34825",
+      "number": 37,
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn38-34825",
       "number": 38,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn39-34825",
       "number": 39,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+      "text": "“Descascados de” (hsp). Cf. Gênesis 30,37.",
+      "raw_html": "<span>“Descascados de” (<em>hsp</em>). Cf. Gênesis 30,37. </span>"
     },
     {
       "ref_id": "fn40-34825",
@@ -3263,264 +3258,174 @@
     {
       "ref_id": "fn41-34825",
       "number": 41,
-      "text": "“‘Elohim” aqui poderia ser tratado tanto quanto plural quanto singular, porque não há nenhuma marca objetiva o número da atualização. Todavia, à luz do v. 28, parece correto – se estamos diante do mesmo autor, nos dois casos – que a referência é ao “deus” dos israelitas. Logo, a retórica pressupõe tratar-se de Yahweh, não de “deuses” no plural. Todavia, lá usa-se o termo ‘amaqim (“vales”), e não o termo mishur (“planalto”), o que pode indicar outra mão redacional.",
-      "raw_html": "<span>“<em>‘Elohim</em>” aqui poderia ser tratado tanto quanto plural quanto singular, porque não há nenhuma marca objetiva o número da atualização. Todavia, à luz do v. 28, parece correto – se estamos diante do mesmo autor, nos dois casos – que a referência é ao “deus” dos israelitas. Logo, a retórica pressupõe tratar-se de Yahweh, não de “deuses” no plural. Todavia, lá usa-se o termo <em>‘amaqim </em>(“vales”), e não o termo <em>mishur </em>(“planalto”), o que pode indicar outra mão redacional. </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn42-34825",
       "number": 42,
-      "text": "“Os reis” (hammelek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">Os reis</a>” (<em>hammelek</em>). </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn43-34825",
       "number": 43,
-      "text": "“Reis” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Reis</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn44-34825",
-      "number": 44,
-      "text": "“Ouve ele” (shm’).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/AAAAZ\">Ouve ele</a>” (<em>shm’</em>). </span>"
-    },
-    {
-      "ref_id": "fn45-34825",
-      "number": 45,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn46-34825",
-      "number": 46,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn47-34825",
-      "number": 47,
-      "text": "“Descascados de” (hsp). Cf. Gênesis 30,37.",
-      "raw_html": "<span>“Descascados de” (<em>hsp</em>). Cf. Gênesis 30,37. </span>"
-    },
-    {
-      "ref_id": "fn48-34825",
-      "number": 48,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn49-34825",
-      "number": 49,
-      "text": "“Dias” (yamim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0802\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0802\" rel=\"noopener\" target=\"_blank\">Dias</a>” (<em>yamim</em>). </span>"
-    },
-    {
-      "ref_id": "fn50-34825",
-      "number": 50,
-      "text": "“Dias” (yom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dias</a>” (<em>yom</em>). </span>"
-    },
-    {
-      "ref_id": "fn51-34825",
-      "number": 51,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn52-34825",
-      "number": 52,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn53-34825",
-      "number": 53,
-      "text": "“Dia” (yom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
-    },
-    {
-      "ref_id": "fn54-34825",
-      "number": 54,
-      "text": "“Dia” (yom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
-    },
-    {
-      "ref_id": "fn55-34825",
-      "number": 55,
       "text": "“Em dia um” (beyom ‘ehad). Aqui, “num so dia”, “de uma vez só”.",
       "raw_html": "<span>“Em dia um” (<em>beyom ‘ehad</em>). Aqui, “num so dia”, “de uma vez só”. </span>"
     },
     {
-      "ref_id": "fn56-34825",
-      "number": 56,
+      "ref_id": "fn44-34825",
+      "number": 44,
       "text": "“Vinte. E sete. Milhar. Homem” (‘esrim weshib’ah ‘elep ‘ish). “Vinte e sete mil homens”.",
       "raw_html": "<span>“Vinte. E sete. Milhar. Homem” (<em>‘esrim weshib’ah ‘elep ‘ish</em>). “Vinte e sete mil homens”. </span>"
     },
     {
-      "ref_id": "fn57-34825",
-      "number": 57,
+      "ref_id": "fn45-34825",
+      "number": 45,
       "text": "“E vai ele” (wayyabo’).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAJT\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#1022\" rel=\"noopener\" target=\"_blank\">E vai ele</a>” (<em>wayyabo’</em>). </span>"
     },
     {
-      "ref_id": "fn58-34825",
-      "number": 58,
+      "ref_id": "fn46-34825",
+      "number": 46,
       "text": "“Ouvimos nós” (shm’).",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/AAAAZ\">Ouvimos nós</a>” (<em>shm’</em>). </span>"
     },
     {
-      "ref_id": "fn59-34825",
-      "number": 59,
+      "ref_id": "fn47-34825",
+      "number": 47,
       "text": "“Os reis do” (melek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Os reis do</a>” (<em>melek</em>). </span>"
     },
     {
-      "ref_id": "fn60-34825",
-      "number": 60,
+      "ref_id": "fn48-34825",
+      "number": 48,
       "text": "“Reis de” (melek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Reis de</a>” (<em>melek</em>). </span>"
     },
     {
-      "ref_id": "fn61-34825",
-      "number": 61,
+      "ref_id": "fn49-34825",
+      "number": 49,
       "text": "“Sacos” (saq).",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1020\" rel=\"noopener\" target=\"_blank\">Sacos</a>” (<em>saq</em>). </span>"
     },
     {
-      "ref_id": "fn62-34825",
-      "number": 62,
+      "ref_id": "fn50-34825",
+      "number": 50,
       "text": "“O rei de” (melek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
     },
     {
-      "ref_id": "fn63-34825",
-      "number": 63,
+      "ref_id": "fn51-34825",
+      "number": 51,
       "text": "“Sacos” (saq).",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1020\" rel=\"noopener\" target=\"_blank\">Sacos</a>” (<em>saq</em>). </span>"
     },
     {
-      "ref_id": "fn64-34825",
-      "number": 64,
+      "ref_id": "fn52-34825",
+      "number": 52,
       "text": "“O rei de” (melek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
     },
     {
-      "ref_id": "fn65-34825",
-      "number": 65,
-      "text": "Sobre-envio eu” (shlh). Forma intensiva da raiz. “Despeço eu",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Sobre-envio eu</a>” (<em>shlh</em>). Forma intensiva da raiz. “Despeço eu” </span>"
-    },
-    {
-      "ref_id": "fn66-34825",
-      "number": 66,
-      "text": "“Sobre-envia ele” (shlh). Forma intensiva da raiz. “Despede ele”.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Sobre-envia ele</a>” (<em>shlh</em>). Forma intensiva da raiz. “Despede ele”. </span>"
-    },
-    {
-      "ref_id": "fn67-34825",
-      "number": 67,
+      "ref_id": "fn53-34825",
+      "number": 53,
       "text": "“Ouves tu” (shm’).",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/AAAAZ\">Ouves tu</a>” (<em>shm’</em>). </span>"
     },
     {
-      "ref_id": "fn68-34825",
-      "number": 68,
+      "ref_id": "fn54-34825",
+      "number": 54,
       "text": "“O rei” (hammelek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">O rei</a>” (<em>hammelek</em>). </span>"
+    },
+    {
+      "ref_id": "fn55-34825",
+      "number": 55,
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn56-34825",
+      "number": 56,
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+    },
+    {
+      "ref_id": "fn57-34825",
+      "number": 57,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn58-34825",
+      "number": 58,
+      "text": "“O rei” (hammelek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">O rei</a>” (<em>hammelek</em>). </span>"
+    },
+    {
+      "ref_id": "fn59-34825",
+      "number": 59,
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn60-34825",
+      "number": 60,
+      "text": "“O rei” (hammelek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">O rei</a>” (<em>hammelek</em>). </span>"
+    },
+    {
+      "ref_id": "fn61-34825",
+      "number": 61,
+      "text": "“Rei” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn62-34825",
+      "number": 62,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn63-34825",
+      "number": 63,
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+    },
+    {
+      "ref_id": "fn64-34825",
+      "number": 64,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn65-34825",
+      "number": 65,
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn66-34825",
+      "number": 66,
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
+    },
+    {
+      "ref_id": "fn67-34825",
+      "number": 67,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn68-34825",
+      "number": 68,
+      "text": "“O rei de” (melek).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
     },
     {
       "ref_id": "fn69-34825",
       "number": 69,
-      "text": "“Rei” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn70-34825",
-      "number": 70,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn71-34825",
-      "number": 71,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn72-34825",
-      "number": 72,
-      "text": "“O rei” (hammelek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">O rei</a>” (<em>hammelek</em>). </span>"
-    },
-    {
-      "ref_id": "fn73-34825",
-      "number": 73,
-      "text": "“Rei” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn74-34825",
-      "number": 74,
-      "text": "“O rei” (hammelek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAFA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFA\" rel=\"noopener\" target=\"_blank\">O rei</a>” (<em>hammelek</em>). </span>"
-    },
-    {
-      "ref_id": "fn75-34825",
-      "number": 75,
-      "text": "“Rei” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Rei</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn76-34825",
-      "number": 76,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn77-34825",
-      "number": 77,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
-    },
-    {
-      "ref_id": "fn78-34825",
-      "number": 78,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn79-34825",
-      "number": 79,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn80-34825",
-      "number": 80,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn81-34825",
-      "number": 81,
-      "text": "Sobre-envias tu” (shlh). Forma intensiva da raiz. “Despedes tu",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAII\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAII\" rel=\"noopener\" target=\"_blank\">Sobre-envias tu</a>” (<em>shlh</em>). Forma intensiva da raiz. “Despedes tu” </span>"
-    },
-    {
-      "ref_id": "fn82-34825",
-      "number": 82,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn83-34825",
-      "number": 83,
-      "text": "“O rei de” (melek).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">O rei de</a>” (<em>melek</em>). </span>"
-    },
-    {
-      "ref_id": "fn84-34825",
-      "number": 84,
       "text": "“E vai ele” (wayyabo’).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAJT\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#1022\" rel=\"noopener\" target=\"_blank\">E vai ele</a>” (<em>wayyabo’</em>). </span>"
     }
