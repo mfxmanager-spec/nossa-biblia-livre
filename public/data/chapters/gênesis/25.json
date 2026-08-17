@@ -1208,7 +1208,7 @@
     },
     {
       "number": 32,
-      "text": "E diz ‘Esav. Eis. Eu estou andador para morrer. E para que esse para mim? Primogenitura.",
+      "text": "E diz ‘Esav. Eis. Eu. Andador. Para morrer. E para que esse para mim? Primogenitura.",
       "lines": [
         {
           "line_index": 0,
@@ -1222,16 +1222,26 @@
         },
         {
           "line_index": 2,
-          "text": "Eu estou andador para morrer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Eu estou andador para morrer<a name=\"rf126-2388\"></a><sup><a href=\"#fn126-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>.</p>"
+          "text": "Eu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Eu.</p>"
         },
         {
           "line_index": 3,
+          "text": "Andador.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Andador.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Para morrer.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para morrer<a name=\"rf126-2388\"></a><sup><a href=\"#fn126-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "E para que esse para mim?",
           "raw_html": "<p class=\"wp-block-paragraph\">E para que esse para mim<a name=\"rf127-2388\"></a><sup><a href=\"#fn127-2388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>?</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
           "text": "Primogenitura.",
           "raw_html": "<p class=\"wp-block-paragraph\">Primogenitura.</p>"
         }
@@ -2059,8 +2069,8 @@
     {
       "ref_id": "fn126-2388",
       "number": 126,
-      "text": "“Para morrer” (lamut). Primeira de 33 ocorrências. Cf. Gênesis 25,32; Josué 2,14.",
-      "raw_html": "<span>“Para morrer” (<em>lamut</em>). Primeira de 33 ocorrências. Cf. Gênesis 25,32; Josué 2,14. </span>"
+      "text": "“Para morrer” (lamut). Primeira de 21 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1034\" rel=\"noopener\" target=\"_blank\">Para morrer</a>” (<em>lamut</em>). Primeira de 21 ocorrências. </span>"
     },
     {
       "ref_id": "fn127-2388",

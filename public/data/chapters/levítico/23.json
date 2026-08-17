@@ -528,7 +528,7 @@
     },
     {
       "number": 17,
-      "text": "Desdeos assentamentosde vós. Fazeis ir vóspão de manejo. Dois. Dois de décimos. Sêmola. Eles serão. Levedado. Eles são cozinhados. Primários para Yahweh.",
+      "text": "Desdeos assentamentosde vós. Fazeis ir vós. Pão de manejadura. Duas. Dois de décimos. Sêmola. Eles serão. Levedado. Eles são cozinhados. Primários para Yahweh.",
       "lines": [
         {
           "line_index": 0,
@@ -537,41 +537,46 @@
         },
         {
           "line_index": 1,
-          "text": "Fazeis ir vóspão de manejo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fazeis ir vós<a name=\"rf141-9343\"></a><sup><a href=\"#fn141-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>pão de manejo<a name=\"rf142-9343\"></a><sup><a href=\"#fn142-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup><a name=\"rf143-9343\"></a><sup><a href=\"#fn143-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
+          "text": "Fazeis ir vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Fazeis ir vós<a name=\"rf141-9343\"></a><sup><a href=\"#fn141-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "Dois.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dois<a name=\"rf144-9343\"></a><sup><a href=\"#fn144-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>. </p>"
+          "text": "Pão de manejadura.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Pão de manejadura<a name=\"rf142-9343\"></a><sup><a href=\"#fn142-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup><a name=\"rf143-9343\"></a><sup><a href=\"#fn143-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
         },
         {
           "line_index": 3,
+          "text": "Duas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Duas<a name=\"rf144-9343\"></a><sup><a href=\"#fn144-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
           "text": "Dois de décimos.",
           "raw_html": "<p class=\"wp-block-paragraph\">Dois de<a name=\"rf145-9343\"></a><sup><a href=\"#fn145-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup> décimos<a name=\"rf146-9343\"></a><sup><a href=\"#fn146-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Sêmola.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sêmola<a name=\"rf147-9343\"></a><sup><a href=\"#fn147-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Eles serão.",
           "raw_html": "<p class=\"wp-block-paragraph\">Eles serão<a name=\"rf148-9343\"></a><sup><a href=\"#fn148-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Levedado.",
           "raw_html": "<p class=\"wp-block-paragraph\">Levedado<a name=\"rf149-9343\"></a><sup><a href=\"#fn149-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "Eles são cozinhados.",
           "raw_html": "<p class=\"wp-block-paragraph\">Eles são cozinhados<a name=\"rf150-9343\"></a><sup><a href=\"#fn150-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "Primários para Yahweh.",
           "raw_html": "<p class=\"wp-block-paragraph\">Primários<a name=\"rf151-9343\"></a><sup><a href=\"#fn151-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup> para Yahweh<a name=\"rf152-9343\"></a><sup><a href=\"#fn152-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>.</p>"
         }
@@ -2405,20 +2410,20 @@
     {
       "ref_id": "fn142-9343",
       "number": 142,
-      "text": "“Pão de manejo” (lehem tenupah). Somente aqui.",
-      "raw_html": "<span>“Pão de manejo” (<em>lehem tenupah</em>). Somente aqui. </span>"
+      "text": "“Pão de manejadura” (lehem tenupah). Somente aqui.",
+      "raw_html": "<span>“Pão de manejadura” (<em>lehem tenupah</em>). Somente aqui. </span>"
     },
     {
       "ref_id": "fn143-9343",
       "number": 143,
-      "text": "“Manejo” (tenupah). Cf. v. 15.",
-      "raw_html": "<span>“Manejo” (<em>tenupah</em>). Cf. v. 15. </span>"
+      "text": "“Manejadura” (tenupah). Cf. v. 15.",
+      "raw_html": "<span>“Manejadura” (<em>tenupah</em>). Cf. v. 15. </span>"
     },
     {
       "ref_id": "fn144-9343",
       "number": 144,
-      "text": "“Dois” (shettaim). Cf. Gênesis 4,19; Êxodo 12,7; Levítico 3,4. Cf. v. 13.",
-      "raw_html": "<span>“Dois” (<em>shettaim</em>). Cf. Gênesis 4,19; Êxodo 12,7; Levítico 3,4. Cf. v. 13. </span>"
+      "text": "“Duas” (shetayim). O termo shetayim (“duas”) deve referir-se ao termo tenupah (“manejadura”). porque ambos são femininos.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1049\" rel=\"noopener\" target=\"_blank\">Duas</a>” (<em>shetayim</em>). O termo <em>shetayim</em> (“duas”) deve referir-se ao termo <em>tenupah</em> (“manejadura”). porque ambos são femininos. </span>"
     },
     {
       "ref_id": "fn145-9343",

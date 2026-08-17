@@ -243,23 +243,38 @@
     },
     {
       "number": 7,
-      "text": "E tu farás cortinas de mohaírespara a tendasobre o estabelecimento. Onzecortinas tu as farás.",
+      "text": "E tu farás cortinas de mohaírespara a tenda. Sobre o estabelecimento. Onze cortinas. Fazes tu. Eles.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E tu farás cortinas de mohaírespara a tendasobre o estabelecimento.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E tu farás cortinas de mohaíres<a name=\"rf40-6018\"></a><sup><a href=\"#fn40-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>para a tenda<a name=\"rf41-6018\"></a><sup><a href=\"#fn41-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup><a name=\"rf42-6018\"></a><sup><a href=\"#fn42-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>sobre o estabelecimento<a name=\"rf43-6018\"></a><sup><a href=\"#fn43-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup><a name=\"rf44-6018\"></a><sup><a href=\"#fn44-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
+          "text": "E tu farás cortinas de mohaírespara a tenda.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E tu farás cortinas de mohaíres<a name=\"rf40-6018\"></a><sup><a href=\"#fn40-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>para a tenda<a name=\"rf41-6018\"></a><sup><a href=\"#fn41-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup><a name=\"rf42-6018\"></a><sup><a href=\"#fn42-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
         },
         {
           "line_index": 1,
-          "text": "Onzecortinas tu as farás.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Onze<a name=\"rf45-6018\"></a><sup><a href=\"#fn45-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>cortinas tu as farás. </p>"
+          "text": "Sobre o estabelecimento.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o estabelecimento<a name=\"rf43-6018\"></a><sup><a href=\"#fn43-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup><a name=\"rf44-6018\"></a><sup><a href=\"#fn44-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Onze cortinas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Onze<a name=\"rf45-6018\"></a><sup><a href=\"#fn45-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup> cortinas.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "Fazes tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Fazes tu.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Eles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Eles.</p>"
         }
       ]
     },
     {
       "number": 8,
-      "text": "O comprimento da cortina uma. Trinta no antebraço. E largura. Quatro no antebraço a cortina uma. Medida uma para onzecortinas.",
+      "text": "O comprimento da cortina uma. Trinta no antebraço. E largura. Quatro no antebraço a cortina uma. Medida uma. Para onze cortinas.",
       "lines": [
         {
           "line_index": 0,
@@ -283,8 +298,13 @@
         },
         {
           "line_index": 4,
-          "text": "Medida uma para onzecortinas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Medida uma para onze<a name=\"rf47-6018\"></a><sup><a href=\"#fn47-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>cortinas. </p>"
+          "text": "Medida uma.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Medida uma.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Para onze cortinas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para onze<a name=\"rf47-6018\"></a><sup><a href=\"#fn47-6018\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup> cortinas.</p>"
         }
       ]
     },
@@ -1421,8 +1441,8 @@
     {
       "ref_id": "fn45-6018",
       "number": 45,
-      "text": "“Onze” (‘ashtte-‘esreh). É uma quebra do padrão de construção de numerais até aqui identificado. Em outras passagens, “onze” se escreve com o modo padrão: ‘ahad ‘asar (“um dez”. Cf. Deuteronômio 1,2). Primeira de 6 ocorrências.",
-      "raw_html": "<span>“Onze” (<em>‘ashtte-‘esreh</em>). É uma quebra do padrão de construção de numerais até aqui identificado. Em outras passagens, “onze” se escreve com o modo padrão: <em>‘ahad ‘asar</em> (“um dez”. Cf. Deuteronômio 1,2). Primeira de 6 ocorrências. </span>"
+      "text": "“Onze” (‘ashte-‘esreh). Talvez se devesse traduzir “um dez”, mantendo assim o padrão de tradução dos numerais de 12 a 19. Parece que a grafia ‘ashte corresponderia a uma antiga forma do numeral “um” (com cognato acádico). Os léxicos recomendam a tradução “onze”. Primeira de 6 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1050\" rel=\"noopener\" target=\"_blank\">Onze</a>” (<em>‘ashte-‘esreh</em>). Talvez se devesse traduzir “um dez”, mantendo assim o padrão de tradução dos numerais de 12 a 19. Parece que a grafia <em>‘ashte</em> corresponderia a uma antiga forma do numeral “um” (com cognato acádico). Os léxicos recomendam a tradução “onze”. Primeira de 6 ocorrências. </span>"
     },
     {
       "ref_id": "fn46-6018",
@@ -1433,8 +1453,8 @@
     {
       "ref_id": "fn47-6018",
       "number": 47,
-      "text": "“Onze”. Cf. v. 7.",
-      "raw_html": "<span>“Onze”. Cf. v. 7. </span>"
+      "text": "“Onze” (‘ashte-‘esreh).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1050\" rel=\"noopener\" target=\"_blank\">Onze</a>” (<em>‘ashte-‘esreh</em>). </span>"
     },
     {
       "ref_id": "fn48-6018",
