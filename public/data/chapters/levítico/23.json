@@ -507,7 +507,7 @@
     },
     {
       "number": 16,
-      "text": "Atédesde o amanhã do sábadosétimo. Arrolaisvós cinquentadia. E fazeis vós aproximaroferenda nova para Yahweh.",
+      "text": "Atédesde o amanhã do sábadosétimo. Arrolais vós. Cinquenta. Dia. E fazeis vós aproximaroferenda nova para Yahweh.",
       "lines": [
         {
           "line_index": 0,
@@ -516,11 +516,21 @@
         },
         {
           "line_index": 1,
-          "text": "Arrolaisvós cinquentadia.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Arrolais<a name=\"rf134-9343\"></a><sup><a href=\"#fn134-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>vós cinquenta<a name=\"rf135-9343\"></a><sup><a href=\"#fn135-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>dia<a name=\"rf136-9343\"></a><sup><a href=\"#fn136-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
+          "text": "Arrolais vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Arrolais<a name=\"rf134-9343\"></a><sup><a href=\"#fn134-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup> vós.</p>"
         },
         {
           "line_index": 2,
+          "text": "Cinquenta.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Cinquenta<a name=\"rf135-9343\"></a><sup><a href=\"#fn135-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "Dia.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Dia<a name=\"rf136-9343\"></a><sup><a href=\"#fn136-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
           "text": "E fazeis vós aproximaroferenda nova para Yahweh.",
           "raw_html": "<p class=\"wp-block-paragraph\">E fazeis vós aproximar<a name=\"rf137-9343\"></a><sup><a href=\"#fn137-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>oferenda nova para Yahweh<a name=\"rf138-9343\"></a><sup><a href=\"#fn138-9343\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup>.</p>"
         }
@@ -2368,8 +2378,8 @@
     {
       "ref_id": "fn135-9343",
       "number": 135,
-      "text": "“Cinquenta” (hamishshim). Cf. Gênesis 6,15; 7,24; 8,3; 18,24.26.28; Êxodo 18,21.25; 26,5.6.10.11; 27,12.13.18; 30,23; 36,12.13.17.18; 38,12.13.",
-      "raw_html": "<span>“Cinquenta” (<em>hamishshim</em>). Cf. Gênesis 6,15; 7,24; 8,3; 18,24.26.28; Êxodo 18,21.25; 26,5.6.10.11; 27,12.13.18; 30,23; 36,12.13.17.18; 38,12.13. </span>"
+      "text": "“Cinquenta” (hamishshim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAALD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALD\" rel=\"noopener\" target=\"_blank\">Cinquenta</a>” (<em>hamishshim</em>). </span>"
     },
     {
       "ref_id": "fn136-9343",

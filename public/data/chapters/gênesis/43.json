@@ -1460,7 +1460,7 @@
     },
     {
       "number": 34,
-      "text": "E levanta ele as porções. Desde com as faces dele. A eles. E multiplica ele. A porção de Binyamin. Desde as porções do total delescinco mãos. E bebem eles. E embriagam eles. Com ele.",
+      "text": "E levanta ele as porções. Desde com as faces dele. A eles. E multiplica ele. A porção de Binyamin. Desde as porções do total deles. Cinco mãos. E bebem eles. E embriagam eles. Com ele.",
       "lines": [
         {
           "line_index": 0,
@@ -1489,23 +1489,28 @@
         },
         {
           "line_index": 5,
-          "text": "Desde as porções do total delescinco mãos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde as porções do total deles<a name=\"rf112-3359\"></a><sup><a href=\"#fn112-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup><a name=\"rf113-3359\"></a><sup><a href=\"#fn113-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>cinco mãos.</p>"
+          "text": "Desde as porções do total deles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde as porções do total deles<a name=\"rf112-3359\"></a><sup><a href=\"#fn112-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup><a name=\"rf113-3359\"></a><sup><a href=\"#fn113-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
         },
         {
           "line_index": 6,
+          "text": "Cinco mãos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Cinco<a name=\"rf114-3359\"></a><sup><a href=\"#fn114-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup> mãos.</p>"
+        },
+        {
+          "line_index": 7,
           "text": "E bebem eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E bebem eles.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "E embriagam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E embriagam eles<a name=\"rf114-3359\"></a><sup><a href=\"#fn114-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E embriagam eles<a name=\"rf115-3359\"></a><sup><a href=\"#fn115-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "Com ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Com ele<a name=\"rf115-3359\"></a><sup><a href=\"#fn115-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Com ele<a name=\"rf116-3359\"></a><sup><a href=\"#fn116-3359\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>.</p>"
         }
       ]
     }
@@ -2192,12 +2197,18 @@
     {
       "ref_id": "fn114-3359",
       "number": 114,
-      "text": "“Embriagam” (shkr). Cf. Gênesis 9,21.",
-      "raw_html": "<span>“Embriagam” (<em>shkr</em>). Cf. Gênesis 9,21. </span>"
+      "text": "“Cinco” (hamesh).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1055\" rel=\"noopener\" target=\"_blank\">Cinco</a>” (<em>hamesh</em>). </span>"
     },
     {
       "ref_id": "fn115-3359",
       "number": 115,
+      "text": "“Embriagam” (shkr). Cf. Gênesis 9,21.",
+      "raw_html": "<span>“Embriagam” (<em>shkr</em>). Cf. Gênesis 9,21. </span>"
+    },
+    {
+      "ref_id": "fn116-3359",
+      "number": 116,
       "text": "“Com ele” (‘immo).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHB\" rel=\"noreferrer noopener\" target=\"_blank\">Com ele</a>” (<em>‘immo</em>). </span>"
     }

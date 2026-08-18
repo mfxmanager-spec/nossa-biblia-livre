@@ -1620,7 +1620,7 @@
         {
           "line_index": 6,
           "text": "Em cinquenta.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Em cinquenta.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Em cinquenta<a name=\"rf208-32188\"></a><sup><a href=\"#fn208-32188\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -1635,7 +1635,7 @@
         {
           "line_index": 9,
           "text": "Para o total dos reis dos hittim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o total dos<a name=\"rf208-32188\"></a><sup><a href=\"#fn208-32188\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup> reis dos hittim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o total dos<a name=\"rf209-32188\"></a><sup><a href=\"#fn209-32188\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 209\">209</a></sup> reis dos hittim.</p>"
         },
         {
           "line_index": 10,
@@ -2901,6 +2901,12 @@
     {
       "ref_id": "fn208-32188",
       "number": 208,
+      "text": "“Cinquenta” (hamishshim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAALD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALD\" rel=\"noopener\" target=\"_blank\">Cinquenta</a>” (<em>hamishshim</em>). </span>"
+    },
+    {
+      "ref_id": "fn209-32188",
+      "number": 209,
       "text": "“O total dos” (kol).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAJD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJD\" rel=\"noopener\" target=\"_blank\">O total dos</a>” (<em>kol</em>). </span>"
     }

@@ -1110,27 +1110,37 @@
     },
     {
       "number": 34,
-      "text": "E que faça faraó. E que faça visitar visitadoressobre a terra. E ele quinte a terra de Mitzrayim. Nos sete anos da saciedade.",
+      "text": "E faz par’oh. E faz ele visitar. Visitadores. Sobre a terra. E quinte ele a terra de Mitzrayim. Nas sete mudanças da saciedade.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E que faça faraó.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E que faça faraó. </p>"
+          "text": "E faz par’oh.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E faz <em>par’oh</em>.</p>"
         },
         {
           "line_index": 1,
-          "text": "E que faça visitar visitadoressobre a terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E que faça visitar<a name=\"rf114-3204\"></a><sup><a href=\"#fn114-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup> visitadores<a name=\"rf115-3204\"></a><sup><a href=\"#fn115-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>sobre a terra.</p>"
+          "text": "E faz ele visitar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele visitar<a name=\"rf114-3204\"></a><sup><a href=\"#fn114-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "E ele quinte a terra de Mitzrayim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele<a name=\"rf116-3204\"></a><sup><a href=\"#fn116-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup> quinte<a name=\"rf117-3204\"></a><sup><a href=\"#fn117-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup> a terra de Mitzrayim.</p>"
+          "text": "Visitadores.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Visitadores<a name=\"rf115-3204\"></a><sup><a href=\"#fn115-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "Nos sete anos da saciedade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nos sete anos da saciedade.</p>"
+          "text": "Sobre a terra.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre a terra.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "E quinte ele a terra de Mitzrayim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E<a name=\"rf116-3204\"></a><sup><a href=\"#fn116-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup> quinte ele<a name=\"rf117-3204\"></a><sup><a href=\"#fn117-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup> a terra de Mitzrayim.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Nas sete mudanças da saciedade.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Nas sete mudanças da saciedade.</p>"
         }
       ]
     },
@@ -2628,8 +2638,8 @@
     {
       "ref_id": "fn117-3204",
       "number": 117,
-      "text": "“Quinte” traduz a forma verbal intensiva da raiz  (hmsh). De “quintar”, recolher a quinta parte. Nessa forma, apenas aqui. Para a forma simples da raiz, cf. Êxodo 13,18.",
-      "raw_html": "<span>“Quinte” traduz a forma verbal intensiva da raiz  (<em>hmsh</em>). De “quintar”, recolher a quinta parte. Nessa forma, apenas aqui. Para a forma simples da raiz, cf. Êxodo 13,18. </span>"
+      "text": "“Quinte” traduz a forma verbal intensiva da raiz (hmsh). De “quintar”, recolher a quinta parte. Nessa forma, apenas aqui. Para a forma simples da raiz, cf. Êxodo 13,18.",
+      "raw_html": "<span>“Quinte” traduz a forma verbal intensiva da raiz (<em>hmsh</em>). De “quintar”, recolher a quinta parte. Nessa forma, apenas aqui. Para a forma simples da raiz, cf. Êxodo 13,18. </span>"
     },
     {
       "ref_id": "fn118-3204",

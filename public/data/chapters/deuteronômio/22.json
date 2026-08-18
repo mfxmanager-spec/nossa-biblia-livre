@@ -1075,7 +1075,7 @@
     },
     {
       "number": 29,
-      "text": "E dá o homem deitador. Com ela. Para o pai da moça. Cinco prata. E para ele (“E para ele” (welo). Cf. Gênesis 49,10; Deuteronômio 1,36; 19,6; 22,19.29; 1 Samuel 1,2; 2,3; 9,2; 17,2; 25,2.)). Está ela. Para mulher. Debaixo que oprime ele ela. Não está capaz ele. O despedir dela. O total dos dias dele.",
+      "text": "E dá o homem deitador. Com ela. Para o pai da moça. Cinquenta. Prata. E para ele (“E para ele” (welo). Cf. Gênesis 49,10; Deuteronômio 1,36; 19,6; 22,19.29; 1 Samuel 1,2; 2,3; 9,2; 17,2; 25,2.)). Está ela. Para mulher. Debaixo que oprime ele ela. Não está capaz ele. O despedir dela. O total dos dias dele.",
       "lines": [
         {
           "line_index": 0,
@@ -1094,43 +1094,48 @@
         },
         {
           "line_index": 3,
-          "text": "Cinco prata.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cinco prata<a name=\"rf333-15321\"></a><sup><a href=\"#fn333-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 333\">333</a></sup>.</p>"
+          "text": "Cinquenta.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Cinquenta<a name=\"rf333-15321\"></a><sup><a href=\"#fn333-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 333\">333</a></sup>.</p>"
         },
         {
           "line_index": 4,
+          "text": "Prata.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Prata<a name=\"rf334-15321\"></a><sup><a href=\"#fn334-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 334\">334</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "E para ele (“E para ele” (welo). Cf. Gênesis 49,10; Deuteronômio 1,36; 19,6; 22,19.29; 1 Samuel 1,2; 2,3; 9,2; 17,2; 25,2.)).",
           "raw_html": "<p class=\"wp-block-paragraph\">E para ele (“E para ele” (<em>welo</em>). Cf. Gênesis 49,10; Deuteronômio 1,36; 19,6; 22,19.29; 1 Samuel 1,2; 2,3; 9,2; 17,2; 25,2.)).</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Está ela.",
           "raw_html": "<p class=\"wp-block-paragraph\">Está ela.</p>"
         },
         {
-          "line_index": 6,
-          "text": "Para mulher.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para mulher<a name=\"rf334-15321\"></a><sup><a href=\"#fn334-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 334\">334</a></sup><a name=\"rf335-15321\"></a><sup><a href=\"#fn335-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 335\">335</a></sup>.</p>"
-        },
-        {
           "line_index": 7,
-          "text": "Debaixo que oprime ele ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Debaixo que oprime ele<a name=\"rf336-15321\"></a><sup><a href=\"#fn336-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 336\">336</a></sup> ela.</p>"
+          "text": "Para mulher.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para mulher<a name=\"rf335-15321\"></a><sup><a href=\"#fn335-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 335\">335</a></sup><a name=\"rf336-15321\"></a><sup><a href=\"#fn336-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 336\">336</a></sup>.</p>"
         },
         {
           "line_index": 8,
-          "text": "Não está capaz ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não está capaz ele<a name=\"rf337-15321\"></a><sup><a href=\"#fn337-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 337\">337</a></sup>.</p>"
+          "text": "Debaixo que oprime ele ela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Debaixo que oprime ele<a name=\"rf337-15321\"></a><sup><a href=\"#fn337-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 337\">337</a></sup> ela.</p>"
         },
         {
           "line_index": 9,
-          "text": "O despedir dela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O despedir dela<a name=\"rf338-15321\"></a><sup><a href=\"#fn338-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 338\">338</a></sup>.</p>"
+          "text": "Não está capaz ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não está capaz ele<a name=\"rf338-15321\"></a><sup><a href=\"#fn338-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 338\">338</a></sup>.</p>"
         },
         {
           "line_index": 10,
+          "text": "O despedir dela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O despedir dela<a name=\"rf339-15321\"></a><sup><a href=\"#fn339-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 339\">339</a></sup>.</p>"
+        },
+        {
+          "line_index": 11,
           "text": "O total dos dias dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O total dos dias<a name=\"rf339-15321\"></a><sup><a href=\"#fn339-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 339\">339</a></sup> dele<a name=\"rf340-15321\"></a><sup><a href=\"#fn340-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 340\">340</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O total dos dias<a name=\"rf340-15321\"></a><sup><a href=\"#fn340-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 340\">340</a></sup> dele<a name=\"rf341-15321\"></a><sup><a href=\"#fn341-15321\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 341\">341</a></sup>.</p>"
         }
       ]
     }
@@ -3131,48 +3136,54 @@
     {
       "ref_id": "fn333-15321",
       "number": 333,
-      "text": "“Prata” (kesep). Cf. Gênesis 13,2; Deuteronômio 22,19.29.",
-      "raw_html": "<span>“Prata” (<em>kesep</em>). Cf. Gênesis 13,2; Deuteronômio 22,19.29. </span>"
+      "text": "“Cinquenta” (hamishshim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAALD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALD\" rel=\"noopener\" target=\"_blank\">Cinquenta</a>” (<em>hamishshim</em>). </span>"
     },
     {
       "ref_id": "fn334-15321",
       "number": 334,
-      "text": "“E para ele é ela para mulher” (welo-tihyeh le’ishshah). Somente aqui e no v. 29.",
-      "raw_html": "<span>“E para ele é ela para mulher” (<em>welo-tihyeh le’ishshah</em>). Somente aqui e no v. 29. </span>"
+      "text": "“Prata” (kesep). Cf. Gênesis 13,2; Deuteronômio 22,19.29.",
+      "raw_html": "<span>“Prata” (<em>kesep</em>). Cf. Gênesis 13,2; Deuteronômio 22,19.29. </span>"
     },
     {
       "ref_id": "fn335-15321",
       "number": 335,
-      "text": "“Para mulher” (le’ishshah). Cf. Gênesis 2,22; Deuteronômio 22,16.19.29.",
-      "raw_html": "<span>“Para mulher” (<em>le’ishshah</em>). Cf. Gênesis 2,22; Deuteronômio 22,16.19.29. </span>"
+      "text": "“E para ele é ela para mulher” (welo-tihyeh le’ishshah). Somente aqui e no v. 29.",
+      "raw_html": "<span>“E para ele é ela para mulher” (<em>welo-tihyeh le’ishshah</em>). Somente aqui e no v. 29. </span>"
     },
     {
       "ref_id": "fn336-15321",
       "number": 336,
-      "text": "“Que oprimiu ele” (‘asher-‘innah). Somente em Deuteronômio 22,24.29; 2 Samuel 13,22.",
-      "raw_html": "<span>“Que oprimiu ele” (<em>‘asher-‘innah</em>). Somente em Deuteronômio 22,24.29; 2 Samuel 13,22. </span>"
+      "text": "“Para mulher” (le’ishshah). Cf. Gênesis 2,22; Deuteronômio 22,16.19.29.",
+      "raw_html": "<span>“Para mulher” (<em>le’ishshah</em>). Cf. Gênesis 2,22; Deuteronômio 22,16.19.29. </span>"
     },
     {
       "ref_id": "fn337-15321",
       "number": 337,
-      "text": "“Não é capaz ele” (lo’-yukal). Cf. Gênesis 44,22; Deuteronômio 22,19.29.",
-      "raw_html": "<span>“Não é capaz ele” (<em>lo’-yukal</em>). Cf. Gênesis 44,22; Deuteronômio 22,19.29. </span>"
+      "text": "“Que oprimiu ele” (‘asher-‘innah). Somente em Deuteronômio 22,24.29; 2 Samuel 13,22.",
+      "raw_html": "<span>“Que oprimiu ele” (<em>‘asher-‘innah</em>). Somente em Deuteronômio 22,24.29; 2 Samuel 13,22. </span>"
     },
     {
       "ref_id": "fn338-15321",
       "number": 338,
-      "text": "“Despedir” (shlh). Forma intensiva infinitiva da raiz. Cf. Gênesis 3,22; Deuteronômio 22,7.19.29.",
-      "raw_html": "<span>“Despedir” (<em>shlh</em>). Forma intensiva infinitiva da raiz. Cf. Gênesis 3,22; Deuteronômio 22,7.19.29. </span>"
+      "text": "“Não é capaz ele” (lo’-yukal). Cf. Gênesis 44,22; Deuteronômio 22,19.29.",
+      "raw_html": "<span>“Não é capaz ele” (<em>lo’-yukal</em>). Cf. Gênesis 44,22; Deuteronômio 22,19.29. </span>"
     },
     {
       "ref_id": "fn339-15321",
       "number": 339,
-      "text": "“Dias” (yamim). Cf. Gênesis 1,5; Deuteronômio 22,7.19.29.",
-      "raw_html": "<span>“Dias” (<em>yamim</em>). Cf. Gênesis 1,5; Deuteronômio 22,7.19.29. </span>"
+      "text": "“Despedir” (shlh). Forma intensiva infinitiva da raiz. Cf. Gênesis 3,22; Deuteronômio 22,7.19.29.",
+      "raw_html": "<span>“Despedir” (<em>shlh</em>). Forma intensiva infinitiva da raiz. Cf. Gênesis 3,22; Deuteronômio 22,7.19.29. </span>"
     },
     {
       "ref_id": "fn340-15321",
       "number": 340,
+      "text": "“Dias” (yamim). Cf. Gênesis 1,5; Deuteronômio 22,7.19.29.",
+      "raw_html": "<span>“Dias” (<em>yamim</em>). Cf. Gênesis 1,5; Deuteronômio 22,7.19.29. </span>"
+    },
+    {
+      "ref_id": "fn341-15321",
+      "number": 341,
       "text": "“O total dos dias dele” (kol-yamayw). Primeira de 10 ocorrências. Cf. Deuteronômio 22,19.29.",
       "raw_html": "<span>“O total dos dias dele” (<em>kol-yamayw</em>). Primeira de 10 ocorrências. Cf. Deuteronômio 22,19.29. </span>"
     }
