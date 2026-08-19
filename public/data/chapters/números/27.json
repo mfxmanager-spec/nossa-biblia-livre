@@ -7,7 +7,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Aproximam-seas filhas de Tselaphad. O filhode Heper O filho de Gil’ad. O filho de Mikar. O filho de Menashsheh. Para os clãs deMenashsheh. Filho de Yosep. E esses são os nomesdas filhas dele. Mahlah. No’ah. E Hoglah. E Milkah. E Tirtsah.",
+      "text": "Aproximam-seas filhas de Tselaphad. O filhode Heper O filho de Gil’ad. O filho de Mikar. O filho de Menashsheh. Para os clãs deMenashsheh. Filho de Yosep. E esses. Os nomes das filhas dele. Mahlah. No’ah. E Hoglah. E Milkah. E Tirtsah.",
       "lines": [
         {
           "line_index": 0,
@@ -46,31 +46,36 @@
         },
         {
           "line_index": 7,
-          "text": "E esses são os nomesdas filhas dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E esses são os nomes<a name=\"rf10-12671\"></a><sup><a href=\"#fn10-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup>das filhas dele<a name=\"rf11-12671\"></a><sup><a href=\"#fn11-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup>.</p>"
+          "text": "E esses.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E esses.</p>"
         },
         {
           "line_index": 8,
+          "text": "Os nomes das filhas dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Os nomes das<a name=\"rf10-12671\"></a><sup><a href=\"#fn10-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup> filhas dele<a name=\"rf11-12671\"></a><sup><a href=\"#fn11-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup>.</p>"
+        },
+        {
+          "line_index": 9,
           "text": "Mahlah.",
           "raw_html": "<p class=\"wp-block-paragraph\">Mahlah<a name=\"rf12-12671\"></a><sup><a href=\"#fn12-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup>.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "No’ah.",
           "raw_html": "<p class=\"wp-block-paragraph\">No’ah<a name=\"rf13-12671\"></a><sup><a href=\"#fn13-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup>.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "E Hoglah.",
           "raw_html": "<p class=\"wp-block-paragraph\">E Hoglah<a name=\"rf14-12671\"></a><sup><a href=\"#fn14-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup>.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "E Milkah.",
           "raw_html": "<p class=\"wp-block-paragraph\">E Milkah<a name=\"rf15-12671\"></a><sup><a href=\"#fn15-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
         },
         {
-          "line_index": 12,
+          "line_index": 13,
           "text": "E Tirtsah.",
           "raw_html": "<p class=\"wp-block-paragraph\">E Tirtsah<a name=\"rf16-12671\"></a><sup><a href=\"#fn16-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup><a name=\"rf17-12671\"></a><sup><a href=\"#fn17-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup>.</p>"
         }
@@ -190,30 +195,40 @@
     },
     {
       "number": 4,
-      "text": "Para queé diminuídoo nomedo pai de nós. Desde o meio doclã dele? Que não está para elefilho. Dá tu para nóspossessão. No meio dos irmãos dopai de nós.",
+      "text": "Para qual. Diminuído está. O nome pai de nós. Desde o meio doclã dele? Que não está para elefilho. Dá tu para nóspossessão. No meio dos irmãos dopai de nós.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Para queé diminuídoo nomedo pai de nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Para que<a name=\"rf43-12671\"></a><sup><a href=\"#fn43-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>é diminuído<a name=\"rf44-12671\"></a><sup><a href=\"#fn44-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>o nome<a name=\"rf45-12671\"></a><sup><a href=\"#fn45-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>do pai de nós<a name=\"rf46-12671\"></a><sup><a href=\"#fn46-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
+          "text": "Para qual.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> Para qual<a name=\"rf43-12671\"></a><sup><a href=\"#fn43-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
         },
         {
           "line_index": 1,
+          "text": "Diminuído está.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Diminuído está<a name=\"rf44-12671\"></a><sup><a href=\"#fn44-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "O nome pai de nós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome<a name=\"rf45-12671\"></a><sup><a href=\"#fn45-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup> pai de nós<a name=\"rf46-12671\"></a><sup><a href=\"#fn46-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "Desde o meio doclã dele?",
           "raw_html": "<p class=\"wp-block-paragraph\">Desde o meio do<a name=\"rf47-12671\"></a><sup><a href=\"#fn47-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>clã dele<a name=\"rf48-12671\"></a><sup><a href=\"#fn48-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>?</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 4,
           "text": "Que não está para elefilho.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que não está para ele<a name=\"rf49-12671\"></a><sup><a href=\"#fn49-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>filho<a name=\"rf50-12671\"></a><sup><a href=\"#fn50-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 5,
           "text": "Dá tu para nóspossessão.",
           "raw_html": "<p class=\"wp-block-paragraph\">Dá tu para nós<a name=\"rf51-12671\"></a><sup><a href=\"#fn51-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>possessão<a name=\"rf52-12671\"></a><sup><a href=\"#fn52-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
           "text": "No meio dos irmãos dopai de nós.",
           "raw_html": "<p class=\"wp-block-paragraph\">No meio dos irmãos do<a name=\"rf53-12671\"></a><sup><a href=\"#fn53-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>pai de nós<a name=\"rf54-12671\"></a><sup><a href=\"#fn54-12671\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
         }
@@ -867,8 +882,8 @@
     {
       "ref_id": "fn10-12671",
       "number": 10,
-      "text": "“Nomes” (shemot). Cf. Gênesis 2,11.",
-      "raw_html": "<span>“Nomes” (<em>shemot</em>). Cf. Gênesis 2,11. </span>"
+      "text": "“Os nomes das” (shem).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">Os nomes das</a>” (<em>shem</em>). </span>"
     },
     {
       "ref_id": "fn11-12671",
@@ -1077,8 +1092,8 @@
     {
       "ref_id": "fn45-12671",
       "number": 45,
-      "text": "“Nome” (shem). Cf. v. 3.",
-      "raw_html": "<span>“Nome” (<em>shem</em>). Cf. v. 3. </span>"
+      "text": "“O nome do” (shem).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome do</a>” (<em>shem</em>). </span>"
     },
     {
       "ref_id": "fn46-12671",

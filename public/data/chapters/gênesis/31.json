@@ -1954,7 +1954,7 @@
     },
     {
       "number": 48,
-      "text": "E diz Laban. A elevação essa é testemunhante. Entre mim e entre ti. O dia. Sobre assim. Grita ele o nome dele. Gal’ed",
+      "text": "E diz Laban. A elevação essa é testemunhante. Entre mim. E entre ti. O dia. Sobre assim. Grita ele. O nome dele. Gal’ed",
       "lines": [
         {
           "line_index": 0,
@@ -1968,28 +1968,38 @@
         },
         {
           "line_index": 2,
-          "text": "Entre mim e entre ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Entre mim e entre ti.</p>"
+          "text": "Entre mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Entre mim.</p>"
         },
         {
           "line_index": 3,
+          "text": "E entre ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E entre ti.</p>"
+        },
+        {
+          "line_index": 4,
           "text": "O dia.",
           "raw_html": "<p class=\"wp-block-paragraph\">O dia.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Sobre assim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre assim.</p>"
         },
         {
-          "line_index": 5,
-          "text": "Grita ele o nome dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Grita ele o nome dele.</p>"
+          "line_index": 6,
+          "text": "Grita ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Grita ele.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
+          "text": "O nome dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome dele<a name=\"rf140-2718\"></a><sup><a href=\"#fn140-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
+        },
+        {
+          "line_index": 8,
           "text": "Gal’ed",
-          "raw_html": "<p class=\"wp-block-paragraph\">Gal’ed<a name=\"rf140-2718\"></a><sup><a href=\"#fn140-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup> </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Gal’ed<a name=\"rf141-2718\"></a><sup><a href=\"#fn141-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup> </p>"
         }
       ]
     },
@@ -2000,7 +2010,7 @@
         {
           "line_index": 0,
           "text": "E Hammitspah.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E Hammitspah<a name=\"rf141-2718\"></a><sup><a href=\"#fn141-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E Hammitspah<a name=\"rf142-2718\"></a><sup><a href=\"#fn142-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -2020,12 +2030,12 @@
         {
           "line_index": 4,
           "text": "Que ocultados estamos nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que ocultados estamos nós<a name=\"rf142-2718\"></a><sup><a href=\"#fn142-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que ocultados estamos nós<a name=\"rf143-2718\"></a><sup><a href=\"#fn143-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Homem desde o companheiro dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Homem desde o companheiro dele<a name=\"rf143-2718\"></a><sup><a href=\"#fn143-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Homem desde o companheiro dele<a name=\"rf144-2718\"></a><sup><a href=\"#fn144-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
         }
       ]
     },
@@ -2051,7 +2061,7 @@
         {
           "line_index": 3,
           "text": "Não está homem conosco.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não está homem conosco<a name=\"rf144-2718\"></a><sup><a href=\"#fn144-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup><a name=\"rf145-2718\"></a><sup><a href=\"#fn145-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não está homem conosco<a name=\"rf145-2718\"></a><sup><a href=\"#fn145-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup><a name=\"rf146-2718\"></a><sup><a href=\"#fn146-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -2061,7 +2071,7 @@
         {
           "line_index": 5,
           "text": "‘Elohim é testemunhante.",
-          "raw_html": "<p class=\"wp-block-paragraph\">‘Elohim é testemunhante<a name=\"rf146-2718\"></a><sup><a href=\"#fn146-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 146\">146</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">‘Elohim é testemunhante<a name=\"rf147-2718\"></a><sup><a href=\"#fn147-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -2102,7 +2112,7 @@
         {
           "line_index": 5,
           "text": "Que arrojo eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que arrojo<a name=\"rf147-2718\"></a><sup><a href=\"#fn147-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 147\">147</a></sup> eu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que arrojo<a name=\"rf148-2718\"></a><sup><a href=\"#fn148-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup> eu.</p>"
         },
         {
           "line_index": 6,
@@ -2118,7 +2128,7 @@
         {
           "line_index": 0,
           "text": "Testemunhanteé a elevação essa.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Testemunhante<a name=\"rf148-2718\"></a><sup><a href=\"#fn148-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 148\">148</a></sup>é a elevação essa.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Testemunhante<a name=\"rf149-2718\"></a><sup><a href=\"#fn149-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>é a elevação essa.</p>"
         },
         {
           "line_index": 1,
@@ -2143,7 +2153,7 @@
         {
           "line_index": 5,
           "text": "Não passas tua mim esta elevação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não passas tu<a name=\"rf149-2718\"></a><sup><a href=\"#fn149-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 149\">149</a></sup>a mim esta elevação.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não passas tu<a name=\"rf150-2718\"></a><sup><a href=\"#fn150-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>a mim esta elevação.</p>"
         },
         {
           "line_index": 6,
@@ -2153,7 +2163,7 @@
         {
           "line_index": 7,
           "text": "Para maldade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para maldade<a name=\"rf150-2718\"></a><sup><a href=\"#fn150-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 150\">150</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para maldade<a name=\"rf151-2718\"></a><sup><a href=\"#fn151-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>. </p>"
         }
       ]
     },
@@ -2169,17 +2179,17 @@
         {
           "line_index": 1,
           "text": "E o deus de Nahor.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o deus de Nahor<a name=\"rf151-2718\"></a><sup><a href=\"#fn151-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 151\">151</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o deus de Nahor<a name=\"rf152-2718\"></a><sup><a href=\"#fn152-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Julguementre nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Julguem<a name=\"rf152-2718\"></a><sup><a href=\"#fn152-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 152\">152</a></sup>entre nós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Julguem<a name=\"rf153-2718\"></a><sup><a href=\"#fn153-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>entre nós.</p>"
         },
         {
           "line_index": 3,
           "text": "O deus do pai deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O deus do pai deles<a name=\"rf153-2718\"></a><sup><a href=\"#fn153-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 153\">153</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O deus do pai deles<a name=\"rf154-2718\"></a><sup><a href=\"#fn154-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -2194,7 +2204,7 @@
         {
           "line_index": 6,
           "text": "Yitshaq.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Yitshaq<a name=\"rf154-2718\"></a><sup><a href=\"#fn154-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 154\">154</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Yitshaq<a name=\"rf155-2718\"></a><sup><a href=\"#fn155-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup>.</p>"
         }
       ]
     },
@@ -2205,12 +2215,12 @@
         {
           "line_index": 0,
           "text": "E sacrificaYa’aqob.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E sacrifica<a name=\"rf155-2718\"></a><sup><a href=\"#fn155-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 155\">155</a></sup><a name=\"rf156-2718\"></a><sup><a href=\"#fn156-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup>Ya’aqob.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E sacrifica<a name=\"rf156-2718\"></a><sup><a href=\"#fn156-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 156\">156</a></sup><a name=\"rf157-2718\"></a><sup><a href=\"#fn157-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>Ya’aqob.</p>"
         },
         {
           "line_index": 1,
           "text": "Sacrifíciono monte.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sacrifício<a name=\"rf157-2718\"></a><sup><a href=\"#fn157-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 157\">157</a></sup>no monte.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sacrifício<a name=\"rf158-2718\"></a><sup><a href=\"#fn158-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 158\">158</a></sup>no monte.</p>"
         },
         {
           "line_index": 2,
@@ -3073,108 +3083,114 @@
     {
       "ref_id": "fn140-2718",
       "number": 140,
-      "text": "Indício de tradições divergentes? Correção do verso anterior, feita por um escriba?",
-      "raw_html": "<span>Indício de tradições divergentes? Correção do verso anterior, feita por um escriba? </span>"
+      "text": "“O nome de” (shem).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </span>"
     },
     {
       "ref_id": "fn141-2718",
       "number": 141,
-      "text": "A rigor, “a atalaia”. No conjunto, o nome seria, nessa tradição, “a elevação do testemunho e da atalaia”.",
-      "raw_html": "<span>A rigor, “a atalaia”. No conjunto, o nome seria, nessa tradição, “a elevação do testemunho e da atalaia”. </span>"
+      "text": "Indício de tradições divergentes? Correção do verso anterior, feita por um escriba?",
+      "raw_html": "<span>Indício de tradições divergentes? Correção do verso anterior, feita por um escriba? </span>"
     },
     {
       "ref_id": "fn142-2718",
       "number": 142,
-      "text": "“Ocultados estamos nós” (str). Cf. Gênesis 4,14; 31,49; 1 Samuel 26,1.",
-      "raw_html": "<span>“Ocultados estamos nós” (<em>str</em>). Cf. Gênesis 4,14; 31,49; 1 Samuel 26,1. </span>"
+      "text": "A rigor, “a atalaia”. No conjunto, o nome seria, nessa tradição, “a elevação do testemunho e da atalaia”.",
+      "raw_html": "<span>A rigor, “a atalaia”. No conjunto, o nome seria, nessa tradição, “a elevação do testemunho e da atalaia”. </span>"
     },
     {
       "ref_id": "fn143-2718",
       "number": 143,
-      "text": "Idiomatismo: “um do outro”.",
-      "raw_html": "<span>Idiomatismo: “um do outro”. </span>"
+      "text": "“Ocultados estamos nós” (str). Cf. Gênesis 4,14; 31,49; 1 Samuel 26,1.",
+      "raw_html": "<span>“Ocultados estamos nós” (<em>str</em>). Cf. Gênesis 4,14; 31,49; 1 Samuel 26,1. </span>"
     },
     {
       "ref_id": "fn144-2718",
       "number": 144,
-      "text": "“Conosco” (‘immanu). Cf. Gênesis 24,25; 26,29; 31,50; Êxodo 10,26; 20,19; 33,16; Números 10,32; 22,14; Deuteronômio 5,2; 29,14; Josué 24,27; Juízes 6,13; 11,8; 18,19.25; 1 Samuel 5,7; 23,19; 25,7.",
-      "raw_html": "<span>“Conosco” (<em>‘immanu</em>). Cf. Gênesis 24,25; 26,29; 31,50; Êxodo 10,26; 20,19; 33,16; Números 10,32; 22,14; Deuteronômio 5,2; 29,14; Josué 24,27; Juízes 6,13; 11,8; 18,19.25; 1 Samuel 5,7; 23,19; 25,7. </span>"
+      "text": "Idiomatismo: “um do outro”.",
+      "raw_html": "<span>Idiomatismo: “um do outro”. </span>"
     },
     {
       "ref_id": "fn145-2718",
       "number": 145,
-      "text": "Ou seja, sem que nenhum homem seja testemunha.",
-      "raw_html": "<span>Ou seja, sem que nenhum homem seja testemunha. </span>"
+      "text": "“Conosco” (‘immanu). Cf. Gênesis 24,25; 26,29; 31,50; Êxodo 10,26; 20,19; 33,16; Números 10,32; 22,14; Deuteronômio 5,2; 29,14; Josué 24,27; Juízes 6,13; 11,8; 18,19.25; 1 Samuel 5,7; 23,19; 25,7.",
+      "raw_html": "<span>“Conosco” (<em>‘immanu</em>). Cf. Gênesis 24,25; 26,29; 31,50; Êxodo 10,26; 20,19; 33,16; Números 10,32; 22,14; Deuteronômio 5,2; 29,14; Josué 24,27; Juízes 6,13; 11,8; 18,19.25; 1 Samuel 5,7; 23,19; 25,7. </span>"
     },
     {
       "ref_id": "fn146-2718",
       "number": 146,
-      "text": "Cf. v. 44.",
-      "raw_html": "<span>Cf. v. 44. </span>"
+      "text": "Ou seja, sem que nenhum homem seja testemunha.",
+      "raw_html": "<span>Ou seja, sem que nenhum homem seja testemunha. </span>"
     },
     {
       "ref_id": "fn147-2718",
       "number": 147,
-      "text": "“Arrojo” traduz forma verbal da raiz yrh). Segue-se Alonso-Schojel e Koehler-Baumgartner. Parece ser mais uma ideia como a do “lançamento de uma pedra fundamental”. Primeira de 23 ocorrências. Cf. 31,51 (46,28); Êxodo (4,12); 15,4; 19,13; Números 21,30.",
-      "raw_html": "<span>“Arrojo” traduz forma verbal da raiz <em>yrh</em>). Segue-se Alonso-Schojel e Koehler-Baumgartner. Parece ser mais uma ideia como a do “lançamento de uma pedra fundamental”. Primeira de 23 ocorrências. Cf. 31,51 (46,28); Êxodo (4,12); 15,4; 19,13; Números 21,30. </span>"
+      "text": "Cf. v. 44.",
+      "raw_html": "<span>Cf. v. 44. </span>"
     },
     {
       "ref_id": "fn148-2718",
       "number": 148,
-      "text": "Cf. v. 52.",
-      "raw_html": "<span>Cf. v. 52. </span>"
+      "text": "“Arrojo” traduz forma verbal da raiz yrh). Segue-se Alonso-Schojel e Koehler-Baumgartner. Parece ser mais uma ideia como a do “lançamento de uma pedra fundamental”. Primeira de 23 ocorrências. Cf. 31,51 (46,28); Êxodo (4,12); 15,4; 19,13; Números 21,30.",
+      "raw_html": "<span>“Arrojo” traduz forma verbal da raiz <em>yrh</em>). Segue-se Alonso-Schojel e Koehler-Baumgartner. Parece ser mais uma ideia como a do “lançamento de uma pedra fundamental”. Primeira de 23 ocorrências. Cf. 31,51 (46,28); Êxodo (4,12); 15,4; 19,13; Números 21,30. </span>"
     },
     {
       "ref_id": "fn149-2718",
       "number": 149,
-      "text": "“Não passas tu” (lo’-ta’abor). Primeira de 8 ocorrências. Cf. Gênesis 31,52; Levítico 26,6; Números 20,18.20.",
-      "raw_html": "<span>“Não passas tu” (<em>lo’-ta’abor</em>). Primeira de 8 ocorrências. Cf. Gênesis 31,52; Levítico 26,6; Números 20,18.20. </span>"
+      "text": "Cf. v. 52.",
+      "raw_html": "<span>Cf. v. 52. </span>"
     },
     {
       "ref_id": "fn150-2718",
       "number": 150,
-      "text": "“Maldade” (ra’ah). Cf. Gênesis 6,5; 19,19; 26,29.",
-      "raw_html": "<span>“Maldade” (<em>ra’ah</em>). Cf. Gênesis 6,5; 19,19; 26,29. </span>"
+      "text": "“Não passas tu” (lo’-ta’abor). Primeira de 8 ocorrências. Cf. Gênesis 31,52; Levítico 26,6; Números 20,18.20.",
+      "raw_html": "<span>“Não passas tu” (<em>lo’-ta’abor</em>). Primeira de 8 ocorrências. Cf. Gênesis 31,52; Levítico 26,6; Números 20,18.20. </span>"
     },
     {
       "ref_id": "fn151-2718",
       "number": 151,
-      "text": "Não há outra justificativa para a tradução “o deus de” nos dois casos do que o fato de estarmos diante de um texto da Bíblia Hebraica. A expressão poderia ser corretamente traduzida por “os deuses de”. Na sequência, o verbo estará conjugado no plural, logo, “deuses” (mas pode ser o deus de um mais o deus de outro), e haverá referência aos “deuses” do pai deles. Logo, funcionaria perfeitamente a tradução “os deuses de Abraão e os deuses de Nahor”. Todavia, não se trata em nenhum sentido de fato histórico. Trata-se, na melhor das hipóteses, de uma tradição, criada, sem dúvida séculos e séculos após os supostos eventos narrados. O narrador, é dele que se trata, e não nem de Jacó nem de Labão. Por isso me contenho e verto pela tradicional forma: “o deus de Abraão”, mais consoante a verve dos narradores monolátricos pós-exílicos.",
-      "raw_html": "<span>Não há outra justificativa para a tradução “o deus de” nos dois casos do que o fato de estarmos diante de um texto da Bíblia Hebraica. A expressão poderia ser corretamente traduzida por “os deuses de”. Na sequência, o verbo estará conjugado no plural, logo, “deuses” (mas pode ser o deus de um mais o deus de outro), e haverá referência aos “deuses” do pai deles. Logo, funcionaria perfeitamente a tradução “os deuses de Abraão e os deuses de Nahor”. Todavia, não se trata em nenhum sentido de fato histórico. Trata-se, na melhor das hipóteses, de uma tradição, criada, sem dúvida séculos e séculos após os supostos eventos narrados. O narrador, é dele que se trata, e não nem de Jacó nem de Labão. Por isso me contenho e verto pela tradicional forma: “o deus de Abraão”, mais consoante a verve dos narradores monolátricos pós-exílicos. </span>"
+      "text": "“Maldade” (ra’ah). Cf. Gênesis 6,5; 19,19; 26,29.",
+      "raw_html": "<span>“Maldade” (<em>ra’ah</em>). Cf. Gênesis 6,5; 19,19; 26,29. </span>"
     },
     {
       "ref_id": "fn152-2718",
       "number": 152,
-      "text": "A forma plural do verbo, se levada a sério, poderia sugerir que, na narrativa, o deus de Abraão é um e o deus de Nahor é outro. Fossem o mesmo, o verbo estaria no singular. Mas está no plural. Logo, são dois deuses diferentes, pressupõe-se.",
-      "raw_html": "<span>A forma plural do verbo, se levada a sério, poderia sugerir que, na narrativa, o deus de Abraão é um e o deus de Nahor é outro. Fossem o mesmo, o verbo estaria no singular. Mas está no plural. Logo, são dois deuses diferentes, pressupõe-se. </span>"
+      "text": "Não há outra justificativa para a tradução “o deus de” nos dois casos do que o fato de estarmos diante de um texto da Bíblia Hebraica. A expressão poderia ser corretamente traduzida por “os deuses de”. Na sequência, o verbo estará conjugado no plural, logo, “deuses” (mas pode ser o deus de um mais o deus de outro), e haverá referência aos “deuses” do pai deles. Logo, funcionaria perfeitamente a tradução “os deuses de Abraão e os deuses de Nahor”. Todavia, não se trata em nenhum sentido de fato histórico. Trata-se, na melhor das hipóteses, de uma tradição, criada, sem dúvida séculos e séculos após os supostos eventos narrados. O narrador, é dele que se trata, e não nem de Jacó nem de Labão. Por isso me contenho e verto pela tradicional forma: “o deus de Abraão”, mais consoante a verve dos narradores monolátricos pós-exílicos.",
+      "raw_html": "<span>Não há outra justificativa para a tradução “o deus de” nos dois casos do que o fato de estarmos diante de um texto da Bíblia Hebraica. A expressão poderia ser corretamente traduzida por “os deuses de”. Na sequência, o verbo estará conjugado no plural, logo, “deuses” (mas pode ser o deus de um mais o deus de outro), e haverá referência aos “deuses” do pai deles. Logo, funcionaria perfeitamente a tradução “os deuses de Abraão e os deuses de Nahor”. Todavia, não se trata em nenhum sentido de fato histórico. Trata-se, na melhor das hipóteses, de uma tradição, criada, sem dúvida séculos e séculos após os supostos eventos narrados. O narrador, é dele que se trata, e não nem de Jacó nem de Labão. Por isso me contenho e verto pela tradicional forma: “o deus de Abraão”, mais consoante a verve dos narradores monolátricos pós-exílicos. </span>"
     },
     {
       "ref_id": "fn153-2718",
       "number": 153,
-      "text": "“Pai deles”. Para mim, os pai de Nahor e de Abraão.",
-      "raw_html": "<span>“Pai deles”. Para mim, os pai de Nahor e de Abraão. </span>"
+      "text": "A forma plural do verbo, se levada a sério, poderia sugerir que, na narrativa, o deus de Abraão é um e o deus de Nahor é outro. Fossem o mesmo, o verbo estaria no singular. Mas está no plural. Logo, são dois deuses diferentes, pressupõe-se.",
+      "raw_html": "<span>A forma plural do verbo, se levada a sério, poderia sugerir que, na narrativa, o deus de Abraão é um e o deus de Nahor é outro. Fossem o mesmo, o verbo estaria no singular. Mas está no plural. Logo, são dois deuses diferentes, pressupõe-se. </span>"
     },
     {
       "ref_id": "fn154-2718",
       "number": 154,
-      "text": "Chouraqui entrevê aqui uma posição monolátrica da parte de Jacó. Mas a narrativa distingue o deus de Abraão do deus de Nahor. Alguém não poderia então, partindo desse princípio, dizer que ambos, Abraão e Nahor, eram monolátricos? O narrador falou dos “deuses do pai deles”, mas assenta “o deus de Abraão”. Ou também aí, conforme nota acima, se deveria entrever “os deuses de Abraão”?",
-      "raw_html": "<span>Chouraqui entrevê aqui uma posição monolátrica da parte de Jacó. Mas a narrativa distingue o deus de Abraão do deus de Nahor. Alguém não poderia então, partindo desse princípio, dizer que ambos, Abraão e Nahor, eram monolátricos? O narrador falou dos “deuses do pai deles”, mas assenta “o deus de Abraão”. Ou também aí, conforme nota acima, se deveria entrever “os deuses de Abraão”? </span>"
+      "text": "“Pai deles”. Para mim, os pai de Nahor e de Abraão.",
+      "raw_html": "<span>“Pai deles”. Para mim, os pai de Nahor e de Abraão. </span>"
     },
     {
       "ref_id": "fn155-2718",
       "number": 155,
-      "text": "“E sacrifica” (wayyizbah). Cf. Gênesis 31,54; 46,1; Números 22,40.",
-      "raw_html": "<span>“E sacrifica” (<em>wayyizbah</em>). Cf. Gênesis 31,54; 46,1; Números 22,40. </span>"
+      "text": "Chouraqui entrevê aqui uma posição monolátrica da parte de Jacó. Mas a narrativa distingue o deus de Abraão do deus de Nahor. Alguém não poderia então, partindo desse princípio, dizer que ambos, Abraão e Nahor, eram monolátricos? O narrador falou dos “deuses do pai deles”, mas assenta “o deus de Abraão”. Ou também aí, conforme nota acima, se deveria entrever “os deuses de Abraão”?",
+      "raw_html": "<span>Chouraqui entrevê aqui uma posição monolátrica da parte de Jacó. Mas a narrativa distingue o deus de Abraão do deus de Nahor. Alguém não poderia então, partindo desse princípio, dizer que ambos, Abraão e Nahor, eram monolátricos? O narrador falou dos “deuses do pai deles”, mas assenta “o deus de Abraão”. Ou também aí, conforme nota acima, se deveria entrever “os deuses de Abraão”? </span>"
     },
     {
       "ref_id": "fn156-2718",
       "number": 156,
-      "text": "“Sacrifica” traduz forma verbal da raiz zbh. Primeira de 251 ocorrências.",
-      "raw_html": "<span>“Sacrifica” traduz forma verbal da raiz <em>zbh</em>. Primeira de 251 ocorrências. </span>"
+      "text": "“E sacrifica” (wayyizbah). Cf. Gênesis 31,54; 46,1; Números 22,40.",
+      "raw_html": "<span>“E sacrifica” (<em>wayyizbah</em>). Cf. Gênesis 31,54; 46,1; Números 22,40. </span>"
     },
     {
       "ref_id": "fn157-2718",
       "number": 157,
+      "text": "“Sacrifica” traduz forma verbal da raiz zbh. Primeira de 251 ocorrências.",
+      "raw_html": "<span>“Sacrifica” traduz forma verbal da raiz <em>zbh</em>. Primeira de 251 ocorrências. </span>"
+    },
+    {
+      "ref_id": "fn158-2718",
+      "number": 158,
       "text": "“Sacrifício” (zebah). Forma substantivada da raiz zbh (“sacrificar”.",
       "raw_html": "<span>“Sacrifício” (<em>zebah</em>). Forma substantivada da raiz <em>zbh </em>(“sacrificar”. </span>"
     }

@@ -1193,7 +1193,7 @@
     },
     {
       "number": 32,
-      "text": "E as colunas do cercamento. Arredor. E as bases delas. E as estacas delas. E os cordames delas. Para o total dos utensíliosdelas. E para o total do serviço delas. E nos nomesvisitais vós. Os utensíliosdo guardamento da carga deles.",
+      "text": "E as colunas do cercamento. Arredor. E as bases delas. E as estacas delas. E os cordames delas. Para o total dos utensíliosdelas. E para o total do serviço delas. E nos nomes. Visitais vós. Os utensíliosdo guardamento da carga deles.",
       "lines": [
         {
           "line_index": 0,
@@ -1232,11 +1232,16 @@
         },
         {
           "line_index": 7,
-          "text": "E nos nomesvisitais vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E nos nomes<a name=\"rf297-10194\"></a><sup><a href=\"#fn297-10194\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 297\">297</a></sup>visitais vós<a name=\"rf298-10194\"></a><sup><a href=\"#fn298-10194\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 298\">298</a></sup>.</p>"
+          "text": "E nos nomes.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E nos nomes<a name=\"rf297-10194\"></a><sup><a href=\"#fn297-10194\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 297\">297</a></sup>.</p>"
         },
         {
           "line_index": 8,
+          "text": "Visitais vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Visitais vós<a name=\"rf298-10194\"></a><sup><a href=\"#fn298-10194\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 298\">298</a></sup>.</p>"
+        },
+        {
+          "line_index": 9,
           "text": "Os utensíliosdo guardamento da carga deles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Os utensílios<a name=\"rf299-10194\"></a><sup><a href=\"#fn299-10194\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 299\">299</a></sup>do guardamento da carga deles<a name=\"rf300-10194\"></a><sup><a href=\"#fn300-10194\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 300\">300</a></sup>.</p>"
         }
@@ -3640,8 +3645,8 @@
     {
       "ref_id": "fn297-10194",
       "number": 297,
-      "text": "“Nomes” (shemot). Cf. Gênesis 2,11; Êxodo 1,1; Levítico 18,21; Números 1,2.",
-      "raw_html": "<span>“Nomes” (<em>shemot</em>). Cf. Gênesis 2,11; Êxodo 1,1; Levítico 18,21; Números 1,2. </span>"
+      "text": "“Nomes” (shem).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">Nomes</a>” (<em>shem</em>). </span>"
     },
     {
       "ref_id": "fn298-10194",

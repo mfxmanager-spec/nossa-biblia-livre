@@ -918,17 +918,17 @@
         {
           "line_index": 1,
           "text": "O nome de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O nome de mim<a name=\"rf217-10412\"></a><sup><a href=\"#fn217-10412\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 217\">217</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome de<a name=\"rf217-10412\"></a><sup><a href=\"#fn217-10412\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 217\">217</a></sup> mim<a name=\"rf218-10412\"></a><sup><a href=\"#fn218-10412\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 218\">218</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Sobre os filhos de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre os filhos de Yisra’el<a name=\"rf218-10412\"></a><sup><a href=\"#fn218-10412\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 218\">218</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre os filhos de Yisra’el<a name=\"rf219-10412\"></a><sup><a href=\"#fn219-10412\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 219\">219</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E abençooeu eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E abençoo<a name=\"rf219-10412\"></a><sup><a href=\"#fn219-10412\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 219\">219</a></sup>eu eles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E abençoo<a name=\"rf220-10412\"></a><sup><a href=\"#fn220-10412\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 220\">220</a></sup>eu eles.</p>"
         }
       ]
     }
@@ -2233,18 +2233,24 @@
     {
       "ref_id": "fn217-10412",
       "number": 217,
-      "text": "“O nome de mim” (‘et-shemi). Cf. Êxodo 20,24.",
-      "raw_html": "<span>“O nome de mim” (<em>‘et-shemi</em>). Cf. Êxodo 20,24. </span>"
+      "text": "“O nome da” (shem).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome da</a>” (<em>shem</em>). </span>"
     },
     {
       "ref_id": "fn218-10412",
       "number": 218,
-      "text": "“Sobre os filhos de Yisra’el” (‘al-bene yisra’el). Cf. Levítico 16,34.",
-      "raw_html": "<span>“Sobre os filhos de Yisra’el” (<em>‘al-bene yisra’el</em>). Cf. Levítico 16,34. </span>"
+      "text": "“O nome de mim” (‘et-shemi). Cf. Êxodo 20,24.",
+      "raw_html": "<span>“O nome de mim” (<em>‘et-shemi</em>). Cf. Êxodo 20,24. </span>"
     },
     {
       "ref_id": "fn219-10412",
       "number": 219,
+      "text": "“Sobre os filhos de Yisra’el” (‘al-bene yisra’el). Cf. Levítico 16,34.",
+      "raw_html": "<span>“Sobre os filhos de Yisra’el” (<em>‘al-bene yisra’el</em>). Cf. Levítico 16,34. </span>"
+    },
+    {
+      "ref_id": "fn220-10412",
+      "number": 220,
       "text": "“Abençoo” (brk). Cf. Gênesis 1,22; Êxodo 12,32; Levítico 9,22.",
       "raw_html": "<span>“Abençoo” (<em>brk</em>). Cf. Gênesis 1,22; Êxodo 12,32; Levítico 9,22. </span>"
     }

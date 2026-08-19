@@ -1351,7 +1351,7 @@
         {
           "line_index": 8,
           "text": "E para a mãe de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para a mãe de mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E para a mãe de<a name=\"rf42-34696\"></a><sup><a href=\"#fn42-34696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup> mim.</p>"
         },
         {
           "line_index": 9,
@@ -1733,6 +1733,12 @@
       "number": 41,
       "text": "“Filhos de” (ben).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKO\" rel=\"noopener\" target=\"_blank\">Filhos de</a>” (<em>ben</em>). </span>"
+    },
+    {
+      "ref_id": "fn42-34696",
+      "number": 42,
+      "text": "“A mãe de” (’em).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0525\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0525\" rel=\"noopener\" target=\"_blank\">A mãe de</a>” (<em>’em</em>). </span>"
     }
   ]
 }

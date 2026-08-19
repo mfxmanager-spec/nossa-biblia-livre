@@ -413,7 +413,7 @@
     },
     {
       "number": 12,
-      "text": "Não. Por favor. Esteja elaconforme morto. Queno sair dele. Desde o ventre damãe dele. E está comidao dividido dacarne dele.",
+      "text": "Não. Por favor. Esteja elaconforme morto. Queno sair dele. Desde o ventre da mãe dele. E está comidao dividido dacarne dele.",
       "lines": [
         {
           "line_index": 0,
@@ -437,8 +437,8 @@
         },
         {
           "line_index": 4,
-          "text": "Desde o ventre damãe dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o ventre da<a name=\"rf116-11142\"></a><sup><a href=\"#fn116-11142\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup>mãe dele<a name=\"rf117-11142\"></a><sup><a href=\"#fn117-11142\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
+          "text": "Desde o ventre da mãe dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o ventre da<a name=\"rf116-11142\"></a><sup><a href=\"#fn116-11142\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup> mãe dele<a name=\"rf117-11142\"></a><sup><a href=\"#fn117-11142\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1292,8 +1292,8 @@
     {
       "ref_id": "fn117-11142",
       "number": 117,
-      "text": "“A mãe dele” (‘immo). Cf. Gênesis 2,24; 21,21; 24,67.",
-      "raw_html": "<span>“A mãe dele” (<em>‘immo</em>). Cf. Gênesis 2,24; 21,21; 24,67. </span>"
+      "text": "“A mãe dele” (‘immo).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0522\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0522\" rel=\"noopener\" target=\"_blank\">A mãe dele</a>” (<em>‘immo</em>). </span>"
     },
     {
       "ref_id": "fn118-11142",
