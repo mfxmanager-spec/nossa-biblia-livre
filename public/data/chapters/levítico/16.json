@@ -1350,7 +1350,7 @@
     },
     {
       "number": 34,
-      "text": "E éisto para vóspara norma de sempre. Para encobrirsobre os filhos de Yisra’el. Desde o totaldo pecado deles. Uma. Na mudança. E ele fazconforme que manda Yahweh Mosheh.",
+      "text": "E éisto para vóspara norma de sempre. Para encobrirsobre os filhos de Yisra’el. Desde o totaldo pecado deles. Uma. Na mudança. E faz ele. Conforme que manda. Yahweh. Mosheh.",
       "lines": [
         {
           "line_index": 0,
@@ -1379,8 +1379,23 @@
         },
         {
           "line_index": 5,
-          "text": "E ele fazconforme que manda Yahweh Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele faz<a name=\"rf349-8954\"></a><sup><a href=\"#fn349-8954\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 349\">349</a></sup>conforme que manda Yahweh Mosheh<a name=\"rf350-8954\"></a><sup><a href=\"#fn350-8954\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 350\">350</a></sup>.</p>"
+          "text": "E faz ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele<a name=\"rf349-8954\"></a><sup><a href=\"#fn349-8954\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 349\">349</a></sup><a name=\"rf350-8954\"></a><sup><a href=\"#fn350-8954\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 350\">350</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Conforme que manda.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que manda.</p>"
+        },
+        {
+          "line_index": 7,
+          "text": "Yahweh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Yahweh.</p>"
+        },
+        {
+          "line_index": 8,
+          "text": "Mosheh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Mosheh<a name=\"rf351-8954\"></a><sup><a href=\"#fn351-8954\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 351\">351</a></sup>.</p>"
         }
       ]
     }
@@ -3477,12 +3492,18 @@
     {
       "ref_id": "fn349-8954",
       "number": 349,
-      "text": "“Faz” (‘sh). Cf. v. 9.15.16.24.29.",
-      "raw_html": "<span>“Faz” (<em>‘sh</em>). Cf. v. 9.15.16.24.29. </span>"
+      "text": "“E faz ele” (wayya’as).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKX\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKX\" rel=\"noopener\" target=\"_blank\">E faz ele</a>” (<em>wayya’as</em>). </span>"
     },
     {
       "ref_id": "fn350-8954",
       "number": 350,
+      "text": "“Faz ele” (‘sh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAHA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHA\" rel=\"noopener\" target=\"_blank\">Faz ele</a>” (<em>‘sh</em>). </span>"
+    },
+    {
+      "ref_id": "fn351-8954",
+      "number": 351,
       "text": "“Conforme que manda Yahweh Mosheh” (ka’asher tsiwwah yehwah ‘et-mosheh). Somente em Êxodo 39,1.7; 40,27; Levítico 16,24; 24,23; Números 3,51; 15,36.",
       "raw_html": "<span>“Conforme que manda Yahweh Mosheh” (<em>ka’asher tsiwwah yehwah</em> <em>‘et-mosheh</em>). Somente em Êxodo 39,1.7; 40,27; Levítico 16,24; 24,23; Números 3,51; 15,36. </span>"
     }

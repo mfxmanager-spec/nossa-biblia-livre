@@ -895,17 +895,37 @@
     },
     {
       "number": 24,
-      "text": "E ouve Moshehpara a voz do sogro dele. E ele faz totalidade que ele diz.",
+      "text": "E ouve. Mosheh. Para a voz do sogro dele. E faz ele. Total. Que diz ele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E ouve Moshehpara a voz do sogro dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ouve Mosheh<a name=\"rf78-5357\"></a><sup><a href=\"#fn78-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>para a voz do sogro dele.</p>"
+          "text": "E ouve.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E ouve.</p>"
         },
         {
           "line_index": 1,
-          "text": "E ele faz totalidade que ele diz.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele faz totalidade que ele diz. </p>"
+          "text": "Mosheh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Mosheh<a name=\"rf78-5357\"></a><sup><a href=\"#fn78-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Para a voz do sogro dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para a voz do sogro dele.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "E faz ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele<a name=\"rf79-5357\"></a><sup><a href=\"#fn79-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup><a name=\"rf80-5357\"></a><sup><a href=\"#fn80-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Total.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> Total.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Que diz ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que diz ele.</p>"
         }
       ]
     },
@@ -916,7 +936,7 @@
         {
           "line_index": 0,
           "text": "E escolhe Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E escolhe<a name=\"rf79-5357\"></a><sup><a href=\"#fn79-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup> Mosheh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E escolhe<a name=\"rf81-5357\"></a><sup><a href=\"#fn81-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup> Mosheh.</p>"
         },
         {
           "line_index": 1,
@@ -926,7 +946,7 @@
         {
           "line_index": 2,
           "text": "Desde o total de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o total de Yisra’el<a name=\"rf80-5357\"></a><sup><a href=\"#fn80-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o total de Yisra’el<a name=\"rf82-5357\"></a><sup><a href=\"#fn82-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -946,22 +966,22 @@
         {
           "line_index": 6,
           "text": "Príncipes de milhares.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Príncipes de milhares<a name=\"rf81-5357\"></a><sup><a href=\"#fn81-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Príncipes de milhares<a name=\"rf83-5357\"></a><sup><a href=\"#fn83-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Príncipes de centenas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Príncipes de centenas<a name=\"rf82-5357\"></a><sup><a href=\"#fn82-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Príncipes de centenas<a name=\"rf84-5357\"></a><sup><a href=\"#fn84-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
         },
         {
           "line_index": 8,
           "text": "Príncipes de cinquenta.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Príncipes de cinquenta<a name=\"rf83-5357\"></a><sup><a href=\"#fn83-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Príncipes de cinquenta<a name=\"rf85-5357\"></a><sup><a href=\"#fn85-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
         },
         {
           "line_index": 9,
           "text": "E príncipes de dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E príncipes de dez<a name=\"rf84-5357\"></a><sup><a href=\"#fn84-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E príncipes de dez<a name=\"rf86-5357\"></a><sup><a href=\"#fn86-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
         }
       ]
     },
@@ -972,7 +992,7 @@
         {
           "line_index": 0,
           "text": "E julgam eles o povo.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E julgam eles o povo<a name=\"rf85-5357\"></a><sup><a href=\"#fn85-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E julgam eles o povo<a name=\"rf87-5357\"></a><sup><a href=\"#fn87-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -982,7 +1002,7 @@
         {
           "line_index": 2,
           "text": "A fala duraeles fazem ir a Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A fala dura<a name=\"rf86-5357\"></a><sup><a href=\"#fn86-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>eles fazem ir a Mosheh. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A fala dura<a name=\"rf88-5357\"></a><sup><a href=\"#fn88-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>eles fazem ir a Mosheh. </p>"
         },
         {
           "line_index": 3,
@@ -1003,7 +1023,7 @@
         {
           "line_index": 1,
           "text": "E ele caminha para ele à terra dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele caminha para ele à terra dele<a name=\"rf87-5357\"></a><sup><a href=\"#fn87-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele caminha para ele à terra dele<a name=\"rf89-5357\"></a><sup><a href=\"#fn89-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
         }
       ]
     }
@@ -1480,54 +1500,66 @@
     {
       "ref_id": "fn79-5357",
       "number": 79,
-      "text": "“Escolhe” (bhr).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAEM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAEM\" rel=\"noreferrer noopener\" target=\"_blank\">Escolhe</a>” (<em>bhr</em>). </span>"
+      "text": "“E faz ele” (wayya’as).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKX\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKX\" rel=\"noopener\" target=\"_blank\">E faz ele</a>” (<em>wayya’as</em>). </span>"
     },
     {
       "ref_id": "fn80-5357",
       "number": 80,
-      "text": "“Desde o total de Yisra’el” (mikkol-yisra’el). Cf. Êxodo 18,25; Deuteronômio 18,6; Juízes 20,34; 1 Samuel 24,3.",
-      "raw_html": "<span>“Desde o total de Yisra’el” (<em>mikkol-yisra’el</em>). Cf. Êxodo 18,25; Deuteronômio 18,6; Juízes 20,34; 1 Samuel 24,3. </span>"
+      "text": "“Faz ele” (‘sh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAHA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHA\" rel=\"noopener\" target=\"_blank\">Faz ele</a>” (<em>‘sh</em>). </span>"
     },
     {
       "ref_id": "fn81-5357",
       "number": 81,
-      "text": "Cf. v. 21.",
-      "raw_html": "<span>Cf. v. 21. </span>"
+      "text": "“Escolhe” (bhr).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAEM\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAEM\" rel=\"noreferrer noopener\" target=\"_blank\">Escolhe</a>” (<em>bhr</em>). </span>"
     },
     {
       "ref_id": "fn82-5357",
       "number": 82,
-      "text": "Cf. v. 21.",
-      "raw_html": "<span>Cf. v. 21. </span>"
+      "text": "“Desde o total de Yisra’el” (mikkol-yisra’el). Cf. Êxodo 18,25; Deuteronômio 18,6; Juízes 20,34; 1 Samuel 24,3.",
+      "raw_html": "<span>“Desde o total de Yisra’el” (<em>mikkol-yisra’el</em>). Cf. Êxodo 18,25; Deuteronômio 18,6; Juízes 20,34; 1 Samuel 24,3. </span>"
     },
     {
       "ref_id": "fn83-5357",
       "number": 83,
-      "text": "“Cinquenta” (hamishshim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAALD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALD\" rel=\"noopener\" target=\"_blank\">Cinquenta</a>” (<em>hamishshim</em>). </span>"
+      "text": "Cf. v. 21.",
+      "raw_html": "<span>Cf. v. 21. </span>"
     },
     {
       "ref_id": "fn84-5357",
       "number": 84,
-      "text": "Cf. v. 21 e nota.",
-      "raw_html": "<span>Cf. v. 21 e nota. </span>"
+      "text": "Cf. v. 21.",
+      "raw_html": "<span>Cf. v. 21. </span>"
     },
     {
       "ref_id": "fn85-5357",
       "number": 85,
-      "text": "“E julgam eles o povo” (weshaptu ‘et-ha’am). Somente em Êxodo 18,22.26; Deuteronômio 16,18.",
-      "raw_html": "<span>“E julgam eles o povo” (<em>weshaptu ‘et-ha’am</em>). Somente em Êxodo 18,22.26; Deuteronômio 16,18. </span>"
+      "text": "“Cinquenta” (hamishshim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAALD\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALD\" rel=\"noopener\" target=\"_blank\">Cinquenta</a>” (<em>hamishshim</em>). </span>"
     },
     {
       "ref_id": "fn86-5357",
       "number": 86,
-      "text": "No v. 22, “fala grande”.",
-      "raw_html": "<span>No v. 22, “fala grande”. </span>"
+      "text": "Cf. v. 21 e nota.",
+      "raw_html": "<span>Cf. v. 21 e nota. </span>"
     },
     {
       "ref_id": "fn87-5357",
       "number": 87,
+      "text": "“E julgam eles o povo” (weshaptu ‘et-ha’am). Somente em Êxodo 18,22.26; Deuteronômio 16,18.",
+      "raw_html": "<span>“E julgam eles o povo” (<em>weshaptu ‘et-ha’am</em>). Somente em Êxodo 18,22.26; Deuteronômio 16,18. </span>"
+    },
+    {
+      "ref_id": "fn88-5357",
+      "number": 88,
+      "text": "No v. 22, “fala grande”.",
+      "raw_html": "<span>No v. 22, “fala grande”. </span>"
+    },
+    {
+      "ref_id": "fn89-5357",
+      "number": 89,
       "text": "“A terra dele” (‘artso). Primeira de 30 ocorrências. Cf. Êxodo 18,27; Números 21,24.26.34.35.",
       "raw_html": "<span>“A terra dele” (<em>‘artso</em>). Primeira de 30 ocorrências. Cf. Êxodo 18,27; Números 21,24.26.34.35. </span>"
     }

@@ -352,50 +352,55 @@
     },
     {
       "number": 6,
-      "text": "E faz ‘Abshalom. Conforme o falado. O esse. Para o total de Yisra’el. Que vão eles. Para o julgamento. Ao rei. E rouba ‘Abshalom. O coração dos homens de Yisra’el.",
+      "text": "E faz. ‘Abshalom. Conforme o falado. O esse. Para o total de Yisra’el. Que vão eles. Para o julgamento. Ao rei. E rouba ‘Abshalom. O coração dos homens de Yisra’el.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E faz ‘Abshalom.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E faz<a name=\"rf81-28918\"></a><sup><a href=\"#fn81-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup><a name=\"rf82-28918\"></a><sup><a href=\"#fn82-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup> ‘Abshalom<a name=\"rf83-28918\"></a><sup><a href=\"#fn83-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
+          "text": "E faz.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E faz<a name=\"rf81-28918\"></a><sup><a href=\"#fn81-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup><a name=\"rf82-28918\"></a><sup><a href=\"#fn82-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
         },
         {
           "line_index": 1,
+          "text": "‘Abshalom.",
+          "raw_html": "<p class=\"wp-block-paragraph\">‘Abshalom<a name=\"rf83-28918\"></a><sup><a href=\"#fn83-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "Conforme o falado.",
           "raw_html": "<p class=\"wp-block-paragraph\">Conforme o falado<a name=\"rf84-28918\"></a><sup><a href=\"#fn84-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 3,
           "text": "O esse.",
           "raw_html": "<p class=\"wp-block-paragraph\">O esse.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "Para o total de Yisra’el.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para o total de Yisra’el.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Que vão eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que vão eles.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Para o julgamento.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para o julgamento.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Ao rei.",
           "raw_html": "<p class=\"wp-block-paragraph\">Ao rei<a name=\"rf85-28918\"></a><sup><a href=\"#fn85-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup><a name=\"rf86-28918\"></a><sup><a href=\"#fn86-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "E rouba ‘Abshalom.",
           "raw_html": "<p class=\"wp-block-paragraph\">E rouba ‘Abshalom<a name=\"rf87-28918\"></a><sup><a href=\"#fn87-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "O coração dos homens de Yisra’el.",
           "raw_html": "<p class=\"wp-block-paragraph\">O coração dos homens<a name=\"rf88-28918\"></a><sup><a href=\"#fn88-28918\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup> de Yisra’el.</p>"
         }
