@@ -99,7 +99,7 @@
     },
     {
       "number": 3,
-      "text": "E está. Em quarentaano. Em onzenova. Em um para a nova. Fala Mosheh. Aos filhos de Yisrael. Conforme total que manda Yahweh elea eles.",
+      "text": "E está. Em quarenta. Mudança. Em onzenova. Em um para a nova. Fala Mosheh. Aos filhos de Yisrael. Conforme total que manda Yahweh elea eles.",
       "lines": [
         {
           "line_index": 0,
@@ -108,31 +108,36 @@
         },
         {
           "line_index": 1,
-          "text": "Em quarentaano.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Em quarenta<a name=\"rf25-13336\"></a><sup><a href=\"#fn25-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup>ano<a name=\"rf26-13336\"></a><sup><a href=\"#fn26-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup>.</p>"
+          "text": "Em quarenta.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Em quarenta<a name=\"rf25-13336\"></a><sup><a href=\"#fn25-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup>.</p>"
         },
         {
           "line_index": 2,
+          "text": "Mudança.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Mudança<a name=\"rf26-13336\"></a><sup><a href=\"#fn26-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "Em onzenova.",
           "raw_html": "<p class=\"wp-block-paragraph\">Em onze<a name=\"rf27-13336\"></a><sup><a href=\"#fn27-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup>nova<a name=\"rf28-13336\"></a><sup><a href=\"#fn28-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "Em um para a nova.",
           "raw_html": "<p class=\"wp-block-paragraph\">Em um para a nova<a name=\"rf29-13336\"></a><sup><a href=\"#fn29-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Fala Mosheh.",
           "raw_html": "<p class=\"wp-block-paragraph\">Fala Mosheh.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Aos filhos de Yisrael.",
           "raw_html": "<p class=\"wp-block-paragraph\">Aos filhos de Yisrael<a name=\"rf30-13336\"></a><sup><a href=\"#fn30-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Conforme total que manda Yahweh elea eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Conforme total que manda Yahweh ele<a name=\"rf31-13336\"></a><sup><a href=\"#fn31-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup>a eles<a name=\"rf32-13336\"></a><sup><a href=\"#fn32-13336\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup>.</p>"
         }
@@ -2166,8 +2171,8 @@
     {
       "ref_id": "fn26-13336",
       "number": 26,
-      "text": "“Ano” (shanah). Cf. Gênesis 1,14; Deuteronômio 1,3.",
-      "raw_html": "<span>“Ano” (<em>shanah</em>). Cf. Gênesis 1,14; Deuteronômio 1,3. </span>"
+      "text": "“Mudança” (shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0065\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0065\" rel=\"noopener\" target=\"_blank\">Mudança</a>” (<em>shanah</em>). </span>"
     },
     {
       "ref_id": "fn27-13336",

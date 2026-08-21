@@ -616,7 +616,7 @@
     },
     {
       "number": 10,
-      "text": "E toma Ritspah. A filha de ‘Ayyah. O saco. E faz ela estender ele. Para ela. Ao rochedo. Desde a iniciação da colheita. Até derramado está aquosos. Sobre eles. Desde os céus. E não dá ela. O volante dos céus. Para repousar. Sobre eles. De-dia. E as vidas do campo. Noite.",
+      "text": "E toma Ritspah. A filha de ‘Ayyah. O saco. E faz ela estender ele. Para ela. Ao rochedo. Desde a iniciação da colheita. Até despejado está. Aquosos. Sobre eles. Desde os céus. E não dá ela. O volante dos céus. Para repousar. Sobre eles. De-dia. E as vidas do campo. Noite.",
       "lines": [
         {
           "line_index": 0,
@@ -655,51 +655,56 @@
         },
         {
           "line_index": 7,
-          "text": "Até derramado está aquosos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até derramado está aquosos.</p>"
+          "text": "Até despejado está.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Até despejado está.</p>"
         },
         {
           "line_index": 8,
+          "text": "Aquosos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Aquosos.</p>"
+        },
+        {
+          "line_index": 9,
           "text": "Sobre eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre eles.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Desde os céus.",
           "raw_html": "<p class=\"wp-block-paragraph\">Desde<a name=\"rf67-29807\"></a><sup><a href=\"#fn67-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup> os céus.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "E não dá ela.",
           "raw_html": "<p class=\"wp-block-paragraph\">E não<a name=\"rf68-29807\"></a><sup><a href=\"#fn68-29807\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup> dá ela.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "O volante dos céus.",
           "raw_html": "<p class=\"wp-block-paragraph\">O volante dos céus.</p>"
         },
         {
-          "line_index": 12,
+          "line_index": 13,
           "text": "Para repousar.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para repousar.</p>"
         },
         {
-          "line_index": 13,
+          "line_index": 14,
           "text": "Sobre eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre eles.</p>"
         },
         {
-          "line_index": 14,
+          "line_index": 15,
           "text": "De-dia.",
           "raw_html": "<p class=\"wp-block-paragraph\">De-dia.</p>"
         },
         {
-          "line_index": 15,
+          "line_index": 16,
           "text": "E as vidas do campo.",
           "raw_html": "<p class=\"wp-block-paragraph\">E as vidas do campo.</p>"
         },
         {
-          "line_index": 16,
+          "line_index": 17,
           "text": "Noite.",
           "raw_html": "<p class=\"wp-block-paragraph\">Noite.</p>"
         }
