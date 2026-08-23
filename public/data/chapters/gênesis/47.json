@@ -566,35 +566,40 @@
     },
     {
       "number": 15,
-      "text": "E completa a prata desde a terra de Mitsrayim. E desde a terra de Kena’an. E vão a totalidade dos mitsrinspara Yosep. Para dizer. Dápara nós pão! Para que morremos de frente a tiporque cessa prata?",
+      "text": "E inteira o argento. Desde a terra de Mitsrayim. E desde a terra de Kena’an. E vão a totalidade dos mitsrinspara Yosep. Para dizer. Dápara nós pão! Para que morremos de frente a tiporque cessa prata?",
       "lines": [
         {
           "line_index": 0,
-          "text": "E completa a prata desde a terra de Mitsrayim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E completa<a name=\"rf50-3605\"></a><sup><a href=\"#fn50-3605\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup> a prata desde a terra de Mitsrayim.</p>"
+          "text": "E inteira o argento.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E inteira<a name=\"rf50-3605\"></a><sup><a href=\"#fn50-3605\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup> o argento.</p>"
         },
         {
           "line_index": 1,
+          "text": "Desde a terra de Mitsrayim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a terra de Mitsrayim.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "E desde a terra de Kena’an.",
           "raw_html": "<p class=\"wp-block-paragraph\">E desde a terra de Kena’an<a name=\"rf51-3605\"></a><sup><a href=\"#fn51-3605\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>. </p>"
         },
         {
-          "line_index": 2,
+          "line_index": 3,
           "text": "E vão a totalidade dos mitsrinspara Yosep.",
           "raw_html": "<p class=\"wp-block-paragraph\">E vão a totalidade dos mitsrins<a name=\"rf52-3605\"></a><sup><a href=\"#fn52-3605\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>para Yosep.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "Para dizer.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para dizer.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Dápara nós pão!",
           "raw_html": "<p class=\"wp-block-paragraph\">Dá<a name=\"rf53-3605\"></a><sup><a href=\"#fn53-3605\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>para nós pão! </p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Para que morremos de frente a tiporque cessa prata?",
           "raw_html": "<p class=\"wp-block-paragraph\">Para que morremos de frente a ti<a name=\"rf54-3605\"></a><sup><a href=\"#fn54-3605\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>porque cessa prata?</p>"
         }
@@ -1735,8 +1740,8 @@
     {
       "ref_id": "fn50-3605",
       "number": 50,
-      "text": "“Completa” traduz forma verbal da raiz tmm. Primeira de 62 ocorrências. Cf. Gênesis 47,15.18; Levítico 25,29; 26,20; Josué 3,16.17.",
-      "raw_html": "<span>“Completa” traduz forma verbal da raiz <em>tmm</em>. Primeira de 62 ocorrências. Cf. Gênesis 47,15.18; Levítico 25,29; 26,20; Josué 3,16.17. </span>"
+      "text": "“Inteira” traduz forma verbal da raiz tmm. Primeira de 62 ocorrências. Para a forma nominal, cf.  Cf. Gênesis 47,15.18; Levítico 25,29; 26,20; Josué 3,16.17.",
+      "raw_html": "<span>“Inteira” traduz forma verbal da raiz <em>tmm</em>. Primeira de 62 ocorrências. Para a forma nominal, cf.  Cf. Gênesis 47,15.18; Levítico 25,29; 26,20; Josué 3,16.17. </span>"
     },
     {
       "ref_id": "fn51-3605",

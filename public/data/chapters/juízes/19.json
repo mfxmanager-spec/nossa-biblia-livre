@@ -1018,7 +1018,7 @@
     },
     {
       "number": 17,
-      "text": "E levanta ele. Os olhos dele. E vê ele. O homem viajador. No largo da cidade. E diz o homem velho. Onde andas tu? E desde não está vais tu?",
+      "text": "E levanta ele. Os olhos dele. E vê ele. O homem trilheiro. No largo da cidade. E diz o homem velho. Onde andas tu? E desde não está vais tu?",
       "lines": [
         {
           "line_index": 0,
@@ -1037,8 +1037,8 @@
         },
         {
           "line_index": 3,
-          "text": "O homem viajador.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O homem viajador.</p>"
+          "text": "O homem trilheiro.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O homem trilheiro.</p>"
         },
         {
           "line_index": 4,

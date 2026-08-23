@@ -888,60 +888,65 @@
     },
     {
       "number": 17,
-      "text": "Malhas de afazer de malha. Trançados. Afazer de correntes. Para as arrodeiaduras. Que sobre a cabeça dos colunados. Sete. Para arrodeiadura. A uma. E sete. Para arrodeiadura. A segunda.",
+      "text": "Malhas. Afazer de malha. Trançados. Afazer de correntes. Para as arrodeiaduras. Que sobre a cabeça dos colunados. Sete. Para arrodeiadura. A uma. E sete. Para arrodeiadura. A segunda.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Malhas de afazer de malha.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Malhas de afazer de malha.</p>"
+          "text": "Malhas.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> Malhas.</p>"
         },
         {
           "line_index": 1,
+          "text": "Afazer de malha.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Afazer de malha.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "Trançados.",
           "raw_html": "<p class=\"wp-block-paragraph\">Trançados.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 3,
           "text": "Afazer de correntes.",
           "raw_html": "<p class=\"wp-block-paragraph\">Afazer de correntes.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "Para as arrodeiaduras.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para as arrodeiaduras.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Que sobre a cabeça dos colunados.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf110-31388\"></a><sup><a href=\"#fn110-31388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup> sobre<a name=\"rf111-31388\"></a><sup><a href=\"#fn111-31388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup><a name=\"rf112-31388\"></a><sup><a href=\"#fn112-31388\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup> a cabeça dos colunados.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Sete.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sete.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Para arrodeiadura.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para arrodeiadura.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "A uma.",
           "raw_html": "<p class=\"wp-block-paragraph\">A uma.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "E sete.",
           "raw_html": "<p class=\"wp-block-paragraph\">E sete.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Para arrodeiadura.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para arrodeiadura.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "A segunda.",
           "raw_html": "<p class=\"wp-block-paragraph\">A segunda.</p>"
         }
