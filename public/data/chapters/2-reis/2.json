@@ -1538,12 +1538,12 @@
         {
           "line_index": 4,
           "text": "Conforme o falado de ‘Elisha’.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o falado de<a name=\"rf67-35137\"></a><sup><a href=\"#fn67-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup> ‘Elisha’.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme o falado de ‘Elisha’.</p>"
         },
         {
           "line_index": 5,
           "text": "Que fala ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf68-35137\"></a><sup><a href=\"#fn68-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup> fala ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf67-35137\"></a><sup><a href=\"#fn67-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup> fala ele.</p>"
         }
       ]
     },
@@ -1665,7 +1665,7 @@
         {
           "line_index": 4,
           "text": "No nome de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No nome de<a name=\"rf69-35137\"></a><sup><a href=\"#fn69-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup> Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No nome de<a name=\"rf68-35137\"></a><sup><a href=\"#fn68-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup> Yahweh.</p>"
         },
         {
           "line_index": 5,
@@ -1675,7 +1675,7 @@
         {
           "line_index": 6,
           "text": "Duas ursas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Duas<a name=\"rf70-35137\"></a><sup><a href=\"#fn70-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup> ursas.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Duas<a name=\"rf69-35137\"></a><sup><a href=\"#fn69-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup> ursas.</p>"
         },
         {
           "line_index": 7,
@@ -1721,7 +1721,7 @@
         {
           "line_index": 2,
           "text": "Ao monte do Karmel.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao<a name=\"rf71-35137\"></a><sup><a href=\"#fn71-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup> monte do Karmel.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao<a name=\"rf70-35137\"></a><sup><a href=\"#fn70-35137\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup> monte do Karmel.</p>"
         },
         {
           "line_index": 3,
@@ -2151,30 +2151,24 @@
     {
       "ref_id": "fn67-35137",
       "number": 67,
-      "text": "“O falado de” (dabar).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">O falado de</a>” (<em>dabar</em>). </span>"
-    },
-    {
-      "ref_id": "fn68-35137",
-      "number": 68,
       "text": "“Que” (‘asher).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/00243\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00243\" rel=\"noopener\" target=\"_blank\">Que</a>” (<em>‘asher</em>). </span>"
     },
     {
-      "ref_id": "fn69-35137",
-      "number": 69,
+      "ref_id": "fn68-35137",
+      "number": 68,
       "text": "“O nome de” (shem).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </span>"
     },
     {
-      "ref_id": "fn70-35137",
-      "number": 70,
+      "ref_id": "fn69-35137",
+      "number": 69,
       "text": "“Duas” (shetayim).",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1049\" rel=\"noopener\" target=\"_blank\">Duas</a>” (<em>shetayim</em>). </span>"
     },
     {
-      "ref_id": "fn71-35137",
-      "number": 71,
+      "ref_id": "fn70-35137",
+      "number": 70,
       "text": "“A” (‘el).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0612\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0612\" rel=\"noopener\" target=\"_blank\">A</a>” (<em>‘el</em>). </span>"
     }
