@@ -471,22 +471,37 @@
     },
     {
       "number": 10,
-      "text": "E diz ‘Abimelek a ‘Abraham. Que viste tu? Que fazes tu o falado esse.",
+      "text": "E diz ‘Abimelek. A ‘Abraham. Quão vês tu? Que fazes tu. O falado. O esse.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E diz ‘Abimelek a ‘Abraham.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E diz ‘Abimelek a ‘Abraham.</p>"
+          "text": "E diz ‘Abimelek.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E diz ‘Abimelek.</p>"
         },
         {
           "line_index": 1,
-          "text": "Que viste tu?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que viste tu?</p>"
+          "text": "A ‘Abraham.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A ‘Abraham.</p>"
         },
         {
           "line_index": 2,
-          "text": "Que fazes tu o falado esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que fazes tu o falado esse<a name=\"rf42-1817\"></a><sup><a href=\"#fn42-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
+          "text": "Quão vês tu?",
+          "raw_html": "<p class=\"wp-block-paragraph\">Quão vês tu?</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "Que fazes tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que fazes tu.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "O falado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O falado<a name=\"rf42-1817\"></a><sup><a href=\"#fn42-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup><a name=\"rf43-1817\"></a><sup><a href=\"#fn43-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "O esse.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O esse<a name=\"rf44-1817\"></a><sup><a href=\"#fn44-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
         }
       ]
     },
@@ -502,22 +517,22 @@
         {
           "line_index": 1,
           "text": "Que digo eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que digo eu<a name=\"rf43-1817\"></a><sup><a href=\"#fn43-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que digo eu<a name=\"rf45-1817\"></a><sup><a href=\"#fn45-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Unicamente não estáo temor de ‘Elohim no lugar esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Unicamente não está<a name=\"rf44-1817\"></a><sup><a href=\"#fn44-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>o temor de ‘Elohim no lugar esse.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Unicamente não está<a name=\"rf46-1817\"></a><sup><a href=\"#fn46-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>o temor de ‘Elohim no lugar esse.</p>"
         },
         {
           "line_index": 3,
           "text": "E matameles eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E matam<a name=\"rf45-1817\"></a><sup><a href=\"#fn45-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>eles eu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E matam<a name=\"rf47-1817\"></a><sup><a href=\"#fn47-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>eles eu.</p>"
         },
         {
           "line_index": 4,
           "text": "Sobre o faladoda mulher de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o falado<a name=\"rf46-1817\"></a><sup><a href=\"#fn46-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>da mulher de mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o falado<a name=\"rf48-1817\"></a><sup><a href=\"#fn48-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>da mulher de mim.</p>"
         }
       ]
     },
@@ -533,7 +548,7 @@
         {
           "line_index": 1,
           "text": "Verdadeiramente.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Verdadeiramente<a name=\"rf47-1817\"></a><sup><a href=\"#fn47-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Verdadeiramente<a name=\"rf49-1817\"></a><sup><a href=\"#fn49-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -569,12 +584,12 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf48-1817\"></a><sup><a href=\"#fn48-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf50-1817\"></a><sup><a href=\"#fn50-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Conforme que fazem errar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que fazem errar<a name=\"rf49-1817\"></a><sup><a href=\"#fn49-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que fazem errar<a name=\"rf51-1817\"></a><sup><a href=\"#fn51-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -584,12 +599,12 @@
         {
           "line_index": 3,
           "text": "Deuses.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Deuses<a name=\"rf50-1817\"></a><sup><a href=\"#fn50-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup><a name=\"rf51-1817\"></a><sup><a href=\"#fn51-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Deuses<a name=\"rf52-1817\"></a><sup><a href=\"#fn52-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup><a name=\"rf53-1817\"></a><sup><a href=\"#fn53-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Desde o lar do pai de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o lar do pai de mim<a name=\"rf52-1817\"></a><sup><a href=\"#fn52-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o lar do pai de mim<a name=\"rf54-1817\"></a><sup><a href=\"#fn54-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -609,7 +624,7 @@
         {
           "line_index": 8,
           "text": "O comprometimento de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O comprometimento de<a name=\"rf53-1817\"></a><sup><a href=\"#fn53-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup> ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O comprometimento de<a name=\"rf55-1817\"></a><sup><a href=\"#fn55-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup> ti.</p>"
         },
         {
           "line_index": 9,
@@ -629,7 +644,7 @@
         {
           "line_index": 12,
           "text": "Quevamos nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf54-1817\"></a><sup><a href=\"#fn54-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>vamos nós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf56-1817\"></a><sup><a href=\"#fn56-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>vamos nós.</p>"
         },
         {
           "line_index": 13,
@@ -670,12 +685,12 @@
         {
           "line_index": 1,
           "text": "Grei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Grei<a name=\"rf55-1817\"></a><sup><a href=\"#fn55-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Grei<a name=\"rf57-1817\"></a><sup><a href=\"#fn57-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E gado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E gado<a name=\"rf56-1817\"></a><sup><a href=\"#fn56-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E gado<a name=\"rf58-1817\"></a><sup><a href=\"#fn58-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -700,7 +715,7 @@
         {
           "line_index": 7,
           "text": "A mulher dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A mulher dele<a name=\"rf57-1817\"></a><sup><a href=\"#fn57-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A mulher dele<a name=\"rf59-1817\"></a><sup><a href=\"#fn59-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
         }
       ]
     },
@@ -731,7 +746,7 @@
         {
           "line_index": 4,
           "text": "Assenta tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Assenta tu<a name=\"rf58-1817\"></a><sup><a href=\"#fn58-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Assenta tu<a name=\"rf60-1817\"></a><sup><a href=\"#fn60-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
         }
       ]
     },
@@ -757,7 +772,7 @@
         {
           "line_index": 3,
           "text": "Dou eu milprata para o irmão de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dou eu mil<a name=\"rf59-1817\"></a><sup><a href=\"#fn59-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>prata para o irmão de ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dou eu mil<a name=\"rf61-1817\"></a><sup><a href=\"#fn61-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>prata para o irmão de ti.</p>"
         },
         {
           "line_index": 4,
@@ -767,17 +782,17 @@
         {
           "line_index": 5,
           "text": "Ela é para ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ela é para ti<a name=\"rf60-1817\"></a><sup><a href=\"#fn60-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ela é para ti<a name=\"rf62-1817\"></a><sup><a href=\"#fn62-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Coberturade olhos para total.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cobertura<a name=\"rf61-1817\"></a><sup><a href=\"#fn61-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>de olhos para total.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cobertura<a name=\"rf63-1817\"></a><sup><a href=\"#fn63-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>de olhos para total.</p>"
         },
         {
           "line_index": 7,
           "text": "Queestá contigo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf62-1817\"></a><sup><a href=\"#fn62-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>está contigo.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf64-1817\"></a><sup><a href=\"#fn64-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>está contigo.</p>"
         },
         {
           "line_index": 8,
@@ -798,27 +813,27 @@
         {
           "line_index": 0,
           "text": "E intercede-se atrás ‘Abraham a ‘Elohim.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E intercede-se<a name=\"rf63-1817\"></a><sup><a href=\"#fn63-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup> atrás<a name=\"rf64-1817\"></a><sup><a href=\"#fn64-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>  ‘Abraham a ‘Elohim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E intercede-se<a name=\"rf65-1817\"></a><sup><a href=\"#fn65-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup> atrás<a name=\"rf66-1817\"></a><sup><a href=\"#fn66-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>  ‘Abraham a ‘Elohim.</p>"
         },
         {
           "line_index": 1,
           "text": "E cura’Elohim ‘Abimelek.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cura<a name=\"rf65-1817\"></a><sup><a href=\"#fn65-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>’Elohim ‘Abimelek.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cura<a name=\"rf67-1817\"></a><sup><a href=\"#fn67-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>’Elohim ‘Abimelek.</p>"
         },
         {
           "line_index": 2,
           "text": "E a mulher dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a mulher dele<a name=\"rf66-1817\"></a><sup><a href=\"#fn66-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a mulher dele<a name=\"rf68-1817\"></a><sup><a href=\"#fn68-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E as amasdele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as amas<a name=\"rf67-1817\"></a><sup><a href=\"#fn67-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>dele. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E as amas<a name=\"rf69-1817\"></a><sup><a href=\"#fn69-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>dele. </p>"
         },
         {
           "line_index": 4,
           "text": "E geram elas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E geram elas<a name=\"rf68-1817\"></a><sup><a href=\"#fn68-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E geram elas<a name=\"rf70-1817\"></a><sup><a href=\"#fn70-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         }
       ]
     },
@@ -829,22 +844,22 @@
         {
           "line_index": 0,
           "text": "Que deter.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que deter<a name=\"rf69-1817\"></a><sup><a href=\"#fn69-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que deter<a name=\"rf71-1817\"></a><sup><a href=\"#fn71-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Detém Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Detém<a name=\"rf70-1817\"></a><sup><a href=\"#fn70-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup> Yahweh<a name=\"rf71-1817\"></a><sup><a href=\"#fn71-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Detém<a name=\"rf72-1817\"></a><sup><a href=\"#fn72-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup> Yahweh<a name=\"rf73-1817\"></a><sup><a href=\"#fn73-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Atrás de total de matriz.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Atrás<a name=\"rf72-1817\"></a><sup><a href=\"#fn72-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup> de total de matriz<a name=\"rf73-1817\"></a><sup><a href=\"#fn73-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup><a name=\"rf74-1817\"></a><sup><a href=\"#fn74-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Atrás<a name=\"rf74-1817\"></a><sup><a href=\"#fn74-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup> de total de matriz<a name=\"rf75-1817\"></a><sup><a href=\"#fn75-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup><a name=\"rf76-1817\"></a><sup><a href=\"#fn76-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Para o lar de ‘Abimelek.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o lar de<a name=\"rf75-1817\"></a><sup><a href=\"#fn75-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup> ‘Abimelek.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o lar de<a name=\"rf77-1817\"></a><sup><a href=\"#fn77-1817\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup> ‘Abimelek.</p>"
         },
         {
           "line_index": 4,
@@ -1109,204 +1124,216 @@
     {
       "ref_id": "fn42-1817",
       "number": 42,
-      "text": "Observe-se a redundância do verso 10. O mesmo havia sido já dito no verso anterior. Parece correto supor que o verso 10 se faz necessário para introduzir a glosa da deslavada mentira de que Abraão seria meio-irmão de Sara, como se pode ver a seguir. Obviamente, trata-se de estratégia para isentar o “pai da fé” do laivo de ter mentido despudoradamente, duas vezes, caso as narrativas sejam tomadas, como costumam ser, como descrições históricas. Assume-se aqui que os versos 10-13 constituem acréscimo.",
-      "raw_html": "<span>Observe-se a redundância do verso 10. O mesmo havia sido já dito no verso anterior. Parece correto supor que o verso 10 se faz necessário para introduzir a glosa da deslavada mentira de que Abraão seria meio-irmão de Sara, como se pode ver a seguir. Obviamente, trata-se de estratégia para isentar o “pai da fé” do laivo de ter mentido despudoradamente, duas vezes, caso as narrativas sejam tomadas, como costumam ser, como descrições históricas. Assume-se aqui que os versos 10-13 constituem acréscimo. </span>"
+      "text": "“O falado” (haddabar). Trata-se da raiz dbr (“falar”). Conforme o caso, pode significar, além de “fala” (tanto a ação de fala quanto seu conteúdo), também “coisa”, que, nesse caso, pode indicar objetos e acontecimentos. Primeira de 228 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1067\" rel=\"noopener\" target=\"_blank\">O falado</a>” (<em>haddabar</em>). Trata-se da raiz <em>dbr </em>(“falar”). Conforme o caso, pode significar, além de “fala” (tanto a ação de fala quanto seu conteúdo), também “coisa”, que, nesse caso, pode indicar objetos e acontecimentos. Primeira de 228 ocorrências.  </span>"
     },
     {
       "ref_id": "fn43-1817",
       "number": 43,
-      "text": "“Digo eu” (‘amarti). Primeira ocorrência. Cf. Gênesis 20,11; 26,9; 31,31; 42,22; Êxodo 23,13; 32,13; Levítico 17,12; Números 18,24; 24,11.",
-      "raw_html": "<span>“Digo eu” (<em>‘amarti</em>). Primeira ocorrência. Cf. Gênesis 20,11; 26,9; 31,31; 42,22; Êxodo 23,13; 32,13; Levítico 17,12; Números 18,24; 24,11. </span>"
+      "text": "“Falado” (dabar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Falado</a>” (<em>dabar</em>). </span>"
     },
     {
       "ref_id": "fn44-1817",
       "number": 44,
-      "text": "“Unicamente não está” (raq ‘en). Aqui e em Gênesis 37,24; Números 20,19.",
-      "raw_html": "<span>“Unicamente não está” (<em>raq ‘en</em>). Aqui e em Gênesis 37,24; Números 20,19. </span>"
+      "text": "Observe-se a redundância do verso 10. O mesmo havia sido já dito no verso anterior. Parece correto supor que o verso 10 se faz necessário para introduzir a glosa da deslavada mentira de que Abraão seria meio-irmão de Sara, como se pode ver a seguir. Obviamente, trata-se de estratégia para isentar o “pai da fé” do laivo de ter mentido despudoradamente, duas vezes, caso as narrativas sejam tomadas, como costumam ser, como descrições históricas. Assume-se aqui que os versos 10-13 constituem acréscimo.",
+      "raw_html": "<span>Observe-se a redundância do verso 10. O mesmo havia sido já dito no verso anterior. Parece correto supor que o verso 10 se faz necessário para introduzir a glosa da deslavada mentira de que Abraão seria meio-irmão de Sara, como se pode ver a seguir. Obviamente, trata-se de estratégia para isentar o “pai da fé” do laivo de ter mentido despudoradamente, duas vezes, caso as narrativas sejam tomadas, como costumam ser, como descrições históricas. Assume-se aqui que os versos 10-13 constituem acréscimo. </span>"
     },
     {
       "ref_id": "fn45-1817",
       "number": 45,
-      "text": "“Matam” (hrg). Cf. v. 4.",
-      "raw_html": "<span>“Matam” (<em>hrg</em>). Cf. v. 4. </span>"
+      "text": "“Digo eu” (‘amarti). Primeira ocorrência. Cf. Gênesis 20,11; 26,9; 31,31; 42,22; Êxodo 23,13; 32,13; Levítico 17,12; Números 18,24; 24,11.",
+      "raw_html": "<span>“Digo eu” (<em>‘amarti</em>). Primeira ocorrência. Cf. Gênesis 20,11; 26,9; 31,31; 42,22; Êxodo 23,13; 32,13; Levítico 17,12; Números 18,24; 24,11. </span>"
     },
     {
       "ref_id": "fn46-1817",
       "number": 46,
-      "text": "Ou seja: em razão da coisa, por causa de.",
-      "raw_html": "<span>Ou seja: em razão da coisa, por causa de. </span>"
+      "text": "“Unicamente não está” (raq ‘en). Aqui e em Gênesis 37,24; Números 20,19.",
+      "raw_html": "<span>“Unicamente não está” (<em>raq ‘en</em>). Aqui e em Gênesis 37,24; Números 20,19. </span>"
     },
     {
       "ref_id": "fn47-1817",
       "number": 47,
-      "text": "“Verdadeiramente” (‘amnah). Somente em Gênesis 20,12; Josué 7,20.",
-      "raw_html": "<span>“Verdadeiramente” (<em>‘amnah</em>). Somente em Gênesis 20,12; Josué 7,20. </span>"
+      "text": "“Matam” (hrg). Cf. v. 4.",
+      "raw_html": "<span>“Matam” (<em>hrg</em>). Cf. v. 4. </span>"
     },
     {
       "ref_id": "fn48-1817",
       "number": 48,
-      "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "text": "Ou seja: em razão da coisa, por causa de.",
+      "raw_html": "<span>Ou seja: em razão da coisa, por causa de. </span>"
     },
     {
       "ref_id": "fn49-1817",
       "number": 49,
-      "text": "“Fazem errar” traduz forma verbal da raiz t’h. Primeira de 45 ocorrências. O sentido é de “vagar”.",
-      "raw_html": "<span>“Fazem errar” traduz forma verbal da raiz <em>t’h</em>. Primeira de 45 ocorrências. O sentido é de “vagar”. </span>"
+      "text": "“Verdadeiramente” (‘amnah). Somente em Gênesis 20,12; Josué 7,20.",
+      "raw_html": "<span>“Verdadeiramente” (<em>‘amnah</em>). Somente em Gênesis 20,12; Josué 7,20. </span>"
     },
     {
       "ref_id": "fn50-1817",
       "number": 50,
-      "text": "É surpreendente essa declaração. Em termos gramaticais, não há discussão: o verbo “fazem errar” (hit’u) encontra-se conjugado na terceira pessoa do plural, o que significa que o termo ‘elohim está expressando uma grandeza igualmente plural: são elohins, não um ‘Elohim. Não posso tratar a passagem como outra coisa que não um ato falho. Em nenhuma hipótese o narrador pretende dizer “deuses”. Das duas uma: ou se trata de atualizar uma tradição em que o sujeito divino é de fato plural (na hipótese de estarmos diante de uma versão pré-exílica), e o narrador negligencia uma necessária alteração da pessoa verbal (mudar a terceira pessoa plural para singular), ou o próprio narrador comete um ato falho, em razão da forma plural do termo hebraico ‘elohim. Qualquer apego a esse lapso para a defesa de uma posição politeísta do redator final me parece insegura. Por outro lado, explicações relacionadas ao caráter religioso de Abimeleque me parecem forçadas e, a rigor, tecnicamente infundadas, já que não existem nem Abraão nem Abimeleque como realidade: tudo na narrativa deriva do narrador e é por ele determinado. Logo, qualquer explicação razoável deve concentrar-se nele, não nos personagens. De qualquer forma, o resultado da narrativa é exatamente o de deixar registrado que “os deuses me fizeram errar da casa de meu pai”. Uma declaração politeísta posta na boca de Abraão. Qualquer tentativa de contornar o constrangimento com argumentos do tipo “plural majestático” também peca pelo fato de que todos os demais verbos aplicados a Elohim encontram-se no singular. Pode-se mencionar a tradução da Nova Bíblia Pastoral como um belo (e potencialmente único) exemplo entre as traduções nacionais de respeito ao texto hebraico. André Chouraqui também pode ser mencionado como tradutor que prestou atenção ao texto que traduz.",
-      "raw_html": "<span>É surpreendente essa declaração. Em termos gramaticais, não há discussão: o verbo “fazem errar” (<em>hit’u</em>) encontra-se conjugado na terceira pessoa do plural, o que significa que o termo <em>‘elohim</em> está expressando uma grandeza igualmente plural: são <em>elohins</em>, não <em>um</em> ‘Elohim. Não posso tratar a passagem como outra coisa que não um ato falho. Em nenhuma hipótese o narrador pretende dizer “deuses”. Das duas uma: ou se trata de atualizar uma tradição em que o sujeito divino é de fato plural (na hipótese de estarmos diante de uma versão pré-exílica), e o narrador negligencia uma necessária alteração da pessoa verbal (mudar a terceira pessoa plural para singular), ou o próprio narrador comete um ato falho, em razão da forma plural do termo hebraico <em>‘elohim</em>. Qualquer apego a esse lapso para a defesa de uma posição politeísta do redator final me parece insegura. Por outro lado, explicações relacionadas ao caráter religioso de Abimeleque me parecem forçadas e, a rigor, tecnicamente infundadas, já que não existem nem Abraão nem Abimeleque como realidade: tudo na narrativa deriva do narrador e é por ele determinado. Logo, qualquer explicação razoável deve concentrar-se nele, não nos personagens. De qualquer forma, o resultado da narrativa é exatamente o de deixar registrado que “os deuses me fizeram errar da casa de meu pai”. Uma declaração politeísta posta na boca de Abraão. Qualquer tentativa de contornar o constrangimento com argumentos do tipo “plural majestático” também peca pelo fato de que todos os demais verbos aplicados a Elohim encontram-se no singular. <a data-id=\"https://amzn.to/3P4vXpx\" data-type=\"link\" href=\"https://amzn.to/3P4vXpx\" rel=\"noreferrer noopener\" target=\"_blank\">Pode-se mencionar a tradução da Nova Bíblia Pastoral como um belo (e potencialmente único) exemplo entre as traduções nacionais de respeito ao texto hebraico</a>. <a data-id=\"https://amzn.to/3ZgJI9r\" data-type=\"link\" href=\"https://amzn.to/3ZgJI9r\" rel=\"noreferrer noopener\" target=\"_blank\">André Chouraqui também pode ser mencionado como tradutor que prestou atenção ao texto que traduz.</a> </span>"
+      "text": "“E está” (wayehi).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
       "ref_id": "fn51-1817",
       "number": 51,
-      "text": "Para casos de conjugação de verbo no plural para o sujeito ‘elohim, cf. Gênesis 35,2; Êxodo 22,8; 23,13.24; 32,1.4",
-      "raw_html": "<span>Para casos de conjugação de verbo no plural para o sujeito <em>‘elohim</em>, cf. Gênesis 35,2; Êxodo 22,8; 23,13.24; 32,1.4 </span>"
+      "text": "“Fazem errar” traduz forma verbal da raiz t’h. Primeira de 45 ocorrências. O sentido é de “vagar”.",
+      "raw_html": "<span>“Fazem errar” traduz forma verbal da raiz <em>t’h</em>. Primeira de 45 ocorrências. O sentido é de “vagar”. </span>"
     },
     {
       "ref_id": "fn52-1817",
       "number": 52,
-      "text": "“Desde o lar do pai de mim” (mibbet ‘abi). Primeira de 4 ocorrências. Cf. Gênesis 20,13; 24,7; Juízes 11,7; 1 Samuel 24,22.",
-      "raw_html": "<span>“Desde o lar do pai de mim” (<em>mibbet ‘abi</em>). Primeira de 4 ocorrências. Cf. Gênesis 20,13; 24,7; Juízes 11,7; 1 Samuel 24,22. </span>"
+      "text": "É surpreendente essa declaração. Em termos gramaticais, não há discussão: o verbo “fazem errar” (hit’u) encontra-se conjugado na terceira pessoa do plural, o que significa que o termo ‘elohim está expressando uma grandeza igualmente plural: são elohins, não um ‘Elohim. Não posso tratar a passagem como outra coisa que não um ato falho. Em nenhuma hipótese o narrador pretende dizer “deuses”. Das duas uma: ou se trata de atualizar uma tradição em que o sujeito divino é de fato plural (na hipótese de estarmos diante de uma versão pré-exílica), e o narrador negligencia uma necessária alteração da pessoa verbal (mudar a terceira pessoa plural para singular), ou o próprio narrador comete um ato falho, em razão da forma plural do termo hebraico ‘elohim. Qualquer apego a esse lapso para a defesa de uma posição politeísta do redator final me parece insegura. Por outro lado, explicações relacionadas ao caráter religioso de Abimeleque me parecem forçadas e, a rigor, tecnicamente infundadas, já que não existem nem Abraão nem Abimeleque como realidade: tudo na narrativa deriva do narrador e é por ele determinado. Logo, qualquer explicação razoável deve concentrar-se nele, não nos personagens. De qualquer forma, o resultado da narrativa é exatamente o de deixar registrado que “os deuses me fizeram errar da casa de meu pai”. Uma declaração politeísta posta na boca de Abraão. Qualquer tentativa de contornar o constrangimento com argumentos do tipo “plural majestático” também peca pelo fato de que todos os demais verbos aplicados a Elohim encontram-se no singular. Pode-se mencionar a tradução da Nova Bíblia Pastoral como um belo (e potencialmente único) exemplo entre as traduções nacionais de respeito ao texto hebraico. André Chouraqui também pode ser mencionado como tradutor que prestou atenção ao texto que traduz.",
+      "raw_html": "<span>É surpreendente essa declaração. Em termos gramaticais, não há discussão: o verbo “fazem errar” (<em>hit’u</em>) encontra-se conjugado na terceira pessoa do plural, o que significa que o termo <em>‘elohim</em> está expressando uma grandeza igualmente plural: são <em>elohins</em>, não <em>um</em> ‘Elohim. Não posso tratar a passagem como outra coisa que não um ato falho. Em nenhuma hipótese o narrador pretende dizer “deuses”. Das duas uma: ou se trata de atualizar uma tradição em que o sujeito divino é de fato plural (na hipótese de estarmos diante de uma versão pré-exílica), e o narrador negligencia uma necessária alteração da pessoa verbal (mudar a terceira pessoa plural para singular), ou o próprio narrador comete um ato falho, em razão da forma plural do termo hebraico <em>‘elohim</em>. Qualquer apego a esse lapso para a defesa de uma posição politeísta do redator final me parece insegura. Por outro lado, explicações relacionadas ao caráter religioso de Abimeleque me parecem forçadas e, a rigor, tecnicamente infundadas, já que não existem nem Abraão nem Abimeleque como realidade: tudo na narrativa deriva do narrador e é por ele determinado. Logo, qualquer explicação razoável deve concentrar-se nele, não nos personagens. De qualquer forma, o resultado da narrativa é exatamente o de deixar registrado que “os deuses me fizeram errar da casa de meu pai”. Uma declaração politeísta posta na boca de Abraão. Qualquer tentativa de contornar o constrangimento com argumentos do tipo “plural majestático” também peca pelo fato de que todos os demais verbos aplicados a Elohim encontram-se no singular. <a data-id=\"https://amzn.to/3P4vXpx\" data-type=\"link\" href=\"https://amzn.to/3P4vXpx\" rel=\"noreferrer noopener\" target=\"_blank\">Pode-se mencionar a tradução da Nova Bíblia Pastoral como um belo (e potencialmente único) exemplo entre as traduções nacionais de respeito ao texto hebraico</a>. <a data-id=\"https://amzn.to/3ZgJI9r\" data-type=\"link\" href=\"https://amzn.to/3ZgJI9r\" rel=\"noreferrer noopener\" target=\"_blank\">André Chouraqui também pode ser mencionado como tradutor que prestou atenção ao texto que traduz.</a> </span>"
     },
     {
       "ref_id": "fn53-1817",
       "number": 53,
-      "text": "“O comprometimento de” (hesed).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGY\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGY\" rel=\"noreferrer noopener\" target=\"_blank\">O comprometimento de</a>” (<em>hesed</em>). </span>"
+      "text": "Para casos de conjugação de verbo no plural para o sujeito ‘elohim, cf. Gênesis 35,2; Êxodo 22,8; 23,13.24; 32,1.4",
+      "raw_html": "<span>Para casos de conjugação de verbo no plural para o sujeito <em>‘elohim</em>, cf. Gênesis 35,2; Êxodo 22,8; 23,13.24; 32,1.4 </span>"
     },
     {
       "ref_id": "fn54-1817",
       "number": 54,
-      "text": "“Total do lugar. Que” (kol-hammaqom ‘asher). Somente em Gênesis 20,13; Deuteronômio 11,24.",
-      "raw_html": "<span>“Total do lugar. Que” (<em>kol-hammaqom ‘asher</em>). Somente em Gênesis 20,13; Deuteronômio 11,24. </span>"
+      "text": "“Desde o lar do pai de mim” (mibbet ‘abi). Primeira de 4 ocorrências. Cf. Gênesis 20,13; 24,7; Juízes 11,7; 1 Samuel 24,22.",
+      "raw_html": "<span>“Desde o lar do pai de mim” (<em>mibbet ‘abi</em>). Primeira de 4 ocorrências. Cf. Gênesis 20,13; 24,7; Juízes 11,7; 1 Samuel 24,22. </span>"
     },
     {
       "ref_id": "fn55-1817",
       "number": 55,
-      "text": "Ovelhas e cabras.",
-      "raw_html": "<span>Ovelhas e cabras. </span>"
+      "text": "“O comprometimento de” (hesed).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGY\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGY\" rel=\"noreferrer noopener\" target=\"_blank\">O comprometimento de</a>” (<em>hesed</em>). </span>"
     },
     {
       "ref_id": "fn56-1817",
       "number": 56,
-      "text": "Bois e vacas.",
-      "raw_html": "<span>Bois e vacas. </span>"
+      "text": "“Total do lugar. Que” (kol-hammaqom ‘asher). Somente em Gênesis 20,13; Deuteronômio 11,24.",
+      "raw_html": "<span>“Total do lugar. Que” (<em>kol-hammaqom ‘asher</em>). Somente em Gênesis 20,13; Deuteronômio 11,24. </span>"
     },
     {
       "ref_id": "fn57-1817",
       "number": 57,
-      "text": "“A mulher dele” (‘ishto).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0482\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0482\" rel=\"noopener\" target=\"_blank\">A mulher dele</a>” (<em>‘ishto</em>). </span>"
+      "text": "Ovelhas e cabras.",
+      "raw_html": "<span>Ovelhas e cabras. </span>"
     },
     {
       "ref_id": "fn58-1817",
       "number": 58,
-      "text": "Cf. v. 1 e nota.",
-      "raw_html": "<span>Cf. v. 1 e nota. </span>"
+      "text": "Bois e vacas.",
+      "raw_html": "<span>Bois e vacas. </span>"
     },
     {
       "ref_id": "fn59-1817",
       "number": 59,
-      "text": "“Mil” (‘elep). Cf. Gênesis 20,16; 24,60; Êxodo 12,37; 18,21.25; 20,6.",
-      "raw_html": "<span>“Mil” (<em>‘elep</em>). Cf. Gênesis 20,16; 24,60; Êxodo 12,37; 18,21.25; 20,6. </span>"
-    },
-    {
-      "ref_id": "fn60-1817",
-      "number": 60,
-      "text": "“Ela é para ti” (hu’ lak). A rigor, seria “ele”. O termo kesep é masculino em hebraico, mas feminino em língua portuguesa. Primeira de 4 ocorrências. Cf. Gênesis 20,16; 27,38; Êxodo 4,16.",
-      "raw_html": "<span>“Ela é para ti” (<em>hu’ lak</em>). A rigor, seria “ele”. O termo <em>kesep</em> é masculino em hebraico, mas feminino em língua portuguesa. Primeira de 4 ocorrências. Cf. Gênesis 20,16; 27,38; Êxodo 4,16. </span>"
-    },
-    {
-      "ref_id": "fn61-1817",
-      "number": 61,
-      "text": "“Cobertura” (kesut). Primeira de 8 ocorrências. Cf. Êxodo 21,10.",
-      "raw_html": "<span>“Cobertura” (<em>kesut</em>). Primeira de 8 ocorrências. Cf. Êxodo 21,10. </span>"
-    },
-    {
-      "ref_id": "fn62-1817",
-      "number": 62,
-      "text": "“Para totaliade que” (lekol). Cf. Êxodo 36,1; Levítico 5,4.",
-      "raw_html": "<span>“Para totaliade que” (<em>lekol</em>). Cf. Êxodo 36,1; Levítico 5,4. </span>"
-    },
-    {
-      "ref_id": "fn63-1817",
-      "number": 63,
-      "text": "“Intercede-se” (pll). Forma reflexiva da raiz. Cf. Gênesis 20,7.17; 48,11; Números 11,22; 21,7.",
-      "raw_html": "<span>“Intercede-se” (<em>pll</em>). Forma reflexiva da raiz. Cf. Gênesis 20,7.17; 48,11; Números 11,22; 21,7. </span>"
-    },
-    {
-      "ref_id": "fn64-1817",
-      "number": 64,
-      "text": "“Atrás” (ba’ar). Cf. Gênesis 7,16.",
-      "raw_html": "<span>“Atrás” (<em>ba’ar</em>). Cf. Gênesis 7,16. </span>"
-    },
-    {
-      "ref_id": "fn65-1817",
-      "number": 65,
-      "text": "“Cura” traduz forma verbal da raiz rp’. Primeira de 65 ocorrências. Cf. Gênesis 50,2; Êxodo 15,26; 21,19; Levítico 13,18.",
-      "raw_html": "<span>“Cura” traduz forma verbal da raiz <em>rp’</em>. Primeira de 65 ocorrências. Cf. Gênesis 50,2; Êxodo 15,26; 21,19; Levítico 13,18. </span>"
-    },
-    {
-      "ref_id": "fn66-1817",
-      "number": 66,
       "text": "“A mulher dele” (‘ishto).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0482\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0482\" rel=\"noopener\" target=\"_blank\">A mulher dele</a>” (<em>‘ishto</em>). </span>"
     },
     {
+      "ref_id": "fn60-1817",
+      "number": 60,
+      "text": "Cf. v. 1 e nota.",
+      "raw_html": "<span>Cf. v. 1 e nota. </span>"
+    },
+    {
+      "ref_id": "fn61-1817",
+      "number": 61,
+      "text": "“Mil” (‘elep). Cf. Gênesis 20,16; 24,60; Êxodo 12,37; 18,21.25; 20,6.",
+      "raw_html": "<span>“Mil” (<em>‘elep</em>). Cf. Gênesis 20,16; 24,60; Êxodo 12,37; 18,21.25; 20,6. </span>"
+    },
+    {
+      "ref_id": "fn62-1817",
+      "number": 62,
+      "text": "“Ela é para ti” (hu’ lak). A rigor, seria “ele”. O termo kesep é masculino em hebraico, mas feminino em língua portuguesa. Primeira de 4 ocorrências. Cf. Gênesis 20,16; 27,38; Êxodo 4,16.",
+      "raw_html": "<span>“Ela é para ti” (<em>hu’ lak</em>). A rigor, seria “ele”. O termo <em>kesep</em> é masculino em hebraico, mas feminino em língua portuguesa. Primeira de 4 ocorrências. Cf. Gênesis 20,16; 27,38; Êxodo 4,16. </span>"
+    },
+    {
+      "ref_id": "fn63-1817",
+      "number": 63,
+      "text": "“Cobertura” (kesut). Primeira de 8 ocorrências. Cf. Êxodo 21,10.",
+      "raw_html": "<span>“Cobertura” (<em>kesut</em>). Primeira de 8 ocorrências. Cf. Êxodo 21,10. </span>"
+    },
+    {
+      "ref_id": "fn64-1817",
+      "number": 64,
+      "text": "“Para totalidade que” (lekol). Cf. Êxodo 36,1; Levítico 5,4.",
+      "raw_html": "<span>“Para totalidade que” (<em>lekol</em>). Cf. Êxodo 36,1; Levítico 5,4. </span>"
+    },
+    {
+      "ref_id": "fn65-1817",
+      "number": 65,
+      "text": "“Intercede-se” (pll). Forma reflexiva da raiz. Cf. Gênesis 20,7.17; 48,11; Números 11,22; 21,7.",
+      "raw_html": "<span>“Intercede-se” (<em>pll</em>). Forma reflexiva da raiz. Cf. Gênesis 20,7.17; 48,11; Números 11,22; 21,7. </span>"
+    },
+    {
+      "ref_id": "fn66-1817",
+      "number": 66,
+      "text": "“Atrás” (ba’ar). Cf. Gênesis 7,16.",
+      "raw_html": "<span>“Atrás” (<em>ba’ar</em>). Cf. Gênesis 7,16. </span>"
+    },
+    {
       "ref_id": "fn67-1817",
       "number": 67,
-      "text": "“Amas” traduz aqui o plural de ‘amah, que tem a ideia de “aia” ou “criada”. Costuma-se traduzir como “serva”. O termo volta a aparecer em Gênesis 21,10.12.13; 30,3; 31,33 e Êxodo 2,5.",
-      "raw_html": "<span>“Amas” traduz aqui o plural de <em>‘amah</em>, que tem a ideia de “aia” ou “criada”. Costuma-se traduzir como “serva”. O termo volta a aparecer em Gênesis 21,10.12.13; 30,3; 31,33 e Êxodo 2,5. </span>"
+      "text": "“Cura” traduz forma verbal da raiz rp’. Primeira de 65 ocorrências. Cf. Gênesis 50,2; Êxodo 15,26; 21,19; Levítico 13,18.",
+      "raw_html": "<span>“Cura” traduz forma verbal da raiz <em>rp’</em>. Primeira de 65 ocorrências. Cf. Gênesis 50,2; Êxodo 15,26; 21,19; Levítico 13,18. </span>"
     },
     {
       "ref_id": "fn68-1817",
       "number": 68,
-      "text": "Quer dizer, elas voltam a poder gerar.",
-      "raw_html": "<span>Quer dizer, elas voltam a poder gerar. </span>"
+      "text": "“A mulher dele” (‘ishto).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0482\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0482\" rel=\"noopener\" target=\"_blank\">A mulher dele</a>” (<em>‘ishto</em>). </span>"
     },
     {
       "ref_id": "fn69-1817",
       "number": 69,
-      "text": "“Deter” (‘tsr). Forma infinitiva da raiz. Cf. Gênesis 16,2; 20,18.",
-      "raw_html": "<span>“Deter” (<em>‘tsr</em>). Forma infinitiva da raiz. Cf. Gênesis 16,2; 20,18. </span>"
+      "text": "“Amas” traduz aqui o plural de ‘amah, que tem a ideia de “aia” ou “criada”. Costuma-se traduzir como “serva”. O termo volta a aparecer em Gênesis 21,10.12.13; 30,3; 31,33 e Êxodo 2,5.",
+      "raw_html": "<span>“Amas” traduz aqui o plural de <em>‘amah</em>, que tem a ideia de “aia” ou “criada”. Costuma-se traduzir como “serva”. O termo volta a aparecer em Gênesis 21,10.12.13; 30,3; 31,33 e Êxodo 2,5. </span>"
     },
     {
       "ref_id": "fn70-1817",
       "number": 70,
-      "text": "“Deteve” (‘tsr). Cf. acima.",
-      "raw_html": "<span>“Deteve” (<em>‘tsr</em>). Cf. acima. </span>"
+      "text": "Quer dizer, elas voltam a poder gerar.",
+      "raw_html": "<span>Quer dizer, elas voltam a poder gerar. </span>"
     },
     {
       "ref_id": "fn71-1817",
       "number": 71,
-      "text": "O verso 18 é certamente uma glosa. O capítulo trata a divindade como Elohim. O texto trata muito abruptamente do retorno da fertilidade às mulheres de Abimeleque. Um escriba acha que pode deixar as coisas mais claras, e escreve a sua explicação para o verso abruptamente concluído, mas, ao fazê-lo, emprega não mais o termo Elohim, mas o termo Yahweh. Eis a confusão, que passa despercebida em Bíblias que usam a dupla “Deus” e “Senhor”, que certamente não diz nada nem coisa nenhuma aos olhos de leitores nada atentos quanto à condição compósita dos textos bíblicos. Para olhos de ver, chega a ser um pedregulho na calçada!",
-      "raw_html": "<span>O verso 18 é certamente uma glosa. O capítulo trata a divindade como Elohim. O texto trata muito abruptamente do retorno da fertilidade às mulheres de Abimeleque. Um escriba acha que pode deixar as coisas mais claras, e escreve a sua explicação para o verso abruptamente concluído, mas, ao fazê-lo, emprega não mais o termo Elohim, mas o termo Yahweh. Eis a confusão, que passa despercebida em Bíblias que usam a dupla “Deus” e “Senhor”, que certamente não diz nada nem coisa nenhuma aos olhos de leitores nada atentos quanto à condição compósita dos textos bíblicos. Para olhos de ver, chega a ser um pedregulho na calçada! </span>"
+      "text": "“Deter” (‘tsr). Forma infinitiva da raiz. Cf. Gênesis 16,2; 20,18.",
+      "raw_html": "<span>“Deter” (<em>‘tsr</em>). Forma infinitiva da raiz. Cf. Gênesis 16,2; 20,18. </span>"
     },
     {
       "ref_id": "fn72-1817",
       "number": 72,
-      "text": "Cf. v. 7.",
-      "raw_html": "<span>Cf. v. 7. </span>"
+      "text": "“Deteve” (‘tsr). Cf. acima.",
+      "raw_html": "<span>“Deteve” (<em>‘tsr</em>). Cf. acima. </span>"
     },
     {
       "ref_id": "fn73-1817",
       "number": 73,
-      "text": "“Total de matriz” (kol-rehem). Aqui e em Êxodo 13,2; Números 8,16.",
-      "raw_html": "<span>“Total de matriz” (<em>kol-rehem</em>). Aqui e em Êxodo 13,2; Números 8,16. </span>"
+      "text": "O verso 18 é certamente uma glosa. O capítulo trata a divindade como Elohim. O texto trata muito abruptamente do retorno da fertilidade às mulheres de Abimeleque. Um escriba acha que pode deixar as coisas mais claras, e escreve a sua explicação para o verso abruptamente concluído, mas, ao fazê-lo, emprega não mais o termo Elohim, mas o termo Yahweh. Eis a confusão, que passa despercebida em Bíblias que usam a dupla “Deus” e “Senhor”, que certamente não diz nada nem coisa nenhuma aos olhos de leitores nada atentos quanto à condição compósita dos textos bíblicos. Para olhos de ver, chega a ser um pedregulho na calçada!",
+      "raw_html": "<span>O verso 18 é certamente uma glosa. O capítulo trata a divindade como Elohim. O texto trata muito abruptamente do retorno da fertilidade às mulheres de Abimeleque. Um escriba acha que pode deixar as coisas mais claras, e escreve a sua explicação para o verso abruptamente concluído, mas, ao fazê-lo, emprega não mais o termo Elohim, mas o termo Yahweh. Eis a confusão, que passa despercebida em Bíblias que usam a dupla “Deus” e “Senhor”, que certamente não diz nada nem coisa nenhuma aos olhos de leitores nada atentos quanto à condição compósita dos textos bíblicos. Para olhos de ver, chega a ser um pedregulho na calçada! </span>"
     },
     {
       "ref_id": "fn74-1817",
       "number": 74,
-      "text": "“Matriz” (rehem). Primeira de 75 ocorrências. Cf. Gênesis 29,31 e Êxodo 13,2.",
-      "raw_html": "<span>“Matriz” (<em>rehem</em>). Primeira de 75 ocorrências. Cf. Gênesis 29,31 e Êxodo 13,2. </span>"
+      "text": "Cf. v. 7.",
+      "raw_html": "<span>Cf. v. 7. </span>"
     },
     {
       "ref_id": "fn75-1817",
       "number": 75,
+      "text": "“Total de matriz” (kol-rehem). Aqui e em Êxodo 13,2; Números 8,16.",
+      "raw_html": "<span>“Total de matriz” (<em>kol-rehem</em>). Aqui e em Êxodo 13,2; Números 8,16. </span>"
+    },
+    {
+      "ref_id": "fn76-1817",
+      "number": 76,
+      "text": "“Matriz” (rehem). Primeira de 75 ocorrências. Cf. Gênesis 29,31 e Êxodo 13,2.",
+      "raw_html": "<span>“Matriz” (<em>rehem</em>). Primeira de 75 ocorrências. Cf. Gênesis 29,31 e Êxodo 13,2. </span>"
+    },
+    {
+      "ref_id": "fn77-1817",
+      "number": 77,
       "text": "“Para o lar de” ( lebet). Primeira de 170 ocorrências.",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGR\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGR\" rel=\"noreferrer noopener\" target=\"_blank\">Para o lar de</a>” (<em> lebet</em>). Primeira de 170 ocorrências. </span>"
     }

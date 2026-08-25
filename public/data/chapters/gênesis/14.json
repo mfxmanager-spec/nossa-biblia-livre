@@ -114,20 +114,25 @@
     },
     {
       "number": 3,
-      "text": "Total desses. Unemeles ao Vale do Sidim. Ele é o mar do sal.",
+      "text": "O total desses. Ligam eles. Ao Vale do Sidim. Ele é o mar do sal.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Total desses.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Total desses.</p>"
+          "text": "O total desses.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O total desses.</p>"
         },
         {
           "line_index": 1,
-          "text": "Unemeles ao Vale do Sidim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Unem<a name=\"rf27-1974\"></a><sup><a href=\"#fn27-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup>eles ao Vale do Sidim<a name=\"rf28-1974\"></a><sup><a href=\"#fn28-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
+          "text": "Ligam eles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ligam eles<a name=\"rf27-1974\"></a><sup><a href=\"#fn27-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup>.</p>"
         },
         {
           "line_index": 2,
+          "text": "Ao Vale do Sidim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao Vale do Sidim<a name=\"rf28-1974\"></a><sup><a href=\"#fn28-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "Ele é o mar do sal.",
           "raw_html": "<p class=\"wp-block-paragraph\">Ele é o mar do sal<a name=\"rf29-1974\"></a><sup><a href=\"#fn29-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup>.</p>"
         }
@@ -1240,8 +1245,8 @@
     {
       "ref_id": "fn27-1974",
       "number": 27,
-      "text": "“Unem” traduz forma verbal simples da raiz hbr. Primeira de 52 ocorrências.",
-      "raw_html": "<span>“Unem” traduz forma verbal simples da raiz <em>hbr</em>. Primeira de 52 ocorrências. </span>"
+      "text": "“Ligam” traduz forma verbal simples da raiz hbr. Os léxicos tratam como duas raízes. Aqui, se unificam todas as ocorrências. Cf. Gênesis 4,23; Isaías 1,6.",
+      "raw_html": "<span>“Ligam” traduz forma verbal simples da raiz <em>hbr</em>. Os léxicos tratam como duas raízes. Aqui, se unificam todas as ocorrências. Cf. Gênesis 4,23; Isaías 1,6. </span>"
     },
     {
       "ref_id": "fn28-1974",

@@ -183,7 +183,7 @@
     },
     {
       "number": 7,
-      "text": "Que Yahweh. O deus de ti. Abençoa ele tu. No total do afazer da mão de ti. E conheceele o andar de ti. O desertogrande esse. Esse. Quarenta. Mudança. Yahweh. O deus de ti. Está contigo. Nãofaltastu fala.",
+      "text": "Que Yahweh. O deus de ti. Abençoa ele tu. No total do afazer da mão de ti. E conheceele o andar de ti. O desertogrande esse. Esse. Quarenta. Mudança. Yahweh. O deus de ti. Está contigo. Não faltastu. Falado.",
       "lines": [
         {
           "line_index": 0,
@@ -247,8 +247,13 @@
         },
         {
           "line_index": 12,
-          "text": "Nãofaltastu fala.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não<a name=\"rf67-13418\"></a><sup><a href=\"#fn67-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>faltas<a name=\"rf68-13418\"></a><sup><a href=\"#fn68-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>tu fala<a name=\"rf69-13418\"></a><sup><a href=\"#fn69-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "text": "Não faltastu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não<a name=\"rf67-13418\"></a><sup><a href=\"#fn67-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup> faltas<a name=\"rf68-13418\"></a><sup><a href=\"#fn68-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>tu.</p>"
+        },
+        {
+          "line_index": 13,
+          "text": "Falado.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Falado<a name=\"rf69-13418\"></a><sup><a href=\"#fn69-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
         }
       ]
     },
@@ -1047,35 +1052,40 @@
     },
     {
       "number": 26,
-      "text": "E envio eu mensageiros. Desde o deserto de Qedemot. A Sihon. Rei de Heshbon. Falasde fartura. Para dizer.",
+      "text": "E envio eu. Mensageiros. Desde o deserto de Qedemot. A Sihon. Rei de Heshbon. Falados de fartura. Para dizer.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E envio eu mensageiros.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E envio eu mensageiros.</p>"
+          "text": "E envio eu.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E envio eu.</p>"
         },
         {
           "line_index": 1,
+          "text": "Mensageiros.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Mensageiros.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "Desde o deserto de Qedemot.",
           "raw_html": "<p class=\"wp-block-paragraph\">Desde o deserto de Qedemot.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 3,
           "text": "A Sihon.",
           "raw_html": "<p class=\"wp-block-paragraph\">A Sihon.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "Rei de Heshbon.",
           "raw_html": "<p class=\"wp-block-paragraph\">Rei de Heshbon.</p>"
         },
         {
-          "line_index": 4,
-          "text": "Falasde fartura.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Falas<a name=\"rf243-13418\"></a><sup><a href=\"#fn243-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 243\">243</a></sup>de fartura.</p>"
+          "line_index": 5,
+          "text": "Falados de fartura.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Falados de<a name=\"rf243-13418\"></a><sup><a href=\"#fn243-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 243\">243</a></sup> fartura.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Para dizer.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf244-13418\"></a><sup><a href=\"#fn244-13418\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 244\">244</a></sup>.</p>"
         }
@@ -1925,8 +1935,8 @@
     {
       "ref_id": "fn69-13418",
       "number": 69,
-      "text": "“Fala” (dabar). Aqui, significa “coisa”. O sujeito não tem falta de coisa alguma. Cf. Gênesis 11,1; Deuteronômio 2,7.26.",
-      "raw_html": "<span>“Fala” (<em>dabar</em>). Aqui, significa “coisa”. O sujeito não tem falta de coisa alguma. Cf. Gênesis 11,1; Deuteronômio 2,7.26. </span>"
+      "text": "“Falado” (dabar). Aqui, significa “coisa”. O sujeito não tem falta de coisa alguma. Cf. Gênesis 11,1; Deuteronômio 2,7.26.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Falado</a>” (<em>dabar</em>). Aqui, significa “coisa”. O sujeito não tem falta de coisa alguma. Cf. Gênesis 11,1; Deuteronômio 2,7.26. </span>"
     },
     {
       "ref_id": "fn70-13418",
@@ -2969,8 +2979,8 @@
     {
       "ref_id": "fn243-13418",
       "number": 243,
-      "text": "“Fala” (dabar). Cf. Gênesis 11,1; Deuteronômio 2,7.26.",
-      "raw_html": "<span>“Fala” (<em>dabar</em>). Cf. Gênesis 11,1; Deuteronômio 2,7.26. </span>"
+      "text": "“Falados de” (dabar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Falados de</a>” (<em>dabar</em>). </span>"
     },
     {
       "ref_id": "fn244-13418",
