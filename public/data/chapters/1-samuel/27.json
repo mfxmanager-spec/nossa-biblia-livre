@@ -753,12 +753,12 @@
         {
           "line_index": 7,
           "text": "E está ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está ele<a name=\"rf129-24105\"></a><sup><a href=\"#fn129-24105\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está ele<a name=\"rf129-24105\"></a><sup><a href=\"#fn129-24105\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup><a name=\"rf130-24105\"></a><sup><a href=\"#fn130-24105\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup>.</p>"
         },
         {
           "line_index": 8,
           "text": "Para mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para mim<a name=\"rf130-24105\"></a><sup><a href=\"#fn130-24105\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para mim<a name=\"rf131-24105\"></a><sup><a href=\"#fn131-24105\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -1545,12 +1545,18 @@
     {
       "ref_id": "fn129-24105",
       "number": 129,
-      "text": "“Está ele” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noreferrer noopener\" target=\"_blank\">Está ele</a>” (<em>hyh</em>). </span>"
+      "text": "“E está ele” (wehayah).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1073\" rel=\"noopener\" target=\"_blank\">E está ele</a>” (<em>wehayah</em>). </span>"
     },
     {
       "ref_id": "fn130-24105",
       "number": 130,
+      "text": "“Está ele” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noreferrer noopener\" target=\"_blank\">Está ele</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn131-24105",
+      "number": 131,
       "text": "“Para mim” (li). Cf. Gênesis 3,12; 1 Samuel 2,28.30.35; 3,5.6.8; 9,18; 10,15; 12,1.12.23; 14,43; 16,1.3.17; 17,10; 18,17; 20,10.20.29; 21,10; 22,3.15; 24,7.20.22; 25,21.33; 26,11; 27,1.5.12; 28,7.8.11.15; 30,7.15.",
       "raw_html": "<span>“Para mim” (<em>li</em>). Cf. Gênesis 3,12; 1 Samuel 2,28.30.35; 3,5.6.8; 9,18; 10,15; 12,1.12.23; 14,43; 16,1.3.17; 17,10; 18,17; 20,10.20.29; 21,10; 22,3.15; 24,7.20.22; 25,21.33; 26,11; 27,1.5.12; 28,7.8.11.15; 30,7.15. </span>"
     }

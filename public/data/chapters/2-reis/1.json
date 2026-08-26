@@ -1293,12 +1293,12 @@
         {
           "line_index": 8,
           "text": "O rei de Yehudah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf100-35083\"></a><sup><a href=\"#fn100-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup> Yehudah.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O rei de<a name=\"rf100-35083\"></a><sup><a href=\"#fn100-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup> Yehudah<a name=\"rf101-35083\"></a><sup><a href=\"#fn101-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>.</p>"
         },
         {
           "line_index": 9,
           "text": "Que não está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que não está<a name=\"rf101-35083\"></a><sup><a href=\"#fn101-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que não está<a name=\"rf102-35083\"></a><sup><a href=\"#fn102-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
         },
         {
           "line_index": 10,
@@ -1308,7 +1308,7 @@
         {
           "line_index": 11,
           "text": "Filho.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Filho<a name=\"rf102-35083\"></a><sup><a href=\"#fn102-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Filho<a name=\"rf103-35083\"></a><sup><a href=\"#fn103-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
         }
       ]
     },
@@ -1319,12 +1319,12 @@
         {
           "line_index": 0,
           "text": "E o permanecente dos falados de ‘Ahazyahu.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E o permanecente dos falados de<a name=\"rf103-35083\"></a><sup><a href=\"#fn103-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup> ‘Ahazyahu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E o permanecente dos falados de<a name=\"rf104-35083\"></a><sup><a href=\"#fn104-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup> ‘Ahazyahu.</p>"
         },
         {
           "line_index": 1,
           "text": "Que faz ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf104-35083\"></a><sup><a href=\"#fn104-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup> faz ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf105-35083\"></a><sup><a href=\"#fn105-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup> faz ele.</p>"
         },
         {
           "line_index": 2,
@@ -1344,12 +1344,12 @@
         {
           "line_index": 5,
           "text": "Sobre o rolo dos falados dos dias.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o rolo dos falados dos<a name=\"rf105-35083\"></a><sup><a href=\"#fn105-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup> dias<a name=\"rf106-35083\"></a><sup><a href=\"#fn106-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup><a name=\"rf107-35083\"></a><sup><a href=\"#fn107-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre o rolo dos falados dos<a name=\"rf106-35083\"></a><sup><a href=\"#fn106-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup> dias<a name=\"rf107-35083\"></a><sup><a href=\"#fn107-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup><a name=\"rf108-35083\"></a><sup><a href=\"#fn108-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Para os reis de Yisra’el?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para os reis de<a name=\"rf108-35083\"></a><sup><a href=\"#fn108-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup> Yisra’el?</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para os reis de<a name=\"rf109-35083\"></a><sup><a href=\"#fn109-35083\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup> Yisra’el?</p>"
         },
         {
           "line_index": 7,
@@ -1968,48 +1968,54 @@
     {
       "ref_id": "fn101-35083",
       "number": 101,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+      "text": "“Yehudah” (yehudah).",
+      "raw_html": "<span>“<a href=\"https://nossabiblialivre.com/referencias/#0307\" rel=\"noopener\" target=\"_blank\">Yehudah</a>” (<em>yehudah</em>). </span>"
     },
     {
       "ref_id": "fn102-35083",
       "number": 102,
-      "text": "“Filho” (ben).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKO\" rel=\"noopener\" target=\"_blank\">Filho</a>” (<em>ben</em>). </span>"
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn103-35083",
       "number": 103,
-      "text": "“Os falados de” (dabar).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Os falados de</a>” (<em>dabar</em>). </span>"
+      "text": "“Filho” (ben).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKO\" rel=\"noopener\" target=\"_blank\">Filho</a>” (<em>ben</em>). </span>"
     },
     {
       "ref_id": "fn104-35083",
       "number": 104,
-      "text": "“Que” (‘asher).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/00243\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00243\" rel=\"noopener\" target=\"_blank\">Que</a>” (<em>‘asher</em>). </span>"
+      "text": "“Os falados de” (dabar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Os falados de</a>” (<em>dabar</em>). </span>"
     },
     {
       "ref_id": "fn105-35083",
       "number": 105,
-      "text": "“Os falados dos” (dabar).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Os falados dos</a>” (<em>dabar</em>). </span>"
+      "text": "“Que” (‘asher).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/00243\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00243\" rel=\"noopener\" target=\"_blank\">Que</a>” (<em>‘asher</em>). </span>"
     },
     {
       "ref_id": "fn106-35083",
       "number": 106,
-      "text": "“Dias” (yamim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0802\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0802\" rel=\"noopener\" target=\"_blank\">Dias</a>” (<em>yamim</em>). </span>"
+      "text": "“Os falados dos” (dabar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Os falados dos</a>” (<em>dabar</em>). </span>"
     },
     {
       "ref_id": "fn107-35083",
       "number": 107,
-      "text": "“Dias” (yom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dias</a>” (<em>yom</em>). </span>"
+      "text": "“Dias” (yamim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0802\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0802\" rel=\"noopener\" target=\"_blank\">Dias</a>” (<em>yamim</em>). </span>"
     },
     {
       "ref_id": "fn108-35083",
       "number": 108,
+      "text": "“Dias” (yom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dias</a>” (<em>yom</em>). </span>"
+    },
+    {
+      "ref_id": "fn109-35083",
+      "number": 109,
       "text": "“Os reis de” (melek).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFB\" rel=\"noopener\" target=\"_blank\">Os reis de</a>” (<em>melek</em>). </span>"
     }

@@ -180,7 +180,7 @@
     },
     {
       "number": 4,
-      "text": "Tomado está. Favor. Pouco de aquosos. E banhai vós os pés de vós. E descansados estai vós. Debaixo do arbóreo.",
+      "text": "Tomado está. Favor. Pouco de aquosos. E banhai vós os pés de vós. E escorados estai vósde pão. E sustende vós o coração de vós. Depois passais vós. Que sobre assim. Passais vós. Sobre o servo de vós. E dizem eles. Assim fazes tu. Conforme que falas tu.",
       "lines": [
         {
           "line_index": 0,
@@ -204,62 +204,46 @@
         },
         {
           "line_index": 4,
-          "text": "E descansados estai vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E descansados estai vós.</p>"
+          "text": "E escorados estai vósde pão.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E escorados estai vós<a name=\"rf28-2092\"></a><sup><a href=\"#fn28-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>de pão.</p>"
         },
         {
           "line_index": 5,
-          "text": "Debaixo do arbóreo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Debaixo do arbóreo.</p>"
-        }
-      ]
-    },
-    {
-      "number": 5,
-      "text": "E tome eu nacode pão. E sustende vós o coração de vós. Depois passais vós. Que sobre assim. Passais vós. Sobre o servo de vós. E dizem eles. Assim fazes tu. Conforme que falas tu.",
-      "lines": [
-        {
-          "line_index": 0,
-          "text": "E tome eu nacode pão.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E tome eu naco<a name=\"rf28-2092\"></a><sup><a href=\"#fn28-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>de pão.</p>"
-        },
-        {
-          "line_index": 1,
           "text": "E sustende vós o coração de vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">E sustende vós o coração de vós.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 6,
           "text": "Depois passais vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">Depois passais vós.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 7,
           "text": "Que sobre assim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que sobre<a name=\"rf29-2092\"></a><sup><a href=\"#fn29-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup> assim<a name=\"rf30-2092\"></a><sup><a href=\"#fn30-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 8,
           "text": "Passais vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">Passais vós<a name=\"rf31-2092\"></a><sup><a href=\"#fn31-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 9,
           "text": "Sobre o servo de vós.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre o servo de vós.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 10,
           "text": "E dizem eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E dizem eles.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 11,
           "text": "Assim fazes tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">Assim fazes tu.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 12,
           "text": "Conforme que falas tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">Conforme que falas tu<a name=\"rf32-2092\"></a><sup><a href=\"#fn32-2092\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup>.</p>"
         }
@@ -1660,8 +1644,8 @@
     {
       "ref_id": "fn28-2092",
       "number": 28,
-      "text": "“Naco” (pat). Primeira de 16 ocorrências. Cf. Levítico 2,6.",
-      "raw_html": "<span>“Naco” (<em>pat</em>). Primeira de 16 ocorrências. Cf. Levítico 2,6. </span>"
+      "text": "“Escorados estai vós” (sh’n). Forma passiva imperativa da raiz. Primeira de 20 ocorrências da forma verbal. Para a forma substantiva, cf. 2 Samuel 22,19\nDebaixo do arbóreo.\n5 E tome eu naco((“Naco” (pat). Primeira de 16 ocorrências. Cf. Levítico 2,6.",
+      "raw_html": "<span>“Escorados estai vós” (<em>sh’n</em>). Forma passiva imperativa da raiz. Primeira de 20 ocorrências da forma verbal. Para a forma substantiva, cf. 2 Samuel 22,19\n<p class=\"wp-block-paragraph\">Debaixo do arbóreo.</p>\n<p class=\"wp-block-paragraph\"><sub><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">5</mark></strong></sub> E tome eu naco((“Naco” (<em>pat</em>). Primeira de 16 ocorrências. Cf. Levítico 2,6. </p></span>"
     },
     {
       "ref_id": "fn29-2092",
