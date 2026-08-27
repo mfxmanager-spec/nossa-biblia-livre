@@ -1150,7 +1150,7 @@
     },
     {
       "number": 19,
-      "text": "E prospera sobre ele. A ventania de Yahweh. E desce ele. ‘Asqelon. E faz ele ferir. Desde eles. Trinta homem. E toma ele as despojadas deles. E dá ele as trocas. Para os fazedores de informar a charada. E arde a narina dele. E sobe ele. O lar do pai dele.",
+      "text": "E prospera sobre ele. A ventania de Yahweh. E desce ele. ‘Asqelon. E faz ele ferir. Desde eles. Trinta homem. E toma ele. As despojáveis deles. E dá ele as trocas. Para os fazedores de informar a charada. E arde a narina dele. E sobe ele. O lar do pai dele.",
       "lines": [
         {
           "line_index": 0,
@@ -1189,33 +1189,38 @@
         },
         {
           "line_index": 7,
-          "text": "E toma ele as despojadas deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E toma ele as despojadas deles.</p>"
+          "text": "E toma ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E toma ele.</p>"
         },
         {
           "line_index": 8,
+          "text": "As despojáveis deles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">As despojáveis<a name=\"rf83-20360\"></a><sup><a href=\"#fn83-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> deles.</p>"
+        },
+        {
+          "line_index": 9,
           "text": "E dá ele as trocas.",
           "raw_html": "<p class=\"wp-block-paragraph\">E dá ele as trocas.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Para os fazedores de informar a charada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para os fazedores de informar<a name=\"rf83-20360\"></a><sup><a href=\"#fn83-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> a charada.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para os fazedores de informar<a name=\"rf84-20360\"></a><sup><a href=\"#fn84-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup> a charada.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "E arde a narina dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E arde a narina dele.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "E sobe ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sobe ele<a name=\"rf84-20360\"></a><sup><a href=\"#fn84-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E sobe ele<a name=\"rf85-20360\"></a><sup><a href=\"#fn85-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
         },
         {
-          "line_index": 12,
+          "line_index": 13,
           "text": "O lar do pai dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O lar<a name=\"rf85-20360\"></a><sup><a href=\"#fn85-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup> do pai dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O lar<a name=\"rf86-20360\"></a><sup><a href=\"#fn86-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup> do pai dele.</p>"
         }
       ]
     },
@@ -1226,7 +1231,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf86-20360\"></a><sup><a href=\"#fn86-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf87-20360\"></a><sup><a href=\"#fn87-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1241,7 +1246,7 @@
         {
           "line_index": 3,
           "text": "Que acompanha ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que acompanha<a name=\"rf87-20360\"></a><sup><a href=\"#fn87-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup> ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que acompanha<a name=\"rf88-20360\"></a><sup><a href=\"#fn88-20360\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup> ele.</p>"
         },
         {
           "line_index": 4,
@@ -1747,30 +1752,36 @@
     {
       "ref_id": "fn83-20360",
       "number": 83,
-      "text": "“Fazedores de informar” (ngd). Forma causativa participial  da raiz. Cf. Gênesis 3,11; Josué 2,14.20; 7,19; 9,24; 10,17; Juízes 4,12; 9,7.25.42.47; 13,6.10; 14,2.6.9.12.13.14.15.16.17.19; 16,6.10.13.15.17.18; Rute 2,11.19; 3,4.16; 4,4; 1 Samuel 3.13.15.18; 4,13.14; 8,9; 9,6.8.18.19; 10,15.16; 11,9; 14,1.33.43; 15,12.16; 17,31; 18,20.24.26; 19,2.3.7.11.18.19.21; 20,9.10; 22,21.22; 23,1.13.25; 24,2.19; 25,8.12.14.19.36.37; 27,4.11.",
-      "raw_html": "<span>“Fazedores de informar” (<em>ngd</em>). Forma causativa participial  da raiz. Cf. Gênesis 3,11; Josué 2,14.20; 7,19; 9,24; 10,17; Juízes 4,12; 9,7.25.42.47; 13,6.10; 14,2.6.9.12.13.14.15.16.17.19; 16,6.10.13.15.17.18; Rute 2,11.19; 3,4.16; 4,4; 1 Samuel 3.13.15.18; 4,13.14; 8,9; 9,6.8.18.19; 10,15.16; 11,9; 14,1.33.43; 15,12.16; 17,31; 18,20.24.26; 19,2.3.7.11.18.19.21; 20,9.10; 22,21.22; 23,1.13.25; 24,2.19; 25,8.12.14.19.36.37; 27,4.11. </span>"
+      "text": "“Despojáveis” (halitsot). Trata-se da raiz hlts (“despojar”). Aqui e em outras passagens designa a indumentária que é de uso específico, que se põe e tira conforme a ocasião, seja a batalha, seja a festa, ou, genericamente, as roupas despojáveis de pessoas de posse, que usam para sair, e tiram, quando entram em suas residências.  Para a forma verbal, cf. Levítico 14,40. Para a forma nominal, cf. Juízes 14,19 e Isaías 3,22.",
+      "raw_html": "<span>“Despojáveis” (<em>halitsot</em>). Trata-se da raiz <em>hlts</em> (“despojar”). Aqui e em outras passagens designa a indumentária que é de uso específico, que se põe e tira conforme a ocasião, seja a batalha, seja a festa, ou, genericamente, as roupas despojáveis de pessoas de posse, que usam para sair, e tiram, quando entram em suas residências.  Para a forma verbal, cf. Levítico 14,40. Para a forma nominal, cf. Juízes 14,19 e Isaías 3,22. </span>"
     },
     {
       "ref_id": "fn84-20360",
       "number": 84,
-      "text": "“Sobe ele” (‘lh). Cf. Gênesis 2,6; Josué 15,3.6.7.8.15; 16,1; 17.15; 18,11.12; 19,10.11.12.47; 22,12.23.26.27.28.29.33; 24,17.32; Juízes 1,1.2.3.4.16.22; 2,1; 4,5.10.12; 6,3.5.8.13.21.26.28.35; 8,8.11; 9,48.51; 11,13.16.31; 12,3; 13,5.16.19.20.23; 14,2.19; 15,6.9.10.13; 16,3.5.8.17.18.31; 18,9.12.17; 19,25.30; 20,3.18.23.26.28.30.31.38.40; 21,4.5.8.19; Rute 4,1; 1 Samuel 1,3.7.11.21.22.24; 2,6.14.19.28; 5,12; 6,7.9.14.15.20.21; 7,1,7,9,10; 8,8; 9,11.13.14.19.26; 10,3.8.18; 11,1; 12,6; 13,5.9.10.12.15; 14,9.10.12.13.21.46; 15,2.6.22.34; 17,23.25; 19,15; 23,19; 24,1.23; 25,5.13.35; 27,8; 28,8.11.13.14.15; 29,9.11.",
-      "raw_html": "<span>“Sobe ele” (<em>‘lh</em>). Cf. Gênesis 2,6; Josué 15,3.6.7.8.15; 16,1; 17.15; 18,11.12; 19,10.11.12.47; 22,12.23.26.27.28.29.33; 24,17.32; Juízes 1,1.2.3.4.16.22; 2,1; 4,5.10.12; 6,3.5.8.13.21.26.28.35; 8,8.11; 9,48.51; 11,13.16.31; 12,3; 13,5.16.19.20.23; 14,2.19; 15,6.9.10.13; 16,3.5.8.17.18.31; 18,9.12.17; 19,25.30; 20,3.18.23.26.28.30.31.38.40; 21,4.5.8.19; Rute 4,1; 1 Samuel 1,3.7.11.21.22.24; 2,6.14.19.28; 5,12; 6,7.9.14.15.20.21; 7,1,7,9,10; 8,8; 9,11.13.14.19.26; 10,3.8.18; 11,1; 12,6; 13,5.9.10.12.15; 14,9.10.12.13.21.46; 15,2.6.22.34; 17,23.25; 19,15; 23,19; 24,1.23; 25,5.13.35; 27,8; 28,8.11.13.14.15; 29,9.11. </span>"
+      "text": "“Fazedores de informar” (ngd). Forma causativa participial  da raiz. Cf. Gênesis 3,11; Josué 2,14.20; 7,19; 9,24; 10,17; Juízes 4,12; 9,7.25.42.47; 13,6.10; 14,2.6.9.12.13.14.15.16.17.19; 16,6.10.13.15.17.18; Rute 2,11.19; 3,4.16; 4,4; 1 Samuel 3.13.15.18; 4,13.14; 8,9; 9,6.8.18.19; 10,15.16; 11,9; 14,1.33.43; 15,12.16; 17,31; 18,20.24.26; 19,2.3.7.11.18.19.21; 20,9.10; 22,21.22; 23,1.13.25; 24,2.19; 25,8.12.14.19.36.37; 27,4.11.",
+      "raw_html": "<span>“Fazedores de informar” (<em>ngd</em>). Forma causativa participial  da raiz. Cf. Gênesis 3,11; Josué 2,14.20; 7,19; 9,24; 10,17; Juízes 4,12; 9,7.25.42.47; 13,6.10; 14,2.6.9.12.13.14.15.16.17.19; 16,6.10.13.15.17.18; Rute 2,11.19; 3,4.16; 4,4; 1 Samuel 3.13.15.18; 4,13.14; 8,9; 9,6.8.18.19; 10,15.16; 11,9; 14,1.33.43; 15,12.16; 17,31; 18,20.24.26; 19,2.3.7.11.18.19.21; 20,9.10; 22,21.22; 23,1.13.25; 24,2.19; 25,8.12.14.19.36.37; 27,4.11. </span>"
     },
     {
       "ref_id": "fn85-20360",
       "number": 85,
-      "text": "“Lar” (bayit). Cf. Gênesis 6,14; Josué 17,17; 18,5; 20,6; 21,45; 22,14; 24,15.17; Juízes 1,22.23.35; 4,17; 6,8.15.27; 8,27.29.35; 9,1.4.5.16.18.19.27.46; 10,9; 11,2.7.31.34; 12,1; 14,15.19; 16,21.25.26.27.29.30.31; 17,4.5.8.12; 18,2.3.13.14.15.18.19.22.25.26.31; 19,2.3.15.18.21.22.23.26.27.29. 20,5.8; Rute 1,8.9; 2,7; 4,11.12; 1 Samuel 1,7.19.21.24; 2,11.27.28.30.31.32.33.35.36; 3,12.13.14.15; 5,2.5; 6,7.10; 7,1.2.3.17; 9,18.20; 10,25.26; 15,34; 17,25; 18,2.10; 19,9.11; 20,15.16; 21,16; 22,1.11.14.15.16.22; 23,18; 24,22.23; 25,1.6.17.28.35.36.",
-      "raw_html": "<span>“Lar” (<em>bayit</em>). Cf. Gênesis 6,14; Josué 17,17; 18,5; 20,6; 21,45; 22,14; 24,15.17; Juízes 1,22.23.35; 4,17; 6,8.15.27; 8,27.29.35; 9,1.4.5.16.18.19.27.46; 10,9; 11,2.7.31.34; 12,1; 14,15.19; 16,21.25.26.27.29.30.31; 17,4.5.8.12; 18,2.3.13.14.15.18.19.22.25.26.31; 19,2.3.15.18.21.22.23.26.27.29. 20,5.8; Rute 1,8.9; 2,7; 4,11.12; 1 Samuel 1,7.19.21.24; 2,11.27.28.30.31.32.33.35.36; 3,12.13.14.15; 5,2.5; 6,7.10; 7,1.2.3.17; 9,18.20; 10,25.26; 15,34; 17,25; 18,2.10; 19,9.11; 20,15.16; 21,16; 22,1.11.14.15.16.22; 23,18; 24,22.23; 25,1.6.17.28.35.36. </span>"
+      "text": "“Sobe ele” (‘lh). Cf. Gênesis 2,6; Josué 15,3.6.7.8.15; 16,1; 17.15; 18,11.12; 19,10.11.12.47; 22,12.23.26.27.28.29.33; 24,17.32; Juízes 1,1.2.3.4.16.22; 2,1; 4,5.10.12; 6,3.5.8.13.21.26.28.35; 8,8.11; 9,48.51; 11,13.16.31; 12,3; 13,5.16.19.20.23; 14,2.19; 15,6.9.10.13; 16,3.5.8.17.18.31; 18,9.12.17; 19,25.30; 20,3.18.23.26.28.30.31.38.40; 21,4.5.8.19; Rute 4,1; 1 Samuel 1,3.7.11.21.22.24; 2,6.14.19.28; 5,12; 6,7.9.14.15.20.21; 7,1,7,9,10; 8,8; 9,11.13.14.19.26; 10,3.8.18; 11,1; 12,6; 13,5.9.10.12.15; 14,9.10.12.13.21.46; 15,2.6.22.34; 17,23.25; 19,15; 23,19; 24,1.23; 25,5.13.35; 27,8; 28,8.11.13.14.15; 29,9.11.",
+      "raw_html": "<span>“Sobe ele” (<em>‘lh</em>). Cf. Gênesis 2,6; Josué 15,3.6.7.8.15; 16,1; 17.15; 18,11.12; 19,10.11.12.47; 22,12.23.26.27.28.29.33; 24,17.32; Juízes 1,1.2.3.4.16.22; 2,1; 4,5.10.12; 6,3.5.8.13.21.26.28.35; 8,8.11; 9,48.51; 11,13.16.31; 12,3; 13,5.16.19.20.23; 14,2.19; 15,6.9.10.13; 16,3.5.8.17.18.31; 18,9.12.17; 19,25.30; 20,3.18.23.26.28.30.31.38.40; 21,4.5.8.19; Rute 4,1; 1 Samuel 1,3.7.11.21.22.24; 2,6.14.19.28; 5,12; 6,7.9.14.15.20.21; 7,1,7,9,10; 8,8; 9,11.13.14.19.26; 10,3.8.18; 11,1; 12,6; 13,5.9.10.12.15; 14,9.10.12.13.21.46; 15,2.6.22.34; 17,23.25; 19,15; 23,19; 24,1.23; 25,5.13.35; 27,8; 28,8.11.13.14.15; 29,9.11. </span>"
     },
     {
       "ref_id": "fn86-20360",
       "number": 86,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+      "text": "“Lar” (bayit). Cf. Gênesis 6,14; Josué 17,17; 18,5; 20,6; 21,45; 22,14; 24,15.17; Juízes 1,22.23.35; 4,17; 6,8.15.27; 8,27.29.35; 9,1.4.5.16.18.19.27.46; 10,9; 11,2.7.31.34; 12,1; 14,15.19; 16,21.25.26.27.29.30.31; 17,4.5.8.12; 18,2.3.13.14.15.18.19.22.25.26.31; 19,2.3.15.18.21.22.23.26.27.29. 20,5.8; Rute 1,8.9; 2,7; 4,11.12; 1 Samuel 1,7.19.21.24; 2,11.27.28.30.31.32.33.35.36; 3,12.13.14.15; 5,2.5; 6,7.10; 7,1.2.3.17; 9,18.20; 10,25.26; 15,34; 17,25; 18,2.10; 19,9.11; 20,15.16; 21,16; 22,1.11.14.15.16.22; 23,18; 24,22.23; 25,1.6.17.28.35.36.",
+      "raw_html": "<span>“Lar” (<em>bayit</em>). Cf. Gênesis 6,14; Josué 17,17; 18,5; 20,6; 21,45; 22,14; 24,15.17; Juízes 1,22.23.35; 4,17; 6,8.15.27; 8,27.29.35; 9,1.4.5.16.18.19.27.46; 10,9; 11,2.7.31.34; 12,1; 14,15.19; 16,21.25.26.27.29.30.31; 17,4.5.8.12; 18,2.3.13.14.15.18.19.22.25.26.31; 19,2.3.15.18.21.22.23.26.27.29. 20,5.8; Rute 1,8.9; 2,7; 4,11.12; 1 Samuel 1,7.19.21.24; 2,11.27.28.30.31.32.33.35.36; 3,12.13.14.15; 5,2.5; 6,7.10; 7,1.2.3.17; 9,18.20; 10,25.26; 15,34; 17,25; 18,2.10; 19,9.11; 20,15.16; 21,16; 22,1.11.14.15.16.22; 23,18; 24,22.23; 25,1.6.17.28.35.36. </span>"
     },
     {
       "ref_id": "fn87-20360",
       "number": 87,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn88-20360",
+      "number": 88,
       "text": "“Acompanha” (re’ah [ryh II]. Poderia discordar dos léxicos, já que a forma da palavra é a mesma de “pastorear”. Mas é também a mesma de “companheiro”. Os léxicos declaram tratar-se de raiz independente, relacionada à ideia de “relacionar-se com um igual”.",
       "raw_html": "<span>“Acompanha” (<em>re’ah</em> [<em>ryh</em> II]. Poderia discordar dos léxicos, já que a forma da palavra é a mesma de “pastorear”. Mas é também a mesma de “companheiro”. Os léxicos declaram tratar-se de raiz independente, relacionada à ideia de “relacionar-se com um igual”. </span>"
     }

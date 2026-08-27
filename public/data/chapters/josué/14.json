@@ -425,7 +425,7 @@
     },
     {
       "number": 9,
-      "text": "E está ouvido Mosheh. No dia aquele. Para dizer. Se não a terra. Que caminha o pé de ti. Nela. Para ti. Está ela. Para herdade. E para os filhos de ti. Até sempre. Que repletas tu. Depois de Yahweh. O deus de mim.",
+      "text": "E está ouvido Mosheh. No dia. O ele. Para dizer. Se não a terra. Que caminha o pé de ti. Nela. Para ti. Está ela. Para herdade. E para os filhos de ti. Até sempre. Que repletas tu. Depois de Yahweh. O deus de mim.",
       "lines": [
         {
           "line_index": 0,
@@ -434,66 +434,71 @@
         },
         {
           "line_index": 1,
-          "text": "No dia aquele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No dia aquele.</p>"
+          "text": "No dia.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia<a name=\"rf54-18536\"></a><sup><a href=\"#fn54-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup><a name=\"rf55-18536\"></a><sup><a href=\"#fn55-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup><a name=\"rf56-18536\"></a><sup><a href=\"#fn56-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "Para dizer.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf54-18536\"></a><sup><a href=\"#fn54-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup>.</p>"
+          "text": "O ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf57-18536\"></a><sup><a href=\"#fn57-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup><a name=\"rf58-18536\"></a><sup><a href=\"#fn58-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup><a name=\"rf59-18536\"></a><sup><a href=\"#fn59-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "Se não a terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Se não<a name=\"rf55-18536\"></a><sup><a href=\"#fn55-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup> a terra.</p>"
+          "text": "Para dizer.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para dizer<a name=\"rf60-18536\"></a><sup><a href=\"#fn60-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
         },
         {
           "line_index": 4,
+          "text": "Se não a terra.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Se não<a name=\"rf61-18536\"></a><sup><a href=\"#fn61-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup> a terra.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Que caminha o pé de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que caminha o pé de ti.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Nela.",
           "raw_html": "<p class=\"wp-block-paragraph\">Nela.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Para ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para ti.</p>"
         },
         {
-          "line_index": 7,
-          "text": "Está ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Está ela<a name=\"rf56-18536\"></a><sup><a href=\"#fn56-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
-        },
-        {
           "line_index": 8,
-          "text": "Para herdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para herdade<a name=\"rf57-18536\"></a><sup><a href=\"#fn57-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "text": "Está ela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Está ela<a name=\"rf62-18536\"></a><sup><a href=\"#fn62-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
         },
         {
           "line_index": 9,
+          "text": "Para herdade.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para herdade<a name=\"rf63-18536\"></a><sup><a href=\"#fn63-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+        },
+        {
+          "line_index": 10,
           "text": "E para os filhos de ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">E para os filhos de ti.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "Até sempre.",
           "raw_html": "<p class=\"wp-block-paragraph\">Até sempre.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "Que repletas tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que repletas tu.</p>"
         },
         {
-          "line_index": 12,
+          "line_index": 13,
           "text": "Depois de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Depois<a name=\"rf58-18536\"></a><sup><a href=\"#fn58-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup> de Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Depois<a name=\"rf64-18536\"></a><sup><a href=\"#fn64-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup> de Yahweh.</p>"
         },
         {
-          "line_index": 13,
+          "line_index": 14,
           "text": "O deus de mim.",
           "raw_html": "<p class=\"wp-block-paragraph\">O deus de mim.</p>"
         }
@@ -506,7 +511,7 @@
         {
           "line_index": 0,
           "text": "E agora.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E agora<a name=\"rf59-18536\"></a><sup><a href=\"#fn59-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E agora<a name=\"rf65-18536\"></a><sup><a href=\"#fn65-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -516,12 +521,12 @@
         {
           "line_index": 2,
           "text": "Faz viver Yahweh eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Faz viver<a name=\"rf60-18536\"></a><sup><a href=\"#fn60-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup> Yahweh eu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Faz viver<a name=\"rf66-18536\"></a><sup><a href=\"#fn66-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup> Yahweh eu.</p>"
         },
         {
           "line_index": 3,
           "text": "Conforme que fala ele esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que<a name=\"rf61-18536\"></a><sup><a href=\"#fn61-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup> fala ele esse.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que<a name=\"rf67-18536\"></a><sup><a href=\"#fn67-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup> fala ele esse.</p>"
         },
         {
           "line_index": 4,
@@ -531,17 +536,17 @@
         {
           "line_index": 5,
           "text": "E cinco.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cinco<a name=\"rf62-18536\"></a><sup><a href=\"#fn62-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup><a name=\"rf63-18536\"></a><sup><a href=\"#fn63-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E cinco<a name=\"rf68-18536\"></a><sup><a href=\"#fn68-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup><a name=\"rf69-18536\"></a><sup><a href=\"#fn69-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mudança <a name=\"rf64-18536\"></a><sup><a href=\"#fn64-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup><a name=\"rf65-18536\"></a><sup><a href=\"#fn65-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Mudança <a name=\"rf70-18536\"></a><sup><a href=\"#fn70-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup><a name=\"rf71-18536\"></a><sup><a href=\"#fn71-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Desde então.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde então<a name=\"rf66-18536\"></a><sup><a href=\"#fn66-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde então<a name=\"rf72-18536\"></a><sup><a href=\"#fn72-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -551,12 +556,12 @@
         {
           "line_index": 9,
           "text": "O falado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O falado<a name=\"rf67-18536\"></a><sup><a href=\"#fn67-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup><a name=\"rf68-18536\"></a><sup><a href=\"#fn68-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O falado<a name=\"rf73-18536\"></a><sup><a href=\"#fn73-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup><a name=\"rf74-18536\"></a><sup><a href=\"#fn74-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
         },
         {
           "line_index": 10,
           "text": "O esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O esse<a name=\"rf69-18536\"></a><sup><a href=\"#fn69-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O esse<a name=\"rf75-18536\"></a><sup><a href=\"#fn75-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         },
         {
           "line_index": 11,
@@ -566,17 +571,17 @@
         {
           "line_index": 12,
           "text": "Que anda Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que anda<a name=\"rf70-18536\"></a><sup><a href=\"#fn70-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup> Yisra’el.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que anda<a name=\"rf76-18536\"></a><sup><a href=\"#fn76-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup> Yisra’el.</p>"
         },
         {
           "line_index": 13,
           "text": "No deserto.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No deserto<a name=\"rf71-18536\"></a><sup><a href=\"#fn71-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup><a name=\"rf72-18536\"></a><sup><a href=\"#fn72-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No deserto<a name=\"rf77-18536\"></a><sup><a href=\"#fn77-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup><a name=\"rf78-18536\"></a><sup><a href=\"#fn78-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
         },
         {
           "line_index": 14,
           "text": "E agora.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E agora<a name=\"rf73-18536\"></a><sup><a href=\"#fn73-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E agora<a name=\"rf79-18536\"></a><sup><a href=\"#fn79-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>.</p>"
         },
         {
           "line_index": 15,
@@ -586,7 +591,7 @@
         {
           "line_index": 16,
           "text": "Eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Eu<a name=\"rf74-18536\"></a><sup><a href=\"#fn74-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Eu<a name=\"rf80-18536\"></a><sup><a href=\"#fn80-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
         },
         {
           "line_index": 17,
@@ -601,12 +606,12 @@
         {
           "line_index": 19,
           "text": "E oitenta.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E oitenta<a name=\"rf75-18536\"></a><sup><a href=\"#fn75-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E oitenta<a name=\"rf81-18536\"></a><sup><a href=\"#fn81-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
         },
         {
           "line_index": 20,
           "text": "Mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mudança<a name=\"rf76-18536\"></a><sup><a href=\"#fn76-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Mudança<a name=\"rf82-18536\"></a><sup><a href=\"#fn82-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
         }
       ]
     },
@@ -617,7 +622,7 @@
         {
           "line_index": 0,
           "text": "Ainda o dia.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Ainda<a name=\"rf77-18536\"></a><sup><a href=\"#fn77-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup> o dia.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Ainda<a name=\"rf83-18536\"></a><sup><a href=\"#fn83-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> o dia.</p>"
         },
         {
           "line_index": 1,
@@ -627,12 +632,12 @@
         {
           "line_index": 2,
           "text": "Conforme que.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que<a name=\"rf78-18536\"></a><sup><a href=\"#fn78-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que<a name=\"rf84-18536\"></a><sup><a href=\"#fn84-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "No dia do enviar de mim Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No dia do enviar<a name=\"rf79-18536\"></a><sup><a href=\"#fn79-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup> de mim Mosheh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia do enviar<a name=\"rf85-18536\"></a><sup><a href=\"#fn85-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup> de mim Mosheh.</p>"
         },
         {
           "line_index": 4,
@@ -642,7 +647,7 @@
         {
           "line_index": 5,
           "text": "Então.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Então<a name=\"rf80-18536\"></a><sup><a href=\"#fn80-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Então<a name=\"rf86-18536\"></a><sup><a href=\"#fn86-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -662,13 +667,13 @@
         {
           "line_index": 9,
           "text": "E para ir.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para ir<a name=\"rf81-18536\"></a><sup><a href=\"#fn81-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E para ir<a name=\"rf87-18536\"></a><sup><a href=\"#fn87-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
         }
       ]
     },
     {
       "number": 12,
-      "text": "E agora. Dá tu para mim. O monte esse. Que fala Yahweh. No dia aquele. Que tu. Ouves tu. No dia aquele. Que ‘anaqim lá. E cidades grandes encercadas. Talvez Yahweh comigo. E faço eu possuir elas. Conforme que fala Yahweh.",
+      "text": "E agora. Dá tu para mim. O monte esse. Que fala Yahweh. No dia. O ele. Que tu. Ouves tu. No dia. O ele. Que ‘anaqim lá. E cidades grandes encercadas. Talvez Yahweh comigo. E faço eu possuir elas. Conforme que fala Yahweh.",
       "lines": [
         {
           "line_index": 0,
@@ -692,48 +697,58 @@
         },
         {
           "line_index": 4,
-          "text": "No dia aquele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No dia aquele.</p>"
+          "text": "No dia.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia<a name=\"rf88-18536\"></a><sup><a href=\"#fn88-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup><a name=\"rf89-18536\"></a><sup><a href=\"#fn89-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup><a name=\"rf90-18536\"></a><sup><a href=\"#fn90-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>.</p>"
         },
         {
           "line_index": 5,
+          "text": "O ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf91-18536\"></a><sup><a href=\"#fn91-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup><a name=\"rf92-18536\"></a><sup><a href=\"#fn92-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup><a name=\"rf93-18536\"></a><sup><a href=\"#fn93-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
           "text": "Que tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que tu.</p>"
         },
         {
-          "line_index": 6,
-          "text": "Ouves tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ouves <a name=\"rf82-18536\"></a><sup><a href=\"#fn82-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup> tu.</p>"
-        },
-        {
           "line_index": 7,
-          "text": "No dia aquele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No dia aquele.</p>"
+          "text": "Ouves tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ouves <a name=\"rf94-18536\"></a><sup><a href=\"#fn94-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup> tu.</p>"
         },
         {
           "line_index": 8,
+          "text": "No dia.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia<a name=\"rf95-18536\"></a><sup><a href=\"#fn95-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup><a name=\"rf96-18536\"></a><sup><a href=\"#fn96-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup><a name=\"rf97-18536\"></a><sup><a href=\"#fn97-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
+        },
+        {
+          "line_index": 9,
+          "text": "O ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf98-18536\"></a><sup><a href=\"#fn98-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup><a name=\"rf99-18536\"></a><sup><a href=\"#fn99-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup><a name=\"rf100-18536\"></a><sup><a href=\"#fn100-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
+        },
+        {
+          "line_index": 10,
           "text": "Que ‘anaqim lá.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que ‘anaqim lá.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 11,
           "text": "E cidades grandes encercadas.",
           "raw_html": "<p class=\"wp-block-paragraph\">E cidades grandes encercadas.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 12,
           "text": "Talvez Yahweh comigo.",
           "raw_html": "<p class=\"wp-block-paragraph\">Talvez Yahweh comigo.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 13,
           "text": "E faço eu possuir elas.",
           "raw_html": "<p class=\"wp-block-paragraph\">E faço eu possuir elas.</p>"
         },
         {
-          "line_index": 12,
+          "line_index": 14,
           "text": "Conforme que fala Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que<a name=\"rf83-18536\"></a><sup><a href=\"#fn83-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> fala Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que<a name=\"rf101-18536\"></a><sup><a href=\"#fn101-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup> fala Yahweh.</p>"
         }
       ]
     },
@@ -759,7 +774,7 @@
         {
           "line_index": 3,
           "text": "Para herdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para herdade<a name=\"rf84-18536\"></a><sup><a href=\"#fn84-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para herdade<a name=\"rf102-18536\"></a><sup><a href=\"#fn102-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
         }
       ]
     },
@@ -775,7 +790,7 @@
         {
           "line_index": 1,
           "text": "Está Hebron.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Está<a name=\"rf85-18536\"></a><sup><a href=\"#fn85-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup> Hebron.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Está<a name=\"rf103-18536\"></a><sup><a href=\"#fn103-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup> Hebron.</p>"
         },
         {
           "line_index": 2,
@@ -795,17 +810,17 @@
         {
           "line_index": 5,
           "text": "Para herdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para herdade<a name=\"rf86-18536\"></a><sup><a href=\"#fn86-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para herdade<a name=\"rf104-18536\"></a><sup><a href=\"#fn104-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Até o dia esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf87-18536\"></a><sup><a href=\"#fn87-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup> esse<a name=\"rf88-18536\"></a><sup><a href=\"#fn88-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup><a name=\"rf89-18536\"></a><sup><a href=\"#fn89-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf105-18536\"></a><sup><a href=\"#fn105-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup> esse<a name=\"rf106-18536\"></a><sup><a href=\"#fn106-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup><a name=\"rf107-18536\"></a><sup><a href=\"#fn107-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "Por-causa-de que.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Por-causa-de<a name=\"rf90-18536\"></a><sup><a href=\"#fn90-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup> que<a name=\"rf91-18536\"></a><sup><a href=\"#fn91-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Por-causa-de<a name=\"rf108-18536\"></a><sup><a href=\"#fn108-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup> que<a name=\"rf109-18536\"></a><sup><a href=\"#fn109-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -815,12 +830,12 @@
         {
           "line_index": 9,
           "text": "Depois de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Depois<a name=\"rf92-18536\"></a><sup><a href=\"#fn92-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup> de Yahweh.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Depois<a name=\"rf110-18536\"></a><sup><a href=\"#fn110-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup> de Yahweh.</p>"
         },
         {
           "line_index": 10,
           "text": "O deus de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O deus de Yisra’el<a name=\"rf93-18536\"></a><sup><a href=\"#fn93-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O deus de Yisra’el<a name=\"rf111-18536\"></a><sup><a href=\"#fn111-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
         }
       ]
     },
@@ -831,7 +846,7 @@
         {
           "line_index": 0,
           "text": "E o nome de Hebron.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E o nome de<a name=\"rf94-18536\"></a><sup><a href=\"#fn94-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup><a name=\"rf95-18536\"></a><sup><a href=\"#fn95-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup> Hebron.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E o nome de<a name=\"rf112-18536\"></a><sup><a href=\"#fn112-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup><a name=\"rf113-18536\"></a><sup><a href=\"#fn113-18536\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup> Hebron.</p>"
         },
         {
           "line_index": 1,
@@ -1193,252 +1208,360 @@
     {
       "ref_id": "fn54-18536",
       "number": 54,
-      "text": "“Para dizer” (le’mor). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2.",
-      "raw_html": "<span>“Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2. </span>"
+      "text": "“No dia” (bayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAAG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAG\" rel=\"noopener\" target=\"_blank\">No dia</a>” (<em>bayyom</em>). </span>"
     },
     {
       "ref_id": "fn55-18536",
       "number": 55,
-      "text": "“Se não” (‘im-lo’). Cf. Gênesis 24,21; Josué 7,12; 14,9.",
-      "raw_html": "<span>“Se não” (<em>‘im-lo’</em>). Cf. Gênesis 24,21; Josué 7,12; 14,9. </span>"
+      "text": "“O dia” (hayyom).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1079\" rel=\"noopener\" target=\"_blank\">O dia</a>” (<em>hayyom</em>). </span>"
     },
     {
       "ref_id": "fn56-18536",
       "number": 56,
-      "text": "“Está ela” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está ela</a>” (<em>hyh</em>). </span>"
+      "text": "“Dia” (yom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
     },
     {
       "ref_id": "fn57-18536",
       "number": 57,
-      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
+      "text": "“No dia. O ele” (bayyom hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1077\" rel=\"noopener\" target=\"_blank\">No dia. O ele</a>” (<em>bayyom hahu’</em>). </span>"
     },
     {
       "ref_id": "fn58-18536",
       "number": 58,
-      "text": "“Depois” (‘ahare’). Cf. Gênesis 5,4; Josué 6,8.9.13; 7,8; 8,2.4.6.14.16.17.20.34; 9,16; 10,14.19.26; 14,8.9.14; 20,5.",
-      "raw_html": "<span>“Depois” (<em>‘ahare’</em>). Cf. Gênesis 5,4; Josué 6,8.9.13; 7,8; 8,2.4.6.14.16.17.20.34; 9,16; 10,14.19.26; 14,8.9.14; 20,5. </span>"
+      "text": "“O ele” (hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1078\" rel=\"noopener\" target=\"_blank\">O ele</a>” (<em>hahu’</em>). </span>"
     },
     {
       "ref_id": "fn59-18536",
       "number": 59,
-      "text": "“E agora” (we’attah). Josué 9,6.11.12.19.23.25; 13,7; 14,10.12; 22,4; 24,14.23; Juízes 6,13; 7,3; 9,16.32; 11,13.23.25; 13,4.7; 14,2; 15,18; 17,3; 18,14; 20,9.13; 1 Samuel 2,30; 6,7; 8,9; 9,13; 10,19; 12,2.7.10.13.14; 15,1.25; 18,22; 19,2; 20,29.31; 21,4; 23,20; 24,21.22; 25,7.17.26.27; 26,8.11.16.19.20.22; 29,7.10.",
-      "raw_html": "<span>“E agora” (<em>we’attah</em>). Josué 9,6.11.12.19.23.25; 13,7; 14,10.12; 22,4; 24,14.23; Juízes 6,13; 7,3; 9,16.32; 11,13.23.25; 13,4.7; 14,2; 15,18; 17,3; 18,14; 20,9.13; 1 Samuel 2,30; 6,7; 8,9; 9,13; 10,19; 12,2.7.10.13.14; 15,1.25; 18,22; 19,2; 20,29.31; 21,4; 23,20; 24,21.22; 25,7.17.26.27; 26,8.11.16.19.20.22; 29,7.10. </span>"
+      "text": "“Ele” (hu’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0095\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0095\" rel=\"noopener\" target=\"_blank\">Ele</a>” (<em>hu’</em>). </span>"
     },
     {
       "ref_id": "fn60-18536",
       "number": 60,
-      "text": "“Faz viver” (hyh). Forma causativa da raiz. Cf. Gênesis 3,22; Josué 6,17.25; 9,15.20.21; 14,10.",
-      "raw_html": "<span>“Faz viver” (<em>hyh</em>). Forma causativa da raiz. Cf. Gênesis 3,22; Josué 6,17.25; 9,15.20.21; 14,10. </span>"
+      "text": "“Para dizer” (le’mor). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2.",
+      "raw_html": "<span>“Para dizer” (<em>le’mor</em>). Cf. Gênesis 1,22; Josué 6,10.26; 7,2; 8,4; 9,11.22; 10,3.6.17; 14,9; 17,4.14.17; 18,8; 20,1.2. </span>"
     },
     {
       "ref_id": "fn61-18536",
       "number": 61,
-      "text": "“Conforme que” (ka’asher). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12.",
-      "raw_html": "<span>“Conforme que” (<em>ka’asher</em>). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12. </span>"
+      "text": "“Se não” (‘im-lo’). Cf. Gênesis 24,21; Josué 7,12; 14,9.",
+      "raw_html": "<span>“Se não” (<em>‘im-lo’</em>). Cf. Gênesis 24,21; Josué 7,12; 14,9. </span>"
     },
     {
       "ref_id": "fn62-18536",
       "number": 62,
-      "text": "“E cinco (wehamesh).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1054\" rel=\"noopener\" target=\"_blank\">E cinco</a> (<em>wehamesh</em>). </span>"
+      "text": "“Está ela” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está ela</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn63-18536",
       "number": 63,
-      "text": "“Cinco” (hamesh).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1055\" rel=\"noopener\" target=\"_blank\">Cinco</a>” (<em>hamesh</em>). </span>"
+      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
     },
     {
       "ref_id": "fn64-18536",
       "number": 64,
-      "text": "“E cinco. Mudança” (wehamesh shanah). Primeira de 16 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1056\" rel=\"noopener\" target=\"_blank\">E cinco. Mudança</a>” (<em>wehamesh shanah</em>). Primeira de 16 ocorrências. </span>"
-    },
-    {
-      "ref_id": "fn65-18536",
-      "number": 65,
-      "text": "“Mudança” (shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0065\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0065\" rel=\"noopener\" target=\"_blank\">Mudança</a>” (<em>shanah</em>). </span>"
-    },
-    {
-      "ref_id": "fn66-18536",
-      "number": 66,
-      "text": "“Então” (‘az).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00200\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00200\" rel=\"noopener\" target=\"_blank\">Então</a>” (<em>‘az</em>). </span>"
-    },
-    {
-      "ref_id": "fn67-18536",
-      "number": 67,
-      "text": "“O falado” (haddabar).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1067\" rel=\"noopener\" target=\"_blank\">O falado</a>” (<em>haddabar</em>). </span>"
-    },
-    {
-      "ref_id": "fn68-18536",
-      "number": 68,
-      "text": "“Falado” (dabar).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Falado</a>” (<em>dabar</em>). </span>"
-    },
-    {
-      "ref_id": "fn69-18536",
-      "number": 69,
-      "text": "“O falado esse” (haddabar hazzeh). Cf. Gênesis 20,10; Josué 9,24; 14,10; Juízes 6,29; 8,1.3; 11,37; 18,8; 20,2; 24,7; 26,16.",
-      "raw_html": "<span>“O falado esse” (<em>haddabar hazzeh</em>). Cf. Gênesis 20,10; Josué 9,24; 14,10; Juízes 6,29; 8,1.3; 11,37; 18,8; 20,2; 24,7; 26,16. </span>"
-    },
-    {
-      "ref_id": "fn70-18536",
-      "number": 70,
-      "text": "“Anda” (hlk). Cf. Gênesis 2,14; Josué 6,8.9.13; 8,9.13.35; 9,4.6.11.12; 10,24; 14,10; 16,8; 17,7; 18,4.8.9.",
-      "raw_html": "<span>“Anda” (<em>hlk</em>). Cf. Gênesis 2,14; Josué 6,8.9.13; 8,9.13.35; 9,4.6.11.12; 10,24; 14,10; 16,8; 17,7; 18,4.8.9. </span>"
-    },
-    {
-      "ref_id": "fn71-18536",
-      "number": 71,
-      "text": "“No deserto” (bammidbar). Cf. Gênesis 16,7; Josué 5,4.5.6; 8,24; 14,10; 15,61; 20,8; 24,7; Juízes 11,16.18; 1 Samuel 4,8; 17,28; 23,14.15.24.25; 24,2; 25,4.21; 26,2.3.",
-      "raw_html": "<span>“No deserto” (<em>bammidbar</em>). Cf. Gênesis 16,7; Josué 5,4.5.6; 8,24; 14,10; 15,61; 20,8; 24,7; Juízes 11,16.18; 1 Samuel 4,8; 17,28; 23,14.15.24.25; 24,2; 25,4.21; 26,2.3. </span>"
-    },
-    {
-      "ref_id": "fn72-18536",
-      "number": 72,
-      "text": "“Deserto” (midbar). Cf. Gênesis 14,6; Josué 14,10; 15,1.61; 16,1; 18,12; 20,8; 24,7; Juízes 1,16; 8,7.16; 11,16.18.22; 20,42.45.47; 1 Samuel 4,8; 13,18; 17,28; 23,14.15.24.25; 24,2; 25,1.4.14.21; 26,2.3.",
-      "raw_html": "<span>“Deserto” (<em>midbar</em>). Cf. Gênesis 14,6; Josué 14,10; 15,1.61; 16,1; 18,12; 20,8; 24,7; Juízes 1,16; 8,7.16; 11,16.18.22; 20,42.45.47; 1 Samuel 4,8; 13,18; 17,28; 23,14.15.24.25; 24,2; 25,1.4.14.21; 26,2.3. </span>"
-    },
-    {
-      "ref_id": "fn73-18536",
-      "number": 73,
-      "text": "“E agora” (we’attah). Cf. acima.",
-      "raw_html": "<span>“E agora” (<em>we’attah</em>). Cf. acima. </span>"
-    },
-    {
-      "ref_id": "fn74-18536",
-      "number": 74,
-      "text": "“Eu” (‘anoki). Cf. Gênesis 3,10; Josué 7,20; 11,6; 13,6; 14,7.8.10.",
-      "raw_html": "<span>“Eu” (<em>‘anoki</em>). Cf. Gênesis 3,10; Josué 7,20; 11,6; 13,6; 14,7.8.10. </span>"
-    },
-    {
-      "ref_id": "fn75-18536",
-      "number": 75,
-      "text": "“Oitenta” (shemonim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0064\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0064\" rel=\"noopener\" target=\"_blank\">Oitenta</a>” (<em>shemonim</em>). </span>"
-    },
-    {
-      "ref_id": "fn76-18536",
-      "number": 76,
-      "text": "“Mudança” (shanah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0065\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0065\" rel=\"noopener\" target=\"_blank\">Mudança</a>” (<em>shanah</em>). </span>"
-    },
-    {
-      "ref_id": "fn77-18536",
-      "number": 77,
-      "text": "“Ainda” (‘od). Cf. Gênesis 4,25; Josué 14,11; Juízes 2,14; 6,24; 7,4; 8,20; 9,37; 11,14; 13,8.9.21; 18,24; 20,25.28; Rute 1,11.14.18; 1 Samuel 3,6; 7,13; 10,22; 13,7; 16,11; 18,8.29; 20,3.14; 23,4.22; 26,21.",
-      "raw_html": "<span>“Ainda” (<em>‘od</em>). Cf. Gênesis 4,25; Josué 14,11; Juízes 2,14; 6,24; 7,4; 8,20; 9,37; 11,14; 13,8.9.21; 18,24; 20,25.28; Rute 1,11.14.18; 1 Samuel 3,6; 7,13; 10,22; 13,7; 16,11; 18,8.29; 20,3.14; 23,4.22; 26,21. </span>"
-    },
-    {
-      "ref_id": "fn78-18536",
-      "number": 78,
-      "text": "“Conforme que” (ka’asher). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12.",
-      "raw_html": "<span>“Conforme que” (<em>ka’asher</em>). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12. </span>"
-    },
-    {
-      "ref_id": "fn79-18536",
-      "number": 79,
-      "text": "“Enviar” (shlh). Forma infinitiva da raiz. Cf. Gênesis 3,22; Josué 6,17.25; 7,2.22; 8,3.9; 10,3.6; 11,1; 14,7.11; 18,4.",
-      "raw_html": "<span>“Enviar” (<em>shlh</em>). Forma infinitiva da raiz. Cf. Gênesis 3,22; Josué 6,17.25; 7,2.22; 8,3.9; 10,3.6; 11,1; 14,7.11; 18,4. </span>"
-    },
-    {
-      "ref_id": "fn80-18536",
-      "number": 80,
-      "text": "“Então” (‘az).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00200\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00200\" rel=\"noopener\" target=\"_blank\">Então</a>” (<em>‘az</em>). </span>"
-    },
-    {
-      "ref_id": "fn81-18536",
-      "number": 81,
-      "text": "“Ir” (bw’). Forma infinitiva da raiz. Cf. Gênesis 2,19; Josué 7,23; 8,11.19.29; 9,6.8.9.17; 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6.",
-      "raw_html": "<span>“Ir” (<em>bw’</em>). Forma infinitiva da raiz. Cf. Gênesis 2,19; Josué 7,23; 8,11.19.29; 9,6.8.9.17; 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6. </span>"
-    },
-    {
-      "ref_id": "fn82-18536",
-      "number": 82,
-      "text": "“Ouves” (shm’). Cf. Gênesis 3,8; Josué 6,5.10.20; 7,9; 9,1.3.9.16; 10,1.14; 11,1; 14,12.",
-      "raw_html": "<span>“Ouves” (<em>shm’</em>). Cf. Gênesis 3,8; Josué 6,5.10.20; 7,9; 9,1.3.9.16; 10,1.14; 11,1; 14,12. </span>"
-    },
-    {
-      "ref_id": "fn83-18536",
-      "number": 83,
-      "text": "“Conforme que” (ka’asher). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12.",
-      "raw_html": "<span>“Conforme que” (<em>ka’asher</em>). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12. </span>"
-    },
-    {
-      "ref_id": "fn84-18536",
-      "number": 84,
-      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
-    },
-    {
-      "ref_id": "fn85-18536",
-      "number": 85,
-      "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
-    },
-    {
-      "ref_id": "fn86-18536",
-      "number": 86,
-      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
-    },
-    {
-      "ref_id": "fn87-18536",
-      "number": 87,
-      "text": "“Até o dia” (‘ad hayyom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
-    },
-    {
-      "ref_id": "fn88-18536",
-      "number": 88,
-      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
-    },
-    {
-      "ref_id": "fn89-18536",
-      "number": 89,
-      "text": "“O dia esse” (hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
-    },
-    {
-      "ref_id": "fn90-18536",
-      "number": 90,
-      "text": "“Por-causa-de” (ya’an).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0560\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0560\" rel=\"noopener\" target=\"_blank\">Por-causa-de</a>” (<em>ya’an</em>). </span>"
-    },
-    {
-      "ref_id": "fn91-18536",
-      "number": 91,
-      "text": "“Por-causa-de que” (ya’an ‘asher).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0560\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0561\" rel=\"noopener\" target=\"_blank\">Por-causa-de que</a>” (<em>ya’an ‘asher</em>). </span>"
-    },
-    {
-      "ref_id": "fn92-18536",
-      "number": 92,
       "text": "“Depois” (‘ahare’). Cf. Gênesis 5,4; Josué 6,8.9.13; 7,8; 8,2.4.6.14.16.17.20.34; 9,16; 10,14.19.26; 14,8.9.14; 20,5.",
       "raw_html": "<span>“Depois” (<em>‘ahare’</em>). Cf. Gênesis 5,4; Josué 6,8.9.13; 7,8; 8,2.4.6.14.16.17.20.34; 9,16; 10,14.19.26; 14,8.9.14; 20,5. </span>"
     },
     {
+      "ref_id": "fn65-18536",
+      "number": 65,
+      "text": "“E agora” (we’attah). Josué 9,6.11.12.19.23.25; 13,7; 14,10.12; 22,4; 24,14.23; Juízes 6,13; 7,3; 9,16.32; 11,13.23.25; 13,4.7; 14,2; 15,18; 17,3; 18,14; 20,9.13; 1 Samuel 2,30; 6,7; 8,9; 9,13; 10,19; 12,2.7.10.13.14; 15,1.25; 18,22; 19,2; 20,29.31; 21,4; 23,20; 24,21.22; 25,7.17.26.27; 26,8.11.16.19.20.22; 29,7.10.",
+      "raw_html": "<span>“E agora” (<em>we’attah</em>). Josué 9,6.11.12.19.23.25; 13,7; 14,10.12; 22,4; 24,14.23; Juízes 6,13; 7,3; 9,16.32; 11,13.23.25; 13,4.7; 14,2; 15,18; 17,3; 18,14; 20,9.13; 1 Samuel 2,30; 6,7; 8,9; 9,13; 10,19; 12,2.7.10.13.14; 15,1.25; 18,22; 19,2; 20,29.31; 21,4; 23,20; 24,21.22; 25,7.17.26.27; 26,8.11.16.19.20.22; 29,7.10. </span>"
+    },
+    {
+      "ref_id": "fn66-18536",
+      "number": 66,
+      "text": "“Faz viver” (hyh). Forma causativa da raiz. Cf. Gênesis 3,22; Josué 6,17.25; 9,15.20.21; 14,10.",
+      "raw_html": "<span>“Faz viver” (<em>hyh</em>). Forma causativa da raiz. Cf. Gênesis 3,22; Josué 6,17.25; 9,15.20.21; 14,10. </span>"
+    },
+    {
+      "ref_id": "fn67-18536",
+      "number": 67,
+      "text": "“Conforme que” (ka’asher). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12.",
+      "raw_html": "<span>“Conforme que” (<em>ka’asher</em>). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12. </span>"
+    },
+    {
+      "ref_id": "fn68-18536",
+      "number": 68,
+      "text": "“E cinco (wehamesh).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1054\" rel=\"noopener\" target=\"_blank\">E cinco</a> (<em>wehamesh</em>). </span>"
+    },
+    {
+      "ref_id": "fn69-18536",
+      "number": 69,
+      "text": "“Cinco” (hamesh).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1055\" rel=\"noopener\" target=\"_blank\">Cinco</a>” (<em>hamesh</em>). </span>"
+    },
+    {
+      "ref_id": "fn70-18536",
+      "number": 70,
+      "text": "“E cinco. Mudança” (wehamesh shanah). Primeira de 16 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1056\" rel=\"noopener\" target=\"_blank\">E cinco. Mudança</a>” (<em>wehamesh shanah</em>). Primeira de 16 ocorrências. </span>"
+    },
+    {
+      "ref_id": "fn71-18536",
+      "number": 71,
+      "text": "“Mudança” (shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0065\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0065\" rel=\"noopener\" target=\"_blank\">Mudança</a>” (<em>shanah</em>). </span>"
+    },
+    {
+      "ref_id": "fn72-18536",
+      "number": 72,
+      "text": "“Então” (‘az).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00200\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00200\" rel=\"noopener\" target=\"_blank\">Então</a>” (<em>‘az</em>). </span>"
+    },
+    {
+      "ref_id": "fn73-18536",
+      "number": 73,
+      "text": "“O falado” (haddabar).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1067\" rel=\"noopener\" target=\"_blank\">O falado</a>” (<em>haddabar</em>). </span>"
+    },
+    {
+      "ref_id": "fn74-18536",
+      "number": 74,
+      "text": "“Falado” (dabar).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0553\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0554\" rel=\"noopener\" target=\"_blank\">Falado</a>” (<em>dabar</em>). </span>"
+    },
+    {
+      "ref_id": "fn75-18536",
+      "number": 75,
+      "text": "“O falado esse” (haddabar hazzeh). Cf. Gênesis 20,10; Josué 9,24; 14,10; Juízes 6,29; 8,1.3; 11,37; 18,8; 20,2; 24,7; 26,16.",
+      "raw_html": "<span>“O falado esse” (<em>haddabar hazzeh</em>). Cf. Gênesis 20,10; Josué 9,24; 14,10; Juízes 6,29; 8,1.3; 11,37; 18,8; 20,2; 24,7; 26,16. </span>"
+    },
+    {
+      "ref_id": "fn76-18536",
+      "number": 76,
+      "text": "“Anda” (hlk). Cf. Gênesis 2,14; Josué 6,8.9.13; 8,9.13.35; 9,4.6.11.12; 10,24; 14,10; 16,8; 17,7; 18,4.8.9.",
+      "raw_html": "<span>“Anda” (<em>hlk</em>). Cf. Gênesis 2,14; Josué 6,8.9.13; 8,9.13.35; 9,4.6.11.12; 10,24; 14,10; 16,8; 17,7; 18,4.8.9. </span>"
+    },
+    {
+      "ref_id": "fn77-18536",
+      "number": 77,
+      "text": "“No deserto” (bammidbar). Cf. Gênesis 16,7; Josué 5,4.5.6; 8,24; 14,10; 15,61; 20,8; 24,7; Juízes 11,16.18; 1 Samuel 4,8; 17,28; 23,14.15.24.25; 24,2; 25,4.21; 26,2.3.",
+      "raw_html": "<span>“No deserto” (<em>bammidbar</em>). Cf. Gênesis 16,7; Josué 5,4.5.6; 8,24; 14,10; 15,61; 20,8; 24,7; Juízes 11,16.18; 1 Samuel 4,8; 17,28; 23,14.15.24.25; 24,2; 25,4.21; 26,2.3. </span>"
+    },
+    {
+      "ref_id": "fn78-18536",
+      "number": 78,
+      "text": "“Deserto” (midbar). Cf. Gênesis 14,6; Josué 14,10; 15,1.61; 16,1; 18,12; 20,8; 24,7; Juízes 1,16; 8,7.16; 11,16.18.22; 20,42.45.47; 1 Samuel 4,8; 13,18; 17,28; 23,14.15.24.25; 24,2; 25,1.4.14.21; 26,2.3.",
+      "raw_html": "<span>“Deserto” (<em>midbar</em>). Cf. Gênesis 14,6; Josué 14,10; 15,1.61; 16,1; 18,12; 20,8; 24,7; Juízes 1,16; 8,7.16; 11,16.18.22; 20,42.45.47; 1 Samuel 4,8; 13,18; 17,28; 23,14.15.24.25; 24,2; 25,1.4.14.21; 26,2.3. </span>"
+    },
+    {
+      "ref_id": "fn79-18536",
+      "number": 79,
+      "text": "“E agora” (we’attah). Cf. acima.",
+      "raw_html": "<span>“E agora” (<em>we’attah</em>). Cf. acima. </span>"
+    },
+    {
+      "ref_id": "fn80-18536",
+      "number": 80,
+      "text": "“Eu” (‘anoki). Cf. Gênesis 3,10; Josué 7,20; 11,6; 13,6; 14,7.8.10.",
+      "raw_html": "<span>“Eu” (<em>‘anoki</em>). Cf. Gênesis 3,10; Josué 7,20; 11,6; 13,6; 14,7.8.10. </span>"
+    },
+    {
+      "ref_id": "fn81-18536",
+      "number": 81,
+      "text": "“Oitenta” (shemonim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0064\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0064\" rel=\"noopener\" target=\"_blank\">Oitenta</a>” (<em>shemonim</em>). </span>"
+    },
+    {
+      "ref_id": "fn82-18536",
+      "number": 82,
+      "text": "“Mudança” (shanah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0065\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0065\" rel=\"noopener\" target=\"_blank\">Mudança</a>” (<em>shanah</em>). </span>"
+    },
+    {
+      "ref_id": "fn83-18536",
+      "number": 83,
+      "text": "“Ainda” (‘od). Cf. Gênesis 4,25; Josué 14,11; Juízes 2,14; 6,24; 7,4; 8,20; 9,37; 11,14; 13,8.9.21; 18,24; 20,25.28; Rute 1,11.14.18; 1 Samuel 3,6; 7,13; 10,22; 13,7; 16,11; 18,8.29; 20,3.14; 23,4.22; 26,21.",
+      "raw_html": "<span>“Ainda” (<em>‘od</em>). Cf. Gênesis 4,25; Josué 14,11; Juízes 2,14; 6,24; 7,4; 8,20; 9,37; 11,14; 13,8.9.21; 18,24; 20,25.28; Rute 1,11.14.18; 1 Samuel 3,6; 7,13; 10,22; 13,7; 16,11; 18,8.29; 20,3.14; 23,4.22; 26,21. </span>"
+    },
+    {
+      "ref_id": "fn84-18536",
+      "number": 84,
+      "text": "“Conforme que” (ka’asher). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12.",
+      "raw_html": "<span>“Conforme que” (<em>ka’asher</em>). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12. </span>"
+    },
+    {
+      "ref_id": "fn85-18536",
+      "number": 85,
+      "text": "“Enviar” (shlh). Forma infinitiva da raiz. Cf. Gênesis 3,22; Josué 6,17.25; 7,2.22; 8,3.9; 10,3.6; 11,1; 14,7.11; 18,4.",
+      "raw_html": "<span>“Enviar” (<em>shlh</em>). Forma infinitiva da raiz. Cf. Gênesis 3,22; Josué 6,17.25; 7,2.22; 8,3.9; 10,3.6; 11,1; 14,7.11; 18,4. </span>"
+    },
+    {
+      "ref_id": "fn86-18536",
+      "number": 86,
+      "text": "“Então” (‘az).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00200\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00200\" rel=\"noopener\" target=\"_blank\">Então</a>” (<em>‘az</em>). </span>"
+    },
+    {
+      "ref_id": "fn87-18536",
+      "number": 87,
+      "text": "“Ir” (bw’). Forma infinitiva da raiz. Cf. Gênesis 2,19; Josué 7,23; 8,11.19.29; 9,6.8.9.17; 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6.",
+      "raw_html": "<span>“Ir” (<em>bw’</em>). Forma infinitiva da raiz. Cf. Gênesis 2,19; Josué 7,23; 8,11.19.29; 9,6.8.9.17; 10,9.13.19.20.27; 11,5.7.21; 13,1; 14,11; 15,18; 18,3.4.6.9; 20,6. </span>"
+    },
+    {
+      "ref_id": "fn88-18536",
+      "number": 88,
+      "text": "“No dia” (bayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAAG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAG\" rel=\"noopener\" target=\"_blank\">No dia</a>” (<em>bayyom</em>). </span>"
+    },
+    {
+      "ref_id": "fn89-18536",
+      "number": 89,
+      "text": "“O dia” (hayyom).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1079\" rel=\"noopener\" target=\"_blank\">O dia</a>” (<em>hayyom</em>). </span>"
+    },
+    {
+      "ref_id": "fn90-18536",
+      "number": 90,
+      "text": "“Dia” (yom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
+    },
+    {
+      "ref_id": "fn91-18536",
+      "number": 91,
+      "text": "“No dia. O ele” (bayyom hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1077\" rel=\"noopener\" target=\"_blank\">No dia. O ele</a>” (<em>bayyom hahu’</em>). </span>"
+    },
+    {
+      "ref_id": "fn92-18536",
+      "number": 92,
+      "text": "“O ele” (hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1078\" rel=\"noopener\" target=\"_blank\">O ele</a>” (<em>hahu’</em>). </span>"
+    },
+    {
       "ref_id": "fn93-18536",
       "number": 93,
-      "text": "“Yahweh. O deus de Yisra’el” (yehwah ‘elohe yisra’el). Cf. Êxodo 5,1; 32,27; 34,23; Josué 7,13; 10,40.42; 13,14.33; 14,14.",
-      "raw_html": "<span>“Yahweh. O deus de Yisra’el” (<em>yehwah ‘elohe yisra’el</em>). Cf. Êxodo 5,1; 32,27; 34,23; Josué 7,13; 10,40.42; 13,14.33; 14,14. </span>"
+      "text": "“Ele” (hu’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0095\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0095\" rel=\"noopener\" target=\"_blank\">Ele</a>” (<em>hu’</em>). </span>"
     },
     {
       "ref_id": "fn94-18536",
       "number": 94,
-      "text": "“E o nome de” (weshem).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0516\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0520\" rel=\"noopener\" target=\"_blank\">E o nome de</a>” (<em>weshem</em>). </span>"
+      "text": "“Ouves” (shm’). Cf. Gênesis 3,8; Josué 6,5.10.20; 7,9; 9,1.3.9.16; 10,1.14; 11,1; 14,12.",
+      "raw_html": "<span>“Ouves” (<em>shm’</em>). Cf. Gênesis 3,8; Josué 6,5.10.20; 7,9; 9,1.3.9.16; 10,1.14; 11,1; 14,12. </span>"
     },
     {
       "ref_id": "fn95-18536",
       "number": 95,
+      "text": "“No dia” (bayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAAG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAG\" rel=\"noopener\" target=\"_blank\">No dia</a>” (<em>bayyom</em>). </span>"
+    },
+    {
+      "ref_id": "fn96-18536",
+      "number": 96,
+      "text": "“O dia” (hayyom).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1079\" rel=\"noopener\" target=\"_blank\">O dia</a>” (<em>hayyom</em>). </span>"
+    },
+    {
+      "ref_id": "fn97-18536",
+      "number": 97,
+      "text": "“Dia” (yom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
+    },
+    {
+      "ref_id": "fn98-18536",
+      "number": 98,
+      "text": "“No dia. O ele” (bayyom hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1077\" rel=\"noopener\" target=\"_blank\">No dia. O ele</a>” (<em>bayyom hahu’</em>). </span>"
+    },
+    {
+      "ref_id": "fn99-18536",
+      "number": 99,
+      "text": "“O ele” (hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1078\" rel=\"noopener\" target=\"_blank\">O ele</a>” (<em>hahu’</em>). </span>"
+    },
+    {
+      "ref_id": "fn100-18536",
+      "number": 100,
+      "text": "“Ele” (hu’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0095\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0095\" rel=\"noopener\" target=\"_blank\">Ele</a>” (<em>hu’</em>). </span>"
+    },
+    {
+      "ref_id": "fn101-18536",
+      "number": 101,
+      "text": "“Conforme que” (ka’asher). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12.",
+      "raw_html": "<span>“Conforme que” (<em>ka’asher</em>). Cf. Gênesis 7,9; Josué 6,22; 8,2.5.6.31.33; 9,21; 10,1.28.30.39.40; 11,9..12.15.20; 13,6.14.33; 14,2.5.7.10.11.12. </span>"
+    },
+    {
+      "ref_id": "fn102-18536",
+      "number": 102,
+      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
+    },
+    {
+      "ref_id": "fn103-18536",
+      "number": 103,
+      "text": "“Está” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+    },
+    {
+      "ref_id": "fn104-18536",
+      "number": 104,
+      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
+    },
+    {
+      "ref_id": "fn105-18536",
+      "number": 105,
+      "text": "“Até o dia” (‘ad hayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
+    },
+    {
+      "ref_id": "fn106-18536",
+      "number": 106,
+      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn107-18536",
+      "number": 107,
+      "text": "“O dia esse” (hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn108-18536",
+      "number": 108,
+      "text": "“Por-causa-de” (ya’an).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0560\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0560\" rel=\"noopener\" target=\"_blank\">Por-causa-de</a>” (<em>ya’an</em>). </span>"
+    },
+    {
+      "ref_id": "fn109-18536",
+      "number": 109,
+      "text": "“Por-causa-de que” (ya’an ‘asher).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0560\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0561\" rel=\"noopener\" target=\"_blank\">Por-causa-de que</a>” (<em>ya’an ‘asher</em>). </span>"
+    },
+    {
+      "ref_id": "fn110-18536",
+      "number": 110,
+      "text": "“Depois” (‘ahare’). Cf. Gênesis 5,4; Josué 6,8.9.13; 7,8; 8,2.4.6.14.16.17.20.34; 9,16; 10,14.19.26; 14,8.9.14; 20,5.",
+      "raw_html": "<span>“Depois” (<em>‘ahare’</em>). Cf. Gênesis 5,4; Josué 6,8.9.13; 7,8; 8,2.4.6.14.16.17.20.34; 9,16; 10,14.19.26; 14,8.9.14; 20,5. </span>"
+    },
+    {
+      "ref_id": "fn111-18536",
+      "number": 111,
+      "text": "“Yahweh. O deus de Yisra’el” (yehwah ‘elohe yisra’el). Cf. Êxodo 5,1; 32,27; 34,23; Josué 7,13; 10,40.42; 13,14.33; 14,14.",
+      "raw_html": "<span>“Yahweh. O deus de Yisra’el” (<em>yehwah ‘elohe yisra’el</em>). Cf. Êxodo 5,1; 32,27; 34,23; Josué 7,13; 10,40.42; 13,14.33; 14,14. </span>"
+    },
+    {
+      "ref_id": "fn112-18536",
+      "number": 112,
+      "text": "“E o nome de” (weshem).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0516\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0520\" rel=\"noopener\" target=\"_blank\">E o nome de</a>” (<em>weshem</em>). </span>"
+    },
+    {
+      "ref_id": "fn113-18536",
+      "number": 113,
       "text": "“O nome de” (shem).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </span>"
     }
