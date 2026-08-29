@@ -1433,7 +1433,7 @@
     },
     {
       "number": 27,
-      "text": "E dá. Eles. Yehoshua’. No dia aquele. Lenhadores de arbóreos. E tiradores de aquosos. Para a comunidade. E para o sacrificiatório de Yahweh. Até o dia esse. Ao lugar. Que escolhe ele.",
+      "text": "E dá. Eles. Yehoshua’. No dia. O ele. Lenhadores de arbóreos. E tiradores de aquosos. Para a comunidade. E para o sacrificiatório de Yahweh. Até o dia esse. Ao lugar. Que escolhe ele.",
       "lines": [
         {
           "line_index": 0,
@@ -1452,43 +1452,48 @@
         },
         {
           "line_index": 3,
-          "text": "No dia aquele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No dia aquele.</p>"
+          "text": "No dia.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia<a name=\"rf134-18281\"></a><sup><a href=\"#fn134-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup><a name=\"rf135-18281\"></a><sup><a href=\"#fn135-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup><a name=\"rf136-18281\"></a><sup><a href=\"#fn136-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
         },
         {
           "line_index": 4,
+          "text": "O ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf137-18281\"></a><sup><a href=\"#fn137-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup><a name=\"rf138-18281\"></a><sup><a href=\"#fn138-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup><a name=\"rf139-18281\"></a><sup><a href=\"#fn139-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Lenhadores de arbóreos.",
           "raw_html": "<p class=\"wp-block-paragraph\">Lenhadores de arbóreos.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "E tiradores de aquosos.",
           "raw_html": "<p class=\"wp-block-paragraph\">E tiradores de aquosos.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Para a comunidade.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para a comunidade.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "E para o sacrificiatório de Yahweh.",
           "raw_html": "<p class=\"wp-block-paragraph\">E para o sacrificiatório de Yahweh.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "Até o dia esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf134-18281\"></a><sup><a href=\"#fn134-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup> esse<a name=\"rf135-18281\"></a><sup><a href=\"#fn135-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup><a name=\"rf136-18281\"></a><sup><a href=\"#fn136-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf140-18281\"></a><sup><a href=\"#fn140-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup> esse<a name=\"rf141-18281\"></a><sup><a href=\"#fn141-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup><a name=\"rf142-18281\"></a><sup><a href=\"#fn142-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Ao lugar.",
           "raw_html": "<p class=\"wp-block-paragraph\">Ao lugar.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "Que escolhe ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf137-18281\"></a><sup><a href=\"#fn137-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup><a name=\"rf138-18281\"></a><sup><a href=\"#fn138-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup> escolhe ele<a name=\"rf139-18281\"></a><sup><a href=\"#fn139-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf143-18281\"></a><sup><a href=\"#fn143-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup><a name=\"rf144-18281\"></a><sup><a href=\"#fn144-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup> escolhe ele<a name=\"rf145-18281\"></a><sup><a href=\"#fn145-18281\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>.</p>"
         }
       ]
     }
@@ -2295,36 +2300,72 @@
     {
       "ref_id": "fn134-18281",
       "number": 134,
-      "text": "“Até o dia” (‘ad hayyom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
+      "text": "“No dia” (bayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAAG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAG\" rel=\"noopener\" target=\"_blank\">No dia</a>” (<em>bayyom</em>). </span>"
     },
     {
       "ref_id": "fn135-18281",
       "number": 135,
-      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
+      "text": "“O dia” (hayyom).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1079\" rel=\"noopener\" target=\"_blank\">O dia</a>” (<em>hayyom</em>). </span>"
     },
     {
       "ref_id": "fn136-18281",
       "number": 136,
-      "text": "“O dia esse” (hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
+      "text": "“Dia” (yom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
     },
     {
       "ref_id": "fn137-18281",
       "number": 137,
-      "text": "“Ao lugar. Que” (‘el-hammaqom ‘asher). Cf. Gênesis 19,27; Josué 9,27; 1 Samuel 20,19; 26,5.",
-      "raw_html": "<span>“Ao lugar. Que” (<em>‘el-hammaqom ‘asher</em>). Cf. Gênesis 19,27; Josué 9,27; 1 Samuel 20,19; 26,5. </span>"
+      "text": "“No dia. O ele” (bayyom hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1077\" rel=\"noopener\" target=\"_blank\">No dia. O ele</a>” (<em>bayyom hahu’</em>). </span>"
     },
     {
       "ref_id": "fn138-18281",
       "number": 138,
-      "text": "“O lugar. Que” (hammaqom ‘asher). Cf. Gênesis 13,3; Josué 5,15; 9,27; 1 Samuel 20,19; 26,5.",
-      "raw_html": "<span>“O lugar. Que” (<em>hammaqom ‘asher</em>). Cf. Gênesis 13,3; Josué 5,15; 9,27; 1 Samuel 20,19; 26,5. </span>"
+      "text": "“O ele” (hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1078\" rel=\"noopener\" target=\"_blank\">O ele</a>” (<em>hahu’</em>). </span>"
     },
     {
       "ref_id": "fn139-18281",
       "number": 139,
+      "text": "“Ele” (hu’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0095\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0095\" rel=\"noopener\" target=\"_blank\">Ele</a>” (<em>hu’</em>). </span>"
+    },
+    {
+      "ref_id": "fn140-18281",
+      "number": 140,
+      "text": "“Até o dia” (‘ad hayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
+    },
+    {
+      "ref_id": "fn141-18281",
+      "number": 141,
+      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn142-18281",
+      "number": 142,
+      "text": "“O dia esse” (hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn143-18281",
+      "number": 143,
+      "text": "“Ao lugar. Que” (‘el-hammaqom ‘asher). Cf. Gênesis 19,27; Josué 9,27; 1 Samuel 20,19; 26,5.",
+      "raw_html": "<span>“Ao lugar. Que” (<em>‘el-hammaqom ‘asher</em>). Cf. Gênesis 19,27; Josué 9,27; 1 Samuel 20,19; 26,5. </span>"
+    },
+    {
+      "ref_id": "fn144-18281",
+      "number": 144,
+      "text": "“O lugar. Que” (hammaqom ‘asher). Cf. Gênesis 13,3; Josué 5,15; 9,27; 1 Samuel 20,19; 26,5.",
+      "raw_html": "<span>“O lugar. Que” (<em>hammaqom ‘asher</em>). Cf. Gênesis 13,3; Josué 5,15; 9,27; 1 Samuel 20,19; 26,5. </span>"
+    },
+    {
+      "ref_id": "fn145-18281",
+      "number": 145,
       "text": "“Escolhe ele” (bhr). Cf. Gênesis 6,2; Josué 8,3; 9,27; 24,15.22; Juízes 5,8; 10,14; 20,15.16.34; 1 Samuel 2,28; 8,18; 10,24; 12,13; 13,2; 16,8.9.10; 17,40; 24,3; 26,2.",
       "raw_html": "<span>“Escolhe ele” (<em>bhr</em>). Cf. Gênesis 6,2; Josué 8,3; 9,27; 24,15.22; Juízes 5,8; 10,14; 20,15.16.34; 1 Samuel 2,28; 8,18; 10,24; 12,13; 13,2; 16,8.9.10; 17,40; 24,3; 26,2. </span>"
     }
