@@ -1254,7 +1254,7 @@
     },
     {
       "number": 23,
-      "text": "E dizem eles. Sangue esse. Sido feito espadadar. Espadadados estão. Os reis. E fazem eles ferir. Homem. O companheiro dele. E agora. Para o botim. Mo’ab.",
+      "text": "E dizem eles. Sangue esse. Sido feito espadadar. Espadadados estão. Os reis. E fazem eles ferir. Homem. O companheiro dele. E agora. Para o butim. Mo’ab.",
       "lines": [
         {
           "line_index": 0,
@@ -1303,8 +1303,8 @@
         },
         {
           "line_index": 9,
-          "text": "Para o botim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o botim.</p>"
+          "text": "Para o butim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o butim.</p>"
         },
         {
           "line_index": 10,

@@ -509,7 +509,7 @@
     },
     {
       "number": 8,
-      "text": "E dizem eles. A ele. Homem. Dono de pelo. E cingido de pele. Sido cingido. Nos lombos dele. E diz ele. ‘Eliyyah. O tishbi. Ele.",
+      "text": "E dizem eles. A ele. Homem. Dono de pelo. E cinto de pele. Sido cingido. Nos lombos dele. E diz ele. ‘Eliyyah. O tishbi. Ele.",
       "lines": [
         {
           "line_index": 0,
@@ -533,8 +533,8 @@
         },
         {
           "line_index": 4,
-          "text": "E cingido de pele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E cingido de pele.</p>"
+          "text": "E cinto de pele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E cinto de pele.</p>"
         },
         {
           "line_index": 5,

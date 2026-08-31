@@ -115,45 +115,60 @@
     },
     {
       "number": 4,
-      "text": "E ele toma da mão deles. E ele o modelano buril E ele o faz. Bezerrode fundição. E eles dizem. Estes são os deusesde ti! Yisra’el! Que te fizeram subirdesde a terra de Mitsrayim.",
+      "text": "E toma ele. Desde a mão deles. E modela ele. Ele. No buril E faz ele ele. Bezerrode fundição. E eles dizem. Estes são os deusesde ti! Yisra’el! Que te fizeram subirdesde a terra de Mitsrayim.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E ele toma da mão deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E ele toma da mão deles.</p>"
+          "text": "E toma ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E toma ele.</p>"
         },
         {
           "line_index": 1,
-          "text": "E ele o modelano buril",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele o modela<a name=\"rf27-6462\"></a><sup><a href=\"#fn27-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup>no buril<a name=\"rf28-6462\"></a><sup><a href=\"#fn28-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup></p>"
+          "text": "Desde a mão deles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a mão deles.</p>"
         },
         {
           "line_index": 2,
-          "text": "E ele o faz.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele o faz.</p>"
+          "text": "E modela ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E modela ele<a name=\"rf27-6462\"></a><sup><a href=\"#fn27-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup>.</p>"
         },
         {
           "line_index": 3,
+          "text": "Ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ele.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "No buril",
+          "raw_html": "<p class=\"wp-block-paragraph\">No buril<a name=\"rf28-6462\"></a><sup><a href=\"#fn28-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup></p>"
+        },
+        {
+          "line_index": 5,
+          "text": "E faz ele ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele ele.</p>"
+        },
+        {
+          "line_index": 6,
           "text": "Bezerrode fundição.",
           "raw_html": "<p class=\"wp-block-paragraph\">Bezerro<a name=\"rf29-6462\"></a><sup><a href=\"#fn29-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup>de fundição<a name=\"rf30-6462\"></a><sup><a href=\"#fn30-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 7,
           "text": "E eles dizem.",
           "raw_html": "<p class=\"wp-block-paragraph\">E eles dizem.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 8,
           "text": "Estes são os deusesde ti!",
           "raw_html": "<p class=\"wp-block-paragraph\">Estes são os deuses<a name=\"rf31-6462\"></a><sup><a href=\"#fn31-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup>de ti!</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 9,
           "text": "Yisra’el!",
           "raw_html": "<p class=\"wp-block-paragraph\">Yisra’el!</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 10,
           "text": "Que te fizeram subirdesde a terra de Mitsrayim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que te fizeram subir<a name=\"rf32-6462\"></a><sup><a href=\"#fn32-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup>desde a terra de Mitsrayim<a name=\"rf33-6462\"></a><sup><a href=\"#fn33-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 33\">33</a></sup><a name=\"rf34-6462\"></a><sup><a href=\"#fn34-6462\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 34\">34</a></sup>.</p>"
         }

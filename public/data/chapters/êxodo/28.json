@@ -1054,30 +1054,40 @@
     },
     {
       "number": 33,
-      "text": "E tu farás sobre as saiasdela romãsde tekelet. E ostro. E vermes de escarlate. Sobre as saias dela ao redor. E sininhosde ouro no meio delasao redor.",
+      "text": "E fazes tu. Sobre os saiados dela. Púnicosde tekelet. E ostro. E vermes de escarlate. Sobre as saias dela ao redor. E sininhosde ouro no meio delasao redor.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E tu farás sobre as saiasdela romãsde tekelet.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E tu farás sobre as saias<a name=\"rf210-6118\"></a><sup><a href=\"#fn210-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup>dela romãs<a name=\"rf211-6118\"></a><sup><a href=\"#fn211-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup>de <em>tekelet</em><a name=\"rf212-6118\"></a><sup><a href=\"#fn212-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 212\">212</a></sup>.</p>"
+          "text": "E fazes tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E fazes tu.</p>"
         },
         {
           "line_index": 1,
+          "text": "Sobre os saiados dela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre os saiados<a name=\"rf210-6118\"></a><sup><a href=\"#fn210-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup> dela.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Púnicosde tekelet.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Púnicos<a name=\"rf211-6118\"></a><sup><a href=\"#fn211-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup>de <em>tekelet</em><a name=\"rf212-6118\"></a><sup><a href=\"#fn212-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 212\">212</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "E ostro.",
           "raw_html": "<p class=\"wp-block-paragraph\">E ostro<a name=\"rf213-6118\"></a><sup><a href=\"#fn213-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 213\">213</a></sup>.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 4,
           "text": "E vermes de escarlate.",
           "raw_html": "<p class=\"wp-block-paragraph\">E vermes de escarlate<a name=\"rf214-6118\"></a><sup><a href=\"#fn214-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 214\">214</a></sup>. </p>"
         },
         {
-          "line_index": 3,
+          "line_index": 5,
           "text": "Sobre as saias dela ao redor.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre as saias dela ao redor.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
           "text": "E sininhosde ouro no meio delasao redor.",
           "raw_html": "<p class=\"wp-block-paragraph\">E sininhos<a name=\"rf215-6118\"></a><sup><a href=\"#fn215-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 215\">215</a></sup>de ouro no meio delas<a name=\"rf216-6118\"></a><sup><a href=\"#fn216-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 216\">216</a></sup>ao redor.</p>"
         }

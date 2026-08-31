@@ -550,7 +550,7 @@
     },
     {
       "number": 14,
-      "text": "Passe. Favor. O senhor de mim. Para as faces do servo dele. E eu. Levo leve-me eupara o devagarde mim. Para o pé do trabalho. Que está para as faces de mim. E para o pé dos paridos. Até quevá eu ao senhor de mim. Para Se’ir.",
+      "text": "Passe. Favor. O senhor de mim. Para as faces do servo dele. E eu. Campeio-me eu. Para o devagar de mim. Para o pé do trabalho. Que está para as faces de mim. E para o pé dos paridos. Até quevá eu ao senhor de mim. Para Se’ir.",
       "lines": [
         {
           "line_index": 0,
@@ -579,31 +579,36 @@
         },
         {
           "line_index": 5,
-          "text": "Levo leve-me eupara o devagarde mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Levo leve-me eu<a name=\"rf42-2802\"></a><sup><a href=\"#fn42-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>para o devagar<a name=\"rf43-2802\"></a><sup><a href=\"#fn43-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>de mim.</p>"
+          "text": "Campeio-me eu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Campeio-me eu<a name=\"rf42-2802\"></a><sup><a href=\"#fn42-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
         },
         {
           "line_index": 6,
+          "text": "Para o devagar de mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o devagar<a name=\"rf43-2802\"></a><sup><a href=\"#fn43-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup> de mim.</p>"
+        },
+        {
+          "line_index": 7,
           "text": "Para o pé do trabalho.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para o pé do trabalho<a name=\"rf44-2802\"></a><sup><a href=\"#fn44-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "Que está para as faces de mim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que está para as faces de mim.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "E para o pé dos paridos.",
           "raw_html": "<p class=\"wp-block-paragraph\">E para o pé dos paridos.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Até quevá eu ao senhor de mim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Até que<a name=\"rf45-2802\"></a><sup><a href=\"#fn45-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>vá eu ao senhor de mim.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "Para Se’ir.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para Se’ir<a name=\"rf46-2802\"></a><sup><a href=\"#fn46-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
         }
@@ -1111,8 +1116,8 @@
     {
       "ref_id": "fn42-2802",
       "number": 42,
-      "text": "Termo ocorre aqui pela primeira vez. É a forma reflexiva do verbo. Em Gênesis 47,17, usa-se a forma intensiva.",
-      "raw_html": "<span>Termo ocorre aqui pela primeira vez. É a forma reflexiva do verbo. Em Gênesis 47,17, usa-se a forma intensiva. </span>"
+      "text": "“Campeio-me eu” (nhl) Primeira de 10 ocorrências. As autoridades dizem que não se trata da mesma raiz de “varzeado” (nhl [“rio”]). Para a forma verbal, cf. Êxodo 33,14; Para a forma nominal, cf. Isaías 7,19.",
+      "raw_html": "<span>“Campeio-me eu” (<em>nhl</em>) Primeira de 10 ocorrências. As autoridades dizem que não se trata da mesma raiz de “varzeado” (<em>nhl</em> [“rio”]). Para a forma verbal, cf. Êxodo 33,14; Para a forma nominal, cf. Isaías 7,19. </span>"
     },
     {
       "ref_id": "fn43-2802",
