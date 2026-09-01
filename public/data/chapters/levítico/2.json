@@ -217,40 +217,20 @@
     },
     {
       "number": 6,
-      "text": "Repartir. Ela. Repartidos. E derramas tu. Sobre ela. Óleo. Oferenda ela é.",
+      "text": "Migarcom ela nacos. E derramas tusobre ela óleo. Oferenda ela é.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Repartir.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Repartir<a name=\"rf67-7997\"></a><sup><a href=\"#fn67-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
+          "text": "Migarcom ela nacos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Migar<a name=\"rf67-7997\"></a><sup><a href=\"#fn67-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>com ela nacos<a name=\"rf68-7997\"></a><sup><a href=\"#fn68-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
         },
         {
           "line_index": 1,
-          "text": "Ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ela.</p>"
+          "text": "E derramas tusobre ela óleo.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E derramas tu<a name=\"rf69-7997\"></a><sup><a href=\"#fn69-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>sobre ela óleo<a name=\"rf70-7997\"></a><sup><a href=\"#fn70-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "Repartidos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Repartidos<a name=\"rf68-7997\"></a><sup><a href=\"#fn68-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
-        },
-        {
-          "line_index": 3,
-          "text": "E derramas tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E derramas tu<a name=\"rf69-7997\"></a><sup><a href=\"#fn69-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
-        },
-        {
-          "line_index": 4,
-          "text": "Sobre ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre ela.</p>"
-        },
-        {
-          "line_index": 5,
-          "text": "Óleo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Óleo<a name=\"rf70-7997\"></a><sup><a href=\"#fn70-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
-        },
-        {
-          "line_index": 6,
           "text": "Oferenda ela é.",
           "raw_html": "<p class=\"wp-block-paragraph\">Oferenda ela é<a name=\"rf71-7997\"></a><sup><a href=\"#fn71-7997\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         }
@@ -962,14 +942,14 @@
     {
       "ref_id": "fn67-7997",
       "number": 67,
-      "text": "“Repartir” (patot) traduz forma verbal da raiz ptt. Somente aqui. Significa “partir em pedaços”.",
-      "raw_html": "<span>“Repartir” (<em>patot</em>) traduz forma verbal da raiz <em>ptt</em>. Somente aqui. Significa “partir em pedaços”. </span>"
+      "text": "“Migar” (patot) traduz forma verbal da raiz ptt. Somente aqui. Significa “partir em pedaços”.",
+      "raw_html": "<span>“Migar” (<em>patot</em>) traduz forma verbal da raiz <em>ptt</em>. Somente aqui. Significa “partir em pedaços”. </span>"
     },
     {
       "ref_id": "fn68-7997",
       "number": 68,
-      "text": "“Repartidos” (pittim). Cf. Gênesis 18,5; Levítico 6,14.",
-      "raw_html": "<span>“Repartidos” (<em>pittim</em>). Cf. Gênesis 18,5; Levítico 6,14. </span>"
+      "text": "“Nacos” (pittim). Cf. Gênesis 18,5; Levítico 6,14.",
+      "raw_html": "<span>“Nacos” (<em>pittim</em>). Cf. Gênesis 18,5; Levítico 6,14. </span>"
     },
     {
       "ref_id": "fn69-7997",

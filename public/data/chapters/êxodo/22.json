@@ -660,7 +660,7 @@
     },
     {
       "number": 24,
-      "text": "Se prata. Fazes tu emprestar. O povo de mim. O vergado. Que está comigo. Tu não estarás para ele conforme um emprestador. Tu não colocarás sobre ele usura.",
+      "text": "Se prata. Fazes tu emprestar. O povo de mim. O pobreque está comigo. Tu não estarás para ele conforme um emprestador. Tu não colocarás sobre ele usura.",
       "lines": [
         {
           "line_index": 0,
@@ -679,21 +679,16 @@
         },
         {
           "line_index": 3,
-          "text": "O vergado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O vergado<a name=\"rf110-5626\"></a><sup><a href=\"#fn110-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>.</p>"
+          "text": "O pobreque está comigo.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O pobre<a name=\"rf110-5626\"></a><sup><a href=\"#fn110-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>que está comigo. </p>"
         },
         {
           "line_index": 4,
-          "text": "Que está comigo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que está comigo.</p>"
-        },
-        {
-          "line_index": 5,
           "text": "Tu não estarás para ele conforme um emprestador.",
           "raw_html": "<p class=\"wp-block-paragraph\">Tu não estarás para ele conforme um emprestador<a name=\"rf111-5626\"></a><sup><a href=\"#fn111-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 5,
           "text": "Tu não colocarás sobre ele usura.",
           "raw_html": "<p class=\"wp-block-paragraph\">Tu não colocarás sobre ele usura<a name=\"rf112-5626\"></a><sup><a href=\"#fn112-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup><a name=\"rf113-5626\"></a><sup><a href=\"#fn113-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
         }

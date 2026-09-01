@@ -712,7 +712,7 @@
     },
     {
       "number": 16,
-      "text": "E diz ‘Abimelek a Yitshaq. Anda desde conosco. Que ossificas tu. Desde nós muito.",
+      "text": "E diz ‘Abimelek a Yitshaq. Anda desde conosco. Que ossificastu. Desde nós muito.",
       "lines": [
         {
           "line_index": 0,
@@ -726,8 +726,8 @@
         },
         {
           "line_index": 2,
-          "text": "Que ossificas tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que ossificas tu<a name=\"rf75-2487\"></a><sup><a href=\"#fn75-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
+          "text": "Que ossificastu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que ossificas<a name=\"rf75-2487\"></a><sup><a href=\"#fn75-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>tu.</p>"
         },
         {
           "line_index": 3,
@@ -1443,7 +1443,7 @@
     },
     {
       "number": 32,
-      "text": "E está. No dia. O ele. E vêm os servos de Yitshaq. E fazem eles informar. Para ele. Sobre as causas da cacimba. Que cavam eles. E dizem eles. Para ele. Encontramos aquosos.",
+      "text": "E está. No dia aquele. E vêm os servos de Yitshaq. E fazem eles informar. Para ele. Sobre as causas da cacimba. Que cavam eles. E dizem eles. Para ele. Encontramos aquosos.",
       "lines": [
         {
           "line_index": 0,
@@ -1452,51 +1452,46 @@
         },
         {
           "line_index": 1,
-          "text": "No dia.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No dia<a name=\"rf126-2487\"></a><sup><a href=\"#fn126-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup><a name=\"rf127-2487\"></a><sup><a href=\"#fn127-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup><a name=\"rf128-2487\"></a><sup><a href=\"#fn128-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>.</p>"
+          "text": "No dia aquele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia aquele.</p>"
         },
         {
           "line_index": 2,
-          "text": "O ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf129-2487\"></a><sup><a href=\"#fn129-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup><a name=\"rf130-2487\"></a><sup><a href=\"#fn130-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup><a name=\"rf131-2487\"></a><sup><a href=\"#fn131-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup>.</p>"
+          "text": "E vêm os servos de Yitshaq.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E vêm os servos de<a name=\"rf126-2487\"></a><sup><a href=\"#fn126-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup> Yitshaq.</p>"
         },
         {
           "line_index": 3,
-          "text": "E vêm os servos de Yitshaq.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E vêm os servos de<a name=\"rf132-2487\"></a><sup><a href=\"#fn132-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup> Yitshaq.</p>"
-        },
-        {
-          "line_index": 4,
           "text": "E fazem eles informar.",
           "raw_html": "<p class=\"wp-block-paragraph\">E fazem eles informar.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 4,
           "text": "Para ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<a name=\"rf133-2487\"></a><sup><a href=\"#fn133-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<a name=\"rf127-2487\"></a><sup><a href=\"#fn127-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Sobre as causas da cacimba.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre as  causas<a name=\"rf128-2487\"></a><sup><a href=\"#fn128-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup> da cacimba.</p>"
         },
         {
           "line_index": 6,
-          "text": "Sobre as causas da cacimba.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre as  causas<a name=\"rf134-2487\"></a><sup><a href=\"#fn134-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup> da cacimba.</p>"
+          "text": "Que cavam eles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf129-2487\"></a><sup><a href=\"#fn129-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup> cavam eles.</p>"
         },
         {
           "line_index": 7,
-          "text": "Que cavam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf135-2487\"></a><sup><a href=\"#fn135-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup> cavam eles.</p>"
-        },
-        {
-          "line_index": 8,
           "text": "E dizem eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E dizem eles.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 8,
           "text": "Para ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para ele.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 9,
           "text": "Encontramos aquosos.",
           "raw_html": "<p class=\"wp-block-paragraph\">Encontramos aquosos.</p>"
         }
@@ -1519,7 +1514,7 @@
         {
           "line_index": 2,
           "text": "Shib’ah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Shib’ah<a name=\"rf136-2487\"></a><sup><a href=\"#fn136-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Shib’ah<a name=\"rf130-2487\"></a><sup><a href=\"#fn130-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1529,7 +1524,7 @@
         {
           "line_index": 4,
           "text": "O nome da cidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O nome da<a name=\"rf137-2487\"></a><sup><a href=\"#fn137-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup> cidade.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome da<a name=\"rf131-2487\"></a><sup><a href=\"#fn131-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup> cidade.</p>"
         },
         {
           "line_index": 5,
@@ -1539,7 +1534,7 @@
         {
           "line_index": 6,
           "text": "Até o dia esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf138-2487\"></a><sup><a href=\"#fn138-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup> esse<a name=\"rf139-2487\"></a><sup><a href=\"#fn139-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup><a name=\"rf140-2487\"></a><sup><a href=\"#fn140-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf132-2487\"></a><sup><a href=\"#fn132-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup> esse<a name=\"rf133-2487\"></a><sup><a href=\"#fn133-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup><a name=\"rf134-2487\"></a><sup><a href=\"#fn134-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
         }
       ]
     },
@@ -1550,7 +1545,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf141-2487\"></a><sup><a href=\"#fn141-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 141\">141</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E está<a name=\"rf135-2487\"></a><sup><a href=\"#fn135-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1560,7 +1555,7 @@
         {
           "line_index": 2,
           "text": "Filho de quarenta mudança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Filho de quarenta mudança<a name=\"rf142-2487\"></a><sup><a href=\"#fn142-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 142\">142</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Filho de quarenta mudança<a name=\"rf136-2487\"></a><sup><a href=\"#fn136-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1570,7 +1565,7 @@
         {
           "line_index": 4,
           "text": "Yehudit.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Yehudit<a name=\"rf143-2487\"></a><sup><a href=\"#fn143-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 143\">143</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Yehudit<a name=\"rf137-2487\"></a><sup><a href=\"#fn137-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1580,7 +1575,7 @@
         {
           "line_index": 6,
           "text": "O hitti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O hitti<a name=\"rf144-2487\"></a><sup><a href=\"#fn144-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 144\">144</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O hitti<a name=\"rf138-2487\"></a><sup><a href=\"#fn138-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -1606,7 +1601,7 @@
         {
           "line_index": 0,
           "text": "E são elas amargura de ventopara Yitshaq.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E são elas amargura de vento<a name=\"rf145-2487\"></a><sup><a href=\"#fn145-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 145\">145</a></sup>para Yitshaq.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E são elas amargura de vento<a name=\"rf139-2487\"></a><sup><a href=\"#fn139-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>para Yitshaq.</p>"
         },
         {
           "line_index": 1,
@@ -2370,120 +2365,84 @@
     {
       "ref_id": "fn126-2487",
       "number": 126,
-      "text": "“No dia” (bayyom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAAG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAG\" rel=\"noopener\" target=\"_blank\">No dia</a>” (<em>bayyom</em>). </span>"
-    },
-    {
-      "ref_id": "fn127-2487",
-      "number": 127,
-      "text": "“O dia” (hayyom).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1079\" rel=\"noopener\" target=\"_blank\">O dia</a>” (<em>hayyom</em>). </span>"
-    },
-    {
-      "ref_id": "fn128-2487",
-      "number": 128,
-      "text": "“Dia” (yom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
-    },
-    {
-      "ref_id": "fn129-2487",
-      "number": 129,
-      "text": "“No dia. O ele” (bayyom hahu’).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1077\" rel=\"noopener\" target=\"_blank\">No dia. O ele</a>” (<em>bayyom hahu’</em>). </span>"
-    },
-    {
-      "ref_id": "fn130-2487",
-      "number": 130,
-      "text": "“O ele” (hahu’).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1078\" rel=\"noopener\" target=\"_blank\">O ele</a>” (<em>hahu’</em>). </span>"
-    },
-    {
-      "ref_id": "fn131-2487",
-      "number": 131,
-      "text": "“Ele” (hu’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0095\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0095\" rel=\"noopener\" target=\"_blank\">Ele</a>” (<em>hu’</em>). </span>"
-    },
-    {
-      "ref_id": "fn132-2487",
-      "number": 132,
       "text": "“Os servos de” (‘abde).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIO\" rel=\"noreferrer noopener\" target=\"_blank\">Os servos de</a>” (<em>‘abde</em>). </span>"
     },
     {
-      "ref_id": "fn133-2487",
-      "number": 133,
+      "ref_id": "fn127-2487",
+      "number": 127,
       "text": "“E fazem eles informar. Para ele” (wayyaggidu lo). Primeira de 5 ocorrências. Cf. Gênesis 26,32; 45,26; 1 Samuel 24,2; 25,12; 2 Reis 18,37.",
       "raw_html": "<span>“E fazem eles informar. Para ele” (<em>wayyaggidu lo</em>). Primeira de 5 ocorrências. Cf. Gênesis 26,32; 45,26; 1 Samuel 24,2; 25,12; 2 Reis 18,37. </span>"
     },
     {
-      "ref_id": "fn134-2487",
-      "number": 134,
+      "ref_id": "fn128-2487",
+      "number": 128,
       "text": "“Sobre as causas d” (‘al-‘odot). Cf. Gênesis 21,25; 26,32; Números 12,1; 13,24; Juízes 6,7.",
       "raw_html": "<span>“Sobre as causas d” (<em>‘al-‘odot</em>). Cf. Gênesis 21,25; 26,32; Números 12,1; 13,24; Juízes 6,7. </span>"
     },
     {
-      "ref_id": "fn135-2487",
-      "number": 135,
+      "ref_id": "fn129-2487",
+      "number": 129,
       "text": "“O poço que” (habe’er ‘asher). Aqui e em Números 21,16.",
       "raw_html": "<span>“O poço que” (<em>habe’er ‘asher</em>). Aqui e em Números 21,16. </span>"
     },
     {
-      "ref_id": "fn136-2487",
-      "number": 136,
+      "ref_id": "fn130-2487",
+      "number": 130,
       "text": "Leia-se shiviá.",
       "raw_html": "<span>Leia-se <em>shiviá</em>. </span>"
     },
     {
-      "ref_id": "fn137-2487",
-      "number": 137,
+      "ref_id": "fn131-2487",
+      "number": 131,
       "text": "“O nome da” (shem).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome da</a>” (<em>shem</em>). </span>"
     },
     {
-      "ref_id": "fn138-2487",
-      "number": 138,
+      "ref_id": "fn132-2487",
+      "number": 132,
       "text": "“Até o dia” (‘ad hayyom).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
     },
     {
-      "ref_id": "fn139-2487",
-      "number": 139,
+      "ref_id": "fn133-2487",
+      "number": 133,
       "text": "“Até o dia esse (‘ad hayyom hazzeh). Primeira de 75 ocorrências. Até a tradição do nome da cidade é duplicada.",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). Primeira de 75 ocorrências. Até a tradição do nome da cidade é duplicada. </span>"
     },
     {
-      "ref_id": "fn140-2487",
-      "number": 140,
+      "ref_id": "fn134-2487",
+      "number": 134,
       "text": "“O dia esse” (hayyom hazzeh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
     },
     {
-      "ref_id": "fn141-2487",
-      "number": 141,
+      "ref_id": "fn135-2487",
+      "number": 135,
       "text": "“E está” (wayehi).",
       "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noreferrer noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
     },
     {
-      "ref_id": "fn142-2487",
-      "number": 142,
+      "ref_id": "fn136-2487",
+      "number": 136,
       "text": "“Quarenta mudança” (‘arbayim shanah). Assim mesmo, com “ano” (shanah) no singular, em Hebraico. Não faria mal algum traduzir “anos”, mas o leitor trataria a narrativa como uma narrativa doméstica, de sua própria cultura, de seu tempo e mundo, no que estaria redondamente enganado. Cf. Gênesis 5,13; 25,20; Êxodo 16,35.",
       "raw_html": "<span>“Quarenta mudança” (<em>‘arbayim </em>shanah). Assim mesmo, com “ano” (<em>shanah</em>) no singular, em Hebraico. Não faria mal algum traduzir “anos”, mas o leitor trataria a narrativa como uma narrativa doméstica, de sua própria cultura, de seu tempo e mundo, no que estaria redondamente enganado. Cf. Gênesis 5,13; 25,20; Êxodo 16,35. </span>"
     },
     {
-      "ref_id": "fn143-2487",
-      "number": 143,
+      "ref_id": "fn137-2487",
+      "number": 137,
       "text": "Leia-se ierrudít. Trata-se do nome dela: “Judite”. Mas [e muito estranho – e suspeito – que o nome da filha de um hitti seja “Yehudit” (o feminino de yehudi [“de Yehudah”]).",
       "raw_html": "<span>Leia-se <em>ierrudít</em>. Trata-se do nome dela: “Judite”. Mas [e muito estranho – e suspeito – que o nome da filha de um hitti seja “Yehudit” (o feminino de yehudi [“de Yehudah”]). </span>"
     },
     {
-      "ref_id": "fn144-2487",
-      "number": 144,
+      "ref_id": "fn138-2487",
+      "number": 138,
       "text": "Cf. Gênesis 15,20 e nota.",
       "raw_html": "<span>Cf. Gênesis 15,20 e nota. </span>"
     },
     {
-      "ref_id": "fn145-2487",
-      "number": 145,
+      "ref_id": "fn139-2487",
+      "number": 139,
       "text": "“Vento” (ruah). Cf. Gênesis 1,2; 3,8; 6,3.17; 7,15.22; 8,1. O termo pode significar tanto vento quanto qualquer fenômeno relacionado à respiração (“sopro” e “fôlego”, por exemplo). Por extensão, pode significar “ânimo”. Mas essas distinções se fazem por diferentes termos em línguas ricas. No texto bíblico, acostumemo-nos a não encontrar termos distintos não apenas para diferenciar “ânimo” de “sopro”, mas mesmo para distinguir entre fôlego” e “vento”. Aqui, certamente, designa o “ânimo” da pessoa.",
       "raw_html": "<span>“Vento” (<em>ruah</em>). Cf. Gênesis 1,2; 3,8; 6,3.17; 7,15.22; 8,1. O termo pode significar tanto vento quanto qualquer fenômeno relacionado à respiração (“sopro” e “fôlego”, por exemplo). Por extensão, pode significar “ânimo”. Mas essas distinções se fazem por diferentes termos em línguas ricas. No texto bíblico, acostumemo-nos a não encontrar termos distintos não apenas para diferenciar “ânimo” de “sopro”, mas mesmo para distinguir entre fôlego” e “vento”. Aqui, certamente, designa o “ânimo” da pessoa. </span>"
     }

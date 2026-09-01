@@ -1451,7 +1451,7 @@
     },
     {
       "number": 40,
-      "text": "E manda o sacerdote. E sobre-despojam eles. As pedras. Quenelasestá a ferida. E eles lançamelasa desde forapara a cidade. A lugar impuro.",
+      "text": "E manda o sacerdote. E eles desarmamas pedras. Quenelasestá a ferida. E eles lançamelasa desde forapara a cidade. A lugar impuro.",
       "lines": [
         {
           "line_index": 0,
@@ -1460,26 +1460,21 @@
         },
         {
           "line_index": 1,
-          "text": "E sobre-despojam eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sobre-despojam eles<a name=\"rf385-8786\"></a><sup><a href=\"#fn385-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 385\">385</a></sup>.</p>"
+          "text": "E eles desarmamas pedras.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E eles desarmam<a name=\"rf385-8786\"></a><sup><a href=\"#fn385-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 385\">385</a></sup>as pedras<a name=\"rf386-8786\"></a><sup><a href=\"#fn386-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 386\">386</a></sup>.</p>"
         },
         {
           "line_index": 2,
-          "text": "As pedras.",
-          "raw_html": "<p class=\"wp-block-paragraph\">As pedras<a name=\"rf386-8786\"></a><sup><a href=\"#fn386-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 386\">386</a></sup>.</p>"
-        },
-        {
-          "line_index": 3,
           "text": "Quenelasestá a ferida.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que<a name=\"rf387-8786\"></a><sup><a href=\"#fn387-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 387\">387</a></sup>nelas<a name=\"rf388-8786\"></a><sup><a href=\"#fn388-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 388\">388</a></sup>está a ferida<a name=\"rf389-8786\"></a><sup><a href=\"#fn389-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 389\">389</a></sup>.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 3,
           "text": "E eles lançamelasa desde forapara a cidade.",
           "raw_html": "<p class=\"wp-block-paragraph\">E eles lançam<a name=\"rf390-8786\"></a><sup><a href=\"#fn390-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 390\">390</a></sup><a name=\"rf391-8786\"></a><sup><a href=\"#fn391-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 391\">391</a></sup>elas<a name=\"rf392-8786\"></a><sup><a href=\"#fn392-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 392\">392</a></sup>a desde fora<a name=\"rf393-8786\"></a><sup><a href=\"#fn393-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 393\">393</a></sup>para a cidade<a name=\"rf394-8786\"></a><sup><a href=\"#fn394-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 394\">394</a></sup><a name=\"rf395-8786\"></a><sup><a href=\"#fn395-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 395\">395</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 4,
           "text": "A lugar impuro.",
           "raw_html": "<p class=\"wp-block-paragraph\">A lugar impuro<a name=\"rf396-8786\"></a><sup><a href=\"#fn396-8786\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 396\">396</a></sup>.</p>"
         }
@@ -4446,8 +4441,8 @@
     {
       "ref_id": "fn385-8786",
       "number": 385,
-      "text": "“Sobre-despojam eles” traduz forma verbal intensiva da raiz hlts. A raiz significa “arrancar”, “despojar”. Primeira de 44 ocorrências. Para a forma verbal, cf. Levítico 14,40. Para a forma nominal, cf. Juízes 14,19 e Isaías 3,22.",
-      "raw_html": "<span>“Sobre-despojam eles” traduz forma verbal intensiva da raiz <em>hlts</em>. A raiz significa “arrancar”, “despojar”. Primeira de 44 ocorrências. Para a forma verbal, cf. Levítico 14,40. Para a forma nominal, cf. Juízes 14,19 e Isaías 3,22. </span>"
+      "text": "“Desarmam” traduz forma verbal da raiz hlts. Alonso-Schokel suspende o juízo sobre se tratar de duas raízes diferentes, mas informa que hlts encontra duas atualizações opostas, conforme o contexto. Opto pelos dois sentidos polares “armar” e “desarmar”. Cf. Levítico 14,40.43; Números 31,3.5; 32,17.20.21.27.29.30.32.",
+      "raw_html": "<span>“Desarmam” traduz forma verbal da raiz <em>hlts</em>. Alonso-Schokel suspende o juízo sobre se tratar de duas raízes diferentes, mas informa que <em>hlts </em>encontra duas atualizações opostas, conforme o contexto. Opto pelos dois sentidos polares “armar” e “desarmar”. Cf. Levítico 14,40.43; Números 31,3.5; 32,17.20.21.27.29.30.32. </span>"
     },
     {
       "ref_id": "fn386-8786",
