@@ -550,7 +550,7 @@
     },
     {
       "number": 14,
-      "text": "Passe. Favor. O senhor de mim. Para as faces do servo dele. E eu. Levo leve-me eupara o devagarde mim. Para o pé do trabalho. Que está para as faces de mim. E para o pé dos paridos. Até quevá eu ao senhor de mim. Para Se’ir.",
+      "text": "Passe. Favor. O senhor de mim. Para as faces do servo dele. E eu. Campeio-me eu. Para o devagar de mim. Para o pé do trabalho. Que está para as faces de mim. E para o pé dos paridos. Até quevá eu ao senhor de mim. Para Se’ir.",
       "lines": [
         {
           "line_index": 0,
@@ -579,31 +579,36 @@
         },
         {
           "line_index": 5,
-          "text": "Levo leve-me eupara o devagarde mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Levo leve-me eu<a name=\"rf42-2802\"></a><sup><a href=\"#fn42-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>para o devagar<a name=\"rf43-2802\"></a><sup><a href=\"#fn43-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>de mim.</p>"
+          "text": "Campeio-me eu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Campeio-me eu<a name=\"rf42-2802\"></a><sup><a href=\"#fn42-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
         },
         {
           "line_index": 6,
+          "text": "Para o devagar de mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o devagar<a name=\"rf43-2802\"></a><sup><a href=\"#fn43-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup> de mim.</p>"
+        },
+        {
+          "line_index": 7,
           "text": "Para o pé do trabalho.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para o pé do trabalho<a name=\"rf44-2802\"></a><sup><a href=\"#fn44-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "Que está para as faces de mim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que está para as faces de mim.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "E para o pé dos paridos.",
           "raw_html": "<p class=\"wp-block-paragraph\">E para o pé dos paridos.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Até quevá eu ao senhor de mim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Até que<a name=\"rf45-2802\"></a><sup><a href=\"#fn45-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>vá eu ao senhor de mim.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "Para Se’ir.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para Se’ir<a name=\"rf46-2802\"></a><sup><a href=\"#fn46-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
         }
@@ -667,20 +672,35 @@
     },
     {
       "number": 16,
-      "text": "E voltou no dia aquele ‘Esav. Para o caminho dele. Para Se’ir.",
+      "text": "E volta. No dia. O ele. ‘Esav. Para o caminho dele. Para Se’ir.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E voltou no dia aquele ‘Esav.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E voltou no dia aquele ‘Esav.</p>"
+          "text": "E volta.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E volta.</p>"
         },
         {
           "line_index": 1,
-          "text": "Para o caminho dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o caminho dele<a name=\"rf51-2802\"></a><sup><a href=\"#fn51-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup>.</p>"
+          "text": "No dia.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No dia<a name=\"rf51-2802\"></a><sup><a href=\"#fn51-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup><a name=\"rf52-2802\"></a><sup><a href=\"#fn52-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup><a name=\"rf53-2802\"></a><sup><a href=\"#fn53-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
         },
         {
           "line_index": 2,
+          "text": "O ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O ele<a name=\"rf54-2802\"></a><sup><a href=\"#fn54-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup><a name=\"rf55-2802\"></a><sup><a href=\"#fn55-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup><a name=\"rf56-2802\"></a><sup><a href=\"#fn56-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "‘Esav.",
+          "raw_html": "<p class=\"wp-block-paragraph\">‘Esav.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Para o caminho dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o caminho dele<a name=\"rf57-2802\"></a><sup><a href=\"#fn57-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Para Se’ir.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para Se’ir.</p>"
         }
@@ -703,7 +723,7 @@
         {
           "line_index": 2,
           "text": "Para Sukkot.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para Sukkot<a name=\"rf52-2802\"></a><sup><a href=\"#fn52-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para Sukkot<a name=\"rf58-2802\"></a><sup><a href=\"#fn58-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -733,7 +753,7 @@
         {
           "line_index": 8,
           "text": "Cabanas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cabanas<a name=\"rf53-2802\"></a><sup><a href=\"#fn53-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cabanas<a name=\"rf59-2802\"></a><sup><a href=\"#fn59-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -748,7 +768,7 @@
         {
           "line_index": 11,
           "text": "O nome do lugar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O nome do<a name=\"rf54-2802\"></a><sup><a href=\"#fn54-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup> lugar.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome do<a name=\"rf60-2802\"></a><sup><a href=\"#fn60-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup> lugar.</p>"
         },
         {
           "line_index": 12,
@@ -764,22 +784,22 @@
         {
           "line_index": 0,
           "text": "E vai Ya’aqob completo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E vai Ya’aqob completo<a name=\"rf55-2802\"></a><sup><a href=\"#fn55-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E vai Ya’aqob completo<a name=\"rf61-2802\"></a><sup><a href=\"#fn61-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Cidade de Shekem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cidade de Shekem<a name=\"rf56-2802\"></a><sup><a href=\"#fn56-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Cidade de Shekem<a name=\"rf62-2802\"></a><sup><a href=\"#fn62-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Que está na terra de Kena’an.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que está na terra de Kena’an<a name=\"rf57-2802\"></a><sup><a href=\"#fn57-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que está na terra de Kena’an<a name=\"rf63-2802\"></a><sup><a href=\"#fn63-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "No ir dele desde Paddan ‘Aram.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No ir dele desde Paddan ‘Aram<a name=\"rf58-2802\"></a><sup><a href=\"#fn58-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No ir dele desde Paddan ‘Aram<a name=\"rf64-2802\"></a><sup><a href=\"#fn64-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -795,17 +815,17 @@
         {
           "line_index": 0,
           "text": "E compra ele a parte do campo.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E compra<a name=\"rf59-2802\"></a><sup><a href=\"#fn59-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup> ele a parte do campo.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E compra<a name=\"rf65-2802\"></a><sup><a href=\"#fn65-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup> ele a parte do campo.</p>"
         },
         {
           "line_index": 1,
           "text": "Que estendeu elelá a tenda dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que estendeu ele<a name=\"rf60-2802\"></a><sup><a href=\"#fn60-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>lá a tenda dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que estendeu ele<a name=\"rf66-2802\"></a><sup><a href=\"#fn66-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>lá a tenda dele.</p>"
         },
         {
           "line_index": 2,
           "text": "Desde a mão dos filhos de Hamor,.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a mão dos<a name=\"rf61-2802\"></a><sup><a href=\"#fn61-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup> filhos de Hamor<a name=\"rf62-2802\"></a><sup><a href=\"#fn62-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>,.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a mão dos<a name=\"rf67-2802\"></a><sup><a href=\"#fn67-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup> filhos de Hamor<a name=\"rf68-2802\"></a><sup><a href=\"#fn68-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>,.</p>"
         },
         {
           "line_index": 3,
@@ -815,7 +835,7 @@
         {
           "line_index": 4,
           "text": "Em cem quesitas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Em cem quesitas<a name=\"rf63-2802\"></a><sup><a href=\"#fn63-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Em cem quesitas<a name=\"rf69-2802\"></a><sup><a href=\"#fn69-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
         }
       ]
     },
@@ -826,7 +846,7 @@
         {
           "line_index": 0,
           "text": "E posta lá sacrificiatório.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E posta lá sacrificiatório<a name=\"rf64-2802\"></a><sup><a href=\"#fn64-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E posta lá sacrificiatório<a name=\"rf70-2802\"></a><sup><a href=\"#fn70-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -836,12 +856,12 @@
         {
           "line_index": 2,
           "text": "‘El.",
-          "raw_html": "<p class=\"wp-block-paragraph\">‘El<a name=\"rf65-2802\"></a><sup><a href=\"#fn65-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">‘El<a name=\"rf71-2802\"></a><sup><a href=\"#fn71-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "O deusdeYisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O deus<a name=\"rf66-2802\"></a><sup><a href=\"#fn66-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>de<a name=\"rf67-2802\"></a><sup><a href=\"#fn67-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>Yisra’el<a name=\"rf68-2802\"></a><sup><a href=\"#fn68-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup><a name=\"rf69-2802\"></a><sup><a href=\"#fn69-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O deus<a name=\"rf72-2802\"></a><sup><a href=\"#fn72-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>de<a name=\"rf73-2802\"></a><sup><a href=\"#fn73-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>Yisra’el<a name=\"rf74-2802\"></a><sup><a href=\"#fn74-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup><a name=\"rf75-2802\"></a><sup><a href=\"#fn75-2802\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         }
       ]
     }
@@ -1096,8 +1116,8 @@
     {
       "ref_id": "fn42-2802",
       "number": 42,
-      "text": "Termo ocorre aqui pela primeira vez. É a forma reflexiva do verbo. Em Gênesis 47,17, usa-se a forma intensiva.",
-      "raw_html": "<span>Termo ocorre aqui pela primeira vez. É a forma reflexiva do verbo. Em Gênesis 47,17, usa-se a forma intensiva. </span>"
+      "text": "“Campeio-me eu” (nhl) Primeira de 10 ocorrências. As autoridades dizem que não se trata da mesma raiz de “varzeado” (nhl [“rio”]). Para a forma verbal, cf. Êxodo 33,14; Para a forma nominal, cf. Isaías 7,19.",
+      "raw_html": "<span>“Campeio-me eu” (<em>nhl</em>) Primeira de 10 ocorrências. As autoridades dizem que não se trata da mesma raiz de “varzeado” (<em>nhl</em> [“rio”]). Para a forma verbal, cf. Êxodo 33,14; Para a forma nominal, cf. Isaías 7,19. </span>"
     },
     {
       "ref_id": "fn43-2802",
@@ -1150,114 +1170,150 @@
     {
       "ref_id": "fn51-2802",
       "number": 51,
-      "text": "“Para o caminho dele” (ledarko). Cf. Gênesis 32,2; 33,16; Números 24,25; Juízes 19,27; 1 Samuel 26,25.",
-      "raw_html": "<span>“Para o caminho dele” (<em>ledarko</em>). Cf. Gênesis 32,2; 33,16; Números 24,25; Juízes 19,27; 1 Samuel 26,25. </span>"
+      "text": "“No dia” (bayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAAG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAG\" rel=\"noopener\" target=\"_blank\">No dia</a>” (<em>bayyom</em>). </span>"
     },
     {
       "ref_id": "fn52-2802",
       "number": 52,
-      "text": "A frase está escrita em registro de ênfase, com o sujeito preposto ao verbo. E é razoável considerar que a conjunção “e” tenha força adversativa. Mas, como se verá adiante, estamos aqui em um acréscimo.",
-      "raw_html": "<span>A frase está escrita em registro de ênfase, com o sujeito preposto ao verbo. E é razoável considerar que a conjunção “e” tenha força adversativa. Mas, como se verá adiante, estamos aqui em um acréscimo. </span>"
+      "text": "“O dia” (hayyom).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1079\" rel=\"noopener\" target=\"_blank\">O dia</a>” (<em>hayyom</em>). </span>"
     },
     {
       "ref_id": "fn53-2802",
       "number": 53,
-      "text": "Em hebraico, cabana é sukkah. No plural, sukkot.",
-      "raw_html": "<span>Em hebraico, cabana é <em>sukkah</em>. No plural, <em>sukkot</em>. </span>"
+      "text": "“Dia” (yom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0059\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0059\" rel=\"noopener\" target=\"_blank\">Dia</a>” (<em>yom</em>). </span>"
     },
     {
       "ref_id": "fn54-2802",
       "number": 54,
-      "text": "“O nome do” (shem).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome do</a>” (<em>shem</em>). </span>"
+      "text": "“No dia. O ele” (bayyom hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1077\" rel=\"noopener\" target=\"_blank\">No dia. O ele</a>” (<em>bayyom hahu’</em>). </span>"
     },
     {
       "ref_id": "fn55-2802",
       "number": 55,
-      "text": "“Completo” (shalem). Cf. Gênesis 14,18 e nota; 15,16.",
-      "raw_html": "<span>“Completo” (<em>shalem</em>). Cf. Gênesis 14,18 e nota; 15,16. </span>"
+      "text": "“O ele” (hahu’).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1078\" rel=\"noopener\" target=\"_blank\">O ele</a>” (<em>hahu’</em>). </span>"
     },
     {
       "ref_id": "fn56-2802",
       "number": 56,
-      "text": "Leia-se sherrêm. É a nossa velha conhecida Siquém, mencionada já em Gênesis 12,6",
-      "raw_html": "<span>Leia-se <em>sherrêm</em>. É a nossa velha conhecida Siquém, mencionada já em Gênesis 12,6 </span>"
+      "text": "“Ele” (hu’).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/0095\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0095\" rel=\"noopener\" target=\"_blank\">Ele</a>” (<em>hu’</em>). </span>"
     },
     {
       "ref_id": "fn57-2802",
       "number": 57,
-      "text": "Não sei quanto a vocês. Mas a impressão que tenho é que essa história está sendo narrada fora da Palestina. Por que o narrador tem de precisar que Siquém está na terra de Canaã?",
-      "raw_html": "<span>Não sei quanto a vocês. Mas a impressão que tenho é que essa história está sendo narrada fora da Palestina. Por que o narrador tem de precisar que Siquém está na terra de Canaã? </span>"
+      "text": "“Para o caminho dele” (ledarko). Cf. Gênesis 32,2; 33,16; Números 24,25; Juízes 19,27; 1 Samuel 26,25.",
+      "raw_html": "<span>“Para o caminho dele” (<em>ledarko</em>). Cf. Gênesis 32,2; 33,16; Números 24,25; Juízes 19,27; 1 Samuel 26,25. </span>"
     },
     {
       "ref_id": "fn58-2802",
       "number": 58,
-      "text": "Parece que o narrador não conhece o verso anterior, que pressupõe uma “parada” em Sucote. Parece justo considerar, portanto, o verso 17 como um acréscimo.",
-      "raw_html": "<span>Parece que o narrador não conhece o verso anterior, que pressupõe uma “parada” em Sucote. Parece justo considerar, portanto, o verso 17 como um acréscimo. </span>"
+      "text": "A frase está escrita em registro de ênfase, com o sujeito preposto ao verbo. E é razoável considerar que a conjunção “e” tenha força adversativa. Mas, como se verá adiante, estamos aqui em um acréscimo.",
+      "raw_html": "<span>A frase está escrita em registro de ênfase, com o sujeito preposto ao verbo. E é razoável considerar que a conjunção “e” tenha força adversativa. Mas, como se verá adiante, estamos aqui em um acréscimo. </span>"
     },
     {
       "ref_id": "fn59-2802",
       "number": 59,
-      "text": "“Compra”. Cf. Gênesis 25,10 e nota.",
-      "raw_html": "<span>“Compra”. Cf. Gênesis 25,10 e nota. </span>"
+      "text": "Em hebraico, cabana é sukkah. No plural, sukkot.",
+      "raw_html": "<span>Em hebraico, cabana é <em>sukkah</em>. No plural, <em>sukkot</em>. </span>"
     },
     {
       "ref_id": "fn60-2802",
       "number": 60,
-      "text": "“Que estendeu ele” (‘asher natah). Primeira de 5 ocorrências. Cf. Gênesis 33,19; Números 21,15.",
-      "raw_html": "<span>“Que estendeu ele” (<em>‘asher natah</em>). Primeira de 5 ocorrências. Cf. Gênesis 33,19; Números 21,15. </span>"
+      "text": "“O nome do” (shem).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome do</a>” (<em>shem</em>). </span>"
     },
     {
       "ref_id": "fn61-2802",
       "number": 61,
-      "text": "“Desde a mão dos” (miyyad).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFQ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFQ\" rel=\"noreferrer noopener\" target=\"_blank\">Desde a mão dos</a>” (<em>miyyad</em>). </span>"
+      "text": "“Completo” (shalem). Cf. Gênesis 14,18 e nota; 15,16.",
+      "raw_html": "<span>“Completo” (<em>shalem</em>). Cf. Gênesis 14,18 e nota; 15,16. </span>"
     },
     {
       "ref_id": "fn62-2802",
       "number": 62,
-      "text": "Leia-se rramôr.",
-      "raw_html": "<span>Leia-se <em>rramôr</em>. </span>"
+      "text": "Leia-se sherrêm. É a nossa velha conhecida Siquém, mencionada já em Gênesis 12,6",
+      "raw_html": "<span>Leia-se <em>sherrêm</em>. É a nossa velha conhecida Siquém, mencionada já em Gênesis 12,6 </span>"
     },
     {
       "ref_id": "fn63-2802",
       "number": 63,
-      "text": "“Quesitas” (leia-se quecitas.). Transliteração aportuguesada, dado o plural, do termo qesitah no texto hebraico. Não se sabe o que é: medida de valor, de quantidade? e de quê? Há quem pense inclusive em “cordeiros” (cf. Koehler-Baumgartner). Opto por transliterar, sem tentar “chutar”. O mesmo expediente seguiu Chouraqui.",
-      "raw_html": "<span>“Quesitas” (leia-se <em>quecitas</em>.). Transliteração aportuguesada, dado o plural, do termo <em>qesitah</em> no texto hebraico. Não se sabe o que é: medida de valor, de quantidade? e de quê? Há quem pense inclusive em “cordeiros” (cf. Koehler-Baumgartner). Opto por transliterar, sem tentar “chutar”. O mesmo expediente seguiu Chouraqui. </span>"
+      "text": "Não sei quanto a vocês. Mas a impressão que tenho é que essa história está sendo narrada fora da Palestina. Por que o narrador tem de precisar que Siquém está na terra de Canaã?",
+      "raw_html": "<span>Não sei quanto a vocês. Mas a impressão que tenho é que essa história está sendo narrada fora da Palestina. Por que o narrador tem de precisar que Siquém está na terra de Canaã? </span>"
     },
     {
       "ref_id": "fn64-2802",
       "number": 64,
-      "text": "“Sacrificiatório” (mizbeah). Cf. Gênesis 8,20 e nota; 35,7; Êxodo 40,33; Levítico 1,5.",
-      "raw_html": "<span>“Sacrificiatório” (<em>mizbeah</em>). Cf. Gênesis 8,20 e nota; 35,7; Êxodo 40,33; Levítico 1,5. </span>"
+      "text": "Parece que o narrador não conhece o verso anterior, que pressupõe uma “parada” em Sucote. Parece justo considerar, portanto, o verso 17 como um acréscimo.",
+      "raw_html": "<span>Parece que o narrador não conhece o verso anterior, que pressupõe uma “parada” em Sucote. Parece justo considerar, portanto, o verso 17 como um acréscimo. </span>"
     },
     {
       "ref_id": "fn65-2802",
       "number": 65,
-      "text": "“‘EL”. Essa é uma ocorrência curiosa. De um lado, ‘el aqui não é um substantivo comum, mas um nome próprio: ‘El. De outro, como nome próprio, ‘el designa o deus cananeu. Todavia, na forma de ‘Elk Shadday, ‘el já foi, mesmo como nome, assimilado a Yahweh. Aqui parece ser o caso.",
-      "raw_html": "<span>“‘EL”. Essa é uma ocorrência curiosa. De um lado, <em>‘el</em> aqui não é um substantivo comum, mas um nome próprio: ‘El. De outro, como nome próprio, <em>‘el</em> designa o deus cananeu. Todavia, na forma de ‘Elk Shadday, <em>‘el</em> já foi, mesmo como nome, assimilado a Yahweh. Aqui parece ser o caso. </span>"
+      "text": "“Compra”. Cf. Gênesis 25,10 e nota.",
+      "raw_html": "<span>“Compra”. Cf. Gênesis 25,10 e nota. </span>"
     },
     {
       "ref_id": "fn66-2802",
       "number": 66,
-      "text": "“Deus” (‘elohim).",
-      "raw_html": "<span>“Deus” (<em>‘elohim</em>). </span>"
+      "text": "“Que estendeu ele” (‘asher natah). Primeira de 5 ocorrências. Cf. Gênesis 33,19; Números 21,15.",
+      "raw_html": "<span>“Que estendeu ele” (<em>‘asher natah</em>). Primeira de 5 ocorrências. Cf. Gênesis 33,19; Números 21,15. </span>"
     },
     {
       "ref_id": "fn67-2802",
       "number": 67,
-      "text": "“‘El. O deus de” (‘el ‘elohe). Aqui e em Números 16,21.",
-      "raw_html": "<span>“‘El. O deus de” (<em>‘el ‘elohe</em>). Aqui e em Números 16,21. </span>"
+      "text": "“Desde a mão dos” (miyyad).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFQ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFQ\" rel=\"noreferrer noopener\" target=\"_blank\">Desde a mão dos</a>” (<em>miyyad</em>). </span>"
     },
     {
       "ref_id": "fn68-2802",
       "number": 68,
-      "text": "“O deus de Yisra’el” (‘elohe yisra’el). Primeira de 189 ocorrências. Cf. Gênesis 33,20; Êxodo 5,1; 24,10; 34,23; Números 16,9.",
-      "raw_html": "<span>“O deus de Yisra’el” (<em>‘elohe yisra’el</em>). Primeira de 189 ocorrências. Cf. Gênesis 33,20; Êxodo 5,1; 24,10; 34,23; Números 16,9. </span>"
+      "text": "Leia-se rramôr.",
+      "raw_html": "<span>Leia-se <em>rramôr</em>. </span>"
     },
     {
       "ref_id": "fn69-2802",
       "number": 69,
+      "text": "“Quesitas” (leia-se quecitas.). Transliteração aportuguesada, dado o plural, do termo qesitah no texto hebraico. Não se sabe o que é: medida de valor, de quantidade? e de quê? Há quem pense inclusive em “cordeiros” (cf. Koehler-Baumgartner). Opto por transliterar, sem tentar “chutar”. O mesmo expediente seguiu Chouraqui.",
+      "raw_html": "<span>“Quesitas” (leia-se <em>quecitas</em>.). Transliteração aportuguesada, dado o plural, do termo <em>qesitah</em> no texto hebraico. Não se sabe o que é: medida de valor, de quantidade? e de quê? Há quem pense inclusive em “cordeiros” (cf. Koehler-Baumgartner). Opto por transliterar, sem tentar “chutar”. O mesmo expediente seguiu Chouraqui. </span>"
+    },
+    {
+      "ref_id": "fn70-2802",
+      "number": 70,
+      "text": "“Sacrificiatório” (mizbeah). Cf. Gênesis 8,20 e nota; 35,7; Êxodo 40,33; Levítico 1,5.",
+      "raw_html": "<span>“Sacrificiatório” (<em>mizbeah</em>). Cf. Gênesis 8,20 e nota; 35,7; Êxodo 40,33; Levítico 1,5. </span>"
+    },
+    {
+      "ref_id": "fn71-2802",
+      "number": 71,
+      "text": "“‘EL”. Essa é uma ocorrência curiosa. De um lado, ‘el aqui não é um substantivo comum, mas um nome próprio: ‘El. De outro, como nome próprio, ‘el designa o deus cananeu. Todavia, na forma de ‘Elk Shadday, ‘el já foi, mesmo como nome, assimilado a Yahweh. Aqui parece ser o caso.",
+      "raw_html": "<span>“‘EL”. Essa é uma ocorrência curiosa. De um lado, <em>‘el</em> aqui não é um substantivo comum, mas um nome próprio: ‘El. De outro, como nome próprio, <em>‘el</em> designa o deus cananeu. Todavia, na forma de ‘Elk Shadday, <em>‘el</em> já foi, mesmo como nome, assimilado a Yahweh. Aqui parece ser o caso. </span>"
+    },
+    {
+      "ref_id": "fn72-2802",
+      "number": 72,
+      "text": "“Deus” (‘elohim).",
+      "raw_html": "<span>“Deus” (<em>‘elohim</em>). </span>"
+    },
+    {
+      "ref_id": "fn73-2802",
+      "number": 73,
+      "text": "“‘El. O deus de” (‘el ‘elohe). Aqui e em Números 16,21.",
+      "raw_html": "<span>“‘El. O deus de” (<em>‘el ‘elohe</em>). Aqui e em Números 16,21. </span>"
+    },
+    {
+      "ref_id": "fn74-2802",
+      "number": 74,
+      "text": "“O deus de Yisra’el” (‘elohe yisra’el). Primeira de 189 ocorrências. Cf. Gênesis 33,20; Êxodo 5,1; 24,10; 34,23; Números 16,9.",
+      "raw_html": "<span>“O deus de Yisra’el” (<em>‘elohe yisra’el</em>). Primeira de 189 ocorrências. Cf. Gênesis 33,20; Êxodo 5,1; 24,10; 34,23; Números 16,9. </span>"
+    },
+    {
+      "ref_id": "fn75-2802",
+      "number": 75,
       "text": "Não se pode negar que o nome “Israel” seja constituído realmente pelo nome ‘El. Como quer Israel Finkelstein em A Bíblia Desenterrada, Israel era cananeu. El era o principal deus de Canaã. Nada mais natural que um povo cananeu, israelitas, adorassem originalmente El. A identificação de El com Yahweh será obra muito posterior.",
       "raw_html": "<span>Não se pode negar que o nome “Israel” seja constituído realmente pelo nome ‘El. Como quer Israel Finkelstein em A Bíblia Desenterrada, Israel era cananeu. El era o principal deus de Canaã. Nada mais natural que um povo cananeu, israelitas, adorassem originalmente El. A identificação de El com Yahweh será obra muito posterior. </span>"
     }

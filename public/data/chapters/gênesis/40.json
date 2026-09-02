@@ -365,7 +365,7 @@
     },
     {
       "number": 9,
-      "text": "E confirmao príncipe dos sorvedoreso sonho dele para Yosep. E ele diz para ele. No sonho de mim. E eis uma videira. Para as faces de mim.",
+      "text": "E confirmao príncipe dos sorvedoreso sonho dele para Yosep. E ele diz para ele. No sonho de mim. E eis. Pé-de-uva. Para as faces de mim.",
       "lines": [
         {
           "line_index": 0,
@@ -384,11 +384,16 @@
         },
         {
           "line_index": 3,
-          "text": "E eis uma videira.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E eis uma videira<a name=\"rf44-3174\"></a><sup><a href=\"#fn44-3174\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
+          "text": "E eis.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E eis.</p>"
         },
         {
           "line_index": 4,
+          "text": "Pé-de-uva.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Pé-de-uva<a name=\"rf44-3174\"></a><sup><a href=\"#fn44-3174\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Para as faces de mim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de mim.</p>"
         }
@@ -396,12 +401,12 @@
     },
     {
       "number": 10,
-      "text": "E na videira estão três sarmentos. E ela. Conforme está brotadora. Sobe a flor dela. Fazem cozinharos cachos dela uvas.",
+      "text": "E no pé-de-uva estão três sarmentos. E ela. Conforme está brotadora. Sobe a flor dela. Fazem cozinharos cachos dela uvas.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E na videira estão três sarmentos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E na videira<a name=\"rf45-3174\"></a><sup><a href=\"#fn45-3174\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup> estão três sarmentos<a name=\"rf46-3174\"></a><sup><a href=\"#fn46-3174\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
+          "text": "E no pé-de-uva estão três sarmentos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E no pé-de-uva<a name=\"rf45-3174\"></a><sup><a href=\"#fn45-3174\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup> estão três sarmentos<a name=\"rf46-3174\"></a><sup><a href=\"#fn46-3174\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
         },
         {
           "line_index": 1,

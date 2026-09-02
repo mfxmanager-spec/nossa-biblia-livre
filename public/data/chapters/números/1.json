@@ -1914,7 +1914,7 @@
     },
     {
       "number": 53,
-      "text": "E os lewiyim. Acampam eles. Arredor. Para o estabelecimento do testemunho. E não estáindignaçãosobre a comunidadedos filhos de Yisra’el. E guardamos lewiyyimo guardamentodo estabelecimentodo testemunho.",
+      "text": "E os lewiyim. Acampam eles. Arredor. Para o estabelecimento do testemunho. E não está. Rompimento. Sobre a comunidadedos filhos de Yisra’el. E guardamos lewiyyimo guardamentodo estabelecimentodo testemunho.",
       "lines": [
         {
           "line_index": 0,
@@ -1938,11 +1938,21 @@
         },
         {
           "line_index": 4,
-          "text": "E não estáindignaçãosobre a comunidadedos filhos de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E não está<a name=\"rf421-9854\"></a><sup><a href=\"#fn421-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 421\">421</a></sup>indignação<a name=\"rf422-9854\"></a><sup><a href=\"#fn422-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 422\">422</a></sup>sobre a comunidade<a name=\"rf423-9854\"></a><sup><a href=\"#fn423-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 423\">423</a></sup>dos filhos de Yisra’el<a name=\"rf424-9854\"></a><sup><a href=\"#fn424-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 424\">424</a></sup>.</p>"
+          "text": "E não está.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E não está<a name=\"rf421-9854\"></a><sup><a href=\"#fn421-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 421\">421</a></sup>.</p>"
         },
         {
           "line_index": 5,
+          "text": "Rompimento.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Rompimento<a name=\"rf422-9854\"></a><sup><a href=\"#fn422-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 422\">422</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Sobre a comunidadedos filhos de Yisra’el.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre a comunidade<a name=\"rf423-9854\"></a><sup><a href=\"#fn423-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 423\">423</a></sup>dos filhos de Yisra’el<a name=\"rf424-9854\"></a><sup><a href=\"#fn424-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 424\">424</a></sup>.</p>"
+        },
+        {
+          "line_index": 7,
           "text": "E guardamos lewiyyimo guardamentodo estabelecimentodo testemunho.",
           "raw_html": "<p class=\"wp-block-paragraph\">E guardam<a name=\"rf425-9854\"></a><sup><a href=\"#fn425-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 425\">425</a></sup>os lewiyyim<a name=\"rf426-9854\"></a><sup><a href=\"#fn426-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 426\">426</a></sup>o guardamento<a name=\"rf427-9854\"></a><sup><a href=\"#fn427-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 427\">427</a></sup>do estabelecimento<a name=\"rf428-9854\"></a><sup><a href=\"#fn428-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 428\">428</a></sup>do testemunho<a name=\"rf429-9854\"></a><sup><a href=\"#fn429-9854\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 429\">429</a></sup>.</p>"
         }
@@ -4500,8 +4510,8 @@
     {
       "ref_id": "fn422-9854",
       "number": 422,
-      "text": "“Indignação” (qetsep). Primeira de 28 ocorrências. Cf. Números 1,53; 17,11; 18,5.",
-      "raw_html": "<span>“Indignação” (<em>qetsep</em>). Primeira de 28 ocorrências. Cf. Números 1,53; 17,11; 18,5. </span>"
+      "text": "“Rompimento” (qetsep). Tradução provisória para diferenciar da raiz z’m (“indignar” [cf. Isaías 10,5]). Primeira de 28 ocorrências. Cf. Números 1,53; 17,11; 18,5.",
+      "raw_html": "<span>“Rompimento” (<em>qetsep</em>). Tradução provisória para diferenciar da raiz <em>z’m</em> (“indignar” [cf. Isaías 10,5]). Primeira de 28 ocorrências. Cf. Números 1,53; 17,11; 18,5. </span>"
     },
     {
       "ref_id": "fn423-9854",

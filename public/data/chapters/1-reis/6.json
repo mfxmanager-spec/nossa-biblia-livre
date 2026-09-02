@@ -413,7 +413,7 @@
     },
     {
       "number": 7,
-      "text": "E o lar. No ser construído dele. Pedra completa. Afloramento. Construído está ele. E marteleira. E o machado. E o total dos utensílios de ferro. Não ouvido está ele. No lar. No ser construído dele.",
+      "text": "E o lar. No ser construído dele. Pedra completa. Afloramento. Construído está ele. E marteleira. E o machado. O total dos utensílios de ferro. Não ouvido está ele. No lar. No ser construído dele.",
       "lines": [
         {
           "line_index": 0,
@@ -452,8 +452,8 @@
         },
         {
           "line_index": 7,
-          "text": "E o total dos utensílios de ferro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o total dos<a name=\"rf83-30982\"></a><sup><a href=\"#fn83-30982\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> utensílios de ferro.</p>"
+          "text": "O total dos utensílios de ferro.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O total dos<a name=\"rf83-30982\"></a><sup><a href=\"#fn83-30982\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup> utensílios de ferro.</p>"
         },
         {
           "line_index": 8,
@@ -1480,7 +1480,7 @@
     },
     {
       "number": 29,
-      "text": "E o total dos muros do lar. Em-torno. Ondula ele. Rasgos de ondulações de kerubim. E palmetes. E desviados de flores. Desde para as faces. E para o foramento.",
+      "text": "E o total dos muros do lar. Em-torno. Baixo-releva ele. Gravações de baixos-relevos de kerubim. E palmetes. E desviados de flores. Desde para as faces. E para o foramento.",
       "lines": [
         {
           "line_index": 0,
@@ -1494,13 +1494,13 @@
         },
         {
           "line_index": 2,
-          "text": "Ondula ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ondula ele.</p>"
+          "text": "Baixo-releva ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Baixo-releva ele.</p>"
         },
         {
           "line_index": 3,
-          "text": "Rasgos de ondulações de kerubim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Rasgos de ondulações de <em>kerubim</em>.</p>"
+          "text": "Gravações de baixos-relevos de kerubim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Gravações de baixos-relevos de <em>kerubim</em>.</p>"
         },
         {
           "line_index": 4,

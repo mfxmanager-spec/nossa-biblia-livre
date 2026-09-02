@@ -511,22 +511,42 @@
     },
     {
       "number": 15,
-      "text": "E estejam eles paraluzeiros no chapeado dos céus. Para iluminar sobre a terra. E está assim.",
+      "text": "E estão eles. Para luzeiros. No chapeado dos céus. Para iluminar. Sobre a terra. E está. Assim.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E estejam eles paraluzeiros no chapeado dos céus.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E estejam eles para<a name=\"rf94-1048\"></a><sup><a href=\"#fn94-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>luzeiros no chapeado dos céus.</p>"
+          "text": "E estão eles.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles.</p>"
         },
         {
           "line_index": 1,
-          "text": "Para iluminar sobre a terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para iluminar sobre a terra.</p>"
+          "text": "Para luzeiros.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para<a name=\"rf94-1048\"></a><sup><a href=\"#fn94-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup> luzeiros.</p>"
         },
         {
           "line_index": 2,
-          "text": "E está assim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf95-1048\"></a><sup><a href=\"#fn95-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup> assim.</p>"
+          "text": "No chapeado dos céus.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No chapeado dos céus.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "Para iluminar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para iluminar.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Sobre a terra.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre a terra.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "E está.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf95-1048\"></a><sup><a href=\"#fn95-1048\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Assim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Assim.</p>"
         }
       ]
     },

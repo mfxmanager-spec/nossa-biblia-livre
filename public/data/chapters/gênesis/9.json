@@ -777,7 +777,7 @@
     },
     {
       "number": 21,
-      "text": "E bebe ele desde o vinho. E embriagaele. E descobreele no meio da tenda dele.",
+      "text": "E bebe ele desde o vinho. E embriagaele. E descobre-se ele. No meio do tabernáculo dele.",
       "lines": [
         {
           "line_index": 0,
@@ -791,8 +791,13 @@
         },
         {
           "line_index": 2,
-          "text": "E descobreele no meio da tenda dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E descobre<a name=\"rf96-1689\"></a><sup><a href=\"#fn96-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup><a name=\"rf97-1689\"></a><sup><a href=\"#fn97-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>ele no meio da tenda dele.</p>"
+          "text": "E descobre-se ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E descobre-se ele<a name=\"rf96-1689\"></a><sup><a href=\"#fn96-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup><a name=\"rf97-1689\"></a><sup><a href=\"#fn97-1689\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "No meio do tabernáculo dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No meio do tabernáculo dele.</p>"
         }
       ]
     },
@@ -1629,8 +1634,8 @@
     {
       "ref_id": "fn96-1689",
       "number": 96,
-      "text": "“Descobre-se” traduz forma verbal reflexiva da raiz glh. Primeira de 167 ocorrências. Cf. Gênesis 9,21; 35,7; Êxodo 20,26; Levítico 18,6; Números 24,4.",
-      "raw_html": "<span>“Descobre-se” traduz forma verbal reflexiva da raiz <em>glh.</em> Primeira de 167 ocorrências. Cf. Gênesis 9,21; 35,7; Êxodo 20,26; Levítico 18,6; Números 24,4. </span>"
+      "text": "“Descobre-se” traduz forma verbal reflexiva da raiz glh. Primeira de 167 ocorrências. Para a forma verbal, cf. Gênesis 9,21. Para a forma nominal golah (“descobertura”), cf. 2 Reis 24,5. Para a forma nominal galut (“descobrimento”), cf. 2 Reis 25,27. Para a forma nominal gillayon (“descobertábulo”, cf. Isaías 3,23.",
+      "raw_html": "<span>“Descobre-se” traduz forma verbal reflexiva da raiz <em>glh.</em> Primeira de 167 ocorrências. Para a forma verbal, cf. Gênesis 9,21. Para a forma nominal <em>golah</em> (“descobertura”), cf. 2 Reis 24,5. Para a forma nominal <em>galut </em>(“descobrimento”), cf. 2 Reis 25,27. Para a forma nominal <em>gillayon</em> (“descobertábulo”, cf. Isaías 3,23. </span>"
     },
     {
       "ref_id": "fn97-1689",

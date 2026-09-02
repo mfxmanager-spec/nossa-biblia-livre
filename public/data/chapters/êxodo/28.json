@@ -485,7 +485,7 @@
     },
     {
       "number": 14,
-      "text": "E duas de correntesde ouro puro. Lindadastu as farás. Afazer de trança. E tu darásas correntes das trançassobre as incrustações.",
+      "text": "E duas de correntesde ouro puro. Lindadastu as farás. Afazer de torcido. E tu darás. As correntes dos torcidos. Sobre as incrustações.",
       "lines": [
         {
           "line_index": 0,
@@ -499,13 +499,23 @@
         },
         {
           "line_index": 2,
-          "text": "Afazer de trança.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Afazer de trança<a name=\"rf94-6118\"></a><sup><a href=\"#fn94-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
+          "text": "Afazer de torcido.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Afazer de torcido<a name=\"rf94-6118\"></a><sup><a href=\"#fn94-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "E tu darásas correntes das trançassobre as incrustações.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E tu darás<a name=\"rf95-6118\"></a><sup><a href=\"#fn95-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>as correntes das tranças<a name=\"rf96-6118\"></a><sup><a href=\"#fn96-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>sobre as incrustações<a name=\"rf97-6118\"></a><sup><a href=\"#fn97-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
+          "text": "E tu darás.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E tu darás<a name=\"rf95-6118\"></a><sup><a href=\"#fn95-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "As correntes dos torcidos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">As correntes dos torcidos<a name=\"rf96-6118\"></a><sup><a href=\"#fn96-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Sobre as incrustações.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre as incrustações<a name=\"rf97-6118\"></a><sup><a href=\"#fn97-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
         }
       ]
     },
@@ -1044,30 +1054,40 @@
     },
     {
       "number": 33,
-      "text": "E tu farás sobre as saiasdela romãsde tekelet. E ostro. E vermes de escarlate. Sobre as saias dela ao redor. E sininhosde ouro no meio delasao redor.",
+      "text": "E fazes tu. Sobre os saiados dela. Púnicosde tekelet. E ostro. E vermes de escarlate. Sobre as saias dela ao redor. E sininhosde ouro no meio delasao redor.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E tu farás sobre as saiasdela romãsde tekelet.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E tu farás sobre as saias<a name=\"rf210-6118\"></a><sup><a href=\"#fn210-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup>dela romãs<a name=\"rf211-6118\"></a><sup><a href=\"#fn211-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup>de <em>tekelet</em><a name=\"rf212-6118\"></a><sup><a href=\"#fn212-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 212\">212</a></sup>.</p>"
+          "text": "E fazes tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E fazes tu.</p>"
         },
         {
           "line_index": 1,
+          "text": "Sobre os saiados dela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre os saiados<a name=\"rf210-6118\"></a><sup><a href=\"#fn210-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 210\">210</a></sup> dela.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Púnicosde tekelet.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Púnicos<a name=\"rf211-6118\"></a><sup><a href=\"#fn211-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 211\">211</a></sup>de <em>tekelet</em><a name=\"rf212-6118\"></a><sup><a href=\"#fn212-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 212\">212</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
           "text": "E ostro.",
           "raw_html": "<p class=\"wp-block-paragraph\">E ostro<a name=\"rf213-6118\"></a><sup><a href=\"#fn213-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 213\">213</a></sup>.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 4,
           "text": "E vermes de escarlate.",
           "raw_html": "<p class=\"wp-block-paragraph\">E vermes de escarlate<a name=\"rf214-6118\"></a><sup><a href=\"#fn214-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 214\">214</a></sup>. </p>"
         },
         {
-          "line_index": 3,
+          "line_index": 5,
           "text": "Sobre as saias dela ao redor.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre as saias dela ao redor.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
           "text": "E sininhosde ouro no meio delasao redor.",
           "raw_html": "<p class=\"wp-block-paragraph\">E sininhos<a name=\"rf215-6118\"></a><sup><a href=\"#fn215-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 215\">215</a></sup>de ouro no meio delas<a name=\"rf216-6118\"></a><sup><a href=\"#fn216-6118\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 216\">216</a></sup>ao redor.</p>"
         }
@@ -1941,8 +1961,8 @@
     {
       "ref_id": "fn94-6118",
       "number": 94,
-      "text": "“Trança” (‘abot). Primeira de 19 ocorrências.",
-      "raw_html": "<span>“Trança” (<em>‘abot</em>). Primeira de 19 ocorrências. </span>"
+      "text": "“Torcido” (‘abot). Primeira de 18 ocorrências. Trata-se da raiz ‘bt (“torcer”). Aqui, designa um aparato de fios torcidos, ao modo de um cordel (mas reservo “corda/cordel/cordoamento para a raiz hbl [cf. Deuteronômio 3,4]). Para a forma nominal, cf. Êxodo 28,14. Para a forma verbal, cf. Miqueias 7,3.",
+      "raw_html": "<span>“Torcido” (<em>‘abot</em>). Primeira de 18 ocorrências. Trata-se da raiz <em>‘bt</em> (“torcer”). Aqui, designa um aparato de fios torcidos, ao modo de um cordel (mas reservo “corda/cordel/cordoamento para a raiz <em>hbl</em> [cf. Deuteronômio 3,4]). Para a forma nominal, cf. Êxodo 28,14. Para a forma verbal, cf. Miqueias 7,3. </span>"
     },
     {
       "ref_id": "fn95-6118",
