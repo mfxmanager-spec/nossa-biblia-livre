@@ -944,7 +944,7 @@
     },
     {
       "number": 18,
-      "text": "E ‘Abishay. O irmão de Yo’ab. O filho de Tseruyah. Ele. A cabeça do três. E ele. Sobre-acorda ele. A lança dele. Sobre três de centenas. Transpassado. E para ele. Nome. No três.",
+      "text": "E ‘Abishay. O irmão de Yo’ab. O filho de Tseruyah. Ele. A cabeça do três. E ele. Acorda ele. A lança dele. Sobre três de centenas. Transpassado. E para ele. Nome. No três.",
       "lines": [
         {
           "line_index": 0,
@@ -978,8 +978,8 @@
         },
         {
           "line_index": 6,
-          "text": "Sobre-acorda ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre-acorda ele.</p>"
+          "text": "Acorda ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Acorda ele.</p>"
         },
         {
           "line_index": 7,

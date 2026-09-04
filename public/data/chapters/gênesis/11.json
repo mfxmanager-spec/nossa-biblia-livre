@@ -74,7 +74,7 @@
     },
     {
       "number": 3,
-      "text": "E dizem eles. Homem. Ao companheiro dele. Destina tu. Tijolemos nós tijolos. E ardemos nós. Para ardimento. E está. Para eles. O tijolo. Para pedra. E o betume está. Para eles. Para betumação.",
+      "text": "E dizem eles. Homem. Ao companheiro dele. Destina tu. Tijolemos nós tijolos. E ardemos nós. Para ardimento. E está. Para eeles. O tijolo. Para pedra. E o betume está. Para eles. Para betumação.",
       "lines": [
         {
           "line_index": 0,
@@ -118,8 +118,8 @@
         },
         {
           "line_index": 8,
-          "text": "Para eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para eles.</p>"
+          "text": "Para eeles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para eeles.</p>"
         },
         {
           "line_index": 9,
