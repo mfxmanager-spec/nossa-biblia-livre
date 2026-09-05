@@ -1067,20 +1067,35 @@
     },
     {
       "number": 26,
-      "text": "E diz Yehudah para os irmãos dele. Que ganhopois mataro irmão de nós? E nós cobrimos o sangue dele.",
+      "text": "E diz Yehudah. Aos irmãos dele. Qual arremate. Que matamos nós. O irmão de nós? E nós cobrimos o sangue dele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E diz Yehudah para os irmãos dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Yehudah para os irmãos dele.</p>"
+          "text": "E diz Yehudah.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Yehudah.</p>"
         },
         {
           "line_index": 1,
-          "text": "Que ganhopois mataro irmão de nós?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que ganho<a name=\"rf93-2990\"></a><sup><a href=\"#fn93-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>pois matar<a name=\"rf94-2990\"></a><sup><a href=\"#fn94-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>o irmão de nós?</p>"
+          "text": "Aos irmãos dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Aos irmãos dele.</p>"
         },
         {
           "line_index": 2,
+          "text": "Qual arremate.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Qual arremate<a name=\"rf93-2990\"></a><sup><a href=\"#fn93-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "Que matamos nós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que matamos nós<a name=\"rf94-2990\"></a><sup><a href=\"#fn94-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "O irmão de nós?",
+          "raw_html": "<p class=\"wp-block-paragraph\">O irmão de nós?</p>"
+        },
+        {
+          "line_index": 5,
           "text": "E nós cobrimos o sangue dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E nós cobrimos o sangue dele<a name=\"rf95-2990\"></a><sup><a href=\"#fn95-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>. </p>"
         }
@@ -2028,8 +2043,8 @@
     {
       "ref_id": "fn93-2990",
       "number": 93,
-      "text": "“Ganho” (betsa’). Primeira de 33 ocorrências. Cf. Êxodo 18,21.",
-      "raw_html": "<span>“Ganho” (<em>betsa’</em>). Primeira de 33 ocorrências. Cf. Êxodo 18,21. </span>"
+      "text": "“Arremate” (betsa’). Primeira de 33 ocorrências. Cf. Êxodo 18,21. Trata-se da raiz bts’ (“arrematar”). Para a forma nominal, cf. Gênesis 37,26. Para a forma verbal, cf. Isaías 10,12.",
+      "raw_html": "<span>“Arremate” (<em>betsa’</em>). Primeira de 33 ocorrências. Cf. Êxodo 18,21. Trata-se da raiz <em>bts’</em> (“arrematar”). Para a forma nominal, cf. Gênesis 37,26. Para a forma verbal, cf. Isaías 10,12. </span>"
     },
     {
       "ref_id": "fn94-2990",

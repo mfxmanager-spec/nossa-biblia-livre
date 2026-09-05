@@ -511,7 +511,7 @@
     },
     {
       "number": 10,
-      "text": "E o rei de Yisra’el. E Yehoshapat. O rei de Yehudah. Assentadores. Homem. Sobre o trono dele. Sido enroupados. Vestimentos. Na eira do abrimento do portão de Shimron. E o total dos profetas. Profetizando-se. Para as faces deles.",
+      "text": "E o rei de Yisra’el. E Yehoshapat. O rei de Yehudah. Assentadores. Homem. Sobre o trono dele. Sido enroupados. Vestimentos. Na eira do abrimento do portão de Shomron. E o total dos profetas. Profetizando-se. Para as faces deles.",
       "lines": [
         {
           "line_index": 0,
@@ -555,8 +555,8 @@
         },
         {
           "line_index": 8,
-          "text": "Na eira do abrimento do portão de Shimron.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na eira do abrimento do portão de Shimron.</p>"
+          "text": "Na eira do abrimento do portão de Shomron.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Na eira do abrimento do portão de Shomron.</p>"
         },
         {
           "line_index": 9,
@@ -2102,45 +2102,50 @@
     },
     {
       "number": 36,
-      "text": "E passa a clamoração. No acampamento. Conforme o ir do sol. Para dizer. Homem. À cidade dele. E homem. À terra dele.",
+      "text": "E passa ele. A clamoração. No acampamento. Conforme o ir do sol. Para dizer. Homem. À cidade dele. E homem. À terra dele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E passa a clamoração.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E passa a clamoração.</p>"
+          "text": "E passa ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E passa ele.</p>"
         },
         {
           "line_index": 1,
+          "text": "A clamoração.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A clamoração.</p>"
+        },
+        {
+          "line_index": 2,
           "text": "No acampamento.",
           "raw_html": "<p class=\"wp-block-paragraph\">No acampamento.</p>"
         },
         {
-          "line_index": 2,
+          "line_index": 3,
           "text": "Conforme o ir do sol.",
           "raw_html": "<p class=\"wp-block-paragraph\">Conforme o ir do sol.</p>"
         },
         {
-          "line_index": 3,
+          "line_index": 4,
           "text": "Para dizer.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para dizer.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Homem.",
           "raw_html": "<p class=\"wp-block-paragraph\">Homem.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "À cidade dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">À cidade dele.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "E homem.",
           "raw_html": "<p class=\"wp-block-paragraph\">E homem.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "À terra dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">À terra dele.</p>"
         }

@@ -359,7 +359,7 @@
     },
     {
       "number": 8,
-      "text": "E as cevadas. E a as palhas. Para os cavalos. E para o potro. E fazem ir eles. Ao lugar. Que está. Lá. Homem. Conforme o julgamento dele.",
+      "text": "E as cevadas. E as palhas. Para os cavalos. E para o potro. E fazem ir eles. Ao lugar. Que está. Lá. Homem. Conforme o julgamento dele.",
       "lines": [
         {
           "line_index": 0,
@@ -368,8 +368,8 @@
         },
         {
           "line_index": 1,
-          "text": "E a as palhas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a as palhas.</p>"
+          "text": "E as palhas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E as palhas.</p>"
         },
         {
           "line_index": 2,

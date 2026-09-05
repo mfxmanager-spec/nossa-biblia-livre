@@ -760,7 +760,7 @@
     },
     {
       "number": 19,
-      "text": "E agora. Envia! Abriga o gado de ti. E o total. Que para ti. No campo. O total do homem. E animália. Que está saído no campo. E não está ele reunido para a casa. Ecai sobre eles o granizo. Emorrem eles.",
+      "text": "E agora. Envia tu. Faze tu abrigar. O gado de ti. E o total. Que para ti. No campo. O total do homem. E animália. Que está saído no campo. E não está ele reunido para a casa. Ecai sobre eles o granizo. Emorrem eles.",
       "lines": [
         {
           "line_index": 0,
@@ -769,56 +769,61 @@
         },
         {
           "line_index": 1,
-          "text": "Envia!",
-          "raw_html": "<p class=\"wp-block-paragraph\">Envia! </p>"
+          "text": "Envia tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Envia tu.</p>"
         },
         {
           "line_index": 2,
-          "text": "Abriga o gado de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Abriga o gado de ti.</p>"
+          "text": "Faze tu abrigar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Faze tu abrigar.</p>"
         },
         {
           "line_index": 3,
+          "text": "O gado de ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O gado de ti.</p>"
+        },
+        {
+          "line_index": 4,
           "text": "E o total.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o total.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 5,
           "text": "Que para ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que para ti<a name=\"rf88-4696\"></a><sup><a href=\"#fn88-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "No campo.",
           "raw_html": "<p class=\"wp-block-paragraph\">No campo.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "O total do homem.",
           "raw_html": "<p class=\"wp-block-paragraph\">O total do homem<a name=\"rf89-4696\"></a><sup><a href=\"#fn89-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "E animália.",
           "raw_html": "<p class=\"wp-block-paragraph\">E animália<a name=\"rf90-4696\"></a><sup><a href=\"#fn90-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "Que está saído no campo.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que está saído no campo.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "E não está ele reunido para a casa.",
           "raw_html": "<p class=\"wp-block-paragraph\">E não está ele reunido para a casa.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "Ecai sobre eles o granizo.",
           "raw_html": "<p class=\"wp-block-paragraph\">E<a name=\"rf91-4696\"></a><sup><a href=\"#fn91-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>cai sobre eles o granizo.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "Emorrem eles.",
           "raw_html": "<p class=\"wp-block-paragraph\">E<a name=\"rf92-4696\"></a><sup><a href=\"#fn92-4696\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>morrem eles.</p>"
         }
