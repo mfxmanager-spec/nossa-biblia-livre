@@ -619,7 +619,7 @@
     },
     {
       "number": 13,
-      "text": "E levanta ‘Abraham os olhos dele. E vê ele. E eis. Carneiro atrás. Agarrado. No emaranhado. Nas duas-chifraduras dele. E anda ‘Abraham. E toma ele o carneiro. E faz ele subir ele. Para subideira. Debaixo do filho dele.",
+      "text": "E levanta ‘Abraham os olhos dele. E vê ele. E eis. Carneiroatrás. Agarrado na chifradura nos chifres dele. E anda ‘Abraham. E toma ele o carneiro. E faz ele subir ele. Para subideira. Debaixo do filho dele.",
       "lines": [
         {
           "line_index": 0,
@@ -638,46 +638,36 @@
         },
         {
           "line_index": 3,
-          "text": "Carneiro atrás.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Carneiro<a name=\"rf46-1980\"></a><sup><a href=\"#fn46-1980\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup> atrás.</p>"
+          "text": "Carneiroatrás.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Carneiro<a name=\"rf46-1980\"></a><sup><a href=\"#fn46-1980\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>atrás.</p>"
         },
         {
           "line_index": 4,
-          "text": "Agarrado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Agarrado<a name=\"rf47-1980\"></a><sup><a href=\"#fn47-1980\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+          "text": "Agarrado na chifradura nos chifres dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Agarrado<a name=\"rf47-1980\"></a><sup><a href=\"#fn47-1980\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup> na chifradura<a name=\"rf48-1980\"></a><sup><a href=\"#fn48-1980\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup> nos chifres dele.</p>"
         },
         {
           "line_index": 5,
-          "text": "No emaranhado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No emaranhado<a name=\"rf48-1980\"></a><sup><a href=\"#fn48-1980\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup>.</p>"
-        },
-        {
-          "line_index": 6,
-          "text": "Nas duas-chifraduras dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nas duas-chifraduras dele.</p>"
-        },
-        {
-          "line_index": 7,
           "text": "E anda ‘Abraham.",
           "raw_html": "<p class=\"wp-block-paragraph\">E anda ‘Abraham.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 6,
           "text": "E toma ele o carneiro.",
           "raw_html": "<p class=\"wp-block-paragraph\">E toma ele o carneiro.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 7,
           "text": "E faz ele subir ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E faz ele subir ele<a name=\"rf49-1980\"></a><sup><a href=\"#fn49-1980\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 8,
           "text": "Para subideira.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para subideira<a name=\"rf50-1980\"></a><sup><a href=\"#fn50-1980\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 9,
           "text": "Debaixo do filho dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Debaixo do filho dele.</p>"
         }
@@ -1406,8 +1396,8 @@
     {
       "ref_id": "fn48-1980",
       "number": 48,
-      "text": "“Emaranhado” (um conjunto de galhos entrelaçados) (sbk). Primeira vez que o termo é usado, e não o será muito na Bíblia Hebraica.",
-      "raw_html": "<span>“Emaranhado” (um conjunto de galhos entrelaçados) (<em>sbk</em>). Primeira vez que o termo é usado, e não o será muito na Bíblia Hebraica. </span>"
+      "text": "“Chifradura” (um conjunto de galhos entrelaçados) (sbk). primeira vez que o termo é usado, e não o será muito na Bíblia Hebraica.",
+      "raw_html": "<span>“Chifradura” (um conjunto de galhos entrelaçados) (<em>sbk</em>). primeira vez que o termo é usado, e não o será muito na Bíblia Hebraica. </span>"
     },
     {
       "ref_id": "fn49-1980",
