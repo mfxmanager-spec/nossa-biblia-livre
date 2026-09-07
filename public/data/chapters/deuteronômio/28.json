@@ -1251,7 +1251,7 @@
     },
     {
       "number": 30,
-      "text": "Mulher. Desposas tu. E homem outro. Viola ele ela. Lar constróis tu. E não assentas tu. Nele. Vinhedo. Plantas tu. E não desfrutas tu ele.",
+      "text": "Mulher. Desposas tu. E homem outro. Esbulha ele ela. Lar constróis tu. E não assentas tu. Nele. Vinhedo. Plantas tu. E não desfrutas tu ele.",
       "lines": [
         {
           "line_index": 0,
@@ -1270,8 +1270,8 @@
         },
         {
           "line_index": 3,
-          "text": "Viola ele ela.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Viola ele<a name=\"rf462-16169\"></a><sup><a href=\"#fn462-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 462\">462</a></sup> ela.</p>"
+          "text": "Esbulha ele ela.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Esbulha ele<a name=\"rf462-16169\"></a><sup><a href=\"#fn462-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 462\">462</a></sup> ela.</p>"
         },
         {
           "line_index": 4,
@@ -2801,7 +2801,7 @@
     },
     {
       "number": 65,
-      "text": "E nos nacionados. Os eles. Não fazes tu relaxar. E não está repouso. Para a palma do pé de ti. E dá Yahweh. Para ti. Lá. Coração agitado. E decréscimo de olhos. E desespero de garganta.",
+      "text": "E nos nacionados. Os eles. Não fazes tu relaxar. E não está repouso. Para a palma do pé de ti de ti” (kap-ragleka). Somente em Deuteronômio 28,35.65.)). E dá Yahweh. Para ti. Lá. Coração estremecente. E decréscimo de olhos. E desespero de garganta.",
       "lines": [
         {
           "line_index": 0,
@@ -2825,8 +2825,8 @@
         },
         {
           "line_index": 4,
-          "text": "Para a palma do pé de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para a palma<a name=\"rf1028-16169\"></a><sup><a href=\"#fn1028-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1028\">1028</a></sup> do pé<a name=\"rf1029-16169\"></a><sup><a href=\"#fn1029-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1029\">1029</a></sup> de ti<a name=\"rf1030-16169\"></a><sup><a href=\"#fn1030-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1030\">1030</a></sup><a name=\"rf1031-16169\"></a><sup><a href=\"#fn1031-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1031\">1031</a></sup>.</p>"
+          "text": "Para a palma do pé de ti de ti” (kap-ragleka). Somente em Deuteronômio 28,35.65.)).",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para a palma<a name=\"rf1028-16169\"></a><sup><a href=\"#fn1028-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1028\">1028</a></sup> do pé<a name=\"rf1029-16169\"></a><sup><a href=\"#fn1029-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1029\">1029</a></sup> de ti<a name=\"rf1030-16169\"></a><sup><a href=\"#fn1030-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1030\">1030</a></sup> de ti” (<em>kap-ragleka</em>). Somente em Deuteronômio 28,35.65.))<a name=\"rf1031-16169\"></a><sup><a href=\"#fn1031-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1031\">1031</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -2845,8 +2845,8 @@
         },
         {
           "line_index": 8,
-          "text": "Coração agitado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Coração agitado<a name=\"rf1036-16169\"></a><sup><a href=\"#fn1036-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1036\">1036</a></sup>.</p>"
+          "text": "Coração estremecente.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Coração estremecente<a name=\"rf1036-16169\"></a><sup><a href=\"#fn1036-16169\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1036\">1036</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -5845,8 +5845,8 @@
     {
       "ref_id": "fn462-16169",
       "number": 462,
-      "text": "“Viola” traduz forma verbal da raiz shgl. Primeira de 4 ocorrências.",
-      "raw_html": "<span>“Viola” traduz forma verbal da raiz <em>shgl</em>. Primeira de 4 ocorrências. </span>"
+      "text": "“Esbulha” traduz forma verbal da raiz shgl. Primeira de 4 ocorrências.",
+      "raw_html": "<span>“Esbulha” traduz forma verbal da raiz <em>shgl</em>. Primeira de 4 ocorrências. </span>"
     },
     {
       "ref_id": "fn463-16169",
@@ -9253,8 +9253,8 @@
     {
       "ref_id": "fn1030-16169",
       "number": 1030,
-      "text": "“A palma do pé de ti” (kap-ragleka). Somente em Deuteronômio 28,35.65.",
-      "raw_html": "<span>“A palma do pé de ti” (<em>kap-ragleka</em>). Somente em Deuteronômio 28,35.65. </span>"
+      "text": "“A palma do pé ((“Pé” (regel).",
+      "raw_html": "<span>“A palma do pé ((“Pé” (<em>regel</em>). </span>"
     },
     {
       "ref_id": "fn1031-16169",

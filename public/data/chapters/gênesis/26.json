@@ -712,7 +712,7 @@
     },
     {
       "number": 16,
-      "text": "E diz ‘Abimelek a Yitshaq. Anda desde conosco. Que ossificastu. Desde nós muito.",
+      "text": "E diz ‘Abimelek a Yitshaq. Anda desde conosco. Que ossificas tu. Desde nós muito.",
       "lines": [
         {
           "line_index": 0,
@@ -726,8 +726,8 @@
         },
         {
           "line_index": 2,
-          "text": "Que ossificastu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que ossificas<a name=\"rf75-2487\"></a><sup><a href=\"#fn75-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>tu.</p>"
+          "text": "Que ossificas tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que ossificas tu<a name=\"rf75-2487\"></a><sup><a href=\"#fn75-2487\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         },
         {
           "line_index": 3,

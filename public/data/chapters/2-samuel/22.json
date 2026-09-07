@@ -945,7 +945,7 @@
     },
     {
       "number": 29,
-      "text": "Que tu. O lampadário de mim. Yahweh. E Yahweh. Faz ele aclarar o trevor de mim.",
+      "text": "Que tu. O lampadário de mim. Yahweh. E Yahweh. Faz ele aclarar. O trevor de mim.",
       "lines": [
         {
           "line_index": 0,
@@ -969,8 +969,13 @@
         },
         {
           "line_index": 4,
-          "text": "Faz ele aclarar o trevor de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Faz ele aclarar o trevor de mim.</p>"
+          "text": "Faz ele aclarar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Faz ele aclarar.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "O trevor de mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O trevor de mim.</p>"
         }
       ]
     },
