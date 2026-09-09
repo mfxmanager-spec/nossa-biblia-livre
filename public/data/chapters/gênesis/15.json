@@ -492,20 +492,15 @@
     },
     {
       "number": 11,
-      "text": "E desce o rapinante. Sobre as carcaças. E enxota elas’Abram.",
+      "text": "E desce a rapinantesobre as carcaças. E enxota elas’Abram.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E desce o rapinante.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E desce o rapinante<a name=\"rf55-1983\"></a><sup><a href=\"#fn55-1983\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+          "text": "E desce a rapinantesobre as carcaças.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E desce a rapinante<a name=\"rf55-1983\"></a><sup><a href=\"#fn55-1983\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>sobre as carcaças<a name=\"rf56-1983\"></a><sup><a href=\"#fn56-1983\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
         },
         {
           "line_index": 1,
-          "text": "Sobre as carcaças.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre as carcaças<a name=\"rf56-1983\"></a><sup><a href=\"#fn56-1983\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
-        },
-        {
-          "line_index": 2,
           "text": "E enxota elas’Abram.",
           "raw_html": "<p class=\"wp-block-paragraph\">E enxota elas<a name=\"rf57-1983\"></a><sup><a href=\"#fn57-1983\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>’Abram.</p>"
         }

@@ -582,7 +582,7 @@
     },
     {
       "number": 11,
-      "text": "E diz Yahweh. A Shemu’el. Eis. Eu. Fazedor de falado. Em Yisra’el. Que o total do ouvidor dele. Tinem. As duas das orelhas dele.",
+      "text": "E diz Yahweh. A Shemu’el. Eis. Eu. Fazedor de falado. Em Yisra’el. Que o total do ouvidor dele. Ressonam as duas das orelhas dele.",
       "lines": [
         {
           "line_index": 0,
@@ -621,13 +621,8 @@
         },
         {
           "line_index": 7,
-          "text": "Tinem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Tinem.</p>"
-        },
-        {
-          "line_index": 8,
-          "text": "As duas das orelhas dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">As duas das orelhas dele.</p>"
+          "text": "Ressonam as duas das orelhas dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ressonam as duas das orelhas dele.</p>"
         }
       ]
     },
