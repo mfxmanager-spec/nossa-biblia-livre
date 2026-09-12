@@ -573,7 +573,7 @@
     },
     {
       "number": 17,
-      "text": "E está Dan. Serpente. Sobre caminho. Víbora. Sobre via. O mordedor. Calcanhares de cavalo. E cai. O montador dele. Depois.",
+      "text": "E está Dan. Serpente. Sobre caminho. Víbora. Sobre via. O mordedor. Calcanhares de cavalo. E cai. O montador dele. Atrás.",
       "lines": [
         {
           "line_index": 0,
@@ -622,8 +622,8 @@
         },
         {
           "line_index": 9,
-          "text": "Depois.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Depois<a name=\"rf86-3780\"></a><sup><a href=\"#fn86-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
+          "text": "Atrás.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Atrás<a name=\"rf86-3780\"></a><sup><a href=\"#fn86-3780\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
         }
       ]
     },
@@ -1637,8 +1637,8 @@
     {
       "ref_id": "fn80-3780",
       "number": 80,
-      "text": "“Mordedor” traduz forma participial da raiz nshk. Na Bíblia Hebraica, está sempre relacionada a serpentes. O uso nominal da raiz (neshek [“mordida”, “Mordimento”]) designa a “usura”. Para a forma verbal, cf. Gênesis 49,17. Para a forma nominal, cf. Êxodo 22,24.",
-      "raw_html": "<span>“Mordedor” traduz forma participial da raiz <em>nshk</em>. Na Bíblia Hebraica, está sempre relacionada a serpentes. O uso nominal da raiz (<em>neshek</em> [“mordida”, “Mordimento”]) designa a “usura”. Para a forma verbal, cf. Gênesis 49,17. Para a forma nominal, cf. Êxodo 22,24. </span>"
+      "text": "“Mordedor”, particípio de nshk. Mais uma vez, primeira vez que o termo aparece até aqui.",
+      "raw_html": "<span>“Mordedor”, particípio de <em>nshk</em>. Mais uma vez, primeira vez que o termo aparece até aqui. </span>"
     },
     {
       "ref_id": "fn81-3780",

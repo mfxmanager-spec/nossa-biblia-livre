@@ -669,67 +669,52 @@
     },
     {
       "number": 18,
-      "text": "Murchar. Murchas tu. Também tu. Também o povo. O esse. Que contigo. Que pesado. Desde ti. O falado. Não estás tu capaz. Fazer ele. Para o separamento de ti.",
+      "text": "Murchartu murcharás. Também tu. Também este povoque está contigo. Que pesado. Desde ti. O falado. Não estás tu capaz. Fazer ele. No separamento de ti.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Murchar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Murchar<a name=\"rf55-5357\"></a><sup><a href=\"#fn55-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+          "text": "Murchartu murcharás.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Murchar<a name=\"rf55-5357\"></a><sup><a href=\"#fn55-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>tu murcharás.</p>"
         },
         {
           "line_index": 1,
-          "text": "Murchas tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Murchas tu.</p>"
-        },
-        {
-          "line_index": 2,
           "text": "Também tu.",
           "raw_html": "<p class=\"wp-block-paragraph\"> Também tu. </p>"
         },
         {
+          "line_index": 2,
+          "text": "Também este povoque está contigo.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Também este povo<a name=\"rf56-5357\"></a><sup><a href=\"#fn56-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>que está contigo. </p>"
+        },
+        {
           "line_index": 3,
-          "text": "Também o povo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Também o povo<a name=\"rf56-5357\"></a><sup><a href=\"#fn56-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
-        },
-        {
-          "line_index": 4,
-          "text": "O esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O esse.</p>"
-        },
-        {
-          "line_index": 5,
-          "text": "Que contigo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que contigo.</p>"
-        },
-        {
-          "line_index": 6,
           "text": "Que pesado.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que pesado.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 4,
           "text": "Desde ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">Desde ti.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 5,
           "text": "O falado.",
           "raw_html": "<p class=\"wp-block-paragraph\">O falado<a name=\"rf57-5357\"></a><sup><a href=\"#fn57-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup><a name=\"rf58-5357\"></a><sup><a href=\"#fn58-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 6,
           "text": "Não estás tu capaz.",
           "raw_html": "<p class=\"wp-block-paragraph\">Não estás tu capaz<a name=\"rf59-5357\"></a><sup><a href=\"#fn59-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 7,
           "text": "Fazer ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Fazer ele.</p>"
         },
         {
-          "line_index": 11,
-          "text": "Para o separamento de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o separamento de ti<a name=\"rf60-5357\"></a><sup><a href=\"#fn60-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
+          "line_index": 8,
+          "text": "No separamento de ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No separamento de ti<a name=\"rf60-5357\"></a><sup><a href=\"#fn60-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
         }
       ]
     },

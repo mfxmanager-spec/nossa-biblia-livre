@@ -1175,7 +1175,7 @@
     },
     {
       "number": 29,
-      "text": "E volta Re’uben. Ao buraco. E eis. Não está Yosep. No buraco. E rasga ele. Os encapamentos dele.",
+      "text": "E volta Re’uben. Ao buraco. E eis. Não está Yosep. No buraco. E rasga ele. Os vestimentos dele.",
       "lines": [
         {
           "line_index": 0,
@@ -1209,8 +1209,8 @@
         },
         {
           "line_index": 6,
-          "text": "Os encapamentos dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os encapamentos dele<a name=\"rf103-2990\"></a><sup><a href=\"#fn103-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup><a name=\"rf104-2990\"></a><sup><a href=\"#fn104-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup><a name=\"rf105-2990\"></a><sup><a href=\"#fn105-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
+          "text": "Os vestimentos dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Os vestimentos dele<a name=\"rf103-2990\"></a><sup><a href=\"#fn103-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup><a name=\"rf104-2990\"></a><sup><a href=\"#fn104-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup><a name=\"rf105-2990\"></a><sup><a href=\"#fn105-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.</p>"
         }
       ]
     },
@@ -1375,7 +1375,7 @@
     },
     {
       "number": 34,
-      "text": "E rasga. Ya’aqob. As indumentárias dele. E ele põe saco. Nos lombos dele. E languidesce-se ele. Sobre o filho dele. Dias múltiplos.",
+      "text": "E rasga. Ya’aqob. As indumentárias dele. E ele põe saco. Nos lombos dele. E ele se enluta. Sobre o filho dele. Dias múltiplos.",
       "lines": [
         {
           "line_index": 0,
@@ -1404,8 +1404,8 @@
         },
         {
           "line_index": 5,
-          "text": "E languidesce-se ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E languidesce-se ele<a name=\"rf125-2990\"></a><sup><a href=\"#fn125-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>.</p>"
+          "text": "E ele se enluta.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele se enluta<a name=\"rf125-2990\"></a><sup><a href=\"#fn125-2990\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -2113,20 +2113,20 @@
     {
       "ref_id": "fn103-2990",
       "number": 103,
-      "text": "“E rasga ele. Os encapamentos dele” (wayyiqra’ ‘et-begadayw). Primeira de 8 ocorrências. Parece razoável que entendamos que Rubem tenha rasgado as próprias roupas, a despeito da ambiguidade do hebraico aqui. É razoável supor que o narrador pretende que a trama da venda de José aos mercadores tenha sido feita à revelia de Rubem.",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1012\" rel=\"noopener\" target=\"_blank\">E rasga ele. Os encapamentos dele</a>” (<em>wayyiqra’ ‘et-begadayw</em>). Primeira de 8 ocorrências. Parece razoável que entendamos que Rubem tenha rasgado as próprias roupas, a despeito da ambiguidade do hebraico aqui. É razoável supor que o narrador pretende que a trama da venda de José aos mercadores tenha sido feita à revelia de Rubem. </span>"
+      "text": "“E rasga ele. Os vestimentos dele” (wayyiqra’ ‘et-begadayw). Primeira de 8 ocorrências. Parece razoável que entendamos que Rubem tenha rasgado as próprias roupas, a despeito da ambiguidade do hebraico aqui. É razoável supor que o narrador pretende que a trama da venda de José aos mercadores tenha sido feita à revelia de Rubem.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1012\" rel=\"noopener\" target=\"_blank\">E rasga ele. Os vestimentos dele</a>” (<em>wayyiqra’ ‘et-begadayw</em>). Primeira de 8 ocorrências. Parece razoável que entendamos que Rubem tenha rasgado as próprias roupas, a despeito da ambiguidade do hebraico aqui. É razoável supor que o narrador pretende que a trama da venda de José aos mercadores tenha sido feita à revelia de Rubem. </span>"
     },
     {
       "ref_id": "fn104-2990",
       "number": 104,
-      "text": "“Os encapamentos dele” (‘et-begadayw). Primeira de 19 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1015\" rel=\"noopener\" target=\"_blank\">Os encapamentos dele</a>” (<em>‘et-begadayw</em>). Primeira de 19 ocorrências. </span>"
+      "text": "“Os vestimentos dele” (‘et-begadayw). Primeira de 19 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1015\" rel=\"noopener\" target=\"_blank\">Os vestimentos dele</a>” (<em>‘et-begadayw</em>). Primeira de 19 ocorrências. </span>"
     },
     {
       "ref_id": "fn105-2990",
       "number": 105,
-      "text": "“Os encapamentos dele” (begadayw).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1016\" rel=\"noopener\" target=\"_blank\">Os encapamentos dele</a>” (<em>begadayw</em>). </span>"
+      "text": "“Os vestimentos dele” (begadayw).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1016\" rel=\"noopener\" target=\"_blank\">Os vestimentos dele</a>” (<em>begadayw</em>). </span>"
     },
     {
       "ref_id": "fn106-2990",
@@ -2245,8 +2245,8 @@
     {
       "ref_id": "fn125-2990",
       "number": 125,
-      "text": "“Languidesce-se ele” traduz forma reflexiva da raiz ‘bl (unificando-se as duas raízes distinguidas pelos léxicos (“murchar” e “enlutar”). Para a forma nominal, cf. Gênesis 27,41. Para a forma verbal, cf. Gênesis 37,34 e Isaías 24,4.",
-      "raw_html": "<span>“Languidesce-se ele” traduz forma reflexiva da raiz <em>‘bl</em> (unificando-se as duas raízes distinguidas pelos léxicos (“murchar” e “enlutar”). Para a forma nominal, cf. Gênesis 27,41. Para a forma verbal, cf. Gênesis 37,34 e Isaías 24,4. </span>"
+      "text": "“Enlutar” traduz forma verbal da raiz ‘bl. Primeira de 30 ocorrências. Cf. Êxodo 33,4.",
+      "raw_html": "<span>“Enlutar” traduz forma verbal da raiz <em>‘bl</em>. Primeira de 30 ocorrências. Cf. Êxodo 33,4. </span>"
     },
     {
       "ref_id": "fn126-2990",

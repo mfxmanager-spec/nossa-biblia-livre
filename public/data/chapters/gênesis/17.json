@@ -795,7 +795,7 @@
     },
     {
       "number": 19,
-      "text": "E diz ‘Elohim. Não-bem-assim. Sarah. A mulher de ti. Parirá ela para ti filho. E gritas tu. O nome dele. Yitshaq. E faço eu erguer a aliança de mim com ele. Para aliança sempre com a semente dele. Atrás dele.",
+      "text": "E diz ‘Elohim. Não. Sarah. A mulher de ti. Parirá ela para ti filho. E gritas tu. O nome dele. Yitshaq. E faço eu erguer a aliança de mim com ele. Para aliança sempre com a semente dele. Atrás dele.",
       "lines": [
         {
           "line_index": 0,
@@ -804,8 +804,8 @@
         },
         {
           "line_index": 1,
-          "text": "Não-bem-assim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não-bem-assim.</p>"
+          "text": "Não.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não.</p>"
         },
         {
           "line_index": 2,

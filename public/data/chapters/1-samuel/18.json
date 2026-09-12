@@ -562,12 +562,12 @@
     },
     {
       "number": 11,
-      "text": "E faz arremessar Sha’ul. A lança. E diz ele. Faço eu ferir. Em Dawid. E no emparedamento. E rodeia Dawid. Desde as faces dele. Duas-passadas.",
+      "text": "E faz tacar Sha’ul. A lança. E diz ele. Faço eu ferir. Em Dawid. E no emparedamento. E rodeia Dawid. Desde as faces dele. Duas-passadas.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E faz arremessar Sha’ul.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E faz arremessar Sha’ul.</p>"
+          "text": "E faz tacar Sha’ul.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E faz tacar Sha’ul.</p>"
         },
         {
           "line_index": 1,

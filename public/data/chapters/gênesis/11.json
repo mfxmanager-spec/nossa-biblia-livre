@@ -252,7 +252,7 @@
     },
     {
       "number": 6,
-      "text": "E diz Yahweh. Ei. Povoum. E lábio um. Para o total deles. E esse é o fazer começar deles para fazer. E agora. Não está interditado. Desde eles. Total que planejam para fazer.",
+      "text": "E diz Yahweh. Ei. Povoum. E lábio um. Para o total deles. E esse é o fazer começar deles para fazer. E agora. Não está interditado desde eles. Total que planejam para fazer.",
       "lines": [
         {
           "line_index": 0,
@@ -291,16 +291,11 @@
         },
         {
           "line_index": 7,
-          "text": "Não está interditado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não está interditado.</p>"
+          "text": "Não está interditado desde eles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não está interditado desde eles<a name=\"rf40-1826\"></a><sup><a href=\"#fn40-1826\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>.</p>"
         },
         {
           "line_index": 8,
-          "text": "Desde eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde eles<a name=\"rf40-1826\"></a><sup><a href=\"#fn40-1826\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup>.</p>"
-        },
-        {
-          "line_index": 9,
           "text": "Total que planejam para fazer.",
           "raw_html": "<p class=\"wp-block-paragraph\">Total que planejam para fazer<a name=\"rf41-1826\"></a><sup><a href=\"#fn41-1826\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup>.</p>"
         }

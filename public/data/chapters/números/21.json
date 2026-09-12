@@ -289,65 +289,40 @@
     },
     {
       "number": 8,
-      "text": "E diz Yahweh. A Mosheh. Faze tu. Para ti. Sarap E coloca tu. Ele. Sobre mastro. E está. O total do sido mordido. E vê ele ele. E vive ele.",
+      "text": "E diz Yahweh a Mosheh. Faze para tisarap E colocaelesobreum mastro. E é. O total domordido. E vê ele ele. E vive ele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E diz Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Yahweh.</p>"
+          "text": "E diz Yahweh a Mosheh.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Yahweh a Mosheh<a name=\"rf85-12154\"></a><sup><a href=\"#fn85-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
         },
         {
           "line_index": 1,
-          "text": "A Mosheh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A Mosheh<a name=\"rf85-12154\"></a><sup><a href=\"#fn85-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
+          "text": "Faze para tisarap",
+          "raw_html": "<p class=\"wp-block-paragraph\">Faze para ti<a name=\"rf86-12154\"></a><sup><a href=\"#fn86-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup><em>sarap</em><a name=\"rf87-12154\"></a><sup><a href=\"#fn87-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup></p>"
         },
         {
           "line_index": 2,
-          "text": "Faze tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Faze tu.</p>"
+          "text": "E colocaelesobreum mastro.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E coloca<a name=\"rf88-12154\"></a><sup><a href=\"#fn88-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>ele<a name=\"rf89-12154\"></a><sup><a href=\"#fn89-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>sobre<a name=\"rf90-12154\"></a><sup><a href=\"#fn90-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>um mastro<a name=\"rf91-12154\"></a><sup><a href=\"#fn91-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "Para ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ti<a name=\"rf86-12154\"></a><sup><a href=\"#fn86-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
+          "text": "E é.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E é<a name=\"rf92-12154\"></a><sup><a href=\"#fn92-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
         },
         {
           "line_index": 4,
-          "text": "Sarap",
-          "raw_html": "<p class=\"wp-block-paragraph\"><em>Sarap</em><a name=\"rf87-12154\"></a><sup><a href=\"#fn87-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup></p>"
+          "text": "O total domordido.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O total do<a name=\"rf93-12154\"></a><sup><a href=\"#fn93-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>mordido<a name=\"rf94-12154\"></a><sup><a href=\"#fn94-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
         },
         {
           "line_index": 5,
-          "text": "E coloca tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E coloca tu<a name=\"rf88-12154\"></a><sup><a href=\"#fn88-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
-        },
-        {
-          "line_index": 6,
-          "text": "Ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ele<a name=\"rf89-12154\"></a><sup><a href=\"#fn89-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
-        },
-        {
-          "line_index": 7,
-          "text": "Sobre mastro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre<a name=\"rf90-12154\"></a><sup><a href=\"#fn90-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup> mastro<a name=\"rf91-12154\"></a><sup><a href=\"#fn91-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>.</p>"
-        },
-        {
-          "line_index": 8,
-          "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf92-12154\"></a><sup><a href=\"#fn92-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
-        },
-        {
-          "line_index": 9,
-          "text": "O total do sido mordido.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O total do<a name=\"rf93-12154\"></a><sup><a href=\"#fn93-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup> sido mordido<a name=\"rf94-12154\"></a><sup><a href=\"#fn94-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
-        },
-        {
-          "line_index": 10,
           "text": "E vê ele ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E vê ele ele<a name=\"rf95-12154\"></a><sup><a href=\"#fn95-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 6,
           "text": "E vive ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E vive ele<a name=\"rf96-12154\"></a><sup><a href=\"#fn96-12154\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>.</p>"
         }

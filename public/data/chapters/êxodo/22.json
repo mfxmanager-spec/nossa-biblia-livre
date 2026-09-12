@@ -660,7 +660,7 @@
     },
     {
       "number": 24,
-      "text": "Se prata. Fazes tu emprestar. O povo de mim. O vergado. Que comigo. Não estás tu. Para ele. Conforme cobrador. Não colocais vós. Sobre ele. Mordimento.",
+      "text": "Se prata. Fazes tu emprestar. O povo de mim. O vergado. Que está comigo. Tu não estarás para ele conforme um emprestador. Tu não colocarás sobre ele usura.",
       "lines": [
         {
           "line_index": 0,
@@ -684,38 +684,18 @@
         },
         {
           "line_index": 4,
-          "text": "Que comigo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que comigo.</p>"
+          "text": "Que está comigo.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que está comigo.</p>"
         },
         {
           "line_index": 5,
-          "text": "Não estás tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não estás tu.</p>"
+          "text": "Tu não estarás para ele conforme um emprestador.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Tu não estarás para ele conforme um emprestador<a name=\"rf111-5626\"></a><sup><a href=\"#fn111-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
         },
         {
           "line_index": 6,
-          "text": "Para ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ele.</p>"
-        },
-        {
-          "line_index": 7,
-          "text": "Conforme cobrador.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme cobrador<a name=\"rf111-5626\"></a><sup><a href=\"#fn111-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup>.</p>"
-        },
-        {
-          "line_index": 8,
-          "text": "Não colocais vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não colocais vós.</p>"
-        },
-        {
-          "line_index": 9,
-          "text": "Sobre ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre ele.</p>"
-        },
-        {
-          "line_index": 10,
-          "text": "Mordimento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mordimento<a name=\"rf112-5626\"></a><sup><a href=\"#fn112-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup><a name=\"rf113-5626\"></a><sup><a href=\"#fn113-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
+          "text": "Tu não colocarás sobre ele usura.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Tu não colocarás sobre ele usura<a name=\"rf112-5626\"></a><sup><a href=\"#fn112-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup><a name=\"rf113-5626\"></a><sup><a href=\"#fn113-5626\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.</p>"
         }
       ]
     },
@@ -1576,8 +1556,8 @@
     {
       "ref_id": "fn112-5626",
       "number": 112,
-      "text": "“Mordimento” (neshek). Trata-se da raiz nshk, morder. Obviamente, estamos diante do fenômeno dos “juros” e da “usura”, que, por sinédoque, designa-se pela “mordida”. Para a forma verbal, cf. Gênesis 49,17. Para a forma nominal, cf. Êxodo 22,24.",
-      "raw_html": "<span>“Mordimento” (<em>neshek</em>). Trata-se da raiz <em>nshk</em>, morder. Obviamente, estamos diante do fenômeno dos “juros” e da “usura”, que, por sinédoque, designa-se pela “mordida”. Para a forma verbal, cf. Gênesis 49,17. Para a forma nominal, cf. Êxodo 22,24. </span>"
+      "text": "“Usura” (nesher).",
+      "raw_html": "<span>“Usura” (<em>nesher</em>). </span>"
     },
     {
       "ref_id": "fn113-5626",
