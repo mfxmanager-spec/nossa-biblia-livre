@@ -161,7 +161,7 @@
     },
     {
       "number": 5,
-      "text": "E cochila ele. E sonha ele. Um segundo. E eis. Sete espigas subidoras de um caniço. Gordas e boas.",
+      "text": "E cochila ele. E sonha ele um segundo. E eis sete espigas subidoras de um caniço. Gordas e boas.",
       "lines": [
         {
           "line_index": 0,
@@ -170,26 +170,16 @@
         },
         {
           "line_index": 1,
-          "text": "E sonha ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E sonha ele.</p>"
+          "text": "E sonha ele um segundo.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E sonha ele um segundo.</p>"
         },
         {
           "line_index": 2,
-          "text": "Um segundo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Um segundo.</p>"
+          "text": "E eis sete espigas subidoras de um caniço.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E eis sete espigas subidoras de um caniço<a name=\"rf28-3204\"></a><sup><a href=\"#fn28-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "E eis.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E eis.</p>"
-        },
-        {
-          "line_index": 4,
-          "text": "Sete espigas subidoras de um caniço.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sete espigas subidoras de um caniço<a name=\"rf28-3204\"></a><sup><a href=\"#fn28-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup>.</p>"
-        },
-        {
-          "line_index": 5,
           "text": "Gordas e boas.",
           "raw_html": "<p class=\"wp-block-paragraph\">Gordas e boas. </p>"
         }

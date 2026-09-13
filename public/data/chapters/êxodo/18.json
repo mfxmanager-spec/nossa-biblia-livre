@@ -720,7 +720,7 @@
     },
     {
       "number": 19,
-      "text": "Agora. Ouve tu. Na voz de mim. Arvoro eu. A ti. E está ‘Elohim. Contigo. Esteja tu para o povo defrontedo deus! E fazes ir tu. Tu!. As falas ao deus.",
+      "text": "Agora. Ouve tu na voz de mim. Aconselhoeu a ti. E está ‘Elohim. Contigo. Esteja tu para o povo defrontedo deus! E fazes ir tu. Tu!. As falas ao deus.",
       "lines": [
         {
           "line_index": 0,
@@ -729,51 +729,41 @@
         },
         {
           "line_index": 1,
-          "text": "Ouve tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ouve tu.</p>"
+          "text": "Ouve tu na voz de mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ouve tu na voz de mim. </p>"
         },
         {
           "line_index": 2,
-          "text": "Na voz de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na voz de mim.</p>"
+          "text": "Aconselhoeu a ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Aconselho<a name=\"rf61-5357\"></a><sup><a href=\"#fn61-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>eu a ti<a name=\"rf62-5357\"></a><sup><a href=\"#fn62-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
         },
         {
           "line_index": 3,
-          "text": "Arvoro eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Arvoro eu<a name=\"rf61-5357\"></a><sup><a href=\"#fn61-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
-        },
-        {
-          "line_index": 4,
-          "text": "A ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A ti<a name=\"rf62-5357\"></a><sup><a href=\"#fn62-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
-        },
-        {
-          "line_index": 5,
           "text": "E está ‘Elohim.",
           "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf63-5357\"></a><sup><a href=\"#fn63-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup> <em>‘Elohim</em>.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 4,
           "text": "Contigo.",
           "raw_html": "<p class=\"wp-block-paragraph\">Contigo.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 5,
           "text": "Esteja tu para o povo defrontedo deus!",
           "raw_html": "<p class=\"wp-block-paragraph\">Esteja tu para o povo defronte<a name=\"rf64-5357\"></a><sup><a href=\"#fn64-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>do deus!</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 6,
           "text": "E fazes ir tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">E fazes ir tu<a name=\"rf65-5357\"></a><sup><a href=\"#fn65-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 7,
           "text": "Tu!.",
           "raw_html": "<p class=\"wp-block-paragraph\">Tu!<a name=\"rf66-5357\"></a><sup><a href=\"#fn66-5357\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 8,
           "text": "As falas ao deus.",
           "raw_html": "<p class=\"wp-block-paragraph\">As falas ao deus. </p>"
         }
@@ -1542,8 +1532,8 @@
     {
       "ref_id": "fn61-5357",
       "number": 61,
-      "text": "“Arvoro eu” traduz forma verbal da raiz y’ts (“arvorar”). Dela sai o termo ‘ets (“árvore”). A forma verbal costuma ser traduzida como “aconselhar”. Para a forma verbal, cf. Êxodo 18,19. Para a forma nominal ‘ets, cf. Gênesis 1,11. Para a forma nominal yo’ets, cf. 2 Samuel 15,12.",
-      "raw_html": "<span>“Arvoro eu” traduz forma verbal da raiz <em>y’ts</em> (“arvorar”). Dela sai o termo <em>‘ets </em>(“árvore”). A forma verbal costuma ser traduzida como “aconselhar”. Para a forma verbal, cf. Êxodo 18,19. Para a forma nominal <em>‘ets</em>, cf. Gênesis 1,11. Para a forma nominal <em>yo’ets</em>, cf. 2 Samuel 15,12. </span>"
+      "text": "“Aconselho” traduz forma verbal da raiz y’ts. Primeira de 52 ocorrências.",
+      "raw_html": "<span>“Aconselho” traduz forma verbal da raiz <em>y’t</em>s. Primeira de 52 ocorrências. </span>"
     },
     {
       "ref_id": "fn62-5357",

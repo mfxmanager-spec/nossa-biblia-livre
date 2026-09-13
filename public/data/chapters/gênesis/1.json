@@ -28,7 +28,7 @@
     },
     {
       "number": 2,
-      "text": "E a terra. Está ela desolação. E deserto. E trevor. Sobre as faces de fossa. E a ventania de ‘Elohim. Agitadora. Sobre as faces dos aquosos.",
+      "text": "E a terra. Está ela desolamento. E deserto. E trevor. Sobre as faces de fossa. E a ventania de ‘Elohim. Agitadora. Sobre as faces dos aquosos.",
       "lines": [
         {
           "line_index": 0,
@@ -37,8 +37,8 @@
         },
         {
           "line_index": 1,
-          "text": "Está ela desolação.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Está ela desolação.</p>"
+          "text": "Está ela desolamento.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Está ela desolamento.</p>"
         },
         {
           "line_index": 2,
