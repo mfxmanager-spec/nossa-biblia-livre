@@ -1442,7 +1442,7 @@
     },
     {
       "number": 26,
-      "text": "E constróis tu. Sacrificiatório para Yahweh. O deus de ti. Sobre a cabeça do píncaro esse. Na posição. E toma tu. O touro do segundo. E fazes tu subir subideira. Nos arbóreos da ‘asherah. Que cortas tu.",
+      "text": "E constróis tu. Sacrificiatório. Para Yahweh. O ‘elohim de ti. Sobre a cabeça do abrigadouro. O esse. Na posição. E toma tu. O touro do segundo. E fazes tu subir subideira. Nos arbóreos da ‘asherah. Que cortas tu.",
       "lines": [
         {
           "line_index": 0,
@@ -1451,46 +1451,56 @@
         },
         {
           "line_index": 1,
-          "text": "Sacrificiatório para Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sacrificiatório para Yahweh.</p>"
+          "text": "Sacrificiatório.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sacrificiatório.</p>"
         },
         {
           "line_index": 2,
-          "text": "O deus de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O deus de ti.</p>"
+          "text": "Para Yahweh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para Yahweh.</p>"
         },
         {
           "line_index": 3,
-          "text": "Sobre a cabeça do píncaro esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sobre a cabeça do píncaro esse.</p>"
+          "text": "O ‘elohim de ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O <em>‘elohim</em> de ti.</p>"
         },
         {
           "line_index": 4,
+          "text": "Sobre a cabeça do abrigadouro.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sobre a cabeça do abrigadouro.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "O esse.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O esse.</p>"
+        },
+        {
+          "line_index": 6,
           "text": "Na posição.",
           "raw_html": "<p class=\"wp-block-paragraph\">Na posição<a name=\"rf102-19814\"></a><sup><a href=\"#fn102-19814\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup>.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 7,
           "text": "E toma tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">E toma tu.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 8,
           "text": "O touro do segundo.",
           "raw_html": "<p class=\"wp-block-paragraph\">O touro do segundo<a name=\"rf103-19814\"></a><sup><a href=\"#fn103-19814\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 9,
           "text": "E fazes tu subir subideira.",
           "raw_html": "<p class=\"wp-block-paragraph\">E fazes tu subir<a name=\"rf104-19814\"></a><sup><a href=\"#fn104-19814\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup> subideira.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 10,
           "text": "Nos arbóreos da ‘asherah.",
           "raw_html": "<p class=\"wp-block-paragraph\">Nos arbóreos da <em>‘asherah</em>.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 11,
           "text": "Que cortas tu.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que cortas tu.</p>"
         }

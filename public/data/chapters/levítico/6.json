@@ -782,7 +782,7 @@
     },
     {
       "number": 21,
-      "text": "E utensíliode argilaqueele é cozidonele. Ele é quebrado. E se em utensíliode cobreele é cozido. Ele é polido. E mergulhado. Nas águas.",
+      "text": "E utensíliode argilaqueele é cozidonele. Ele é quebrado. E se em utensíliode cobreele é cozido. Ele é polido. E sobre-abluído está ele. Nas águas.",
       "lines": [
         {
           "line_index": 0,
@@ -806,8 +806,8 @@
         },
         {
           "line_index": 4,
-          "text": "E mergulhado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E mergulhado<a name=\"rf208-8237\"></a><sup><a href=\"#fn208-8237\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup>.</p>"
+          "text": "E sobre-abluído está ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E sobre-abluído está ele<a name=\"rf208-8237\"></a><sup><a href=\"#fn208-8237\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 208\">208</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -2130,8 +2130,8 @@
     {
       "ref_id": "fn208-8237",
       "number": 208,
-      "text": "“Mergulhado” traduz forma intensiva passiva da raiz shtp. Primeira de 35 ocorrências.",
-      "raw_html": "<span>“Mergulhado” traduz forma intensiva passiva da raiz <em>shtp</em>. Primeira de 35 ocorrências. </span>"
+      "text": "“Sobre-abluído” traduz forma intensiva passiva da raiz shtp. Primeira de 35 ocorrências.",
+      "raw_html": "<span>“Sobre-abluído” traduz forma intensiva passiva da raiz <em>shtp</em>. Primeira de 35 ocorrências. </span>"
     },
     {
       "ref_id": "fn209-8237",

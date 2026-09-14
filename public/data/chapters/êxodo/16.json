@@ -627,7 +627,7 @@
     },
     {
       "number": 16,
-      "text": "Esse. O falado. Que manda Yahweh. Juntai vós. Desde ele. Homem. Para a boca do comestível dele. Um ômerpara o crâniode roldas gargantasde vós. Um homem para quena tenda dele vós tomais.",
+      "text": "Esse. O falado. Que manda Yahweh. Juntai vós. Desde ele. Homem. Para a boca do comestível dele. Um ômer para o osso-que-rola. O rol das gargantas de vós. Um homem para quena tenda dele vós tomais.",
       "lines": [
         {
           "line_index": 0,
@@ -666,11 +666,16 @@
         },
         {
           "line_index": 7,
-          "text": "Um ômerpara o crâniode roldas gargantasde vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Um ômer<a name=\"rf93-5294\"></a><sup><a href=\"#fn93-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>para o crânio<a name=\"rf94-5294\"></a><sup><a href=\"#fn94-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>de rol<a name=\"rf95-5294\"></a><sup><a href=\"#fn95-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>das gargantas<a name=\"rf96-5294\"></a><sup><a href=\"#fn96-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup>de vós<a name=\"rf97-5294\"></a><sup><a href=\"#fn97-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup><a name=\"rf98-5294\"></a><sup><a href=\"#fn98-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
+          "text": "Um ômer para o osso-que-rola.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Um ômer<a name=\"rf93-5294\"></a><sup><a href=\"#fn93-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup> para o osso-que-rola<a name=\"rf94-5294\"></a><sup><a href=\"#fn94-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
         },
         {
           "line_index": 8,
+          "text": "O rol das gargantas de vós.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O rol<a name=\"rf95-5294\"></a><sup><a href=\"#fn95-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup> das gargantas<a name=\"rf96-5294\"></a><sup><a href=\"#fn96-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup> de vós<a name=\"rf97-5294\"></a><sup><a href=\"#fn97-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup><a name=\"rf98-5294\"></a><sup><a href=\"#fn98-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
+        },
+        {
+          "line_index": 9,
           "text": "Um homem para quena tenda dele vós tomais.",
           "raw_html": "<p class=\"wp-block-paragraph\">Um homem para que<a name=\"rf99-5294\"></a><sup><a href=\"#fn99-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>na tenda dele vós tomais<a name=\"rf100-5294\"></a><sup><a href=\"#fn100-5294\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
         }
@@ -2159,8 +2164,8 @@
     {
       "ref_id": "fn94-5294",
       "number": 94,
-      "text": "“Crânio” (gulgolet). É a primeira de 17 ocorrências. A ideia é alguém tocando a cabeça de cada pessoa à sua frente, para realizar uma contagem. Cf. Êxodo 16,16; 38,26; Números 1,2.18.20.22; 3,47.",
-      "raw_html": "<span>“Crânio” (<em>gulgolet</em>). É a primeira de 17 ocorrências. A ideia é alguém tocando a cabeça de cada pessoa à sua frente, para realizar uma contagem. Cf. Êxodo 16,16; 38,26; Números 1,2.18.20.22; 3,47. </span>"
+      "text": "“Osso-que-rola” (gulgolet). “Crânio”. Primeira de 12 ocorrências. A imagem se refere à caveira craniana, que “rola” no chão. No contexto, a ideia é alguém tocando a cabeça de cada pessoa à sua frente, para realizar uma contagem. Trata-se da raiz gll (“rolar”). Para a forma verbal, cf. Gênesis 29,3. Para a forma nominal gal (“roladouro”), cf. Gênesis 31,46. Para a forma nominal gulgolet (“osso-que-rola”), cf. Êxodo 16,16. Para a forma nominal gillulim (“rolados-de-esterco”), cf. Levítico 26,30. Para a forma nominal gullah (“roladeira”), cf. Josué 15,19. Para a forma nominal galgal (“rolante”), cf. Isaías 5,28.",
+      "raw_html": "<span>“Osso-que-rola” (<em>gulgolet</em>). “Crânio”. Primeira de 12 ocorrências. A imagem se refere à caveira craniana, que “rola” no chão. No contexto, a ideia é alguém tocando a cabeça de cada pessoa à sua frente, para realizar uma contagem. Trata-se da raiz <em>gll </em>(“rolar”). Para a forma verbal, cf. Gênesis 29,3. Para a forma nominal <em>gal</em> (“roladouro”), cf. Gênesis 31,46. Para a forma nominal <em>gulgolet</em> (“osso-que-rola”), cf. Êxodo 16,16. Para a forma nominal <em>gillulim</em> (“rolados-de-esterco”), cf. Levítico 26,30. Para a forma nominal <em>gullah</em> (“roladeira”), cf. Josué 15,19. Para a forma nominal <em>galgal</em> (“rolante”), cf. Isaías 5,28. </span>"
     },
     {
       "ref_id": "fn95-5294",

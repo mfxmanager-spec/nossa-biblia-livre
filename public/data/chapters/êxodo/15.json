@@ -7,7 +7,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Então cantaMosheh. E os filhos de Yisra’el. A cantiga essaYahweh. E dizem eles. Para dizer. Que eu cante para Yahweh! Que exaltar-seele se exaltou! Cavalo. E o montador dele. Lança ele. No mar.",
+      "text": "Então cantaMosheh. E os filhos de Yisra’el. A cantiga essaYahweh. E dizem eles. Para dizer. Que eu cante para Yahweh. Que emproar. Emproa ele. Cavalo. E o montador dele. Lança ele. No mar.",
       "lines": [
         {
           "line_index": 0,
@@ -36,31 +36,36 @@
         },
         {
           "line_index": 5,
-          "text": "Que eu cante para Yahweh!",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que eu cante para Yahweh! </p>"
+          "text": "Que eu cante para Yahweh.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que eu cante para Yahweh.</p>"
         },
         {
           "line_index": 6,
-          "text": "Que exaltar-seele se exaltou!",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que exaltar-se<a name=\"rf4-5160\"></a><sup><a href=\"#fn4-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup>ele se exaltou! </p>"
+          "text": "Que emproar.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Que emproar<a name=\"rf4-5160\"></a><sup><a href=\"#fn4-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup>.</p>"
         },
         {
           "line_index": 7,
+          "text": "Emproa ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Emproa ele.</p>"
+        },
+        {
+          "line_index": 8,
           "text": "Cavalo.",
           "raw_html": "<p class=\"wp-block-paragraph\">Cavalo<a name=\"rf5-5160\"></a><sup><a href=\"#fn5-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup>.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "E o montador dele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E o montador dele.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Lança ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Lança ele<a name=\"rf6-5160\"></a><sup><a href=\"#fn6-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup>.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "No mar.",
           "raw_html": "<p class=\"wp-block-paragraph\">No mar.</p>"
         }
@@ -228,12 +233,12 @@
     },
     {
       "number": 7,
-      "text": "E na grandezada amplitudede ti. Tu derribasteos levantadosde ti. Tu despediste o ardorde ti. E ele os comeucomo restolho.",
+      "text": "E no multiplicamento do emproamento de ti. Tu derribasteos levantadosde ti. Tu despediste o ardorde ti. E ele os comeucomo restolho.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E na grandezada amplitudede ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E na grandeza<a name=\"rf31-5160\"></a><sup><a href=\"#fn31-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup>da amplitude<a name=\"rf32-5160\"></a><sup><a href=\"#fn32-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup>de ti.</p>"
+          "text": "E no multiplicamento do emproamento de ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E no multiplicamento<a name=\"rf31-5160\"></a><sup><a href=\"#fn31-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup> do emproamento<a name=\"rf32-5160\"></a><sup><a href=\"#fn32-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup> de ti.</p>"
         },
         {
           "line_index": 1,
@@ -965,8 +970,8 @@
     {
       "ref_id": "fn4-5160",
       "number": 4,
-      "text": "“Exaltar-se” (g’h). Primeira de 14 ocorrências. Cf. v. 21.",
-      "raw_html": "<span>“Exaltar-se” (<em>g’h</em>). Primeira de 14 ocorrências. Cf. v. 21. </span>"
+      "text": "“Emproar” traduz a forma verbal infinitiva de g’h. A raiz designa tanto a elevação física quanto psicológica, e pode expressar tanto a majestade quanto a soberba. Primeira de 5 ocorrências da forma verbal. Para a forma verbal (g’h), cf. Êxodo 15,1. Para a forma masculina (ga’on), cf. Êxodo 15,7. Para a forma feminina (ga’awah), cf. Deuteronômio 33,26.",
+      "raw_html": "<span>“Emproar” traduz a forma verbal infinitiva de <em>g’h</em>. A raiz designa tanto a elevação física quanto psicológica, e pode expressar tanto a majestade quanto a soberba. Primeira de 5 ocorrências da forma verbal. Para a forma verbal (<em>g’h</em>), cf. Êxodo 15,1. Para a forma masculina (<em>ga’on</em>), cf. Êxodo 15,7. Para a forma feminina (<em>ga’awah</em>), cf. Deuteronômio 33,26. </span>"
     },
     {
       "ref_id": "fn5-5160",
@@ -1133,8 +1138,8 @@
     {
       "ref_id": "fn32-5160",
       "number": 32,
-      "text": "“Amplitude” (ga’on). Um termo muito difícil de traduzir. Ainda é provisória a decisão. Primeira de 45 ocorrências. Cf. Levítico 26,19.",
-      "raw_html": "<span>“Amplitude” (<em>ga’on</em>). Um termo muito difícil de traduzir. Ainda é provisória a decisão. Primeira de 45 ocorrências. Cf. Levítico 26,19. </span>"
+      "text": "“Emproamento” (ga’on). A raiz designa tanto a elevação física quanto psicológica, e pode expressar tanto a majestade quanto a soberba. Primeira de 45 ocorrências da forma nominal masculina. Para a forma verbal (g’h), cf. Êxodo 15,1. Para a forma masculina (ga’on), cf. Êxodo 15,7. Para a forma feminina (ga’awah), cf. Deuteronômio 33,26.",
+      "raw_html": "<span>“Emproamento” (<em>ga’on</em>). A raiz designa tanto a elevação física quanto psicológica, e pode expressar tanto a majestade quanto a soberba. Primeira de 45 ocorrências da forma nominal masculina. Para a forma verbal (<em>g’h</em>), cf. Êxodo 15,1. Para a forma masculina (<em>ga’on</em>), cf. Êxodo 15,7. Para a forma feminina (<em>ga’awah</em>), cf. Deuteronômio 33,26. </span>"
     },
     {
       "ref_id": "fn33-5160",

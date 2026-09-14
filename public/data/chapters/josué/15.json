@@ -890,7 +890,7 @@
     },
     {
       "number": 19,
-      "text": "E diz ela. Dá tu para mim bênção. Que a terra do Negeb. Dá tu eu. E dás tu para mim. Bacias de aquosos. E dá ele para ela. As bacias sobredoras. E as bacias debaixedoras.",
+      "text": "E diz ela. Dá tu para mim bênção. Que a terra do Negeb. Dá tu eu. E dás tu. Para mim. Roladeiras de aquosos. E dá ele para ela. As roladeiras sobredoras. E as roladeiras debaixedoras.",
       "lines": [
         {
           "line_index": 0,
@@ -914,28 +914,33 @@
         },
         {
           "line_index": 4,
-          "text": "E dás tu para mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E dás tu para mim.</p>"
+          "text": "E dás tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E dás tu.</p>"
         },
         {
           "line_index": 5,
-          "text": "Bacias de aquosos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Bacias de aquosos.</p>"
+          "text": "Para mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para mim.</p>"
         },
         {
           "line_index": 6,
+          "text": "Roladeiras de aquosos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Roladeiras<a name=\"rf62-18566\"></a><sup><a href=\"#fn62-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup> de aquosos.</p>"
+        },
+        {
+          "line_index": 7,
           "text": "E dá ele para ela.",
           "raw_html": "<p class=\"wp-block-paragraph\">E dá ele para ela.</p>"
         },
         {
-          "line_index": 7,
-          "text": "As bacias sobredoras.",
-          "raw_html": "<p class=\"wp-block-paragraph\">As bacias sobredoras.</p>"
+          "line_index": 8,
+          "text": "As roladeiras sobredoras.",
+          "raw_html": "<p class=\"wp-block-paragraph\">As roladeiras sobredoras.</p>"
         },
         {
-          "line_index": 8,
-          "text": "E as bacias debaixedoras.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as bacias debaixedoras.</p>"
+          "line_index": 9,
+          "text": "E as roladeiras debaixedoras.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E as roladeiras debaixedoras.</p>"
         }
       ]
     },
@@ -946,7 +951,7 @@
         {
           "line_index": 0,
           "text": "Essa a herdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Essa a herdade<a name=\"rf62-18566\"></a><sup><a href=\"#fn62-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> Essa a herdade<a name=\"rf63-18566\"></a><sup><a href=\"#fn63-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -956,7 +961,7 @@
         {
           "line_index": 2,
           "text": "Para as castas deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as castas<a name=\"rf63-18566\"></a><sup><a href=\"#fn63-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup> deles.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as castas<a name=\"rf64-18566\"></a><sup><a href=\"#fn64-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup> deles.</p>"
         }
       ]
     },
@@ -967,7 +972,7 @@
         {
           "line_index": 0,
           "text": "E estão eles.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles<a name=\"rf64-18566\"></a><sup><a href=\"#fn64-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup><a name=\"rf65-18566\"></a><sup><a href=\"#fn65-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E estão eles<a name=\"rf65-18566\"></a><sup><a href=\"#fn65-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup><a name=\"rf66-18566\"></a><sup><a href=\"#fn66-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -992,7 +997,7 @@
         {
           "line_index": 5,
           "text": "No para o Negeb.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No para o Negeb<a name=\"rf66-18566\"></a><sup><a href=\"#fn66-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No para o Negeb<a name=\"rf67-18566\"></a><sup><a href=\"#fn67-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -1060,7 +1065,7 @@
         {
           "line_index": 0,
           "text": "E Zip.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E <a href=\"https://en.wikipedia.org/wiki/Ziph_(Bible)\" rel=\"noreferrer noopener\" target=\"_blank\">Zip</a><a name=\"rf67-18566\"></a><sup><a href=\"#fn67-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E <a href=\"https://en.wikipedia.org/wiki/Ziph_(Bible)\" rel=\"noreferrer noopener\" target=\"_blank\">Zip</a><a name=\"rf68-18566\"></a><sup><a href=\"#fn68-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1207,7 +1212,7 @@
         {
           "line_index": 0,
           "text": "E Tsiqlag.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E Tsiqlag<a name=\"rf68-18566\"></a><sup><a href=\"#fn68-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E Tsiqlag<a name=\"rf69-18566\"></a><sup><a href=\"#fn69-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1367,7 +1372,7 @@
         {
           "line_index": 4,
           "text": "Quatro-dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quatro-dez<a name=\"rf69-18566\"></a><sup><a href=\"#fn69-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quatro-dez<a name=\"rf70-18566\"></a><sup><a href=\"#fn70-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1492,7 +1497,7 @@
         {
           "line_index": 5,
           "text": "Seis-dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Seis-dez<a name=\"rf70-18566\"></a><sup><a href=\"#fn70-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Seis-dez<a name=\"rf71-18566\"></a><sup><a href=\"#fn71-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -1550,7 +1555,7 @@
         {
           "line_index": 0,
           "text": "E Qe’ilah.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E Qe’ilah<a name=\"rf71-18566\"></a><sup><a href=\"#fn71-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E Qe’ilah<a name=\"rf72-18566\"></a><sup><a href=\"#fn72-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1622,7 +1627,7 @@
         {
           "line_index": 3,
           "text": "Que sobre a mão de ‘Ashdod.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre a mão de<a name=\"rf72-18566\"></a><sup><a href=\"#fn72-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup> ‘Ashdod.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sobre a mão de<a name=\"rf73-18566\"></a><sup><a href=\"#fn73-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup> ‘Ashdod.</p>"
         },
         {
           "line_index": 4,
@@ -1668,7 +1673,7 @@
         {
           "line_index": 6,
           "text": "Até o varzeado de Mitsrayim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o varzeado de Mitsrayim<a name=\"rf73-18566\"></a><sup><a href=\"#fn73-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o varzeado de Mitsrayim<a name=\"rf74-18566\"></a><sup><a href=\"#fn74-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -1694,7 +1699,7 @@
         {
           "line_index": 1,
           "text": "Shamir.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Shamir<a name=\"rf74-18566\"></a><sup><a href=\"#fn74-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Shamir<a name=\"rf75-18566\"></a><sup><a href=\"#fn75-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1782,7 +1787,7 @@
         {
           "line_index": 4,
           "text": "Uma de dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Uma de dez<a name=\"rf75-18566\"></a><sup><a href=\"#fn75-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Uma de dez<a name=\"rf76-18566\"></a><sup><a href=\"#fn76-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1886,17 +1891,17 @@
         {
           "line_index": 0,
           "text": "Ma’on.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> <a href=\"https://en.wikipedia.org/wiki/Maon_(city_in_Judah)\" rel=\"noreferrer noopener\" target=\"_blank\">Ma’on</a><a name=\"rf76-18566\"></a><sup><a href=\"#fn76-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup><a name=\"rf77-18566\"></a><sup><a href=\"#fn77-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> <a href=\"https://en.wikipedia.org/wiki/Maon_(city_in_Judah)\" rel=\"noreferrer noopener\" target=\"_blank\">Ma’on</a><a name=\"rf77-18566\"></a><sup><a href=\"#fn77-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup><a name=\"rf78-18566\"></a><sup><a href=\"#fn78-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Karmel.",
-          "raw_html": "<p class=\"wp-block-paragraph\"><a href=\"https://en.wikipedia.org/wiki/Carmel_(biblical_settlement)#:~:text=This%20article%20is%20about%20the,Arab%20village%20of%20al%2DKarmil.\">Karmel</a><a name=\"rf78-18566\"></a><sup><a href=\"#fn78-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"><a href=\"https://en.wikipedia.org/wiki/Carmel_(biblical_settlement)#:~:text=This%20article%20is%20about%20the,Arab%20village%20of%20al%2DKarmil.\">Karmel</a><a name=\"rf79-18566\"></a><sup><a href=\"#fn79-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E Zip.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E Zip<a name=\"rf79-18566\"></a><sup><a href=\"#fn79-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E Zip<a name=\"rf80-18566\"></a><sup><a href=\"#fn80-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1912,7 +1917,7 @@
         {
           "line_index": 0,
           "text": "E Yizre’e’l.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E <a data-id=\"https://en.wikipedia.org/wiki/Tel_Jezreel\" data-type=\"link\" href=\"https://en.wikipedia.org/wiki/Tel_Jezreel\" rel=\"noreferrer noopener\" target=\"_blank\">Yizre’e’l</a><a name=\"rf80-18566\"></a><sup><a href=\"#fn80-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E <a data-id=\"https://en.wikipedia.org/wiki/Tel_Jezreel\" data-type=\"link\" href=\"https://en.wikipedia.org/wiki/Tel_Jezreel\" rel=\"noreferrer noopener\" target=\"_blank\">Yizre’e’l</a><a name=\"rf81-18566\"></a><sup><a href=\"#fn81-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1922,7 +1927,7 @@
         {
           "line_index": 2,
           "text": "E Zanoah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E Zanoah<a name=\"rf81-18566\"></a><sup><a href=\"#fn81-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E Zanoah<a name=\"rf82-18566\"></a><sup><a href=\"#fn82-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
         }
       ]
     },
@@ -1953,7 +1958,7 @@
         {
           "line_index": 4,
           "text": "Dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dez<a name=\"rf82-18566\"></a><sup><a href=\"#fn82-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dez<a name=\"rf83-18566\"></a><sup><a href=\"#fn83-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -2041,7 +2046,7 @@
         {
           "line_index": 3,
           "text": "E a Rabbah.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a Rabbah<a name=\"rf83-18566\"></a><sup><a href=\"#fn83-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a Rabbah<a name=\"rf84-18566\"></a><sup><a href=\"#fn84-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -2051,7 +2056,7 @@
         {
           "line_index": 5,
           "text": "Duas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Duas<a name=\"rf84-18566\"></a><sup><a href=\"#fn84-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Duas<a name=\"rf85-18566\"></a><sup><a href=\"#fn85-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -2067,7 +2072,7 @@
         {
           "line_index": 0,
           "text": "No deserto.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> No deserto<a name=\"rf85-18566\"></a><sup><a href=\"#fn85-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup><a name=\"rf86-18566\"></a><sup><a href=\"#fn86-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> No deserto<a name=\"rf86-18566\"></a><sup><a href=\"#fn86-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup><a name=\"rf87-18566\"></a><sup><a href=\"#fn87-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -2139,12 +2144,12 @@
         {
           "line_index": 2,
           "text": "Yerushalayim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Yerushalayim<a name=\"rf87-18566\"></a><sup><a href=\"#fn87-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Yerushalayim<a name=\"rf88-18566\"></a><sup><a href=\"#fn88-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Não estão capazes.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não estão capazes<a name=\"rf88-18566\"></a><sup><a href=\"#fn88-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não estão capazes<a name=\"rf89-18566\"></a><sup><a href=\"#fn89-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -2169,12 +2174,12 @@
         {
           "line_index": 8,
           "text": "Em Yerushalayim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Em Yerushalayim<a name=\"rf89-18566\"></a><sup><a href=\"#fn89-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup><a name=\"rf90-18566\"></a><sup><a href=\"#fn90-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Em Yerushalayim<a name=\"rf90-18566\"></a><sup><a href=\"#fn90-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup><a name=\"rf91-18566\"></a><sup><a href=\"#fn91-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup>.</p>"
         },
         {
           "line_index": 9,
           "text": "Até o dia esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf91-18566\"></a><sup><a href=\"#fn91-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup> esse<a name=\"rf92-18566\"></a><sup><a href=\"#fn92-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup><a name=\"rf93-18566\"></a><sup><a href=\"#fn93-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf92-18566\"></a><sup><a href=\"#fn92-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup> esse<a name=\"rf93-18566\"></a><sup><a href=\"#fn93-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup><a name=\"rf94-18566\"></a><sup><a href=\"#fn94-18566\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
         }
       ]
     }
@@ -2549,50 +2554,50 @@
     {
       "ref_id": "fn62-18566",
       "number": 62,
-      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
-      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
+      "text": "“Roladeiras” (gullah). Aqui, trata-se da descrição de sistema de coleta de água própria do sul de Judá, em terrenos compostos por camadas de calcário poroso (cenomaniano) sobrepostas a camadas de marga impermeável. As águas da chuva infiltram-se verticalmente pelas fendas do calcário superior até colidirem com a rocha impermeável de marga. A operação consiste em cavar “bacias-reservatório” para acumular água, fazendo descer a água por um complexo de canais e “bacias-reservatório” desde as regiões mais acima até as partes inferiores do complexo – sempre por gravidade. Algum elementos do complexo – a concavidade das “bacias”, o sistema de “fazer rolar a água” de nível a nível do terreno, gerou a nomenclatura gullah (“roladeira”). Como o mesmo termo é usado para a parte superior de colunas, algo como um capitel redondo (1 Reis 7,41) parece confirmar a relação com o formato das “bacias-reservatório”. Trata-se da raiz gll (“rolar”). Para a forma verbal, cf. Gênesis 29,3. Para a forma nominal gal (“roladouro”), cf. Gênesis 31,46. Para a forma nominal gulgolet (“osso-que-rola”), cf. Êxodo 16,16. Para a forma nominal gillulim (“rolados-de-esterco”), cf. Levítico 26,30. Para a forma nominal gullah (“roladeira”), cf. Josué 15,19. Para a forma nominal galgal (“rolante”), cf. Isaías 5,28.",
+      "raw_html": "<span>“Roladeiras” (<em>gullah</em>). Aqui, trata-se da descrição de sistema de coleta de água própria do sul de Judá, em terrenos compostos por camadas de calcário poroso (cenomaniano) sobrepostas a camadas de marga impermeável. As águas da chuva infiltram-se verticalmente pelas fendas do calcário superior até colidirem com a rocha impermeável de marga. A operação consiste em cavar “bacias-reservatório” para acumular água, fazendo descer a água por um complexo de canais e “bacias-reservatório” desde as regiões mais acima até as partes inferiores do complexo – sempre por gravidade. Algum elementos do complexo – a concavidade das “bacias”, o sistema de “fazer rolar a água” de nível a nível do terreno, gerou a nomenclatura <em>gullah</em> (“roladeira”). Como o mesmo termo é usado para a parte superior de colunas, algo como um capitel redondo (1 Reis 7,41) parece confirmar a relação com o formato das “bacias-reservatório”. Trata-se da raiz <em>gll </em>(“rolar”). Para a forma verbal, cf. Gênesis 29,3. Para a forma nominal <em>gal</em> (“roladouro”), cf. Gênesis 31,46. Para a forma nominal <em>gulgolet</em> (“osso-que-rola”), cf. Êxodo 16,16. Para a forma nominal <em>gillulim</em> (“rolados-de-esterco”), cf. Levítico 26,30. Para a forma nominal <em>gullah</em> (“roladeira”), cf. Josué 15,19. Para a forma nominal <em>galgal</em> (“rolante”), cf. Isaías 5,28. </span>"
     },
     {
       "ref_id": "fn63-18566",
       "number": 63,
-      "text": "“Castas” (mishpahah). Cf. Gênesis 8,19; Josué 7,14.17; 13,15.23.24.28,29.31; 15,1.12.20; 16,5.8; 17,2; 18,11.20.21.28; 19,1.8.10.16.17.23.24.31.32.39.40.48.",
-      "raw_html": "<span>“Castas” (<em>mishpahah</em>). Cf. Gênesis 8,19; Josué 7,14.17; 13,15.23.24.28,29.31; 15,1.12.20; 16,5.8; 17,2; 18,11.20.21.28; 19,1.8.10.16.17.23.24.31.32.39.40.48. </span>"
+      "text": "“Herdade” (nahalah). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3.",
+      "raw_html": "<span>“Herdade” (<em>nahalah</em>). Cf. Gênesis 31,14; Josué 11,23; 13,6.7.8.14.23.28.33; 14,2.3.9.13.14; 15,20; 16,5.8.9; 17,4.6.14; 18,2.4.7.20.28; 19,1.2.8-10.16.23.31.39.41.48.49.51; 21.3. </span>"
     },
     {
       "ref_id": "fn64-18566",
       "number": 64,
-      "text": "“E estão eles” (wayyihyu).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACF\" rel=\"noreferrer noopener\" target=\"_blank\">E estão eles</a>” (<em>wayyihyu</em>). </span>"
+      "text": "“Castas” (mishpahah). Cf. Gênesis 8,19; Josué 7,14.17; 13,15.23.24.28,29.31; 15,1.12.20; 16,5.8; 17,2; 18,11.20.21.28; 19,1.8.10.16.17.23.24.31.32.39.40.48.",
+      "raw_html": "<span>“Castas” (<em>mishpahah</em>). Cf. Gênesis 8,19; Josué 7,14.17; 13,15.23.24.28,29.31; 15,1.12.20; 16,5.8; 17,2; 18,11.20.21.28; 19,1.8.10.16.17.23.24.31.32.39.40.48. </span>"
     },
     {
       "ref_id": "fn65-18566",
       "number": 65,
-      "text": "“Estão eles” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Estão eles</a>” (<em>hyh</em>). </span>"
+      "text": "“E estão eles” (wayyihyu).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACF\" rel=\"noreferrer noopener\" target=\"_blank\">E estão eles</a>” (<em>wayyihyu</em>). </span>"
     },
     {
       "ref_id": "fn66-18566",
       "number": 66,
-      "text": "“Negeb” (negeb).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAL\" rel=\"noreferrer noopener\" target=\"_blank\">Negeb</a>” (<em>negeb</em>). </span>"
+      "text": "“Estão eles” (hyh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Estão eles</a>” (<em>hyh</em>). </span>"
     },
     {
       "ref_id": "fn67-18566",
       "number": 67,
-      "text": "“Zip”. Primeira de 8 ocorrências. Cf. Josué 15,24.55; 1 Samuel 23,14.15.24; 26,2; 1 Crônicas 2,42; 2 Crônicas 11,8.",
-      "raw_html": "<span>“Zip”. Primeira de 8 ocorrências. Cf. Josué 15,24.55; 1 Samuel 23,14.15.24; 26,2; 1 Crônicas 2,42; 2 Crônicas 11,8. </span>"
+      "text": "“Negeb” (negeb).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAL\" rel=\"noreferrer noopener\" target=\"_blank\">Negeb</a>” (<em>negeb</em>). </span>"
     },
     {
       "ref_id": "fn68-18566",
       "number": 68,
-      "text": "“Tsiqlag“. Primeira de 12 ocorrências. A identificação arqueológica de Tsiklag está em disputa.",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#Tsiqlag\" rel=\"noreferrer noopener\" target=\"_blank\">Tsiqlag</a>“. Primeira de 12 ocorrências. <a data-id=\"https://en.wikipedia.org/wiki/Khirbet_er-Ra%27i\" data-type=\"link\" href=\"https://en.wikipedia.org/wiki/Khirbet_er-Ra%27i\" rel=\"noreferrer noopener\" target=\"_blank\">A identificação arqueológica de Tsiklag está em disputa</a>. </span>"
+      "text": "“Zip”. Primeira de 8 ocorrências. Cf. Josué 15,24.55; 1 Samuel 23,14.15.24; 26,2; 1 Crônicas 2,42; 2 Crônicas 11,8.",
+      "raw_html": "<span>“Zip”. Primeira de 8 ocorrências. Cf. Josué 15,24.55; 1 Samuel 23,14.15.24; 26,2; 1 Crônicas 2,42; 2 Crônicas 11,8. </span>"
     },
     {
       "ref_id": "fn69-18566",
       "number": 69,
-      "text": "“Dez” (‘esreh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0504\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0504\" rel=\"noopener\" target=\"_blank\">Dez</a>” (<em>‘esreh</em>). </span>"
+      "text": "“Tsiqlag“. Primeira de 12 ocorrências. A identificação arqueológica de Tsiklag está em disputa.",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#Tsiqlag\" rel=\"noreferrer noopener\" target=\"_blank\">Tsiqlag</a>“. Primeira de 12 ocorrências. <a data-id=\"https://en.wikipedia.org/wiki/Khirbet_er-Ra%27i\" data-type=\"link\" href=\"https://en.wikipedia.org/wiki/Khirbet_er-Ra%27i\" rel=\"noreferrer noopener\" target=\"_blank\">A identificação arqueológica de Tsiklag está em disputa</a>. </span>"
     },
     {
       "ref_id": "fn70-18566",
@@ -2603,138 +2608,144 @@
     {
       "ref_id": "fn71-18566",
       "number": 71,
-      "text": "“Qe’ilah”. Primeira de 16 ocorrências. Cf. Josué 15,44; 1 Samuel 23,1.2.3.4.5.6.7.8.10.11.12.13.",
-      "raw_html": "<span>“Qe’ilah”. Primeira de 16 ocorrências. Cf. Josué 15,44; 1 Samuel 23,1.2.3.4.5.6.7.8.10.11.12.13. </span>"
-    },
-    {
-      "ref_id": "fn72-18566",
-      "number": 72,
-      "text": "“Sobre a mão de” (‘al-‘ad).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALL\" rel=\"noreferrer noopener\" target=\"_blank\">Sobre a mão de</a>” (<em>‘al-‘ad</em>). </span>"
-    },
-    {
-      "ref_id": "fn73-18566",
-      "number": 73,
-      "text": "“Mitsrayim” (mitsrayim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0049\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0049\" rel=\"noopener\" target=\"_blank\">Mitsrayim</a>” (<em>mitsrayim</em>). </span>"
-    },
-    {
-      "ref_id": "fn74-18566",
-      "number": 74,
-      "text": "“Shamir”. Somente em Josué 15,48; Juízes 10,1.2.",
-      "raw_html": "<span>“Shamir”. Somente em Josué 15,48; Juízes 10,1.2. </span>"
-    },
-    {
-      "ref_id": "fn75-18566",
-      "number": 75,
       "text": "“Dez” (‘esreh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0504\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0504\" rel=\"noopener\" target=\"_blank\">Dez</a>” (<em>‘esreh</em>). </span>"
     },
     {
+      "ref_id": "fn72-18566",
+      "number": 72,
+      "text": "“Qe’ilah”. Primeira de 16 ocorrências. Cf. Josué 15,44; 1 Samuel 23,1.2.3.4.5.6.7.8.10.11.12.13.",
+      "raw_html": "<span>“Qe’ilah”. Primeira de 16 ocorrências. Cf. Josué 15,44; 1 Samuel 23,1.2.3.4.5.6.7.8.10.11.12.13. </span>"
+    },
+    {
+      "ref_id": "fn73-18566",
+      "number": 73,
+      "text": "“Sobre a mão de” (‘al-‘ad).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALL\" rel=\"noreferrer noopener\" target=\"_blank\">Sobre a mão de</a>” (<em>‘al-‘ad</em>). </span>"
+    },
+    {
+      "ref_id": "fn74-18566",
+      "number": 74,
+      "text": "“Mitsrayim” (mitsrayim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0049\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0049\" rel=\"noopener\" target=\"_blank\">Mitsrayim</a>” (<em>mitsrayim</em>). </span>"
+    },
+    {
+      "ref_id": "fn75-18566",
+      "number": 75,
+      "text": "“Shamir”. Somente em Josué 15,48; Juízes 10,1.2.",
+      "raw_html": "<span>“Shamir”. Somente em Josué 15,48; Juízes 10,1.2. </span>"
+    },
+    {
       "ref_id": "fn76-18566",
       "number": 76,
-      "text": "“Ma’on. Cf. Deuteronômio 26,15; Josué 15,55; Juízes 10,12; 1 Samuel 2,29.32; 23,24.25; 25,2.",
-      "raw_html": "<span>“Ma’on. Cf. Deuteronômio 26,15; Josué 15,55; Juízes 10,12; 1 Samuel 2,29.32; 23,24.25; 25,2. </span>"
+      "text": "“Dez” (‘esreh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0504\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0504\" rel=\"noopener\" target=\"_blank\">Dez</a>” (<em>‘esreh</em>). </span>"
     },
     {
       "ref_id": "fn77-18566",
       "number": 77,
-      "text": "Ma’on e Karmel encontra-se associadas também em 1 Samuel 25,2.",
-      "raw_html": "<span>Ma’on e Karmel encontra-se associadas também em 1 Samuel 25,2. </span>"
+      "text": "“Ma’on. Cf. Deuteronômio 26,15; Josué 15,55; Juízes 10,12; 1 Samuel 2,29.32; 23,24.25; 25,2.",
+      "raw_html": "<span>“Ma’on. Cf. Deuteronômio 26,15; Josué 15,55; Juízes 10,12; 1 Samuel 2,29.32; 23,24.25; 25,2. </span>"
     },
     {
       "ref_id": "fn78-18566",
       "number": 78,
-      "text": "“Karmel”. Não se trata do monte a noroeste de Israel, próximo à costa mediterrânea, mas de cidade relativamente próxima a Hebron. Primeira de 6 ocorrências. Cf. Josué 15,55; 1 Samuel 15,12; 25,2.5.7.40.",
-      "raw_html": "<span>“Karmel”. Não se trata do monte a noroeste de Israel, próximo à costa mediterrânea, mas de cidade relativamente próxima a Hebron. Primeira de 6 ocorrências. Cf. Josué 15,55; 1 Samuel 15,12; 25,2.5.7.40. </span>"
+      "text": "Ma’on e Karmel encontra-se associadas também em 1 Samuel 25,2.",
+      "raw_html": "<span>Ma’on e Karmel encontra-se associadas também em 1 Samuel 25,2. </span>"
     },
     {
       "ref_id": "fn79-18566",
       "number": 79,
-      "text": "“Zip”. Cf. Josué 15,24.55; 1 Samuel 23,14.15.24; 26,2; 1 Crônicas 2,42; 2 Crônicas 11,8.",
-      "raw_html": "<span>“Zip”. Cf. Josué 15,24.55; 1 Samuel 23,14.15.24; 26,2; 1 Crônicas 2,42; 2 Crônicas 11,8. </span>"
+      "text": "“Karmel”. Não se trata do monte a noroeste de Israel, próximo à costa mediterrânea, mas de cidade relativamente próxima a Hebron. Primeira de 6 ocorrências. Cf. Josué 15,55; 1 Samuel 15,12; 25,2.5.7.40.",
+      "raw_html": "<span>“Karmel”. Não se trata do monte a noroeste de Israel, próximo à costa mediterrânea, mas de cidade relativamente próxima a Hebron. Primeira de 6 ocorrências. Cf. Josué 15,55; 1 Samuel 15,12; 25,2.5.7.40. </span>"
     },
     {
       "ref_id": "fn80-18566",
       "number": 80,
-      "text": "“Yizre’e’l” (yizre’e’l). Primeira de 30 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACV\" rel=\"noreferrer noopener\" target=\"_blank\">Yizre’e’l</a>” (<em>yizre’e’l</em>). Primeira de 30 ocorrências. </span>"
+      "text": "“Zip”. Cf. Josué 15,24.55; 1 Samuel 23,14.15.24; 26,2; 1 Crônicas 2,42; 2 Crônicas 11,8.",
+      "raw_html": "<span>“Zip”. Cf. Josué 15,24.55; 1 Samuel 23,14.15.24; 26,2; 1 Crônicas 2,42; 2 Crônicas 11,8. </span>"
     },
     {
       "ref_id": "fn81-18566",
       "number": 81,
-      "text": "“Leia-se za-no-árr).",
-      "raw_html": "<span>“Leia-se <em>za-no-árr</em>). </span>"
+      "text": "“Yizre’e’l” (yizre’e’l). Primeira de 30 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACV\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACV\" rel=\"noreferrer noopener\" target=\"_blank\">Yizre’e’l</a>” (<em>yizre’e’l</em>). Primeira de 30 ocorrências. </span>"
     },
     {
       "ref_id": "fn82-18566",
       "number": 82,
-      "text": "“Dez” (‘eser). Cf. Gênesis 5,8; Josué 15,36.41.51.57; 17,25; 18,24.28; 19,6.15.22.38; 21,4.5.6.7.19.26.33.40; 22,14.29; Juízes 1,4; 2,8; 3,14.29; 4,6.10.14; 6,27; 7,3; 8,10; 10,8; 12,11; 17,10; 19,29; 20,10.25.34.44; 21,10; Rute 1,4; 4,2; 1 Samuel 1,8; 15,4; 17,17.18; 25,5.38.",
-      "raw_html": "<span>“Dez” (<em>‘eser</em>). Cf. Gênesis 5,8; Josué 15,36.41.51.57; 17,25; 18,24.28; 19,6.15.22.38; 21,4.5.6.7.19.26.33.40; 22,14.29; Juízes 1,4; 2,8; 3,14.29; 4,6.10.14; 6,27; 7,3; 8,10; 10,8; 12,11; 17,10; 19,29; 20,10.25.34.44; 21,10; Rute 1,4; 4,2; 1 Samuel 1,8; 15,4; 17,17.18; 25,5.38. </span>"
+      "text": "“Leia-se za-no-árr).",
+      "raw_html": "<span>“Leia-se <em>za-no-árr</em>). </span>"
     },
     {
       "ref_id": "fn83-18566",
       "number": 83,
-      "text": "“Rabbah” (rabbah).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJI\" rel=\"noreferrer noopener\" target=\"_blank\">Rabbah</a>” (<em>rabbah</em>). </span>"
+      "text": "“Dez” (‘eser). Cf. Gênesis 5,8; Josué 15,36.41.51.57; 17,25; 18,24.28; 19,6.15.22.38; 21,4.5.6.7.19.26.33.40; 22,14.29; Juízes 1,4; 2,8; 3,14.29; 4,6.10.14; 6,27; 7,3; 8,10; 10,8; 12,11; 17,10; 19,29; 20,10.25.34.44; 21,10; Rute 1,4; 4,2; 1 Samuel 1,8; 15,4; 17,17.18; 25,5.38.",
+      "raw_html": "<span>“Dez” (<em>‘eser</em>). Cf. Gênesis 5,8; Josué 15,36.41.51.57; 17,25; 18,24.28; 19,6.15.22.38; 21,4.5.6.7.19.26.33.40; 22,14.29; Juízes 1,4; 2,8; 3,14.29; 4,6.10.14; 6,27; 7,3; 8,10; 10,8; 12,11; 17,10; 19,29; 20,10.25.34.44; 21,10; Rute 1,4; 4,2; 1 Samuel 1,8; 15,4; 17,17.18; 25,5.38. </span>"
     },
     {
       "ref_id": "fn84-18566",
       "number": 84,
-      "text": "“Duas” (shetayim).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1049\" rel=\"noopener\" target=\"_blank\">Duas</a>” (<em>shetayim</em>). </span>"
+      "text": "“Rabbah” (rabbah).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJI\" rel=\"noreferrer noopener\" target=\"_blank\">Rabbah</a>” (<em>rabbah</em>). </span>"
     },
     {
       "ref_id": "fn85-18566",
       "number": 85,
-      "text": "“No deserto” (bammidbar). Cf. Gênesis 16,7; Josué 5,4.5.6; 8,24; 14,10; 15,61; 20,8; 24,7; Juízes 11,16.18; 1 Samuel 4,8; 17,28; 23,14.15.24.25; 24,2; 25,4.21; 26,2.3.",
-      "raw_html": "<span>“No deserto” (<em>bammidbar</em>). Cf. Gênesis 16,7; Josué 5,4.5.6; 8,24; 14,10; 15,61; 20,8; 24,7; Juízes 11,16.18; 1 Samuel 4,8; 17,28; 23,14.15.24.25; 24,2; 25,4.21; 26,2.3. </span>"
+      "text": "“Duas” (shetayim).",
+      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1049\" rel=\"noopener\" target=\"_blank\">Duas</a>” (<em>shetayim</em>). </span>"
     },
     {
       "ref_id": "fn86-18566",
       "number": 86,
-      "text": "“Deserto” (midbar). Cf. Gênesis 14,6; Josué 14,10; 15,1.61; 16,1; 18,12; 20,8; 24,7; Juízes 1,16; 8,7.16; 11,16.18.22; 20,42.45.47; 1 Samuel 4,8; 13,18; 17,28; 23,14.15.24.25; 24,2; 25,1.4.14.21; 26,2.3.",
-      "raw_html": "<span>“Deserto” (<em>midbar</em>). Cf. Gênesis 14,6; Josué 14,10; 15,1.61; 16,1; 18,12; 20,8; 24,7; Juízes 1,16; 8,7.16; 11,16.18.22; 20,42.45.47; 1 Samuel 4,8; 13,18; 17,28; 23,14.15.24.25; 24,2; 25,1.4.14.21; 26,2.3. </span>"
+      "text": "“No deserto” (bammidbar). Cf. Gênesis 16,7; Josué 5,4.5.6; 8,24; 14,10; 15,61; 20,8; 24,7; Juízes 11,16.18; 1 Samuel 4,8; 17,28; 23,14.15.24.25; 24,2; 25,4.21; 26,2.3.",
+      "raw_html": "<span>“No deserto” (<em>bammidbar</em>). Cf. Gênesis 16,7; Josué 5,4.5.6; 8,24; 14,10; 15,61; 20,8; 24,7; Juízes 11,16.18; 1 Samuel 4,8; 17,28; 23,14.15.24.25; 24,2; 25,4.21; 26,2.3. </span>"
     },
     {
       "ref_id": "fn87-18566",
       "number": 87,
-      "text": "“Yerushalaim” (yerushalaim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJK\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJK\" rel=\"noreferrer noopener\" target=\"_blank\">Yerushalaim</a>” (<em>yerushalaim</em>). </span>"
+      "text": "“Deserto” (midbar). Cf. Gênesis 14,6; Josué 14,10; 15,1.61; 16,1; 18,12; 20,8; 24,7; Juízes 1,16; 8,7.16; 11,16.18.22; 20,42.45.47; 1 Samuel 4,8; 13,18; 17,28; 23,14.15.24.25; 24,2; 25,1.4.14.21; 26,2.3.",
+      "raw_html": "<span>“Deserto” (<em>midbar</em>). Cf. Gênesis 14,6; Josué 14,10; 15,1.61; 16,1; 18,12; 20,8; 24,7; Juízes 1,16; 8,7.16; 11,16.18.22; 20,42.45.47; 1 Samuel 4,8; 13,18; 17,28; 23,14.15.24.25; 24,2; 25,1.4.14.21; 26,2.3. </span>"
     },
     {
       "ref_id": "fn88-18566",
       "number": 88,
-      "text": "“Estão capazes” (ykl). Cf. Gênesis 13,6; Josué 15,63; 17,12; 24,19; Juízes 2,14; 8,3; 11,35; 14,13.14; 16,5; 21,18; Rute 4,6; 1 Samuel 3,2; 4,15; 6,20; 17,9.33.39; 26,25.",
-      "raw_html": "<span>“Estão capazes” (<em>ykl</em>). Cf. Gênesis 13,6; Josué 15,63; 17,12; 24,19; Juízes 2,14; 8,3; 11,35; 14,13.14; 16,5; 21,18; Rute 4,6; 1 Samuel 3,2; 4,15; 6,20; 17,9.33.39; 26,25. </span>"
-    },
-    {
-      "ref_id": "fn89-18566",
-      "number": 89,
-      "text": "“Em Yerushalaim” (birushalaim). Primeira de 179 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJJ\" rel=\"noreferrer noopener\" target=\"_blank\">Em Yerushalaim</a>” (<em>birushalaim</em>). Primeira de 179 ocorrências. </span>"
-    },
-    {
-      "ref_id": "fn90-18566",
-      "number": 90,
       "text": "“Yerushalaim” (yerushalaim).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJK\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJK\" rel=\"noreferrer noopener\" target=\"_blank\">Yerushalaim</a>” (<em>yerushalaim</em>). </span>"
     },
     {
+      "ref_id": "fn89-18566",
+      "number": 89,
+      "text": "“Estão capazes” (ykl). Cf. Gênesis 13,6; Josué 15,63; 17,12; 24,19; Juízes 2,14; 8,3; 11,35; 14,13.14; 16,5; 21,18; Rute 4,6; 1 Samuel 3,2; 4,15; 6,20; 17,9.33.39; 26,25.",
+      "raw_html": "<span>“Estão capazes” (<em>ykl</em>). Cf. Gênesis 13,6; Josué 15,63; 17,12; 24,19; Juízes 2,14; 8,3; 11,35; 14,13.14; 16,5; 21,18; Rute 4,6; 1 Samuel 3,2; 4,15; 6,20; 17,9.33.39; 26,25. </span>"
+    },
+    {
+      "ref_id": "fn90-18566",
+      "number": 90,
+      "text": "“Em Yerushalaim” (birushalaim). Primeira de 179 ocorrências.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJJ\" rel=\"noreferrer noopener\" target=\"_blank\">Em Yerushalaim</a>” (<em>birushalaim</em>). Primeira de 179 ocorrências. </span>"
+    },
+    {
       "ref_id": "fn91-18566",
       "number": 91,
-      "text": "“Até o dia” (‘ad hayyom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
+      "text": "“Yerushalaim” (yerushalaim).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAJK\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAJK\" rel=\"noreferrer noopener\" target=\"_blank\">Yerushalaim</a>” (<em>yerushalaim</em>). </span>"
     },
     {
       "ref_id": "fn92-18566",
       "number": 92,
-      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
+      "text": "“Até o dia” (‘ad hayyom).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
     },
     {
       "ref_id": "fn93-18566",
       "number": 93,
+      "text": "“Até o dia esse (‘ad hayyom hazzeh).",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
+    },
+    {
+      "ref_id": "fn94-18566",
+      "number": 94,
       "text": "“O dia esse” (hayyom hazzeh).",
       "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
     }
