@@ -473,7 +473,7 @@
     },
     {
       "number": 12,
-      "text": "Que serves tu a ‘adamah. Não acrescentaela dar a forçadela para ti. Bambeador e cambaleador estás tu na terra.",
+      "text": "Que serves tu a ‘adamah. Não acrescentaela dar a forçadela para ti. Errador e erradiadorestás tu na terra.",
       "lines": [
         {
           "line_index": 0,
@@ -487,8 +487,8 @@
         },
         {
           "line_index": 2,
-          "text": "Bambeador e cambaleador estás tu na terra.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Bambeador e cambaleador<a name=\"rf68-1179\"></a><sup><a href=\"#fn68-1179\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup> estás tu na terra.</p>"
+          "text": "Errador e erradiadorestás tu na terra.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Errador e erradiador<a name=\"rf68-1179\"></a><sup><a href=\"#fn68-1179\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>estás tu na terra.</p>"
         }
       ]
     },
@@ -1478,8 +1478,8 @@
     {
       "ref_id": "fn68-1179",
       "number": 68,
-      "text": "“Bambeador e cambaleador” (na’ vanad). Trata-se de duas raízes (nw’ [“cambalear”] e nwd [“cambalear”]) distinguidas a partir de uma raiz (nw), fenômeno que se flagra também nos cognatos do Crescente Fértil. Aqui, funcionam como hendíade e aliteração, o que se busca refletir na tradução. O sentido é de andar confusamente e sem direção.",
-      "raw_html": "<span>“Bambeador e cambaleador” (<em>na’ vanad</em>). Trata-se de duas raízes (<em>nw’ </em>[“cambalear”] e <em>nwd</em> [“cambalear”]) distinguidas a partir de uma raiz (<em>nw</em>), fenômeno que se flagra também nos cognatos do Crescente Fértil. Aqui, funcionam como hendíade e aliteração, o que se busca refletir na tradução. O sentido é de andar confusamente e sem direção. </span>"
+      "text": "“Errador e erradiador” (na’ vanad). Hendíade e aliteração em hebraico, que se busca refletir na tradução. Caso não se queira manter a morfologia, “errante e erradio”.",
+      "raw_html": "<span>“Errador e erradiador” (<em>na’ vanad</em>). Hendíade e aliteração em hebraico, que se busca refletir na tradução. Caso não se queira manter a morfologia, “errante e erradio”. </span>"
     },
     {
       "ref_id": "fn69-1179",
