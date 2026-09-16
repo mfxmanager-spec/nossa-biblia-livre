@@ -181,7 +181,7 @@
     },
     {
       "number": 5,
-      "text": "E. Em quatro dez. Mudança. Vai Kedarla’omer. E os reis. Que com ele. E fazem eles ferir os repa’im. Em ‘Ashterot Qarnayim. E os zuzins. Em Ham. E os ’emim. Em Shaweh Qiryatayim.",
+      "text": "E. Em quatro dez. Mudança. Vai Kedarla’omer. E os reis. Que com ele. E fazem eles ferir. Os repa’im. Em ‘Ashterot Qarnayim. E os zuzins. Em Ham. E os ’emim. Em Shaweh Qiryatayim.",
       "lines": [
         {
           "line_index": 0,
@@ -215,31 +215,36 @@
         },
         {
           "line_index": 6,
-          "text": "E fazem eles ferir os repa’im.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E fazem eles ferir<a name=\"rf41-1974\"></a><sup><a href=\"#fn41-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> os repa’im<a name=\"rf42-1974\"></a><sup><a href=\"#fn42-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup><a name=\"rf43-1974\"></a><sup><a href=\"#fn43-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+          "text": "E fazem eles ferir.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E fazem eles ferir<a name=\"rf41-1974\"></a><sup><a href=\"#fn41-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup><a name=\"rf42-1974\"></a><sup><a href=\"#fn42-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup>.</p>"
         },
         {
           "line_index": 7,
+          "text": "Os repa’im.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Os repa’im<a name=\"rf43-1974\"></a><sup><a href=\"#fn43-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+        },
+        {
+          "line_index": 8,
           "text": "Em ‘Ashterot Qarnayim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Em ‘Ashterot Qarnayim.</p>"
         },
         {
-          "line_index": 8,
+          "line_index": 9,
           "text": "E os zuzins.",
           "raw_html": "<p class=\"wp-block-paragraph\">E os zuzins.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Em Ham.",
           "raw_html": "<p class=\"wp-block-paragraph\">Em Ham.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 11,
           "text": "E os ’emim.",
           "raw_html": "<p class=\"wp-block-paragraph\">E os ’emim<a name=\"rf44-1974\"></a><sup><a href=\"#fn44-1974\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>.</p>"
         },
         {
-          "line_index": 11,
+          "line_index": 12,
           "text": "Em Shaweh Qiryatayim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Em Shaweh Qiryatayim.</p>"
         }
@@ -1335,14 +1340,14 @@
     {
       "ref_id": "fn42-1974",
       "number": 42,
-      "text": "“Repa’im”. Primeira de 18 ocorrências. Cf. Gênesis 14,5; 15,20; Deuteronômio 2,11.20; 3,11,13. Na literatura antiga do entorno cananeu, o termo está associado à mitologia, relacionado às tradições teológicas referentes ao mundo dos mortos. Há quem recuse categoricamente que, nos textos bíblicos, tal sentido permaneça. Discordo desses autores. Estamos diante de desenvolvimentos tradicionais que relacionam habitantes da ‘arabah (a região mais ou menos do entorno do Mar Morto, mas estendendo-se à Transjordânia e ao Negeb) a tópicos teológicos e mitológicos muito antigos e disseminados no corredor palestinense estendido. Com seu uso, talvez se esteja a tentar, de alguma forma, a justificar a tradição da dizimação de populações desses territórios no encadeamento tradicional dos textos, bem como a legitimar a pecha de “depravação” que pesa sobre tais populações nesses mesmos textos. Seja como for, trata-se de mitologia.",
-      "raw_html": "<span>“Repa’im”. Primeira de 18 ocorrências. Cf. Gênesis 14,5; 15,20; Deuteronômio 2,11.20; 3,11,13. Na literatura antiga do entorno cananeu, o termo está associado à mitologia, relacionado às tradições teológicas referentes ao mundo dos mortos. Há quem recuse categoricamente que, nos textos bíblicos, tal sentido permaneça. Discordo desses autores. Estamos diante de desenvolvimentos tradicionais que relacionam habitantes da <em>‘arabah</em> (a região mais ou menos do entorno do Mar Morto, mas estendendo-se à Transjordânia e ao Negeb) a tópicos teológicos e mitológicos muito antigos e disseminados no corredor palestinense estendido. Com seu uso, talvez se esteja a tentar, de alguma forma, a justificar a tradição da dizimação de populações desses territórios no encadeamento tradicional dos textos, bem como a legitimar a pecha de “depravação” que pesa sobre tais populações nesses mesmos textos. Seja como for, trata-se de mitologia. </span>"
+      "text": "“Fazem eles ferir” (nkh). Forma causativa da raiz.",
+      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAN\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAN\" rel=\"noreferrer noopener\" target=\"_blank\">Fazem eles ferir</a>” (<em>nkh</em>). Forma causativa da raiz. </span>"
     },
     {
       "ref_id": "fn43-1974",
       "number": 43,
-      "text": "“Fazem eles ferir” (nkh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAN\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAN\" rel=\"noreferrer noopener\" target=\"_blank\">Fazem eles ferir</a>” (<em>nkh</em>). </span>"
+      "text": "“Repa’im”. Primeira de 18 ocorrências. O termo repa’im compartilha a mesma raiz de rp’ (“curar” [cf. Gênesis 20,17]). Podem ter sido representações de ancestrais, evocados em rituais de cura. Costumeiramente, são traduzidos como “sombras” ou “espíritos dos mortos”, o que não coaduna com a raiz rp’ (“curar”). Cf. Gênesis 14,5; 15,20; Deuteronômio 2,11.20; 3,11,13. Com efeito, na literatura antiga do entorno cananeu, o termo está associado à mitologia, relacionado às tradições teológicas referentes ao mundo dos mortos. Há quem recuse categoricamente que, nos textos bíblicos, tal sentido permaneça. Discordo desses autores. Estamos diante de desenvolvimentos tradicionais que relacionam habitantes da ‘arabah (a região mais ou menos do entorno do Mar Morto, mas estendendo-se à Transjordânia e ao Negeb) a tópicos teológicos e mitológicos muito antigos e disseminados no corredor palestinense estendido. Com seu uso, talvez se esteja a tentar a, de alguma forma, justificar a tradição da dizimação de populações desses territórios no encadeamento tradicional dos textos, bem como a legitimar a pecha de “depravação” que pesa sobre tais populações nesses mesmos textos. Seja como for, trata-se de mitologia.",
+      "raw_html": "<span>“Repa’im”. Primeira de 18 ocorrências. O termo <em>repa’im</em> compartilha a mesma raiz de <em>rp’ </em>(“curar” [cf. Gênesis 20,17]). Podem ter sido representações de ancestrais, evocados em rituais de cura. Costumeiramente, são traduzidos como “sombras” ou “espíritos dos mortos”, o que não coaduna com a raiz <em>rp’ </em>(“curar”). Cf. Gênesis 14,5; 15,20; Deuteronômio 2,11.20; 3,11,13. Com efeito, na literatura antiga do entorno cananeu, o termo está associado à mitologia, relacionado às tradições teológicas referentes ao mundo dos mortos. Há quem recuse categoricamente que, nos textos bíblicos, tal sentido permaneça. Discordo desses autores. Estamos diante de desenvolvimentos tradicionais que relacionam habitantes da <em>‘arabah</em> (a região mais ou menos do entorno do Mar Morto, mas estendendo-se à Transjordânia e ao Negeb) a tópicos teológicos e mitológicos muito antigos e disseminados no corredor palestinense estendido. Com seu uso, talvez se esteja a tentar a, de alguma forma, justificar a tradição da dizimação de populações desses territórios no encadeamento tradicional dos textos, bem como a legitimar a pecha de “depravação” que pesa sobre tais populações nesses mesmos textos. Seja como for, trata-se de mitologia. </span>"
     },
     {
       "ref_id": "fn44-1974",
