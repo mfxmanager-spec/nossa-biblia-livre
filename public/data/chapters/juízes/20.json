@@ -257,7 +257,7 @@
     },
     {
       "number": 6,
-      "text": "E agarro eu. Na concubina de mim. E despedaço eu ela. E despeço eu ela. No total do campo da herdade de Yisra’el. Que fazem eles. Infâmia e carniça. Em Yisra’el.",
+      "text": "E agarro eu. Na concubina de mim. E despedaço eu ela. E despeço eu ela. No total do campo da herdade de Yisra’el. Que fazem eles. Infâmia. E murcharia. Em Yisra’el.",
       "lines": [
         {
           "line_index": 0,
@@ -291,11 +291,16 @@
         },
         {
           "line_index": 6,
-          "text": "Infâmia e carniça.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Infâmia e carniça.</p>"
+          "text": "Infâmia.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Infâmia. </p>"
         },
         {
           "line_index": 7,
+          "text": "E murcharia.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E murcharia.</p>"
+        },
+        {
+          "line_index": 8,
           "text": "Em Yisra’el.",
           "raw_html": "<p class=\"wp-block-paragraph\">Em Yisra’el.</p>"
         }
