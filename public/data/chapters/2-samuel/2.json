@@ -999,7 +999,7 @@
     },
     {
       "number": 18,
-      "text": "E estão eles. Lá. Os três dos filhos de Tseruyah. Yo’ab. E ‘Abishay. E ‘Asah’el. E ‘Asah’el. Célere. Nos pés dele. Conforme uma das gazelas. Que no campo.",
+      "text": "E estão eles. Lá. Os três dos filhos de Tseruyah. Yo’ab. E ‘Abishay. E ‘Asah’el. E ‘Asah’el. Veloz nos pés dele. Conforme uma das gazelas. Que no campo.",
       "lines": [
         {
           "line_index": 0,
@@ -1038,21 +1038,16 @@
         },
         {
           "line_index": 7,
-          "text": "Célere.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Célere.</p>"
+          "text": "Veloz nos pés dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Veloz nos pés dele.</p>"
         },
         {
           "line_index": 8,
-          "text": "Nos pés dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nos pés dele.</p>"
-        },
-        {
-          "line_index": 9,
           "text": "Conforme uma das gazelas.",
           "raw_html": "<p class=\"wp-block-paragraph\">Conforme uma das gazelas.</p>"
         },
         {
-          "line_index": 10,
+          "line_index": 9,
           "text": "Que no campo.",
           "raw_html": "<p class=\"wp-block-paragraph\">Que no campo.</p>"
         }

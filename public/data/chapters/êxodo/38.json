@@ -668,7 +668,7 @@
     },
     {
       "number": 17,
-      "text": "E as basespara as colunas. Cobre. Os pregos das colunas. E os agarradores delas. Prata. E o revestimento das cabeças delas. Prata. E elas estão abraçadas. Prata. Totalidade das colunasdo cercamento.",
+      "text": "E as basespara as colunas. Cobre. Os pregos das colunas. E os agarradores delas. Prata. E o revestimentodas cabeças delas. Prata. E elas estão abraçadas. Prata. Totalidade das colunasdo cercamento.",
       "lines": [
         {
           "line_index": 0,
@@ -697,8 +697,8 @@
         },
         {
           "line_index": 5,
-          "text": "E o revestimento das cabeças delas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o revestimento<a name=\"rf75-7756\"></a><sup><a href=\"#fn75-7756\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup> das cabeças delas<a name=\"rf76-7756\"></a><sup><a href=\"#fn76-7756\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
+          "text": "E o revestimentodas cabeças delas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E o revestimento<a name=\"rf75-7756\"></a><sup><a href=\"#fn75-7756\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>das cabeças delas<a name=\"rf76-7756\"></a><sup><a href=\"#fn76-7756\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -785,7 +785,7 @@
     },
     {
       "number": 19,
-      "text": "E as colunas dele. Quatro. E as bases delas. Quatro. Cobre. Os pregos delas. Prata. E o revestimento das cabeças delas. E os agarradores delas. Prata.",
+      "text": "E as colunas dele. Quatro. E as bases delas. Quatro. Cobre. Os pregos delas. Prata. E o revestimentodas cabeças delas. E os agarradores delas. Prata.",
       "lines": [
         {
           "line_index": 0,
@@ -824,8 +824,8 @@
         },
         {
           "line_index": 7,
-          "text": "E o revestimento das cabeças delas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o revestimento<a name=\"rf99-7756\"></a><sup><a href=\"#fn99-7756\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup> das cabeças delas<a name=\"rf100-7756\"></a><sup><a href=\"#fn100-7756\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
+          "text": "E o revestimentodas cabeças delas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E o revestimento<a name=\"rf99-7756\"></a><sup><a href=\"#fn99-7756\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>das cabeças delas<a name=\"rf100-7756\"></a><sup><a href=\"#fn100-7756\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup>.</p>"
         },
         {
           "line_index": 8,
@@ -1730,8 +1730,8 @@
     {
       "ref_id": "fn75-7756",
       "number": 75,
-      "text": "“O revestimento das” (tsippuy). Primeira de 5 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1080\" rel=\"noopener\" target=\"_blank\">O revestimento das</a>” (<em>tsippuy</em>). Primeira de 5 ocorrências. </span>"
+      "text": "“Revestimento” (tsippuy). Primeira de 5 ocorrências.",
+      "raw_html": "<span>“Revestimento” (<em>tsippuy</em>). Primeira de 5 ocorrências. </span>"
     },
     {
       "ref_id": "fn76-7756",
@@ -1874,8 +1874,8 @@
     {
       "ref_id": "fn99-7756",
       "number": 99,
-      "text": "“O revestimento das” (tsippuy).",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1080\" rel=\"noopener\" target=\"_blank\">O revestimento das</a>” (<em>tsippuy</em>). </span>"
+      "text": "“Revestimento” (tsippuy). Cf. v. 17.",
+      "raw_html": "<span>“Revestimento” (<em>tsippuy</em>). Cf. v. 17. </span>"
     },
     {
       "ref_id": "fn100-7756",
