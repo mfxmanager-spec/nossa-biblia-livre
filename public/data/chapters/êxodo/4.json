@@ -492,45 +492,65 @@
     },
     {
       "number": 11,
-      "text": "E diz Yahweh para ele. Quem coloca uma boca para o homem? Ou quem coloca um mudo? Ou um surdo? Ou aberto? Ou empelado? Acaso não sou eu? Yahweh!",
+      "text": "E diz Yahweh. A ele. Quem coloca. Boca. Para ‘adam? Ou quem coloca. Travado? Ou surdo? Ou desvedado? Ou empelado? Acaso não sou eu? Yahweh!",
       "lines": [
         {
           "line_index": 0,
-          "text": "E diz Yahweh para ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Yahweh para ele.</p>"
+          "text": "E diz Yahweh.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E diz Yahweh.</p>"
         },
         {
           "line_index": 1,
-          "text": "Quem coloca uma boca para o homem?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quem coloca uma boca para o homem? </p>"
+          "text": "A ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A ele.</p>"
         },
         {
           "line_index": 2,
-          "text": "Ou quem coloca um mudo?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ou quem coloca um mudo<a name=\"rf56-4226\"></a><sup><a href=\"#fn56-4226\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>? </p>"
+          "text": "Quem coloca.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Quem coloca.</p>"
         },
         {
           "line_index": 3,
-          "text": "Ou um surdo?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ou um surdo<a name=\"rf57-4226\"></a><sup><a href=\"#fn57-4226\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>? </p>"
+          "text": "Boca.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Boca.</p>"
         },
         {
           "line_index": 4,
-          "text": "Ou aberto?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ou aberto<a name=\"rf58-4226\"></a><sup><a href=\"#fn58-4226\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>?</p>"
+          "text": "Para ‘adam?",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para <em>‘adam</em>?</p>"
         },
         {
           "line_index": 5,
+          "text": "Ou quem coloca.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ou quem coloca.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Travado?",
+          "raw_html": "<p class=\"wp-block-paragraph\">Travado<a name=\"rf56-4226\"></a><sup><a href=\"#fn56-4226\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>?</p>"
+        },
+        {
+          "line_index": 7,
+          "text": "Ou surdo?",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ou surdo<a name=\"rf57-4226\"></a><sup><a href=\"#fn57-4226\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>?</p>"
+        },
+        {
+          "line_index": 8,
+          "text": "Ou desvedado?",
+          "raw_html": "<p class=\"wp-block-paragraph\">Ou desvedado<a name=\"rf58-4226\"></a><sup><a href=\"#fn58-4226\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>?</p>"
+        },
+        {
+          "line_index": 9,
           "text": "Ou empelado?",
           "raw_html": "<p class=\"wp-block-paragraph\">Ou empelado<a name=\"rf59-4226\"></a><sup><a href=\"#fn59-4226\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup><a name=\"rf60-4226\"></a><sup><a href=\"#fn60-4226\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>?</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 10,
           "text": "Acaso não sou eu?",
           "raw_html": "<p class=\"wp-block-paragraph\">Acaso não sou eu?</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 11,
           "text": "Yahweh!",
           "raw_html": "<p class=\"wp-block-paragraph\">Yahweh!</p>"
         }
@@ -1636,8 +1656,8 @@
     {
       "ref_id": "fn56-4226",
       "number": 56,
-      "text": "“Muda” (‘illem). Primeira ocorrência do termo na Bíblia Hebraica.",
-      "raw_html": "<span>“Muda” (<em>‘illem</em>). Primeira ocorrência do termo na Bíblia Hebraica. </span>"
+      "text": "“Travado” (‘illem). Trata-se do “mudo”. Primeira ocorrência do termo na Bíblia Hebraica.",
+      "raw_html": "<span>“Travado” (<em>‘illem</em>). Trata-se do “mudo”. Primeira ocorrência do termo na Bíblia Hebraica. </span>"
     },
     {
       "ref_id": "fn57-4226",
@@ -1648,8 +1668,8 @@
     {
       "ref_id": "fn58-4226",
       "number": 58,
-      "text": "“Aberto” traduz aqui o adjetivo piqqeah. A raiz pqh significa “abrir”. Até aqui, fora empregada sempre para expressar a ideia de “abrir os olhos” (cf. Gênesis 3,5.7, os olhos abertos do homem e da mulher pelo fruto interditado, e Gênesis 21,19, os olhos abertos de Hagar para enxergar o poço que ela, assim quis o narrador, não vira). A tradução “aberto de olhos” ficaria bem em uma tradução com política dinâmica. O que enxerga é um “aberto”. Cf. a nota seguinte sobre “empelado” (um cego), que, ao contrário do “aberto”, teria os olhos fechados.",
-      "raw_html": "<span>“Aberto” traduz aqui o adjetivo <em>piqqeah</em>. A raiz <em>pqh</em> significa “abrir”. Até aqui, fora empregada sempre para expressar a ideia de “abrir os olhos” (cf. Gênesis 3,5.7, os olhos abertos do homem e da mulher pelo fruto interditado, e Gênesis 21,19, os olhos abertos de Hagar para enxergar o poço que ela, assim quis o narrador, não vira). A tradução “aberto de olhos” ficaria bem em uma tradução com política dinâmica. O que enxerga é um “aberto”. Cf. a nota seguinte sobre “empelado” (um cego), que, ao contrário do “aberto”, teria os olhos fechados. </span>"
+      "text": "“Desvedado” traduz aqui o adjetivo piqqeah. A raiz pqh significa “abrir”. Até aqui, fora empregada sempre para expressar a ideia de “abrir os olhos” (cf. Gênesis 3,5.7, os olhos abertos do homem e da mulher pelo fruto interditado, e Gênesis 21,19, os olhos abertos de Hagar para enxergar o poço que ela, assim quis o narrador, não vira). A tradução “aberto de olhos” ficaria bem em uma tradução com política dinâmica. O que enxerga é um “aberto”. Cf. a nota seguinte sobre “empelado” (um cego), que, ao contrário do “aberto”, teria os olhos fechados.",
+      "raw_html": "<span>“Desvedado” traduz aqui o adjetivo <em>piqqeah</em>. A raiz <em>pqh</em> significa “abrir”. Até aqui, fora empregada sempre para expressar a ideia de “abrir os olhos” (cf. Gênesis 3,5.7, os olhos abertos do homem e da mulher pelo fruto interditado, e Gênesis 21,19, os olhos abertos de Hagar para enxergar o poço que ela, assim quis o narrador, não vira). A tradução “aberto de olhos” ficaria bem em uma tradução com política dinâmica. O que enxerga é um “aberto”. Cf. a nota seguinte sobre “empelado” (um cego), que, ao contrário do “aberto”, teria os olhos fechados. </span>"
     },
     {
       "ref_id": "fn59-4226",
