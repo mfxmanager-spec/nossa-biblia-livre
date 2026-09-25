@@ -409,12 +409,12 @@
     },
     {
       "number": 13,
-      "text": "Guias tru. No comprometimento de ti. Um povo que tu resgataste. Tu conduziste. Na potênciade ti. À exaltaçãoda sacralidadede ti.",
+      "text": "Guias tu. No comprometimento de ti. Povo este. Resgatas tu. Lenteias tu. Na potência de ti. À exaltaçãoda sacralidadede ti.",
       "lines": [
         {
           "line_index": 0,
-          "text": "Guias tru.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> Guias tru<a name=\"rf70-5160\"></a><sup><a href=\"#fn70-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
+          "text": "Guias tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> Guias tu<a name=\"rf70-5160\"></a><sup><a href=\"#fn70-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -423,21 +423,26 @@
         },
         {
           "line_index": 2,
-          "text": "Um povo que tu resgataste.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Um povo que tu resgataste<a name=\"rf72-5160\"></a><sup><a href=\"#fn72-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
+          "text": "Povo este.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Povo este.</p>"
         },
         {
           "line_index": 3,
-          "text": "Tu conduziste.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Tu conduziste<a name=\"rf73-5160\"></a><sup><a href=\"#fn73-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
+          "text": "Resgatas tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Resgatas tu<a name=\"rf72-5160\"></a><sup><a href=\"#fn72-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>.</p>"
         },
         {
           "line_index": 4,
-          "text": "Na potênciade ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na potência<a name=\"rf74-5160\"></a><sup><a href=\"#fn74-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup>de ti.</p>"
+          "text": "Lenteias tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Lenteias tu<a name=\"rf73-5160\"></a><sup><a href=\"#fn73-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
         },
         {
           "line_index": 5,
+          "text": "Na potência de ti.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Na potência<a name=\"rf74-5160\"></a><sup><a href=\"#fn74-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup> de ti.</p>"
+        },
+        {
+          "line_index": 6,
           "text": "À exaltaçãoda sacralidadede ti.",
           "raw_html": "<p class=\"wp-block-paragraph\">À exaltação<a name=\"rf75-5160\"></a><sup><a href=\"#fn75-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup>da sacralidade<a name=\"rf76-5160\"></a><sup><a href=\"#fn76-5160\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup>de ti.</p>"
         }

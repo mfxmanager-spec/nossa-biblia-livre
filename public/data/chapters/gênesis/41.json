@@ -197,17 +197,37 @@
     },
     {
       "number": 6,
-      "text": "E eis sete espigas finas e ressecadasde leste. Germinadorasdepois delas.",
+      "text": "E eis. Sete espigas. Finas. E sido crestadas de leste. Germinadoras. Depois delas.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E eis sete espigas finas e ressecadasde leste.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E eis sete espigas finas e ressecadas<a name=\"rf29-3204\"></a><sup><a href=\"#fn29-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup>de leste.</p>"
+          "text": "E eis.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E eis.</p>"
         },
         {
           "line_index": 1,
-          "text": "Germinadorasdepois delas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Germinadoras<a name=\"rf30-3204\"></a><sup><a href=\"#fn30-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>depois delas.</p>"
+          "text": "Sete espigas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sete espigas.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Finas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Finas.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "E sido crestadas de leste.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E sido crestadas<a name=\"rf29-3204\"></a><sup><a href=\"#fn29-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup> de leste.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Germinadoras.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Germinadoras<a name=\"rf30-3204\"></a><sup><a href=\"#fn30-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Depois delas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Depois delas.</p>"
         }
       ]
     },
@@ -814,7 +834,7 @@
     },
     {
       "number": 23,
-      "text": "E eis. Sete espigas secas, finas e ressecadas de leste. Germinadoras atrás deles.",
+      "text": "E eis. Sete espigas. Secas. Finas. E sido crestadas de leste. Germinadoras. Depois deles.",
       "lines": [
         {
           "line_index": 0,
@@ -823,13 +843,33 @@
         },
         {
           "line_index": 1,
-          "text": "Sete espigas secas, finas e ressecadas de leste.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Sete espigas secas, finas e ressecadas de leste<a name=\"rf88-3204\"></a><sup><a href=\"#fn88-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
+          "text": "Sete espigas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sete espigas.</p>"
         },
         {
           "line_index": 2,
-          "text": "Germinadoras atrás deles.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Germinadoras<a name=\"rf89-3204\"></a><sup><a href=\"#fn89-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup> atrás deles<a name=\"rf90-3204\"></a><sup><a href=\"#fn90-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>.</p>"
+          "text": "Secas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Secas.</p>"
+        },
+        {
+          "line_index": 3,
+          "text": "Finas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Finas.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "E sido crestadas de leste.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E sido crestadas de leste<a name=\"rf88-3204\"></a><sup><a href=\"#fn88-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
+        },
+        {
+          "line_index": 5,
+          "text": "Germinadoras.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Germinadoras<a name=\"rf89-3204\"></a><sup><a href=\"#fn89-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup>.</p>"
+        },
+        {
+          "line_index": 6,
+          "text": "Depois deles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Depois deles<a name=\"rf90-3204\"></a><sup><a href=\"#fn90-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>.</p>"
         }
       ]
     },
@@ -903,47 +943,67 @@
     },
     {
       "number": 27,
-      "text": "E as sete novilhas. Finas e más. Subidoras depois delas. Sete mudanças. Elas. E as sete espigas vazias. Ressecadas do leste. Estão sete mudanças de esfaimamento..",
+      "text": "E as sete das novilhas. Finas. E danadas. Subidoras. Depois delas. Sete mudanças. Elas. E as sete das espigas. As vazias. As sido crestadas do leste. Estão eles. Sete mudanças de esfaimamento..",
       "lines": [
         {
           "line_index": 0,
-          "text": "E as sete novilhas.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E as sete novilhas<a name=\"rf94-3204\"></a><sup><a href=\"#fn94-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
+          "text": "E as sete das novilhas.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E as sete das novilhas<a name=\"rf94-3204\"></a><sup><a href=\"#fn94-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup>.</p>"
         },
         {
           "line_index": 1,
-          "text": "Finas e más.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Finas e más.</p>"
+          "text": "Finas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Finas.</p>"
         },
         {
           "line_index": 2,
-          "text": "Subidoras depois delas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Subidoras depois delas.</p>"
+          "text": "E danadas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E danadas.</p>"
         },
         {
           "line_index": 3,
+          "text": "Subidoras.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Subidoras.</p>"
+        },
+        {
+          "line_index": 4,
+          "text": "Depois delas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Depois delas.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Sete mudanças.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sete mudanças.</p>"
         },
         {
-          "line_index": 4,
+          "line_index": 6,
           "text": "Elas.",
           "raw_html": "<p class=\"wp-block-paragraph\">Elas.</p>"
         },
         {
-          "line_index": 5,
-          "text": "E as sete espigas vazias.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as sete espigas vazias.</p>"
-        },
-        {
-          "line_index": 6,
-          "text": "Ressecadas do leste.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ressecadas do leste.</p>"
-        },
-        {
           "line_index": 7,
-          "text": "Estão sete mudanças de esfaimamento..",
-          "raw_html": "<p class=\"wp-block-paragraph\">Estão sete mudanças de esfaimamento.<a name=\"rf95-3204\"></a><sup><a href=\"#fn95-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
+          "text": "E as sete das espigas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E as sete das espigas.</p>"
+        },
+        {
+          "line_index": 8,
+          "text": "As vazias.",
+          "raw_html": "<p class=\"wp-block-paragraph\">As vazias.</p>"
+        },
+        {
+          "line_index": 9,
+          "text": "As sido crestadas do leste.",
+          "raw_html": "<p class=\"wp-block-paragraph\">As sido crestadas do leste.</p>"
+        },
+        {
+          "line_index": 10,
+          "text": "Estão eles.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Estão eles.</p>"
+        },
+        {
+          "line_index": 11,
+          "text": "Sete mudanças de esfaimamento..",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sete mudanças de esfaimamento.<a name=\"rf95-3204\"></a><sup><a href=\"#fn95-3204\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
         }
       ]
     },

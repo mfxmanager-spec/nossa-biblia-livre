@@ -98,7 +98,7 @@
     },
     {
       "number": 2,
-      "text": "E diz o rei. A Tsiba’. Qual esses. Para ti? E diz Tsiba’. Os jumentos. Para o lar do rei. Para montar. E o sovado. E o colhido. Para o comer dos moços. E o vinho. Para o beber do cansado. No deserto.",
+      "text": "E diz o rei. A Tsiba’. Qual esses. Para ti? E diz Tsiba’. Os jumentos. Para o lar do rei. Para montar. E o sovado. E o colhido. Para o comer dos moços. E o vinho. Para o beber do cansado. No tocadouro.",
       "lines": [
         {
           "line_index": 0,
@@ -167,8 +167,8 @@
         },
         {
           "line_index": 13,
-          "text": "No deserto.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No deserto.</p>"
+          "text": "No tocadouro.",
+          "raw_html": "<p class=\"wp-block-paragraph\">No tocadouro.</p>"
         }
       ]
     },

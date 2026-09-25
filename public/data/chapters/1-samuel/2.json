@@ -104,7 +104,7 @@
     },
     {
       "number": 3,
-      "text": "Não fazeis vós multiplicar. Falais vós. Imponência. Imponência. Sai avanço. Desde a boca de vós. Que deus de conhecimento. Yahweh. E para ele sopesadas estão as ações.",
+      "text": "Não fazeis vós multiplicar. Falais vós. Imponência. Imponência. Sai avanço. Desde a boca de vós. Que deus de conhecimento. Yahweh. E para ele. Sopesados estão. Os acionamentos.",
       "lines": [
         {
           "line_index": 0,
@@ -148,8 +148,18 @@
         },
         {
           "line_index": 8,
-          "text": "E para ele sopesadas estão as ações.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para ele<a name=\"rf39-20898\"></a><sup><a href=\"#fn39-20898\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup> sopesadas estão as ações.</p>"
+          "text": "E para ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E para ele<a name=\"rf39-20898\"></a><sup><a href=\"#fn39-20898\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>.</p>"
+        },
+        {
+          "line_index": 9,
+          "text": "Sopesados estão.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Sopesados estão.</p>"
+        },
+        {
+          "line_index": 10,
+          "text": "Os acionamentos.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Os acionamentos.</p>"
         }
       ]
     },

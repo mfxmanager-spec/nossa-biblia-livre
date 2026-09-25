@@ -221,7 +221,7 @@
     },
     {
       "number": 5,
-      "text": "E diz ‘Ah’ab. A ‘Obadyahu. Anda tu. Na terra. Ao total dos olhedouros dos aquosos. E ao total dos varzeados. Talvez. Encontramos nós. Cercadouro. E sobre-vivemos nós. Cavalo. E mulo. E não fazemos nós cortar. Desde a alimária.",
+      "text": "E diz ‘Ah’ab. A ‘Obadyahu. Anda tu. Na terra. Ao total dos olhedouros dos aquosos. E ao total dos varzeados. Talvez. Encontramos nós. Capim. E sobre-vivemos nós. Cavalo. E mulo. E não fazemos nós cortar. Desde a alimária.",
       "lines": [
         {
           "line_index": 0,
@@ -265,8 +265,8 @@
         },
         {
           "line_index": 8,
-          "text": "Cercadouro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Cercadouro.</p>"
+          "text": "Capim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Capim.</p>"
         },
         {
           "line_index": 9,
