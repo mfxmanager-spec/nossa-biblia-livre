@@ -451,7 +451,7 @@
     },
     {
       "number": 10,
-      "text": "E está. Sobre ele. A ventania de Yahweh. E julga ele Yisra’el. E sai ele para a batalha. E dá Yahweh. Na mão dele. Kushan Rish’atayim. O rei de ‘Aram. E firma ele a mão dele. Sobre Kushan Rish’atayim.",
+      "text": "E está. Sobre ele. A ventania de Yahweh. E julga ele Yisra’el. E sai ele para a batalha. E dá Yahweh. Na mão dele. Kushan Rish’atayim. O rei de ‘Aram. E firma ele. A mão dele. Sobre Kushan Rish’atayim.",
       "lines": [
         {
           "line_index": 0,
@@ -500,11 +500,16 @@
         },
         {
           "line_index": 9,
-          "text": "E firma ele a mão dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E firma ele a mão dele.</p>"
+          "text": "E firma ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E firma ele.</p>"
         },
         {
           "line_index": 10,
+          "text": "A mão dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">A mão dele.</p>"
+        },
+        {
+          "line_index": 11,
           "text": "Sobre Kushan Rish’atayim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sobre Kushan Rish’atayim.</p>"
         }
