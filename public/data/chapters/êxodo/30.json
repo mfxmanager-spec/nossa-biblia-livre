@@ -900,7 +900,7 @@
     },
     {
       "number": 34,
-      "text": "E diz Yahweh a Mosheh. Toma para tiespeciarias! Natap. E shehelet. Gálbano. Especiarias. E olíbanopuro. Parte em parteele é.",
+      "text": "E diz Yahweh a Mosheh. Toma para tiespeciarias! Natap. E shehelet. Gálbano. Especiarias. E olíbano puro. Parte em parteele é.",
       "lines": [
         {
           "line_index": 0,
@@ -934,8 +934,8 @@
         },
         {
           "line_index": 6,
-          "text": "E olíbanopuro.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E olíbano<a name=\"rf229-6289\"></a><sup><a href=\"#fn229-6289\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 229\">229</a></sup>puro.</p>"
+          "text": "E olíbano puro.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E olíbano<a name=\"rf229-6289\"></a><sup><a href=\"#fn229-6289\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 229\">229</a></sup> puro.</p>"
         },
         {
           "line_index": 7,
@@ -2436,8 +2436,8 @@
     {
       "ref_id": "fn229-6289",
       "number": 229,
-      "text": "“Olíbano” (lebonah). Informações sobre olíbano(ou “frankincence”) podem ser lidas na Wikipedia. Cf. Levítico 2,1.",
-      "raw_html": "<span>“Olíbano” (<em>lebonah</em>). Informações sobre olíbano(ou “frankincence”) podem ser lidas na <a data-id=\"https://en.wikipedia.org/wiki/Boswellia_sacra\" data-type=\"link\" href=\"https://en.wikipedia.org/wiki/Boswellia_sacra\" rel=\"noreferrer noopener\" target=\"_blank\">Wikipedia</a>. Cf. Levítico 2,1. </span>"
+      "text": "“Olíbano” (lebonah). Informações sobre olíbano (ou “frankincence”) podem ser lidas na Wikipedia. Cf. Levítico 2,1.",
+      "raw_html": "<span>“Olíbano” (<em>lebonah</em>). Informações sobre olíbano (ou “frankincence”) podem ser lidas na <a data-id=\"https://en.wikipedia.org/wiki/Boswellia_sacra\" data-type=\"link\" href=\"https://en.wikipedia.org/wiki/Boswellia_sacra\" rel=\"noreferrer noopener\" target=\"_blank\">Wikipedia</a>. Cf. Levítico 2,1. </span>"
     },
     {
       "ref_id": "fn230-6289",
