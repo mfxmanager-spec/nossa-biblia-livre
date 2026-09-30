@@ -1698,7 +1698,7 @@
     },
     {
       "number": 42,
-      "text": "Não fosse o deus do pai de mim. O deus de ‘Abraham. E o terrorde Yitshaq. Está ele para mim. Que agora vaziodespedes tu eu. O esforço de mim. E as palmasde mim. Vê ‘Elohim. E fez ele repreenderontem.",
+      "text": "Não fosse o deus do pai de mim. O deus de ‘Abraham. E o terrorde Yitshaq. Está ele para mim. Que agora vaziodespedes tu eu. O labor das palmas de mim. Vê ‘Elohim. E fez ele repreenderontem.",
       "lines": [
         {
           "line_index": 0,
@@ -1727,21 +1727,16 @@
         },
         {
           "line_index": 5,
-          "text": "O esforço de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O esforço<a name=\"rf127-2718\"></a><sup><a href=\"#fn127-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup> de mim.</p>"
+          "text": "O labor das palmas de mim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O labor<a name=\"rf127-2718\"></a><sup><a href=\"#fn127-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup> das palmas<a name=\"rf128-2718\"></a><sup><a href=\"#fn128-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup> de mim.</p>"
         },
         {
           "line_index": 6,
-          "text": "E as palmasde mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E as palmas<a name=\"rf128-2718\"></a><sup><a href=\"#fn128-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>de mim.</p>"
+          "text": "Vê ‘Elohim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Vê <em>‘Elohim.</em></p>"
         },
         {
           "line_index": 7,
-          "text": "Vê ‘Elohim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vê ‘Elohim.</p>"
-        },
-        {
-          "line_index": 8,
           "text": "E fez ele repreenderontem.",
           "raw_html": "<p class=\"wp-block-paragraph\">E fez ele repreender<a name=\"rf129-2718\"></a><sup><a href=\"#fn129-2718\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup>ontem.</p>"
         }
