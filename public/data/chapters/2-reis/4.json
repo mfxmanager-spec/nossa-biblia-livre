@@ -2105,7 +2105,7 @@
     },
     {
       "number": 34,
-      "text": "E sobe ele. E deita ele. Sobre o parido. E coloca ele. A boca dele. Sobre a boca dele. E os olhos dele. Sobre os olhos dele. E as palmas dele. Sobre as palmas dele. E debruça ele. Sobre ele. E esquenta ele. A carne do parido.",
+      "text": "E sobe ele. E deita ele. Sobre o parido. E coloca ele. A boca dele. Sobre a boca dele. E os olhos dele. Sobre os olhos dele. E as palmas dele. Sobre as palmas dele. E debruça ele. Sobre ele. E aquece ele. A carne do parido.",
       "lines": [
         {
           "line_index": 0,
@@ -2169,8 +2169,8 @@
         },
         {
           "line_index": 12,
-          "text": "E esquenta ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E esquenta ele.</p>"
+          "text": "E aquece ele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E aquece ele.</p>"
         },
         {
           "line_index": 13,
