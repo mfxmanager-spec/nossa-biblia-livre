@@ -49,12 +49,22 @@
     },
     {
       "number": 3,
-      "text": "E um pobretu não honrarásna contenda dele.",
+      "text": "E pobre. Não adornas tu. Na contenda dele.",
       "lines": [
         {
           "line_index": 0,
-          "text": "E um pobretu não honrarásna contenda dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E um pobre<a name=\"rf15-5713\"></a><sup><a href=\"#fn15-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>tu não honrarás<a name=\"rf16-5713\"></a><sup><a href=\"#fn16-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup>na contenda dele<a name=\"rf17-5713\"></a><sup><a href=\"#fn17-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup>.</p>"
+          "text": "E pobre.",
+          "raw_html": "<p class=\"wp-block-paragraph\"> E pobre<a name=\"rf15-5713\"></a><sup><a href=\"#fn15-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
+        },
+        {
+          "line_index": 1,
+          "text": "Não adornas tu.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Não adornas tu<a name=\"rf16-5713\"></a><sup><a href=\"#fn16-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup>.</p>"
+        },
+        {
+          "line_index": 2,
+          "text": "Na contenda dele.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Na contenda dele<a name=\"rf17-5713\"></a><sup><a href=\"#fn17-5713\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup>.</p>"
         }
       ]
     },

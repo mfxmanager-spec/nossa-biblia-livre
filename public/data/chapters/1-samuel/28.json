@@ -1615,7 +1615,7 @@
     },
     {
       "number": 24,
-      "text": "E para a mlher. Bezerro de estábulo. No lar. E apressa ela. Sacrifica ela ele. E toma ela amido. E amassa ela. E cozinha ela ele.",
+      "text": "E para a mlher. Bezerro de estábulo. No lar. E apressa ela. Sacrifica ela ele. E toma ela amido. E amassa ela. E cozinha ela ele. Levedura.",
       "lines": [
         {
           "line_index": 0,
@@ -1656,6 +1656,11 @@
           "line_index": 7,
           "text": "E cozinha ela ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">E cozinha ela ele.</p>"
+        },
+        {
+          "line_index": 8,
+          "text": "Levedura.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Levedura.</p>"
         }
       ]
     },
