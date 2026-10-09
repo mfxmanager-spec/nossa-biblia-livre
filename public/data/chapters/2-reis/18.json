@@ -3,7 +3,7 @@
   "book_name": "2 Reis",
   "book_slug": "2-reis",
   "chapter_number": 18,
-  "introduction": "<p class=\"wp-block-paragraph\"><a href=\"https://www.die-bibel.de/en/bible/BHS/2KI.18\" rel=\"noopener\" target=\"_blank\">2 Reis 18 na <em>Biblia Hebraica Stuttgartensia</em></a></p>\n<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Aviso</mark></strong>: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.</p>\n<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>",
+  "introduction": "<p class=\"wp-block-paragraph\"><a href=\"https://www.die-bibel.de/en/bible/BHS/2KI.18\" rel=\"noopener\" target=\"_blank\">2 Reis 18 na <em>Biblia Hebraica Stuttgartensia</em></a></p>\n<p class=\"wp-block-paragraph\"><a href=\"https://www.youtube.com/live/FTSuGZde0GE\" rel=\"noopener\" target=\"_blank\">Comentário a 2 Reis 18,1-37</a></p>\n<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Aviso</mark></strong>: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.</p>\n<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>",
   "verses": [
     {
       "number": 1,
@@ -261,7 +261,7 @@
     },
     {
       "number": 5,
-      "text": "Em Yahweh. O ‘elohim de Yahweh. Confia ele. E depois dele. Não está. Como ele. No total dos reis de Yehudah. E que estão eles. Para as faces dele.",
+      "text": "Em Yahweh. O ‘elohim de Yisra’el. Confia ele. E depois dele. Não está. Como ele. No total dos reis de Yehudah. E que estão eles. Para as faces dele.",
       "lines": [
         {
           "line_index": 0,
@@ -270,8 +270,8 @@
         },
         {
           "line_index": 1,
-          "text": "O ‘elohim de Yahweh.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O <em>‘elohim</em> de Yahweh.</p>"
+          "text": "O ‘elohim de Yisra’el.",
+          "raw_html": "<p class=\"wp-block-paragraph\">O <em>‘elohim</em> de Yisra’el.</p>"
         },
         {
           "line_index": 2,
