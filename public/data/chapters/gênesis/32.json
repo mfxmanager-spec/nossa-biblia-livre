@@ -48,7 +48,7 @@
         {
           "line_index": 0,
           "text": "E Ya’aqob.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E Ya’aqob<a name=\"rf1-2775\"></a><sup><a href=\"#fn1-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 1\">1</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E Ya’aqob<sup id=\"rf1-2775\"><a href=\"#fn1-2775\" rel=\"footnote\" title=\"Há ênfase aplicada ao sujeito da frase: Jacó. Poderia ser traduzido: E Jacó também…”.\">1</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -58,7 +58,7 @@
         {
           "line_index": 2,
           "text": "Para o caminho dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o caminho dele<a name=\"rf2-2775\"></a><sup><a href=\"#fn2-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 2\">2</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o caminho dele<sup id=\"rf2-2775\"><a href=\"#fn2-2775\" rel=\"footnote\" title=\"“Para o caminho dele” (&lt;em&gt;ledarko&lt;/em&gt;). Primeira de 8 ocorrências. Cf. Gênesis 32,2; 33,16; Números 24,25; Juízes 19,27; 1 Samuel 26,25.\">2</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -84,7 +84,7 @@
         {
           "line_index": 2,
           "text": "Acampamento de ‘Elohim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Acampamento<a name=\"rf3-2775\"></a><sup><a href=\"#fn3-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 3\">3</a></sup> de ‘Elohim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Acampamento<sup id=\"rf3-2775\"><a href=\"#fn3-2775\" rel=\"footnote\" title=\"“Acampamento” (&lt;em&gt;mahaneh&lt;/em&gt;). Primeira de 189 ocorrência. Cf. Gênesis 32.8.9.11.22; 33,8; 50,9; 14,19.20.24; 16,13; 19,16.17; 29,14 (…); 1 Samuel 4,3.5.6.7; 11,11; 13,17; 14,15.19.21; 17,1.4.17.46.53; 26,6; 28,1.5.19; 29,1.6.\">3</a></sup> de ‘Elohim.</p>"
         },
         {
           "line_index": 3,
@@ -99,12 +99,12 @@
         {
           "line_index": 5,
           "text": "O nome do lugar aquele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O nome do<a name=\"rf4-2775\"></a><sup><a href=\"#fn4-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 4\">4</a></sup> lugar<a name=\"rf5-2775\"></a><sup><a href=\"#fn5-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 5\">5</a></sup> aquele<a name=\"rf6-2775\"></a><sup><a href=\"#fn6-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 6\">6</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome do<sup id=\"rf4-2775\"><a href=\"#fn4-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" target=\"_blank\" rel=\"noopener\"&gt;O nome do&lt;/a&gt;” (&lt;em&gt;shem&lt;/em&gt;).'>4</a></sup> lugar<sup id=\"rf5-2775\"><a href=\"#fn5-2775\" rel=\"footnote\" title=\"“E grita ele. O nome do lugar” (&lt;em&gt;wayyiqra’ shem-hammaqom&lt;/em&gt;). Primeira de 5 ocorrências. Cf. Gênesis 32,3; Êxodo 17,7; Números 11,3; Números 21,3; Josué 5,9.\">5</a></sup> aquele<sup id=\"rf6-2775\"><a href=\"#fn6-2775\" rel=\"footnote\" title=\"“E grita ele. O nome do lugar aquele” (&lt;em&gt;wayyiqra’ shem-hammaqom hahu’&lt;/em&gt;). Somente em Gênesis 32,3; Números 11,3; Josué 5,9.\">6</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Mahanayim!",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mahanayim<a name=\"rf7-2775\"></a><sup><a href=\"#fn7-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 7\">7</a></sup>!</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Mahanayim<sup id=\"rf7-2775\"><a href=\"#fn7-2775\" rel=\"footnote\" title=\"Leia-se &lt;em&gt;mahanáim&lt;/em&gt;. Curioso: a forma não é plural, é dual. “Dois acampamentos”, literalmente. Não se trata especificamente de um acampamento militar. O termo é empregado para qualquer tipo de acampamento. Na Bíblia Hebraica, aparece pela primeira vez aqui.\">7</a></sup>!</p>"
         }
       ]
     },
@@ -120,12 +120,12 @@
         {
           "line_index": 1,
           "text": "Mensageiros.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mensageiros<a name=\"rf8-2775\"></a><sup><a href=\"#fn8-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 8\">8</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Mensageiros<sup id=\"rf8-2775\"><a href=\"#fn8-2775\" rel=\"footnote\" title=\"“Mensageiros” (&lt;em&gt;mal’akim&lt;/em&gt;). Primeira de 43 ocorrências. Cf. Gênesis 32,4; Números 20,14.21; 22,5.\">8</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Para as faces dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces dele<a name=\"rf9-2775\"></a><sup><a href=\"#fn9-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 9\">9</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces dele<sup id=\"rf9-2775\"><a href=\"#fn9-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAALF\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAALF\" target=\"_blank\" rel=\"noopener\"&gt;Para as faces dele&lt;/a&gt;” (&lt;em&gt;lepanayw&lt;/em&gt;).'>9</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -145,7 +145,7 @@
         {
           "line_index": 6,
           "text": "O campo de ‘Edom.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O campo de ‘Edom<a name=\"rf10-2775\"></a><sup><a href=\"#fn10-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 10\">10</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O campo de ‘Edom<sup id=\"rf10-2775\"><a href=\"#fn10-2775\" rel=\"footnote\" title=\"O termo &lt;em&gt;‘edom&lt;/em&gt; fora usado em Gênesis 25,30, quando aplicado à cor de Esaú. Esaú agora, lá chamado de &lt;em&gt;‘edom&lt;/em&gt;, encontra-se justamente no “campo de ‘Edom”. Parece óbvio que a intenção é vincular Esaú aos ‘edomitas.\">10</a></sup>. </p>"
         }
       ]
     },
@@ -156,7 +156,7 @@
         {
           "line_index": 0,
           "text": "E manda ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E manda ele<a name=\"rf11-2775\"></a><sup><a href=\"#fn11-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 11\">11</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E manda ele<sup id=\"rf11-2775\"><a href=\"#fn11-2775\" rel=\"footnote\" title=\"“Manda” (&lt;em&gt;tswh&lt;/em&gt;). Cf. Gênesis 2,16.\">11</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -196,7 +196,7 @@
         {
           "line_index": 8,
           "text": "Diz.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Diz<a name=\"rf12-2775\"></a><sup><a href=\"#fn12-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 12\">12</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Diz<sup id=\"rf12-2775\"><a href=\"#fn12-2775\" rel=\"footnote\" title=\"“Destarte diz” (&lt;em&gt;koh ‘amar&lt;/em&gt;). Primeira de 461 ocorrências. Cf. Gênesis 32,5; 45,9; Êxodo 4,22; 5,1.10; 7,17.26; 8,16; 9,1; 10.3; 11,4; 32,27; Números 20,14; 22,16.\">12</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -216,17 +216,17 @@
         {
           "line_index": 12,
           "text": "Peregrino eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Peregrino eu<a name=\"rf13-2775\"></a><sup><a href=\"#fn13-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 13\">13</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Peregrino eu<sup id=\"rf13-2775\"><a href=\"#fn13-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAACG\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAACG\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Peregrino eu&lt;/a&gt;” (&lt;em&gt;gwr&lt;/em&gt;).'>13</a></sup>.</p>"
         },
         {
           "line_index": 13,
           "text": "E detenho eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E detenho eu<a name=\"rf14-2775\"></a><sup><a href=\"#fn14-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 14\">14</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E detenho eu<sup id=\"rf14-2775\"><a href=\"#fn14-2775\" rel=\"footnote\" title=\"“Detenho”(&lt;em&gt;‘hr&lt;/em&gt;). É a forma simples da raiz. Cf. Gênesis 24,56; 34,19; Êxodo 22,28.\">14</a></sup>.</p>"
         },
         {
           "line_index": 14,
           "text": "Até agora.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até agora<a name=\"rf15-2775\"></a><sup><a href=\"#fn15-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 15\">15</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até agora<sup id=\"rf15-2775\"><a href=\"#fn15-2775\" rel=\"footnote\" title=\"“Até agora” (&lt;em&gt;‘ad-‘attah&lt;/em&gt;). Cf. Gênesis 46,34.\">15</a></sup>.</p>"
         }
       ]
     },
@@ -237,7 +237,7 @@
         {
           "line_index": 0,
           "text": "E está.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está<a name=\"rf16-2775\"></a><sup><a href=\"#fn16-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 16\">16</a></sup><a name=\"rf17-2775\"></a><sup><a href=\"#fn17-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 17\">17</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está<sup id=\"rf16-2775\"><a href=\"#fn16-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" target=\"_blank\" rel=\"noopener\"&gt;E está&lt;/a&gt;” (&lt;em&gt;wayehi&lt;/em&gt;).'>16</a></sup><sup id=\"rf17-2775\"><a href=\"#fn17-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" target=\"_blank\" rel=\"noopener\"&gt;Está&lt;/a&gt;” (&lt;em&gt;hyh&lt;/em&gt;).'>17</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -247,22 +247,22 @@
         {
           "line_index": 2,
           "text": "Boi.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Boi<a name=\"rf18-2775\"></a><sup><a href=\"#fn18-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 18\">18</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Boi<sup id=\"rf18-2775\"><a href=\"#fn18-2775\" rel=\"footnote\" title=\"“Boi” (&lt;em&gt;shor&lt;/em&gt;). Primeira de 69 ocorrências. Tantas vezes já mencionado o gado, e essa é a primeira vez que se usa esse termo (&lt;em&gt;shor&lt;/em&gt;). Estamos diante de mais um novo redator, de mais uma nova tradição, costuradas às tantas outras anteriores?\">18</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "E jumento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E jumento<a name=\"rf19-2775\"></a><sup><a href=\"#fn19-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 19\">19</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E jumento<sup id=\"rf19-2775\"><a href=\"#fn19-2775\" rel=\"footnote\" title=\"“E jumento” (&lt;em&gt;wahamor&lt;/em&gt;). Primeira de 7 ocorrências. Cf. Gênesis 32,6; Josué 6,21.\">19</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Grei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Grei<a name=\"rf20-2775\"></a><sup><a href=\"#fn20-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 20\">20</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Grei<sup id=\"rf20-2775\"><a href=\"#fn20-2775\" rel=\"footnote\" title=\"Ou “miunça”, rebanho de gado miúdo: carneiros e bodes.\">20</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E servo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E servo<a name=\"rf21-2775\"></a><sup><a href=\"#fn21-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 21\">21</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E servo<sup id=\"rf21-2775\"><a href=\"#fn21-2775\" rel=\"footnote\" title=\"O escravo (“servo”) é colocado ao lado do rebanho. É posse. É mercadoria.\">21</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -277,7 +277,7 @@
         {
           "line_index": 8,
           "text": "Para fazer informar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para fazer informar<a name=\"rf22-2775\"></a><sup><a href=\"#fn22-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 22\">22</a></sup><a name=\"rf23-2775\"></a><sup><a href=\"#fn23-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 23\">23</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para fazer informar<sup id=\"rf22-2775\"><a href=\"#fn22-2775\" rel=\"footnote\" title=\"“Para fazer informar” (&lt;em&gt;lehaggid&lt;/em&gt;). Primeira de 25 ocorrências. Cf. Gênesis 32,6; 43,6; Deuteronômio 5,5.\">22</a></sup><sup id=\"rf23-2775\"><a href=\"#fn23-2775\" rel=\"footnote\" title=\"“Fazer informar” traduz forma verbal causativa infinitiva da raiz &lt;em&gt;ngd&lt;/em&gt;. Cf. Gênesis 3,11.\">23</a></sup>.</p>"
         },
         {
           "line_index": 9,
@@ -287,12 +287,12 @@
         {
           "line_index": 10,
           "text": "Para encontrar obséquio.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para encontrar obséquio<a name=\"rf24-2775\"></a><sup><a href=\"#fn24-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 24\">24</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para encontrar obséquio<sup id=\"rf24-2775\"><a href=\"#fn24-2775\" rel=\"footnote\" title=\"“Obséquio” (&lt;em&gt;hen&lt;/em&gt;). Cf. Gênesis 6,8; 18,3; 19,19; 30,27; 32,6; 33,8.10.15; 34,11; 39,4.21; 47,25.29; 50,4; Êxodo 3,21; 11,3; 12,36; 33,12,13,16,17; 34,9; Números 11,1.15; Números 32,5; Deuteronômio 24,1; Juízes 6,17; Rute 2,2.10.13; 1 Samuel 1,18; 16,22; 20,3.29; 25,8; 27,5.\">24</a></sup>.</p>"
         },
         {
           "line_index": 11,
           "text": "Nos olhos de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Nos olhos de ti<a name=\"rf25-2775\"></a><sup><a href=\"#fn25-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 25\">25</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Nos olhos de ti<sup id=\"rf25-2775\"><a href=\"#fn25-2775\" rel=\"footnote\" title=\"“Obséquio. Nos olhos de ti” (&lt;em&gt;hen be’eneyka&lt;/em&gt;). Cf. Gênesis 18,3; 19,19; 30,27; 32,6; 33,10; 47,29; Êxodo 33,13.16; 34,9; Números 11,11.15; 32,5; Juízes 6,17; Rute 2,10.13; 1 Samuel 1,18; 20,3.29; 25,8; 27,5.\">25</a></sup>.</p>"
         }
       ]
     },
@@ -323,7 +323,7 @@
         {
           "line_index": 4,
           "text": "Ao irmão de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao<a name=\"rf26-2775\"></a><sup><a href=\"#fn26-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 26\">26</a></sup> irmão de ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao<sup id=\"rf26-2775\"><a href=\"#fn26-2775\" rel=\"footnote\" title=\"“Fomos nós a” (&lt;em&gt;ba’nu ‘el&lt;/em&gt;). Primeira de 4 ocorrências. Cf. Gênesis 32,7; 43,21; Números 13,27; 2 Reis 7,10.\">26</a></sup> irmão de ti.</p>"
         },
         {
           "line_index": 5,
@@ -343,17 +343,17 @@
         {
           "line_index": 8,
           "text": "Para o gritar de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o gritar de ti<a name=\"rf27-2775\"></a><sup><a href=\"#fn27-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 27\">27</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o gritar de ti<sup id=\"rf27-2775\"><a href=\"#fn27-2775\" rel=\"footnote\" title=\"“Para o gritar de ti” (&lt;em&gt;liqra’teka&lt;/em&gt;). Primeira de 5 ocorrências. Cf. Gênesis 32,7; Êxodo 4,14; Números 20,18.\">27</a></sup>.</p>"
         },
         {
           "line_index": 9,
           "text": "E quatro de centenas de homem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E quatro de<a name=\"rf28-2775\"></a><sup><a href=\"#fn28-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 28\">28</a></sup> centenas de<a name=\"rf29-2775\"></a><sup><a href=\"#fn29-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 29\">29</a></sup> homem<a name=\"rf30-2775\"></a><sup><a href=\"#fn30-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 30\">30</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E quatro de<sup id=\"rf28-2775\"><a href=\"#fn28-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#0068\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#0068\" target=\"_blank\" rel=\"noopener\"&gt;E quatro de&lt;/a&gt;” (&lt;em&gt;we’arba’&lt;/em&gt;).'>28</a></sup> centenas de<sup id=\"rf29-2775\"><a href=\"#fn29-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#0067\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#0067\" target=\"_blank\" rel=\"noopener\"&gt;E quatro de centenas de&lt;/a&gt;” (&lt;em&gt;we’arba’ me’ot&lt;/em&gt;).'>29</a></sup> homem<sup id=\"rf30-2775\"><a href=\"#fn30-2775\" rel=\"footnote\" title=\"“Homem” (&lt;em&gt;‘ish&lt;/em&gt;). No singular mesmo, no hebraico.\">30</a></sup>.</p>"
         },
         {
           "line_index": 10,
           "text": "Com ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Com ele<a name=\"rf31-2775\"></a><sup><a href=\"#fn31-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 31\">31</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Com ele<sup id=\"rf31-2775\"><a href=\"#fn31-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Com ele&lt;/a&gt;” (&lt;em&gt;‘immo&lt;/em&gt;).'>31</a></sup>.</p>"
         }
       ]
     },
@@ -374,27 +374,27 @@
         {
           "line_index": 2,
           "text": "E aperta ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E aperta ele<a name=\"rf32-2775\"></a><sup><a href=\"#fn32-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 32\">32</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E aperta ele<sup id=\"rf32-2775\"><a href=\"#fn32-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#1006\" data-type=\"page\" data-id=\"24610\" target=\"_blank\" rel=\"noopener\"&gt;Aperta ele&lt;/a&gt;” (&lt;em&gt;tsrr&lt;/em&gt;). Os léxicos dividem a taiz &lt;em&gt;tss&lt;/em&gt;. Não é o caso na presente tradução. O sentido de “apertar/aperto (“apertação” [&lt;em&gt;tsarah&lt;/em&gt;]), sustentado de modo unificado por todas as ocorrências da raiz na Bíblia Hebraica, bem como no entorno cananeu, parece-me resolver etimologicamente a aparente distinção de sentidos. Primeira de 82 ocorrências.'>32</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Para ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<a name=\"rf33-2775\"></a><sup><a href=\"#fn33-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 33\">33</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<sup id=\"rf33-2775\"><a href=\"#fn33-2775\" rel=\"footnote\" title=\"“E aperta ele para ele” (&lt;em&gt;wayyitser lo&lt;/em&gt;). Difícil a tradução. O sentido de &lt;em&gt;tsrr&lt;/em&gt; é “encerrar”, “apertar”, “reter”, “guardar” e por aí afora. As versões e Alonso-Schokel optam por uma interpretação derivada e subjetiva disso: angustiar-se (“coração apertado”, por assim dizer). Poderia ser “guardou para ele” o medo que sentiu. O dicionarista já citado reconhece que o verbo &lt;em&gt;tsrr&lt;/em&gt;, regido pela preposição &lt;em&gt;l&lt;/em&gt;, significa “passar aperto”, “estar em perigo”. Nós diríamos: “a situação ficou apertada pra ele”. A decisão aqui por “ensacar” deve-se a ocorrência conjunta do verbo &lt;em&gt;tsrr&lt;/em&gt; e do substantivo &lt;em&gt;tseror&lt;/em&gt; (“saquitel” [cf. Gênesis 42,35]. Primeira de 56 ocorrências. Cf. Gênesis 32,8; 1 Samuel 25,29\">33</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E reparte o povo que está com ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E reparte<a name=\"rf34-2775\"></a><sup><a href=\"#fn34-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 34\">34</a></sup> o povo que<a name=\"rf35-2775\"></a><sup><a href=\"#fn35-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 35\">35</a></sup> está com ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E reparte<sup id=\"rf34-2775\"><a href=\"#fn34-2775\" rel=\"footnote\" title=\"“Reparte” traduz forma verbal da raiz &lt;em&gt;htsh&lt;/em&gt;. Primeira de 14 ocorrências. Cf. Gênesis 33,1; Êxodo 21,35.\">34</a></sup> o povo que<sup id=\"rf35-2775\"><a href=\"#fn35-2775\" rel=\"footnote\" title=\"“O povo que” (&lt;em&gt;ha’am ‘asher&lt;/em&gt;). Primeira de 52 ocorrências. Cf. Gênesis 32,8.\">35</a></sup> está com ele.</p>"
         },
         {
           "line_index": 5,
           "text": "E a grei.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E a grei<a name=\"rf36-2775\"></a><sup><a href=\"#fn36-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 36\">36</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E a grei<sup id=\"rf36-2775\"><a href=\"#fn36-2775\" rel=\"footnote\" title=\"Rebando de gado miúdo.\">36</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "E o gado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o gado<a name=\"rf37-2775\"></a><sup><a href=\"#fn37-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 37\">37</a></sup><a name=\"rf38-2775\"></a><sup><a href=\"#fn38-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 38\">38</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E o gado<sup id=\"rf37-2775\"><a href=\"#fn37-2775\" rel=\"footnote\" title=\"“E o gado” (&lt;em&gt;we’et-habbakar&lt;/em&gt;). Primeira de 5 ocorrências. Cf. Gênesis 32,8; Números 7,6.\">37</a></sup><sup id=\"rf38-2775\"><a href=\"#fn38-2775\" rel=\"footnote\" title=\"Rebanho de gado graúdo.\">38</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -404,7 +404,7 @@
         {
           "line_index": 8,
           "text": "Para dois de acampamentos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para dois de acampamentos<a name=\"rf39-2775\"></a><sup><a href=\"#fn39-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 39\">39</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para dois de acampamentos<sup id=\"rf39-2775\"><a href=\"#fn39-2775\" rel=\"footnote\" title=\"Mesmo termo empregado acima. Mas aqui não está grafado na forma dual, mas na forma plural, ainda que sejam objetivamente dois acampamentos.\">39</a></sup>.</p>"
         }
       ]
     },
@@ -425,7 +425,7 @@
         {
           "line_index": 2,
           "text": "Ao acampamento um.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ao acampamento<a name=\"rf40-2775\"></a><sup><a href=\"#fn40-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 40\">40</a></sup> um.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ao acampamento<sup id=\"rf40-2775\"><a href=\"#fn40-2775\" rel=\"footnote\" title=\"“Ao acampamento” (&lt;em&gt;‘el-hammahaneh&lt;/em&gt;). Primeira de 24 ocorrências. Cf. Gênesis 32,9; Êxodo 32,19; 33,11; Levítico 14,8; 16,26.28; Números 11,30; 19,7; 31,12.24; Josué 9,6; 10,6.15.21.43; 18,9; 7,10; 21,8.12; 1 Samuel 4,3.5.6.7; 26,6.\">40</a></sup> um.</p>"
         },
         {
           "line_index": 3,
@@ -435,7 +435,7 @@
         {
           "line_index": 4,
           "text": "E está o acampamento ficado para escapatória.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E está o acampamento ficado<a name=\"rf41-2775\"></a><sup><a href=\"#fn41-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 41\">41</a></sup> para escapatória<a name=\"rf42-2775\"></a><sup><a href=\"#fn42-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 42\">42</a></sup><a name=\"rf43-2775\"></a><sup><a href=\"#fn43-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 43\">43</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E está o acampamento ficado<sup id=\"rf41-2775\"><a href=\"#fn41-2775\" rel=\"footnote\" title=\"“Ficado” (&lt;em&gt;sh’r&lt;/em&gt;). Cf. Gênesis 7,23 e nota; 14,10. Ou seja, o outro acampamento.\">41</a></sup> para escapatória<sup id=\"rf42-2775\"><a href=\"#fn42-2775\" rel=\"footnote\" title=\"Definitivamente, a gramática empregada é de extrema pobreza. Pede-se, por amor à Língua Portuguesa, que o terceiro “e” da série tenha função conclusiva: “então”. Mas é, já disse, uma língua de extrema pobreza de forma. Mas não de sentido. Certamente quem escreve sabe que se trata de, se Esaú ataca um acampamento, então o outro escapa. Mas, para exprimir a ideia, só tem a mesma forma que empregaria para dizer “e” e mesmo “mas”.\">42</a></sup><sup id=\"rf43-2775\"><a href=\"#fn43-2775\" rel=\"footnote\" title=\"“Para escape”. Não “escapar”, já que &lt;em&gt;peletah&lt;/em&gt; é substantivo, não verbo.\">43</a></sup>.</p>"
         }
       ]
     },
@@ -486,7 +486,7 @@
         {
           "line_index": 8,
           "text": "E para o parimentode ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E para o parimento<a name=\"rf44-2775\"></a><sup><a href=\"#fn44-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 44\">44</a></sup>de ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E para o parimento<sup id=\"rf44-2775\"><a href=\"#fn44-2775\" rel=\"footnote\" title=\"O uso de &lt;em&gt;moledet&lt;/em&gt; (“parimento”) aqui diverge ligeiramente dos anteriores (cf. Gênesis 11,28; 12,1; 24,4.7; 31,3.13. Aproxima-se da ainda mais distante formulação de Gênesis 48,6.\">44</a></sup>de ti.</p>"
         },
         {
           "line_index": 9,
@@ -507,17 +507,17 @@
         {
           "line_index": 1,
           "text": "Desde o total dos comprometimentos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde o total dos comprometimentos<a name=\"rf45-2775\"></a><sup><a href=\"#fn45-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 45\">45</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde o total dos comprometimentos<sup id=\"rf45-2775\"><a href=\"#fn45-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAGY\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAGY\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Comprometimentos&lt;/a&gt;” (&lt;em&gt;hesed&lt;/em&gt; / &lt;em&gt;hasadim&lt;/em&gt;).'>45</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E desde o total da verdade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E desde o total da verdade<a name=\"rf46-2775\"></a><sup><a href=\"#fn46-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 46\">46</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E desde o total da verdade<sup id=\"rf46-2775\"><a href=\"#fn46-2775\" rel=\"footnote\" title=\"“Verdade” aqui não tem sentido filosófico, porque nada no hebraico bíblico tende à Filosofia. Nem mesmo é um conceito idealista. “Verdade” aqui tem a ver com “confiança” e “garantia”. Algo que a expressão “amém” (&lt;em&gt;‘amen&lt;/em&gt;), formada com a mesma raiz de “verdade” (&lt;em&gt;’emet&lt;/em&gt;), “assim seja”, expressa.\">46</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Que fizeste tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que fizeste tu<a name=\"rf47-2775\"></a><sup><a href=\"#fn47-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 47\">47</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que fizeste tu<sup id=\"rf47-2775\"><a href=\"#fn47-2775\" rel=\"footnote\" title=\"“Bondades” e “verdades” &lt;em&gt;feitas&lt;/em&gt;. Trata-se de ações, não de ideias.\">47</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -532,7 +532,7 @@
         {
           "line_index": 6,
           "text": "Passei eu o Yarden esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Passei eu o Yarden<a name=\"rf48-2775\"></a><sup><a href=\"#fn48-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 48\">48</a></sup> esse<a name=\"rf49-2775\"></a><sup><a href=\"#fn49-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 49\">49</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Passei eu o Yarden<sup id=\"rf48-2775\"><a href=\"#fn48-2775\" rel=\"footnote\" title=\"Nosso Jordão.\">48</a></sup> esse<sup id=\"rf49-2775\"><a href=\"#fn49-2775\" rel=\"footnote\" title=\"“O Yarden esse” (&lt;em&gt;‘et-hayyarden hazzeh&lt;/em&gt;). Primeira de 6 ocorrências. Cf. Gênesis 32,11; Deuteronômio 3,27; 31,2; Josué 1,2.11; 4.22.\">49</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -542,7 +542,7 @@
         {
           "line_index": 8,
           "text": "Estou eu para dois de acampamentos!",
-          "raw_html": "<p class=\"wp-block-paragraph\">Estou eu para dois de acampamentos<a name=\"rf50-2775\"></a><sup><a href=\"#fn50-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 50\">50</a></sup>!</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Estou eu para dois de acampamentos<sup id=\"rf50-2775\"><a href=\"#fn50-2775\" rel=\"footnote\" title=\"Em tradução absolutamente literal: o significado é bem simples: “e agora eu tenho dois acampamentos”. De qualquer forma, é estranho. Seria mais compreensível se a fórmula estivesse invertida: “e agora estão dois acampamentos para mim”.\">50</a></sup>!</p>"
         }
       ]
     },
@@ -553,22 +553,22 @@
         {
           "line_index": 0,
           "text": "Faze tu tirar eu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Faze tu tirar<a name=\"rf51-2775\"></a><sup><a href=\"#fn51-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 51\">51</a></sup> eu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Faze tu tirar<sup id=\"rf51-2775\"><a href=\"#fn51-2775\" rel=\"footnote\" title=\"“Faze tirar”. Cf. Gênesis 31,19 e nota.\">51</a></sup> eu.</p>"
         },
         {
           "line_index": 1,
           "text": "Favor.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Favor<a name=\"rf52-2775\"></a><sup><a href=\"#fn52-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 52\">52</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Favor<sup id=\"rf52-2775\"><a href=\"#fn52-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAFJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAFJ\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Favor&lt;/a&gt;” (&lt;em&gt;na’&lt;/em&gt;).'>52</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Desde a mão do irmão de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a mão do<a name=\"rf53-2775\"></a><sup><a href=\"#fn53-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 53\">53</a></sup> irmão de mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a mão do<sup id=\"rf53-2775\"><a href=\"#fn53-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAFQ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAFQ\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Desde a mão do&lt;/a&gt;” (&lt;em&gt;miyyad&lt;/em&gt;).'>53</a></sup> irmão de mim.</p>"
         },
         {
           "line_index": 3,
           "text": "Desde a mão de ‘Esaw.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde a mão de<a name=\"rf54-2775\"></a><sup><a href=\"#fn54-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 54\">54</a></sup> ‘Esaw.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde a mão de<sup id=\"rf54-2775\"><a href=\"#fn54-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAFQ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAFQ\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Desde a mão de&lt;/a&gt;” (&lt;em&gt;miyyad&lt;/em&gt;).'>54</a></sup> ‘Esaw.</p>"
         },
         {
           "line_index": 4,
@@ -593,7 +593,7 @@
         {
           "line_index": 8,
           "text": "Mãe sobre filhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Mãe sobre filhos<a name=\"rf55-2775\"></a><sup><a href=\"#fn55-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 55\">55</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Mãe sobre filhos<sup id=\"rf55-2775\"><a href=\"#fn55-2775\" rel=\"footnote\" title=\"Idiomatismo: ele faça ferir todo mundo.\">55</a></sup>.</p>"
         }
       ]
     },
@@ -609,7 +609,7 @@
         {
           "line_index": 1,
           "text": "Dizes tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Dizes tu<a name=\"rf56-2775\"></a><sup><a href=\"#fn56-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 56\">56</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Dizes tu<sup id=\"rf56-2775\"><a href=\"#fn56-2775\" rel=\"footnote\" title=\"Ênfase no sujeito “tu”. É o apelo retórico do personagem: “&lt;em&gt;tu&lt;/em&gt; disseste&lt;em&gt;, &lt;/em&gt;estás lembrado?”…\">56</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -624,12 +624,12 @@
         {
           "line_index": 4,
           "text": "Que não é arrolada.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que não é arrolada<a name=\"rf57-2775\"></a><sup><a href=\"#fn57-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 57\">57</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que não é arrolada<sup id=\"rf57-2775\"><a href=\"#fn57-2775\" rel=\"footnote\" title=\"“Arrolada” (&lt;em&gt;spr&lt;/em&gt;). Cf. Gênesis 5,1 e nota.\">57</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Desde numerosidade.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Desde numerosidade<a name=\"rf58-2775\"></a><sup><a href=\"#fn58-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 58\">58</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Desde numerosidade<sup id=\"rf58-2775\"><a href=\"#fn58-2775\" rel=\"footnote\" title=\"Cf. a mesma expressão em Gênesis 16,10 e ambas as notas.\">58</a></sup>.</p>"
         }
       ]
     },
@@ -655,7 +655,7 @@
         {
           "line_index": 3,
           "text": "Oferendapara ‘Esav.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Oferenda<a name=\"rf59-2775\"></a><sup><a href=\"#fn59-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 59\">59</a></sup>para ‘Esav.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Oferenda<sup id=\"rf59-2775\"><a href=\"#fn59-2775\" rel=\"footnote\" title=\"O termo aparecera apenas na narrativa de Caim: Gênesis 4,3.4.5.\">59</a></sup>para ‘Esav.</p>"
         },
         {
           "line_index": 4,
@@ -676,7 +676,7 @@
         {
           "line_index": 1,
           "text": "Duzentas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Duzentas<a name=\"rf60-2775\"></a><sup><a href=\"#fn60-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 60\">60</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Duzentas<sup id=\"rf60-2775\"><a href=\"#fn60-2775\" rel=\"footnote\" title=\"Para escrever 200, o texto usa a palavra “cem” no dual.\">60</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -686,7 +686,7 @@
         {
           "line_index": 3,
           "text": "Vinte.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Vinte<a name=\"rf61-2775\"></a><sup><a href=\"#fn61-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 61\">61</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Vinte<sup id=\"rf61-2775\"><a href=\"#fn61-2775\" rel=\"footnote\" title=\"Para escrever vinte, o texto emprega a palavra “dez” no plural.\">61</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -701,7 +701,7 @@
         {
           "line_index": 6,
           "text": "E carneiros.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E carneiros<a name=\"rf62-2775\"></a><sup><a href=\"#fn62-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 62\">62</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E carneiros<sup id=\"rf62-2775\"><a href=\"#fn62-2775\" rel=\"footnote\" title=\"“Carneiros” (&lt;em&gt;‘ayil&lt;/em&gt;). Cf. Gênesis 15,9.\">62</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -717,37 +717,37 @@
         {
           "line_index": 0,
           "text": "Camelas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Camelas<a name=\"rf63-2775\"></a><sup><a href=\"#fn63-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 63\">63</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Camelas<sup id=\"rf63-2775\"><a href=\"#fn63-2775\" rel=\"footnote\" title=\"No masculino, no texto, conquanto a referência seja a camelas, quanto ao que não há dúvida.\">63</a></sup>.</p>"
         },
         {
           "line_index": 1,
           "text": "Fazedoras de chupar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Fazedoras de chupar<a name=\"rf64-2775\"></a><sup><a href=\"#fn64-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 64\">64</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Fazedoras de chupar<sup id=\"rf64-2775\"><a href=\"#fn64-2775\" rel=\"footnote\" title=\"Cf. o uso do verbo “chupar” (&lt;em&gt;ynq&lt;/em&gt;) como “mamar” em Gênesis 21,7 e notas. “Camelos fazedoras de chupar” significa camelas que estão amamentando.\">64</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E os filhosdelas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E os filhos<a name=\"rf65-2775\"></a><sup><a href=\"#fn65-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 65\">65</a></sup>delas.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E os filhos<sup id=\"rf65-2775\"><a href=\"#fn65-2775\" rel=\"footnote\" title=\"“Filhotes”: mas a língua é pobre.\">65</a></sup>delas.</p>"
         },
         {
           "line_index": 3,
           "text": "Trinta.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Trinta<a name=\"rf66-2775\"></a><sup><a href=\"#fn66-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 66\">66</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Trinta<sup id=\"rf66-2775\"><a href=\"#fn66-2775\" rel=\"footnote\" title=\"Para escrever trinta, o texto usa a palavra “três” no plural.\">66</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Novilhas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Novilhas<a name=\"rf67-2775\"></a><sup><a href=\"#fn67-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 67\">67</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Novilhas<sup id=\"rf67-2775\"><a href=\"#fn67-2775\" rel=\"footnote\" title=\"“Novilhas” (&lt;em&gt;parot&lt;/em&gt;). Feminino plural de &lt;em&gt;par &lt;/em&gt;(cf. abaixo) (“novilho”). Primeira de 22 ocorrências. Cf. Gênesis 32,16; 41,2.3.4.18.19.20.26.27; Números 19,2.5.6.9.10.\">67</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "Quarenta.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Quarenta<a name=\"rf68-2775\"></a><sup><a href=\"#fn68-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 68\">68</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Quarenta<sup id=\"rf68-2775\"><a href=\"#fn68-2775\" rel=\"footnote\" title=\"Para escrever quarenta, o texto emprega a palavra “quatro” no plural. Talvez isso explique o fato de que há versões que trazem “quatro vacas”. Mas são dez touros!\">68</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Novilhos.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<a name=\"rf69-2775\"></a><sup><a href=\"#fn69-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 69\">69</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Novilhos<sup id=\"rf69-2775\"><a href=\"#fn69-2775\" rel=\"footnote\" title=\"“Novilhos” (&lt;em&gt;parim&lt;/em&gt;). Primeira de 119 ocorrências. A expressão “filho de gado” (&lt;em&gt;ben-bakar&lt;/em&gt;) que acompanha &lt;em&gt;par &lt;/em&gt;em várias passagens me faz decidir traduzir não como “touro”, mas “novilho”. Cf. Êxodo 24,5.\">69</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -788,7 +788,7 @@
         {
           "line_index": 1,
           "text": "Na mão dos servos dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na mão dos servos dele<a name=\"rf70-2775\"></a><sup><a href=\"#fn70-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 70\">70</a></sup><a name=\"rf71-2775\"></a><sup><a href=\"#fn71-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 71\">71</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na mão dos servos dele<sup id=\"rf70-2775\"><a href=\"#fn70-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAIL\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAIL\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Na mão dos servos dele&lt;/a&gt;” (&lt;em&gt;beyad-‘abadayw&lt;/em&gt;). Primeira de 7 ocorrências.'>70</a></sup><sup id=\"rf71-2775\"><a href=\"#fn71-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAIZ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAIZ\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Os servos dele&lt;/a&gt;” (&lt;em&gt;‘abadayw&lt;/em&gt;).'>71</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -803,7 +803,7 @@
         {
           "line_index": 4,
           "text": "Para a separação dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para a separação dele<a name=\"rf72-2775\"></a><sup><a href=\"#fn72-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 72\">72</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para a separação dele<sup id=\"rf72-2775\"><a href=\"#fn72-2775\" rel=\"footnote\" title=\"“Rebanho, rebanho, para a separação dele” é obviamente um idiomatismo da língua: significa que Jacó separou cada rebanho, mantendo separados um rebanho do outro.\">72</a></sup>. </p>"
         },
         {
           "line_index": 5,
@@ -813,7 +813,7 @@
         {
           "line_index": 6,
           "text": "Aos servos dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Aos servos dele<a name=\"rf73-2775\"></a><sup><a href=\"#fn73-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 73\">73</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Aos servos dele<sup id=\"rf73-2775\"><a href=\"#fn73-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAIZ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAIZ\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Os servos dele&lt;/a&gt;” (&lt;em&gt;‘abadayw&lt;/em&gt;).'>73</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -823,12 +823,12 @@
         {
           "line_index": 8,
           "text": "Para as faces de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de<a name=\"rf74-2775\"></a><sup><a href=\"#fn74-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 74\">74</a></sup> mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as faces de<sup id=\"rf74-2775\"><a href=\"#fn74-2775\" rel=\"footnote\" title=\"“Passai vós. Para as faces de” (&lt;em&gt;‘ibru lepane&lt;/em&gt;). Somente em Gênesis 32,17; Josué 4,5; 1 Samuel 25,19.\">74</a></sup> mim.</p>"
         },
         {
           "line_index": 9,
           "text": "E liberação colocai.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E liberação<a name=\"rf75-2775\"></a><sup><a href=\"#fn75-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 75\">75</a></sup> colocai.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E liberação<sup id=\"rf75-2775\"><a href=\"#fn75-2775\" rel=\"footnote\" title=\"“Liberação” (&lt;em&gt;revah&lt;/em&gt;), como em Ester 4,14. Dicionários pressupõem, para Gênesis 32,17, “espaço”. O sentido talvez lembre aquele gesto de pedir que se “libere” um espaço qualquer para alguma coisa. Note-se que a palavra é formada pela mesmíssima raiz de “vento” &lt;em&gt;(ruah&lt;/em&gt;).\">75</a></sup> colocai.</p>"
         },
         {
           "line_index": 10,
@@ -849,7 +849,7 @@
         {
           "line_index": 0,
           "text": "E manda ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E manda<a name=\"rf76-2775\"></a><sup><a href=\"#fn76-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 76\">76</a></sup> ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E manda<sup id=\"rf76-2775\"><a href=\"#fn76-2775\" rel=\"footnote\" title=\"Cf. v. 5.\">76</a></sup> ele.</p>"
         },
         {
           "line_index": 1,
@@ -864,7 +864,7 @@
         {
           "line_index": 3,
           "text": "Que encontra tu ‘Esav.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que encontra<a name=\"rf77-2775\"></a><sup><a href=\"#fn77-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 77\">77</a></sup> tu ‘Esav.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que encontra<sup id=\"rf77-2775\"><a href=\"#fn77-2775\" rel=\"footnote\" title=\"“Encontra” traduz aqui forma verbal de &lt;em&gt;pgsh&lt;/em&gt;. Não estamos diante da raiz &lt;em&gt;qr’&lt;/em&gt; (“gritar”) nem da raiz &lt;em&gt;pg&lt;/em&gt;‘ (“esbarrar [cf. v. 2]). Primeira de 14 ocorrências. Cf. Gênesis 32,18; 33,8; Êxodo 4,24.27.\">77</a></sup> tu ‘Esav.</p>"
         },
         {
           "line_index": 4,
@@ -874,7 +874,7 @@
         {
           "line_index": 5,
           "text": "E pergunta ele tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E pergunta ele<a name=\"rf78-2775\"></a><sup><a href=\"#fn78-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 78\">78</a></sup> tu.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E pergunta ele<sup id=\"rf78-2775\"><a href=\"#fn78-2775\" rel=\"footnote\" title=\"“Pergunta ele” (&lt;em&gt;sh’l&lt;/em&gt;). Cf. Gênesis 24,47.57; 26,7; 32,18.30; 37,15; 38,21; 40,7; 43,7.27; 44,19; Êxodo 3,22; 11,2; 12,35.36; 13,14; 18,7; 22,13; Números 27,21; Deuteronômio 4,32; 6,20; 10,12; 13,15; 14,26; 18,11; 32,7; Josué 4,6.21; 9,14; 15,18; 19,50; Juízes 1,1.14; 4,20; 5,25; 8,14.24.26; 13,6.18; 18,5.15; 20,18.23.27; 1 Samuel 1,17.20.27.28; 2,20; 8,10; 10,4.22; 12,13.17.19; 14,37; 17,22.546; 19,22; 20,6.28; 22,10.13.15; 23,2.4; 25,5.8.\">78</a></sup> tu.</p>"
         },
         {
           "line_index": 6,
@@ -884,7 +884,7 @@
         {
           "line_index": 7,
           "text": "Para quemés tu?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para quem<a name=\"rf79-2775\"></a><sup><a href=\"#fn79-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 79\">79</a></sup>és tu<a name=\"rf80-2775\"></a><sup><a href=\"#fn80-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 80\">80</a></sup>? </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para quem<sup id=\"rf79-2775\"><a href=\"#fn79-2775\" rel=\"footnote\" title=\"“Para quem” (&lt;em&gt;lemi&lt;/em&gt;). Primeira de 18 ocorrências. Cf. Gênesis 38,25. Êxodo 32,24.\">79</a></sup>és tu<sup id=\"rf80-2775\"><a href=\"#fn80-2775\" rel=\"footnote\" title=\"Ou seja. “de quem você é?”.\">80</a></sup>? </p>"
         },
         {
           "line_index": 8,
@@ -910,17 +910,17 @@
         {
           "line_index": 1,
           "text": "Para o servo de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o servo de ti<a name=\"rf81-2775\"></a><sup><a href=\"#fn81-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 81\">81</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o servo de ti<sup id=\"rf81-2775\"><a href=\"#fn81-2775\" rel=\"footnote\" title=\"Isto é: são do teu servo.\">81</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Para Ya’aqob.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para Ya’aqob<a name=\"rf82-2775\"></a><sup><a href=\"#fn82-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 82\">82</a></sup>. </p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para Ya’aqob<sup id=\"rf82-2775\"><a href=\"#fn82-2775\" rel=\"footnote\" title=\"Ou seja, “são de Jacó”. É curioso que a versão ao pé da letra (“são para Jacó”) finde por expressar o que a forma correlata em nosso próprio idioma usaria para dizer que “são de Jacó”. São, mas são &lt;em&gt;para&lt;/em&gt; Esaú.\">82</a></sup>. </p>"
         },
         {
           "line_index": 3,
           "text": "Oferenda ela é.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Oferenda ela é<a name=\"rf83-2775\"></a><sup><a href=\"#fn83-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 83\">83</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Oferenda ela é<sup id=\"rf83-2775\"><a href=\"#fn83-2775\" rel=\"footnote\" title=\"“Oferenda ela é” (&lt;em&gt;minhah hiw’&lt;/em&gt;). Cf. Levítico 1,6.\">83</a></sup>.</p>"
         },
         {
           "line_index": 4,
@@ -940,7 +940,7 @@
         {
           "line_index": 7,
           "text": "Também ele atrás de nós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Também ele atrás de nós<a name=\"rf84-2775\"></a><sup><a href=\"#fn84-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 84\">84</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Também ele atrás de nós<sup id=\"rf84-2775\"><a href=\"#fn84-2775\" rel=\"footnote\" title=\"Não que os persiga: ele vem mais atrás.\">84</a></sup>.</p>"
         }
       ]
     },
@@ -951,7 +951,7 @@
         {
           "line_index": 0,
           "text": "E manda ele também o segundo.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E manda<a name=\"rf85-2775\"></a><sup><a href=\"#fn85-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 85\">85</a></sup> ele também o segundo.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E manda<sup id=\"rf85-2775\"><a href=\"#fn85-2775\" rel=\"footnote\" title=\"Cf. v. 5.18.\">85</a></sup> ele também o segundo.</p>"
         },
         {
           "line_index": 1,
@@ -961,7 +961,7 @@
         {
           "line_index": 2,
           "text": "Também o total dos andadores atrás dos plantéis.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Também o total dos andadores<a name=\"rf86-2775\"></a><sup><a href=\"#fn86-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 86\">86</a></sup> atrás dos plantéis.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Também o total dos andadores<sup id=\"rf86-2775\"><a href=\"#fn86-2775\" rel=\"footnote\" title=\"“Andadores”. (&lt;em&gt;haholkim&lt;/em&gt;). Primeira de 17 ocorrências. Cf. Gênesis 32,20; Êxodo 10,8; Números 14,38.\">86</a></sup> atrás dos plantéis.</p>"
         },
         {
           "line_index": 3,
@@ -971,7 +971,7 @@
         {
           "line_index": 4,
           "text": "Conforme a fala essa falai vós.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme a fala essa falai<a name=\"rf87-2775\"></a><sup><a href=\"#fn87-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 87\">87</a></sup> vós.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme a fala essa falai<sup id=\"rf87-2775\"><a href=\"#fn87-2775\" rel=\"footnote\" title=\"“Fala” e “falai” têm a mesma raiz: &lt;em&gt;dvr&lt;/em&gt;. Costuma-se traduzir &lt;em&gt;dabar&lt;/em&gt; como “palavra”. Pergunto-me nesse exato momento, até aqui tendo traduzido &lt;em&gt;dabar&lt;/em&gt; como “palavra”, se não é o caso de traduzir &lt;em&gt;dabar&lt;/em&gt; como “fala”, e não “palavra”. E respondo que sim.\">87</a></sup> vós.</p>"
         },
         {
           "line_index": 5,
@@ -981,7 +981,7 @@
         {
           "line_index": 6,
           "text": "No encontrar de vós ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No encontrar de vós ele<a name=\"rf88-2775\"></a><sup><a href=\"#fn88-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 88\">88</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No encontrar de vós ele<sup id=\"rf88-2775\"><a href=\"#fn88-2775\" rel=\"footnote\" title=\"Mais um caso de verbo no infinitivo, em estado construto, seguido de sinal de objeto direto. Argumentou-se que em Gênesis 1,1, como propôs Rashi, &lt;em&gt;bara’&lt;/em&gt; fosse pronunciado como&lt;em&gt; &lt;/em&gt;infinito (&lt;em&gt;bero’&lt;/em&gt;) porque o verbo ali se faz seguir de sinal de objeto direto, e isso não existiria em Hebraico. Argumento falso, bem se vê.\">88</a></sup>.</p>"
         }
       ]
     },
@@ -992,7 +992,7 @@
         {
           "line_index": 0,
           "text": "E dizeis vós também.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E dizeis vós<a name=\"rf89-2775\"></a><sup><a href=\"#fn89-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 89\">89</a></sup> também.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E dizeis vós<sup id=\"rf89-2775\"><a href=\"#fn89-2775\" rel=\"footnote\" title=\"“E dizeis vós” (&lt;em&gt;wa’amartem&lt;/em&gt;).  Primeira de 28 ocorrências. Cf. Gênesis 32,21; 45,9; 46,34; Êxodo 3,18; 12,27; Levítico 5,1; Josué 4,7; 9,11; Juízes 7,18; 1 Samuel 14,34; 25,6.\">89</a></sup> também.</p>"
         },
         {
           "line_index": 1,
@@ -1022,12 +1022,12 @@
         {
           "line_index": 6,
           "text": "Encubraas faces dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Encubra<a name=\"rf90-2775\"></a><sup><a href=\"#fn90-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 90\">90</a></sup>as faces dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Encubra<sup id=\"rf90-2775\"><a href=\"#fn90-2775\" rel=\"footnote\" title=\"“Encubra” (&lt;em&gt;kpr&lt;/em&gt;). Cf. Gênesis 6,14; Êxodo 21,30. O sentido aqui é “comprar com o presente boas atitudes do irmão que vem lá.\">90</a></sup>as faces dele.</p>"
         },
         {
           "line_index": 7,
           "text": "Na oferenda andadora para as faces de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na oferenda andadora<a name=\"rf91-2775\"></a><sup><a href=\"#fn91-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 91\">91</a></sup> para as faces de mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na oferenda andadora<sup id=\"rf91-2775\"><a href=\"#fn91-2775\" rel=\"footnote\" title=\"“Andadora” (&lt;em&gt;haholeket&lt;/em&gt;). Somente aqui e em Levítico 11,27.\">91</a></sup> para as faces de mim.</p>"
         },
         {
           "line_index": 8,
@@ -1063,7 +1063,7 @@
         {
           "line_index": 2,
           "text": "E ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele<a name=\"rf92-2775\"></a><sup><a href=\"#fn92-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 92\">92</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele<sup id=\"rf92-2775\"><a href=\"#fn92-2775\" rel=\"footnote\" title=\"Ênfase em “ele”, explicitado no texto. Poderia ser traduzido: “mas ele mesmo”.\">92</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1078,7 +1078,7 @@
         {
           "line_index": 5,
           "text": "No acampamento.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No acampamento<a name=\"rf93-2775\"></a><sup><a href=\"#fn93-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 93\">93</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No acampamento<sup id=\"rf93-2775\"><a href=\"#fn93-2775\" rel=\"footnote\" title=\"“No acampamento” (&lt;em&gt;bammahaneh&lt;/em&gt;). Primeira de 30 ocorrências. Cf. Gênesis 32,22; Êxodo 19,16; 32,17.27; 36,6; Levítico 17,3; 24,10; Números 11,26.27; Josué 5,8; 6,11.\">93</a></sup>.</p>"
         }
       ]
     },
@@ -1099,7 +1099,7 @@
         {
           "line_index": 2,
           "text": "E toma ele as duas das mulheres dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E toma ele as duas das<a name=\"rf94-2775\"></a><sup><a href=\"#fn94-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 94\">94</a></sup> mulheres dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E toma ele as duas das<sup id=\"rf94-2775\"><a href=\"#fn94-2775\" rel=\"footnote\" title=\"“(As) duas de” (&lt;em&gt;‘et shete&lt;/em&gt;). Primeira de 14 ocorrências. Cf. Gênesis 32,23; Êxodo 28,9.11.12.23.24; 39,16; Levítico 16,21; Números 7,7.\">94</a></sup> mulheres dele.</p>"
         },
         {
           "line_index": 3,
@@ -1109,7 +1109,7 @@
         {
           "line_index": 4,
           "text": "E um de dez.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E um de dez<a name=\"rf95-2775\"></a><sup><a href=\"#fn95-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 95\">95</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E um de dez<sup id=\"rf95-2775\"><a href=\"#fn95-2775\" rel=\"footnote\" title=\"“Um de dez” (&lt;em&gt;‘ahar ‘asar&lt;/em&gt;). Somente aqui e em Deuteronômio 1,2. A despeito de inusitada a forma de redação do número, o contexto parece justificar o entendimento de que &lt;em&gt;‘ahad ‘asar&lt;/em&gt; signifique “onze”.\">95</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1119,7 +1119,7 @@
         {
           "line_index": 6,
           "text": "E passa ele o passadouro do Yabboq.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E passa ele o passadouro<a name=\"rf96-2775\"></a><sup><a href=\"#fn96-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 96\">96</a></sup> do Yabboq<a name=\"rf97-2775\"></a><sup><a href=\"#fn97-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 97\">97</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E passa ele o passadouro<sup id=\"rf96-2775\"><a href=\"#fn96-2775\" rel=\"footnote\" title=\"“Passa o passadouro”. As duas palavras são escritas com as mesmas consoantes. Dificilmente não seja a mesma raiz. Logo, se &lt;em&gt;‘br&lt;/em&gt; é “passar”, &lt;em&gt;m’br&lt;/em&gt; é “passadouro”.\">96</a></sup> do Yabboq<sup id=\"rf97-2775\"><a href=\"#fn97-2775\" rel=\"footnote\" title=\"“Yabboq” (&lt;em&gt;yabboq&lt;/em&gt;). Leia &lt;em&gt;ya-bôq&lt;/em&gt;. Primeira de 7 ocorrências. Cf. Gênesis 32,23; Números 21,24.\">97</a></sup>.</p>"
         }
       ]
     },
@@ -1135,7 +1135,7 @@
         {
           "line_index": 1,
           "text": "E faz ele passar eles o varzeado.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele passar eles o varzeado<a name=\"rf98-2775\"></a><sup><a href=\"#fn98-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 98\">98</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E faz ele passar eles o varzeado<sup id=\"rf98-2775\"><a href=\"#fn98-2775\" rel=\"footnote\" title=\"“Varzeado” (&lt;em&gt;nahal&lt;/em&gt;). Cf. Gênesis 26,17.\">98</a></sup>.</p>"
         },
         {
           "line_index": 2,
@@ -1145,7 +1145,7 @@
         {
           "line_index": 3,
           "text": "Que para ele. Aqui: “o que era dele” (“o que ele tinha”).)).",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que para ele<a name=\"rf99-2775\"></a><sup><a href=\"#fn99-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 99\">99</a></sup>. Aqui: “o que era dele” (“o que ele tinha”).)).</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que para ele<sup id=\"rf99-2775\"><a href=\"#fn99-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#00000016\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#00000016\" target=\"_blank\" rel=\"noopener\"&gt;Que para ele&lt;/a&gt;” (&lt;em&gt;‘asher-lo&lt;/em&gt;).'>99</a></sup>. Aqui: “o que era dele” (“o que ele tinha”).)).</p>"
         }
       ]
     },
@@ -1156,27 +1156,27 @@
         {
           "line_index": 0,
           "text": "E sido permanecido está Ya’aqob.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E sido permanecido está<a name=\"rf100-2775\"></a><sup><a href=\"#fn100-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 100\">100</a></sup> Ya’aqob.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E sido permanecido está<sup id=\"rf100-2775\"><a href=\"#fn100-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\"&gt;Sido permanecido está&lt;/a&gt;” (&lt;em&gt;ytr&lt;/em&gt;). Forma passiva da raiz.'>100</a></sup> Ya’aqob.</p>"
         },
         {
           "line_index": 1,
           "text": "Para a separação dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para a separação dele<a name=\"rf101-2775\"></a><sup><a href=\"#fn101-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 101\">101</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para a separação dele<sup id=\"rf101-2775\"><a href=\"#fn101-2775\" rel=\"footnote\" title=\"O que apenas quer dizer que Jacó fica sozinho. É curioso observar que esses momentos “teológicos” são sempre assim: os “heróis” estão sozinhos, quando a “maravilha” acontece. Para a mesma fórmula, cf. Gênesis 44,20.\">101</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "E empoeirado está homem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E empoeirado está<a name=\"rf102-2775\"></a><sup><a href=\"#fn102-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 102\">102</a></sup> homem<a name=\"rf103-2775\"></a><sup><a href=\"#fn103-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 103\">103</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E empoeirado está<sup id=\"rf102-2775\"><a href=\"#fn102-2775\" rel=\"footnote\" title=\"“Está empoeirado” traduz forma verbal passiva da raiz &lt;em&gt;‘bq&lt;/em&gt;. A princípio, traduzi como “agarrar-se”. Alonso-Schokel reconhece essa possibilidade, ao lado de “lutar”, claramente mais interpretativo. Mas Carlos André Ponciano de Souza, um leitor, sugeriu que, considerando-se que a raiz &lt;em&gt;‘bq&lt;/em&gt; se atualiza como “poeira” (cf. Êxodo 9,9), talvez se pudesse traduzir como “empoeirar”. Com efeito, Koehler-Baumgartner associam a raiz ao árabe (“cobrir-se de poeira”. A ideia parece ser a de que os dois personagens engalfinham-se em uma luta de chão, e Jacó fica coberto de poeira. Trata-se de uma luta, mas descrita de forma extraordinariamente peculiar. Há certamente aqui algo de folclórico, porque a raiz pode ser associada prosodicamente ao nome Yabboq. É certamente uma etiologia folclórica, aproveitada na cena. Jacó vai “ser empoeirado” (&gt; “ser agarrado por” &gt; “lutar com”) por um homem em sua refrega demorada com ele. A ideia é de luta, certamente. Mas a palavra, não é “lutar”. Na forma verbal, a raiz ocorre apenas em Êxodo 32,25.26. A forma nominal, em Êxodo 9,9; Deuteronômio 28,24; Isaías 5,24; 29,5; Ezequiel 26,10; Naum 1,3.\">102</a></sup> homem<sup id=\"rf103-2775\"><a href=\"#fn103-2775\" rel=\"footnote\" title=\"Não especificado até aqui esse homem.\">103</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Com ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Com ele<a name=\"rf104-2775\"></a><sup><a href=\"#fn104-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 104\">104</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Com ele<sup id=\"rf104-2775\"><a href=\"#fn104-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Com ele&lt;/a&gt;” (&lt;em&gt;‘immo&lt;/em&gt;). “Com ele”, certamente Jacó.'>104</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "Até o subir da escuridão.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o subir da escuridão<a name=\"rf105-2775\"></a><sup><a href=\"#fn105-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 105\">105</a></sup>.<sub> </sub></p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o subir da escuridão<sup id=\"rf105-2775\"><a href=\"#fn105-2775\" rel=\"footnote\" title=\"“Escuridão” (&lt;em&gt;shahar&lt;/em&gt;). Cf. Gênesis 19,15 (e nota); Gênesis 32,27.\">105</a></sup>.<sub> </sub></p>"
         }
       ]
     },
@@ -1197,7 +1197,7 @@
         {
           "line_index": 2,
           "text": "Para ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<a name=\"rf106-2775\"></a><sup><a href=\"#fn106-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 106\">106</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para ele<sup id=\"rf106-2775\"><a href=\"#fn106-2775\" rel=\"footnote\" title=\"Não é difícil de traduzir, mas não é nada fácil interpretar. Quem é que vê que não pode com o outro? Jacó vê que não pode com o homem? O homem vê que não pode com Jacó? O texto não resolve. Somente o contexto poderá dar alguma segurança. Mas nem mesmo o contexto garante certeza.\">106</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1207,27 +1207,27 @@
         {
           "line_index": 4,
           "text": "Na palma da coxa dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Na palma<a name=\"rf107-2775\"></a><sup><a href=\"#fn107-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 107\">107</a></sup> da coxa<a name=\"rf108-2775\"></a><sup><a href=\"#fn108-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 108\">108</a></sup> dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Na palma<sup id=\"rf107-2775\"><a href=\"#fn107-2775\" rel=\"footnote\" title=\"“Palma”. O termo já apareceu em Gênesis 8,9; 20,5 e 31,42, significando tanto a palma da mão quanto a planta do pé. Aqui, deve ser a região mais “espalmada” da coxa, se é que se trata da coxa.\">107</a></sup> da coxa<sup id=\"rf108-2775\"><a href=\"#fn108-2775\" rel=\"footnote\" title=\"“Coxa”. Mesmo termo da famosa história de Abraão. O termo já apareceu até aqui em Gênesis 24,2.9.\">108</a></sup> dele.</p>"
         },
         {
           "line_index": 5,
           "text": "E aparta.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E aparta<a name=\"rf109-2775\"></a><sup><a href=\"#fn109-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 109\">109</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E aparta<sup id=\"rf109-2775\"><a href=\"#fn109-2775\" rel=\"footnote\" title=\"O termo pode significar “empalar” e “apartar-se”. Neste caso, cf. Jeremias 6,8, Ezequiel 23,17.19 (sempre textos tardios). A ideia parece ser a de deslocamento da coxa.\">109</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "A palma da coxa de Ya’aqob.",
-          "raw_html": "<p class=\"wp-block-paragraph\">A palma da coxa de Ya’aqob<a name=\"rf110-2775\"></a><sup><a href=\"#fn110-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 110\">110</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">A palma da coxa de Ya’aqob<sup id=\"rf110-2775\"><a href=\"#fn110-2775\" rel=\"footnote\" title=\"Aqui não há dúvida: Jacó sofre golpe. O verbo &lt;em&gt;yq’&lt;/em&gt; encontra-se no feminino. Seu sujeito é &lt;em&gt;kap&lt;/em&gt; (“a coxa”). A porção anterior, difícil de interpretar, tem de ser lida à luz desse ato. Mas ele não esclarece de todo a cena. Foi com esse golpe que ele sofre que Jacó percebe que não pode com o homem? Ou o homem teria percebido que não pode com Jacó e lhe desfere um “golpe baixo”? Insistirei: o texto não resolve a questão.\">110</a></sup>.</p>"
         },
         {
           "line_index": 7,
           "text": "No ser empoeirado dele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No ser empoeirado<a name=\"rf111-2775\"></a><sup><a href=\"#fn111-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 111\">111</a></sup> dele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No ser empoeirado<sup id=\"rf111-2775\"><a href=\"#fn111-2775\" rel=\"footnote\" title=\"“Ser empoeirado” (&lt;em&gt;‘bq&lt;/em&gt;). Forma infinitiva passiva da raiz. Cf. Somente em Êxodo 32,25.26.\">111</a></sup> dele.</p>"
         },
         {
           "line_index": 8,
           "text": "Com ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Com ele<a name=\"rf112-2775\"></a><sup><a href=\"#fn112-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 112\">112</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Com ele<sup id=\"rf112-2775\"><a href=\"#fn112-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Com ele&lt;/a&gt;” (&lt;em&gt;‘immo&lt;/em&gt;). De novo, ambíguo. A única coisa certa é que Jacó levou o golpe.'>112</a></sup>.</p>"
         }
       ]
     },
@@ -1248,7 +1248,7 @@
         {
           "line_index": 2,
           "text": "Que sobe a escuridão.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sobe a escuridão<a name=\"rf113-2775\"></a><sup><a href=\"#fn113-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 113\">113</a></sup>.<sub> </sub></p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sobe a escuridão<sup id=\"rf113-2775\"><a href=\"#fn113-2775\" rel=\"footnote\" title=\"“Escuridão” (&lt;em&gt;shahar&lt;/em&gt;). Cf. Gênesis 19,15 (e nota); Gênesis 32,25.\">113</a></sup>.<sub> </sub></p>"
         },
         {
           "line_index": 3,
@@ -1263,12 +1263,12 @@
         {
           "line_index": 5,
           "text": "Que sim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que sim<a name=\"rf114-2775\"></a><sup><a href=\"#fn114-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 114\">114</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que sim<sup id=\"rf114-2775\"><a href=\"#fn114-2775\" rel=\"footnote\" title=\"“Pois sim” (&lt;em&gt;ki ‘im&lt;/em&gt;). A mesma expressão ocorre imediatamente abaixo. O sentido parece ser “a menos que” ou “enquanto não”. Cf. Usos da fórmula em Gênesis 15,4; 28,17.\">114</a></sup>.</p>"
         },
         {
           "line_index": 6,
           "text": "Abençoas tu eu!",
-          "raw_html": "<p class=\"wp-block-paragraph\">Abençoas tu eu<a name=\"rf115-2775\"></a><sup><a href=\"#fn115-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 115\">115</a></sup>!</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Abençoas tu eu<sup id=\"rf115-2775\"><a href=\"#fn115-2775\" rel=\"footnote\" title=\"Não fora esse final, que parece fazer a balança pender para a identificação do personagem que fala, estaríamos em sérias dificuldades para determinar o responsável. Mas não faz sentido que alguém requeira a bênção de Jacó. Faz todo sentido, em termos fenomenológicos e no contexto geral da narrativa, que seja Jacó a não abrir mão da bênção do “homem”. O que faz com que o “homem”, seja quem for, seja flagrado sendo retida a sua partida por Jacó.\">115</a></sup>!</p>"
         }
       ]
     },
@@ -1279,12 +1279,12 @@
         {
           "line_index": 0,
           "text": "E diz ele a ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E diz ele<a name=\"rf116-2775\"></a><sup><a href=\"#fn116-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 116\">116</a></sup> a ele.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E diz ele<sup id=\"rf116-2775\"><a href=\"#fn116-2775\" rel=\"footnote\" title=\"Aqui, certamente, fala o “homem”.\">116</a></sup> a ele.</p>"
         },
         {
           "line_index": 1,
           "text": "Que é o nome de ti?",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que é o nome de<a name=\"rf117-2775\"></a><sup><a href=\"#fn117-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 117\">117</a></sup> ti?</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que é o nome de<sup id=\"rf117-2775\"><a href=\"#fn117-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" target=\"_blank\" rel=\"noopener\"&gt;O nome de&lt;/a&gt;” (&lt;em&gt;shem&lt;/em&gt;).'>117</a></sup> ti?</p>"
         },
         {
           "line_index": 2,
@@ -1320,12 +1320,12 @@
         {
           "line_index": 3,
           "text": "Ainda.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Ainda<a name=\"rf118-2775\"></a><sup><a href=\"#fn118-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 118\">118</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Ainda<sup id=\"rf118-2775\"><a href=\"#fn118-2775\" rel=\"footnote\" title=\"“Ainda” (&lt;em&gt;‘od&lt;/em&gt;). Cf. Gênesis 4,25; 7,4; 8,10.12.21.22; 9,11.15; 17,5; 18,22.29; 19,12; 24,20; 25,6; 29,7.9.27.30.33.34.35; 30,7.19; 31,14; 32,29; 35,9.10.16; 37,5.8.9; 38,4.5.26; 40,13.19; 43,6.7.27.28; 44,14; 45,3.6.11.26.28.29.30; 46,29.30; 48,7.15; Êxodo 2,3; 3,15; 4,6.18; 9,2.17.29; 10,29; 11,1; 14,13; 17,4; 36,3; 36,6 (…) Josué 14,11; Juízes 2,14; 6,24; 7,4; 8,20; 9,37; 11,14; 13,8.9.21; 18,24; 20,25.28; Rute 1,11.14.18; 1 Samuel 3,6; 7,13; 10,22; 13,7; 16,11; 18,8.29; 20,3.14; 23,4.22; 26,21.\">118</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "O nome de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O nome de<a name=\"rf119-2775\"></a><sup><a href=\"#fn119-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 119\">119</a></sup> ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome de<sup id=\"rf119-2775\"><a href=\"#fn119-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" target=\"_blank\" rel=\"noopener\"&gt;O nome de&lt;/a&gt;” (&lt;em&gt;shem&lt;/em&gt;).'>119</a></sup> ti.</p>"
         },
         {
           "line_index": 5,
@@ -1335,7 +1335,7 @@
         {
           "line_index": 6,
           "text": "Que reges tu.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Que reges tu<a name=\"rf120-2775\"></a><sup><a href=\"#fn120-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 120\">120</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Que reges tu<sup id=\"rf120-2775\"><a href=\"#fn120-2775\" rel=\"footnote\" title=\"“Reges” (&lt;em&gt;srr&lt;/em&gt;). Os léxicos distinguem duas raízes distintas: &lt;em&gt;srr &lt;/em&gt; e &lt;em&gt;srh&lt;/em&gt;. Para os fins do presente projeto de tradução, unificam-se ambas em uma única raiz &lt;em&gt;srr&lt;/em&gt;. Cf. Gênesis 32,29; Números 16,13; Juízes 9,22; Ester 1,22; Provérbios 8,16; Isaías 32,1; Oséias 12,4.\">120</a></sup>.</p>"
         },
         {
           "line_index": 7,
@@ -1350,7 +1350,7 @@
         {
           "line_index": 9,
           "text": "E capaz tu és.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E capaz tu és<a name=\"rf121-2775\"></a><sup><a href=\"#fn121-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 121\">121</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E capaz tu és<sup id=\"rf121-2775\"><a href=\"#fn121-2775\" rel=\"footnote\" title=\"Nada nesse verso é fácil de traduzir e interpretar. A palavra aqui traduzida sem nenhuma segurança e garantia como “contender” traduz o termo &lt;em&gt;sarah&lt;/em&gt;. É curioso que seja a mesmíssima forma do nome de Sara (&lt;em&gt;sarah&lt;/em&gt;), mulher de Abraão. Talvez não haja relação alguma entre os dois termos, e sejam apenas homógrafos homófonos. Todavia, em toda a Bíblia Hebraica, todas as vezes que essa forma aparece, ou se trata de Sara ou de “princesa”, ou, em apenas dois casos, o sentido de Gênesis 32,29. A segunda passagem é Oséias 12,4, que a rigor é apena uma “citação” de Gênesis 32,29. A tradição insiste em tratar-se de “lutar”. Isso se deve ao fato de Jacó parecer ter “lutado” com o “homem”, que deve abençoá-lo. Logo, se ele “luta” com o “homem”, então o sentido de &lt;em&gt;sarah&lt;/em&gt; seria “ele lutou”. Mas a explicação do nome se aplica a algo que Jacó teria feito com ‘Elohim e com os homens. Mas na passagem não tem “luta” alguma com homem algum. Estamos diante de um texto difícil, que a tradição domestica. Sigo a sugestão (à qual não empresto segurança pessoal) de Koehler-Baumgartner.\">121</a></sup>.</p>"
         }
       ]
     },
@@ -1361,7 +1361,7 @@
         {
           "line_index": 0,
           "text": "E pergunta Ya’aqob.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E pergunta<a name=\"rf122-2775\"></a><sup><a href=\"#fn122-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 122\">122</a></sup> Ya’aqob.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E pergunta<sup id=\"rf122-2775\"><a href=\"#fn122-2775\" rel=\"footnote\" title=\"“Perguntas” (&lt;em&gt;sh’l&lt;/em&gt;). Cf. Gênesis 24,47.57; 26,7; 32,18.30; 37,15; 38,21; 40,7; 43,7.27; 44,19; Êxodo 3,22; 11,2; 12,35.36; 13,14; 18,7; 22,13; Números 27,21; Deuteronômio 4,32; 6,20; 10,12; 13,15; 14,26; 18,11; 32,7; Josué 4,6.21; 9,14; 15,18; 19,50; Juízes 1,1.14; 4,20; 5,25; 8,14.24.26; 13,6.18; 18,5.15; 20,18.23.27; 1 Samuel 1,17.20.27.28; 2,20; 8,10; 10,4.22; 12,13.17.19; 14,37; 17,22.546; 19,22; 20,6.28; 22,10.13.15; 23,2.4; 25,5.8.\">122</a></sup> Ya’aqob.</p>"
         },
         {
           "line_index": 1,
@@ -1376,12 +1376,12 @@
         {
           "line_index": 3,
           "text": "Favor.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Favor<a name=\"rf123-2775\"></a><sup><a href=\"#fn123-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 123\">123</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Favor<sup id=\"rf123-2775\"><a href=\"#fn123-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAFJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAAFJ\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Favor&lt;/a&gt;” (&lt;em&gt;na’&lt;/em&gt;).'>123</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "O nome de ti.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O nome de<a name=\"rf124-2775\"></a><sup><a href=\"#fn124-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 124\">124</a></sup> ti.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome de<sup id=\"rf124-2775\"><a href=\"#fn124-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" target=\"_blank\" rel=\"noopener\"&gt;O nome de&lt;/a&gt;” (&lt;em&gt;shem&lt;/em&gt;).'>124</a></sup> ti.</p>"
         },
         {
           "line_index": 5,
@@ -1401,7 +1401,7 @@
         {
           "line_index": 8,
           "text": "Para o nome de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Para o nome de<a name=\"rf125-2775\"></a><sup><a href=\"#fn125-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 125\">125</a></sup> mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Para o nome de<sup id=\"rf125-2775\"><a href=\"#fn125-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" target=\"_blank\" rel=\"noopener\"&gt;O nome de&lt;/a&gt;” (&lt;em&gt;shem&lt;/em&gt;).'>125</a></sup> mim.</p>"
         },
         {
           "line_index": 9,
@@ -1432,12 +1432,12 @@
         {
           "line_index": 1,
           "text": "O nome do lugar.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O nome do<a name=\"rf126-2775\"></a><sup><a href=\"#fn126-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 126\">126</a></sup> lugar.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O nome do<sup id=\"rf126-2775\"><a href=\"#fn126-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" target=\"_blank\" rel=\"noopener\"&gt;O nome do&lt;/a&gt;” (&lt;em&gt;shem&lt;/em&gt;).'>126</a></sup> lugar.</p>"
         },
         {
           "line_index": 2,
           "text": "Peni’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Peni’el<a name=\"rf127-2775\"></a><sup><a href=\"#fn127-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 127\">127</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Peni’el<sup id=\"rf127-2775\"><a href=\"#fn127-2775\" rel=\"footnote\" title=\"Aqui, Peniel. No v. 32, Penuel. A etimologia do termo torna-se por demais ambígua, portanto.\">127</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1447,12 +1447,12 @@
         {
           "line_index": 4,
           "text": "Faces a faces.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Faces a faces<a name=\"rf128-2775\"></a><sup><a href=\"#fn128-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 128\">128</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Faces a faces<sup id=\"rf128-2775\"><a href=\"#fn128-2775\" rel=\"footnote\" title=\"Faces a faces” (&lt;em&gt;panim ‘el-panim&lt;/em&gt;). Cf. Gênesis 32,31; Êxodo 33,11; Deuteronômio 34,10.\">128</a></sup>.</p>"
         },
         {
           "line_index": 5,
           "text": "E foi retirada a garganta de mim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E foi retirada<a name=\"rf129-2775\"></a><sup><a href=\"#fn129-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 129\">129</a></sup> a garganta<a name=\"rf130-2775\"></a><sup><a href=\"#fn130-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 130\">130</a></sup> de mim.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E foi retirada<sup id=\"rf129-2775\"><a href=\"#fn129-2775\" rel=\"footnote\" title=\"A raiz verbal (&lt;em&gt;ntsl&lt;/em&gt;) é a mesma que apareceu em Gênesis 31,9.16 e 32,12 e tornará a aparecer em Gênesis 37,21.22 e Êxodo 2,19 e 3,8. Mas lá, trata-se do causativo verbal, e aqui, o passivo verbal. Os dicionários pressupõem mudança de sentido entre as formas verbais. Aqui, estamos diante de uma tremenda mudança de sentido. Lá, significava “tirar”. Aqui, “salvar”, isto é, “poupar”. Para manter o campo semântico da raiz, opto por traduzir “retirar”, como quem retira um afogado das águas.\">129</a></sup> a garganta<sup id=\"rf130-2775\"><a href=\"#fn130-2775\" rel=\"footnote\" title=\"“Garganta”. Certamente, sinédoque para “vida” nessa passagem. Mas a palavra é “garganta”.\">130</a></sup> de mim.</p>"
         }
       ]
     },
@@ -1463,7 +1463,7 @@
         {
           "line_index": 0,
           "text": "E brilha.",
-          "raw_html": "<p class=\"wp-block-paragraph\"> E brilha<a name=\"rf131-2775\"></a><sup><a href=\"#fn131-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 131\">131</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\"> E brilha<sup id=\"rf131-2775\"><a href=\"#fn131-2775\" rel=\"footnote\" title=\"“Brilha” traduz forma verbal da raiz &lt;em&gt;zrh&lt;/em&gt;. Primeira de 17 ocorrências. Cf. Gênesis 32,32; Êxodo 22,2; Deuteronômio 33,2.\">131</a></sup>.</p>"
         },
         {
           "line_index": 1,
@@ -1473,17 +1473,17 @@
         {
           "line_index": 2,
           "text": "O sol.",
-          "raw_html": "<p class=\"wp-block-paragraph\">O sol<a name=\"rf132-2775\"></a><sup><a href=\"#fn132-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 132\">132</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">O sol<sup id=\"rf132-2775\"><a href=\"#fn132-2775\" rel=\"footnote\" title=\"Quase a mesma formulação sintática em Êxodo 22,2.\">132</a></sup>.</p>"
         },
         {
           "line_index": 3,
           "text": "Conforme que passa ele Penu’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que passa ele Penu’el<a name=\"rf133-2775\"></a><sup><a href=\"#fn133-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 133\">133</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Conforme que passa ele Penu’el<sup id=\"rf133-2775\"><a href=\"#fn133-2775\" rel=\"footnote\" title=\"No verso anterior se disse Peniel.\">133</a></sup>.</p>"
         },
         {
           "line_index": 4,
           "text": "E ele.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E ele<a name=\"rf134-2775\"></a><sup><a href=\"#fn134-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 134\">134</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">E ele<sup id=\"rf134-2775\"><a href=\"#fn134-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAADO\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAADO\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;E ele&lt;/a&gt;” (&lt;em&gt;wehu’&lt;/em&gt;).'>134</a></sup>.</p>"
         },
         {
           "line_index": 5,
@@ -1509,12 +1509,12 @@
         {
           "line_index": 1,
           "text": "Não comem.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Não comem<a name=\"rf135-2775\"></a><sup><a href=\"#fn135-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 135\">135</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Não comem<sup id=\"rf135-2775\"><a href=\"#fn135-2775\" rel=\"footnote\" title=\"“Comem” (&lt;em&gt;yo’kelu&lt;/em&gt;). Cf. Gênesis 43,16.25; Êxodo 12,7; Levítico 6,9.\">135</a></sup>.</p>"
         },
         {
           "line_index": 2,
           "text": "Os filhos de Yisra’el.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Os filhos de Yisra’el<a name=\"rf136-2775\"></a><sup><a href=\"#fn136-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 136\">136</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Os filhos de Yisra’el<sup id=\"rf136-2775\"><a href=\"#fn136-2775\" rel=\"footnote\" title=\"“Os filhos de Yisra’el” (&lt;em&gt;bene yisra’el&lt;/em&gt;). primeira de 502 ocorrências. Cf. Êxodo 32,33; Êxodo 1,1; Levítico 1,2; Números 1,2.\">136</a></sup>.</p>"
         },
         {
           "line_index": 3,
@@ -1529,7 +1529,7 @@
         {
           "line_index": 5,
           "text": "Até o dia esse.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<a name=\"rf137-2775\"></a><sup><a href=\"#fn137-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 137\">137</a></sup> esse<a name=\"rf138-2775\"></a><sup><a href=\"#fn138-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 138\">138</a></sup><a name=\"rf139-2775\"></a><sup><a href=\"#fn139-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 139\">139</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">Até o dia<sup id=\"rf137-2775\"><a href=\"#fn137-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Até o dia&lt;/a&gt;” (&lt;em&gt;‘ad hayyom&lt;/em&gt;).'>137</a></sup> esse<sup id=\"rf138-2775\"><a href=\"#fn138-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;Até o dia esse&lt;/a&gt; (&lt;em&gt;‘ad hayyom hazzeh&lt;/em&gt;).'>138</a></sup><sup id=\"rf139-2775\"><a href=\"#fn139-2775\" rel=\"footnote\" title='“&lt;a href=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" target=\"_blank\" rel=\"noreferrer noopener\"&gt;O dia esse&lt;/a&gt;” (&lt;em&gt;hayyom hazzeh&lt;/em&gt;).'>139</a></sup>.</p>"
         },
         {
           "line_index": 6,
@@ -1544,7 +1544,7 @@
         {
           "line_index": 8,
           "text": "No nervo do quadril.",
-          "raw_html": "<p class=\"wp-block-paragraph\">No nervo do quadril<a name=\"rf140-2775\"></a><sup><a href=\"#fn140-2775\" rel=\"footnote\" title=\"Clique para ir para a nota de rodapé 140\">140</a></sup>.</p>"
+          "raw_html": "<p class=\"wp-block-paragraph\">No nervo do quadril<sup id=\"rf140-2775\"><a href=\"#fn140-2775\" rel=\"footnote\" title=\"É engraçado. O texto não diz em nenhum lugar que o “homem” tocou Jacó no “nervo do quadril”. É o redator que diz. Mas o leitor passará a dizer que foi ali que Jacó foi tocado. A lógica religiosa está aqui flagrada sem disfarce, e o leitor somente não se dá conta, porque o jogo que se joga nos espaços religiosos é exatamente esse: alguém diz que está dito o que não está dito e o leitor e ouvinte adaptado assume passivamente que, se está dito, mesmo que não esteja, então está dito.\">140</a></sup>.</p>"
         }
       ]
     }
@@ -1554,841 +1554,841 @@
       "ref_id": "fn1-2775",
       "number": 1,
       "text": "Há ênfase aplicada ao sujeito da frase: Jacó. Poderia ser traduzido: E Jacó também…”.",
-      "raw_html": "<span>Há ênfase aplicada ao sujeito da frase: Jacó. Poderia ser traduzido: E Jacó também…”. </span>"
+      "raw_html": "<p>Há ênfase aplicada ao sujeito da frase: Jacó. Poderia ser traduzido: E Jacó também…”. </p>"
     },
     {
       "ref_id": "fn2-2775",
       "number": 2,
       "text": "“Para o caminho dele” (ledarko). Primeira de 8 ocorrências. Cf. Gênesis 32,2; 33,16; Números 24,25; Juízes 19,27; 1 Samuel 26,25.",
-      "raw_html": "<span>“Para o caminho dele” (<em>ledarko</em>). Primeira de 8 ocorrências. Cf. Gênesis 32,2; 33,16; Números 24,25; Juízes 19,27; 1 Samuel 26,25. </span>"
+      "raw_html": "<p>“Para o caminho dele” (<em>ledarko</em>). Primeira de 8 ocorrências. Cf. Gênesis 32,2; 33,16; Números 24,25; Juízes 19,27; 1 Samuel 26,25. </p>"
     },
     {
       "ref_id": "fn3-2775",
       "number": 3,
       "text": "“Acampamento” (mahaneh). Primeira de 189 ocorrência. Cf. Gênesis 32.8.9.11.22; 33,8; 50,9; 14,19.20.24; 16,13; 19,16.17; 29,14 (…); 1 Samuel 4,3.5.6.7; 11,11; 13,17; 14,15.19.21; 17,1.4.17.46.53; 26,6; 28,1.5.19; 29,1.6.",
-      "raw_html": "<span>“Acampamento” (<em>mahaneh</em>). Primeira de 189 ocorrência. Cf. Gênesis 32.8.9.11.22; 33,8; 50,9; 14,19.20.24; 16,13; 19,16.17; 29,14 (…); 1 Samuel 4,3.5.6.7; 11,11; 13,17; 14,15.19.21; 17,1.4.17.46.53; 26,6; 28,1.5.19; 29,1.6. </span>"
+      "raw_html": "<p>“Acampamento” (<em>mahaneh</em>). Primeira de 189 ocorrência. Cf. Gênesis 32.8.9.11.22; 33,8; 50,9; 14,19.20.24; 16,13; 19,16.17; 29,14 (…); 1 Samuel 4,3.5.6.7; 11,11; 13,17; 14,15.19.21; 17,1.4.17.46.53; 26,6; 28,1.5.19; 29,1.6. </p>"
     },
     {
       "ref_id": "fn4-2775",
       "number": 4,
       "text": "“O nome do” (shem).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome do</a>” (<em>shem</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome do</a>” (<em>shem</em>). </p>"
     },
     {
       "ref_id": "fn5-2775",
       "number": 5,
       "text": "“E grita ele. O nome do lugar” (wayyiqra’ shem-hammaqom). Primeira de 5 ocorrências. Cf. Gênesis 32,3; Êxodo 17,7; Números 11,3; Números 21,3; Josué 5,9.",
-      "raw_html": "<span>“E grita ele. O nome do lugar” (<em>wayyiqra’ shem-hammaqom</em>). Primeira de 5 ocorrências. Cf. Gênesis 32,3; Êxodo 17,7; Números 11,3; Números 21,3; Josué 5,9. </span>"
+      "raw_html": "<p>“E grita ele. O nome do lugar” (<em>wayyiqra’ shem-hammaqom</em>). Primeira de 5 ocorrências. Cf. Gênesis 32,3; Êxodo 17,7; Números 11,3; Números 21,3; Josué 5,9. </p>"
     },
     {
       "ref_id": "fn6-2775",
       "number": 6,
       "text": "“E grita ele. O nome do lugar aquele” (wayyiqra’ shem-hammaqom hahu’). Somente em Gênesis 32,3; Números 11,3; Josué 5,9.",
-      "raw_html": "<span>“E grita ele. O nome do lugar aquele” (<em>wayyiqra’ shem-hammaqom hahu’</em>). Somente em Gênesis 32,3; Números 11,3; Josué 5,9. </span>"
+      "raw_html": "<p>“E grita ele. O nome do lugar aquele” (<em>wayyiqra’ shem-hammaqom hahu’</em>). Somente em Gênesis 32,3; Números 11,3; Josué 5,9. </p>"
     },
     {
       "ref_id": "fn7-2775",
       "number": 7,
       "text": "Leia-se mahanáim. Curioso: a forma não é plural, é dual. “Dois acampamentos”, literalmente. Não se trata especificamente de um acampamento militar. O termo é empregado para qualquer tipo de acampamento. Na Bíblia Hebraica, aparece pela primeira vez aqui.",
-      "raw_html": "<span>Leia-se <em>mahanáim</em>. Curioso: a forma não é plural, é dual. “Dois acampamentos”, literalmente. Não se trata especificamente de um acampamento militar. O termo é empregado para qualquer tipo de acampamento. Na Bíblia Hebraica, aparece pela primeira vez aqui. </span>"
+      "raw_html": "<p>Leia-se <em>mahanáim</em>. Curioso: a forma não é plural, é dual. “Dois acampamentos”, literalmente. Não se trata especificamente de um acampamento militar. O termo é empregado para qualquer tipo de acampamento. Na Bíblia Hebraica, aparece pela primeira vez aqui. </p>"
     },
     {
       "ref_id": "fn8-2775",
       "number": 8,
       "text": "“Mensageiros” (mal’akim). Primeira de 43 ocorrências. Cf. Gênesis 32,4; Números 20,14.21; 22,5.",
-      "raw_html": "<span>“Mensageiros” (<em>mal’akim</em>). Primeira de 43 ocorrências. Cf. Gênesis 32,4; Números 20,14.21; 22,5. </span>"
+      "raw_html": "<p>“Mensageiros” (<em>mal’akim</em>). Primeira de 43 ocorrências. Cf. Gênesis 32,4; Números 20,14.21; 22,5. </p>"
     },
     {
       "ref_id": "fn9-2775",
       "number": 9,
       "text": "“Para as faces dele” (lepanayw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALF\" rel=\"noopener\" target=\"_blank\">Para as faces dele</a>” (<em>lepanayw</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAALF\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAALF\" rel=\"noopener\" target=\"_blank\">Para as faces dele</a>” (<em>lepanayw</em>). </p>"
     },
     {
       "ref_id": "fn10-2775",
       "number": 10,
       "text": "O termo ‘edom fora usado em Gênesis 25,30, quando aplicado à cor de Esaú. Esaú agora, lá chamado de ‘edom, encontra-se justamente no “campo de ‘Edom”. Parece óbvio que a intenção é vincular Esaú aos ‘edomitas.",
-      "raw_html": "<span>O termo <em>‘edom</em> fora usado em Gênesis 25,30, quando aplicado à cor de Esaú. Esaú agora, lá chamado de <em>‘edom</em>, encontra-se justamente no “campo de ‘Edom”. Parece óbvio que a intenção é vincular Esaú aos ‘edomitas. </span>"
+      "raw_html": "<p>O termo <em>‘edom</em> fora usado em Gênesis 25,30, quando aplicado à cor de Esaú. Esaú agora, lá chamado de <em>‘edom</em>, encontra-se justamente no “campo de ‘Edom”. Parece óbvio que a intenção é vincular Esaú aos ‘edomitas. </p>"
     },
     {
       "ref_id": "fn11-2775",
       "number": 11,
       "text": "“Manda” (tswh). Cf. Gênesis 2,16.",
-      "raw_html": "<span>“Manda” (<em>tswh</em>). Cf. Gênesis 2,16. </span>"
+      "raw_html": "<p>“Manda” (<em>tswh</em>). Cf. Gênesis 2,16. </p>"
     },
     {
       "ref_id": "fn12-2775",
       "number": 12,
       "text": "“Destarte diz” (koh ‘amar). Primeira de 461 ocorrências. Cf. Gênesis 32,5; 45,9; Êxodo 4,22; 5,1.10; 7,17.26; 8,16; 9,1; 10.3; 11,4; 32,27; Números 20,14; 22,16.",
-      "raw_html": "<span>“Destarte diz” (<em>koh ‘amar</em>). Primeira de 461 ocorrências. Cf. Gênesis 32,5; 45,9; Êxodo 4,22; 5,1.10; 7,17.26; 8,16; 9,1; 10.3; 11,4; 32,27; Números 20,14; 22,16. </span>"
+      "raw_html": "<p>“Destarte diz” (<em>koh ‘amar</em>). Primeira de 461 ocorrências. Cf. Gênesis 32,5; 45,9; Êxodo 4,22; 5,1.10; 7,17.26; 8,16; 9,1; 10.3; 11,4; 32,27; Números 20,14; 22,16. </p>"
     },
     {
       "ref_id": "fn13-2775",
       "number": 13,
       "text": "“Peregrino eu” (gwr).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACG\" rel=\"noreferrer noopener\" target=\"_blank\">Peregrino eu</a>” (<em>gwr</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACG\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACG\" rel=\"noreferrer noopener\" target=\"_blank\">Peregrino eu</a>” (<em>gwr</em>). </p>"
     },
     {
       "ref_id": "fn14-2775",
       "number": 14,
       "text": "“Detenho”(‘hr). É a forma simples da raiz. Cf. Gênesis 24,56; 34,19; Êxodo 22,28.",
-      "raw_html": "<span>“Detenho”(<em>‘hr</em>). É a forma simples da raiz. Cf. Gênesis 24,56; 34,19; Êxodo 22,28. </span>"
+      "raw_html": "<p>“Detenho”(<em>‘hr</em>). É a forma simples da raiz. Cf. Gênesis 24,56; 34,19; Êxodo 22,28. </p>"
     },
     {
       "ref_id": "fn15-2775",
       "number": 15,
       "text": "“Até agora” (‘ad-‘attah). Cf. Gênesis 46,34.",
-      "raw_html": "<span>“Até agora” (<em>‘ad-‘attah</em>). Cf. Gênesis 46,34. </span>"
+      "raw_html": "<p>“Até agora” (<em>‘ad-‘attah</em>). Cf. Gênesis 46,34. </p>"
     },
     {
       "ref_id": "fn16-2775",
       "number": 16,
       "text": "“E está” (wayehi).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAA\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAA\" rel=\"noopener\" target=\"_blank\">E está</a>” (<em>wayehi</em>). </p>"
     },
     {
       "ref_id": "fn17-2775",
       "number": 17,
       "text": "“Está” (hyh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAAB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAAB\" rel=\"noopener\" target=\"_blank\">Está</a>” (<em>hyh</em>). </p>"
     },
     {
       "ref_id": "fn18-2775",
       "number": 18,
       "text": "“Boi” (shor). Primeira de 69 ocorrências. Tantas vezes já mencionado o gado, e essa é a primeira vez que se usa esse termo (shor). Estamos diante de mais um novo redator, de mais uma nova tradição, costuradas às tantas outras anteriores?",
-      "raw_html": "<span>“Boi” (<em>shor</em>). Primeira de 69 ocorrências. Tantas vezes já mencionado o gado, e essa é a primeira vez que se usa esse termo (<em>shor</em>). Estamos diante de mais um novo redator, de mais uma nova tradição, costuradas às tantas outras anteriores? </span>"
+      "raw_html": "<p>“Boi” (<em>shor</em>). Primeira de 69 ocorrências. Tantas vezes já mencionado o gado, e essa é a primeira vez que se usa esse termo (<em>shor</em>). Estamos diante de mais um novo redator, de mais uma nova tradição, costuradas às tantas outras anteriores? </p>"
     },
     {
       "ref_id": "fn19-2775",
       "number": 19,
       "text": "“E jumento” (wahamor). Primeira de 7 ocorrências. Cf. Gênesis 32,6; Josué 6,21.",
-      "raw_html": "<span>“E jumento” (<em>wahamor</em>). Primeira de 7 ocorrências. Cf. Gênesis 32,6; Josué 6,21. </span>"
+      "raw_html": "<p>“E jumento” (<em>wahamor</em>). Primeira de 7 ocorrências. Cf. Gênesis 32,6; Josué 6,21. </p>"
     },
     {
       "ref_id": "fn20-2775",
       "number": 20,
       "text": "Ou “miunça”, rebanho de gado miúdo: carneiros e bodes.",
-      "raw_html": "<span>Ou “miunça”, rebanho de gado miúdo: carneiros e bodes. </span>"
+      "raw_html": "<p>Ou “miunça”, rebanho de gado miúdo: carneiros e bodes. </p>"
     },
     {
       "ref_id": "fn21-2775",
       "number": 21,
       "text": "O escravo (“servo”) é colocado ao lado do rebanho. É posse. É mercadoria.",
-      "raw_html": "<span>O escravo (“servo”) é colocado ao lado do rebanho. É posse. É mercadoria. </span>"
+      "raw_html": "<p>O escravo (“servo”) é colocado ao lado do rebanho. É posse. É mercadoria. </p>"
     },
     {
       "ref_id": "fn22-2775",
       "number": 22,
       "text": "“Para fazer informar” (lehaggid). Primeira de 25 ocorrências. Cf. Gênesis 32,6; 43,6; Deuteronômio 5,5.",
-      "raw_html": "<span>“Para fazer informar” (<em>lehaggid</em>). Primeira de 25 ocorrências. Cf. Gênesis 32,6; 43,6; Deuteronômio 5,5. </span>"
+      "raw_html": "<p>“Para fazer informar” (<em>lehaggid</em>). Primeira de 25 ocorrências. Cf. Gênesis 32,6; 43,6; Deuteronômio 5,5. </p>"
     },
     {
       "ref_id": "fn23-2775",
       "number": 23,
       "text": "“Fazer informar” traduz forma verbal causativa infinitiva da raiz ngd. Cf. Gênesis 3,11.",
-      "raw_html": "<span>“Fazer informar” traduz forma verbal causativa infinitiva da raiz <em>ngd</em>. Cf. Gênesis 3,11. </span>"
+      "raw_html": "<p>“Fazer informar” traduz forma verbal causativa infinitiva da raiz <em>ngd</em>. Cf. Gênesis 3,11. </p>"
     },
     {
       "ref_id": "fn24-2775",
       "number": 24,
       "text": "“Obséquio” (hen). Cf. Gênesis 6,8; 18,3; 19,19; 30,27; 32,6; 33,8.10.15; 34,11; 39,4.21; 47,25.29; 50,4; Êxodo 3,21; 11,3; 12,36; 33,12,13,16,17; 34,9; Números 11,1.15; Números 32,5; Deuteronômio 24,1; Juízes 6,17; Rute 2,2.10.13; 1 Samuel 1,18; 16,22; 20,3.29; 25,8; 27,5.",
-      "raw_html": "<span>“Obséquio” (<em>hen</em>). Cf. Gênesis 6,8; 18,3; 19,19; 30,27; 32,6; 33,8.10.15; 34,11; 39,4.21; 47,25.29; 50,4; Êxodo 3,21; 11,3; 12,36; 33,12,13,16,17; 34,9; Números 11,1.15; Números 32,5; Deuteronômio 24,1; Juízes 6,17; Rute 2,2.10.13; 1 Samuel 1,18; 16,22; 20,3.29; 25,8; 27,5. </span>"
+      "raw_html": "<p>“Obséquio” (<em>hen</em>). Cf. Gênesis 6,8; 18,3; 19,19; 30,27; 32,6; 33,8.10.15; 34,11; 39,4.21; 47,25.29; 50,4; Êxodo 3,21; 11,3; 12,36; 33,12,13,16,17; 34,9; Números 11,1.15; Números 32,5; Deuteronômio 24,1; Juízes 6,17; Rute 2,2.10.13; 1 Samuel 1,18; 16,22; 20,3.29; 25,8; 27,5. </p>"
     },
     {
       "ref_id": "fn25-2775",
       "number": 25,
       "text": "“Obséquio. Nos olhos de ti” (hen be’eneyka). Cf. Gênesis 18,3; 19,19; 30,27; 32,6; 33,10; 47,29; Êxodo 33,13.16; 34,9; Números 11,11.15; 32,5; Juízes 6,17; Rute 2,10.13; 1 Samuel 1,18; 20,3.29; 25,8; 27,5.",
-      "raw_html": "<span>“Obséquio. Nos olhos de ti” (<em>hen be’eneyka</em>). Cf. Gênesis 18,3; 19,19; 30,27; 32,6; 33,10; 47,29; Êxodo 33,13.16; 34,9; Números 11,11.15; 32,5; Juízes 6,17; Rute 2,10.13; 1 Samuel 1,18; 20,3.29; 25,8; 27,5. </span>"
+      "raw_html": "<p>“Obséquio. Nos olhos de ti” (<em>hen be’eneyka</em>). Cf. Gênesis 18,3; 19,19; 30,27; 32,6; 33,10; 47,29; Êxodo 33,13.16; 34,9; Números 11,11.15; 32,5; Juízes 6,17; Rute 2,10.13; 1 Samuel 1,18; 20,3.29; 25,8; 27,5. </p>"
     },
     {
       "ref_id": "fn26-2775",
       "number": 26,
       "text": "“Fomos nós a” (ba’nu ‘el). Primeira de 4 ocorrências. Cf. Gênesis 32,7; 43,21; Números 13,27; 2 Reis 7,10.",
-      "raw_html": "<span>“Fomos nós a” (<em>ba’nu ‘el</em>). Primeira de 4 ocorrências. Cf. Gênesis 32,7; 43,21; Números 13,27; 2 Reis 7,10. </span>"
+      "raw_html": "<p>“Fomos nós a” (<em>ba’nu ‘el</em>). Primeira de 4 ocorrências. Cf. Gênesis 32,7; 43,21; Números 13,27; 2 Reis 7,10. </p>"
     },
     {
       "ref_id": "fn27-2775",
       "number": 27,
       "text": "“Para o gritar de ti” (liqra’teka). Primeira de 5 ocorrências. Cf. Gênesis 32,7; Êxodo 4,14; Números 20,18.",
-      "raw_html": "<span>“Para o gritar de ti” (<em>liqra’teka</em>). Primeira de 5 ocorrências. Cf. Gênesis 32,7; Êxodo 4,14; Números 20,18. </span>"
+      "raw_html": "<p>“Para o gritar de ti” (<em>liqra’teka</em>). Primeira de 5 ocorrências. Cf. Gênesis 32,7; Êxodo 4,14; Números 20,18. </p>"
     },
     {
       "ref_id": "fn28-2775",
       "number": 28,
       "text": "“E quatro de” (we’arba’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0068\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0068\" rel=\"noopener\" target=\"_blank\">E quatro de</a>” (<em>we’arba’</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#0068\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0068\" rel=\"noopener\" target=\"_blank\">E quatro de</a>” (<em>we’arba’</em>). </p>"
     },
     {
       "ref_id": "fn29-2775",
       "number": 29,
       "text": "“E quatro de centenas de” (we’arba’ me’ot).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#0067\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0067\" rel=\"noopener\" target=\"_blank\">E quatro de centenas de</a>” (<em>we’arba’ me’ot</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#0067\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#0067\" rel=\"noopener\" target=\"_blank\">E quatro de centenas de</a>” (<em>we’arba’ me’ot</em>). </p>"
     },
     {
       "ref_id": "fn30-2775",
       "number": 30,
       "text": "“Homem” (‘ish). No singular mesmo, no hebraico.",
-      "raw_html": "<span>“Homem” (<em>‘ish</em>). No singular mesmo, no hebraico. </span>"
+      "raw_html": "<p>“Homem” (<em>‘ish</em>). No singular mesmo, no hebraico. </p>"
     },
     {
       "ref_id": "fn31-2775",
       "number": 31,
       "text": "“Com ele” (‘immo).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHB\" rel=\"noreferrer noopener\" target=\"_blank\">Com ele</a>” (<em>‘immo</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHB\" rel=\"noreferrer noopener\" target=\"_blank\">Com ele</a>” (<em>‘immo</em>). </p>"
     },
     {
       "ref_id": "fn32-2775",
       "number": 32,
       "text": "“Aperta ele” (tsrr). Os léxicos dividem a taiz tss. Não é o caso na presente tradução. O sentido de “apertar/aperto (“apertação” [tsarah]), sustentado de modo unificado por todas as ocorrências da raiz na Bíblia Hebraica, bem como no entorno cananeu, parece-me resolver etimologicamente a aparente distinção de sentidos. Primeira de 82 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1006\" rel=\"noopener\" target=\"_blank\">Aperta ele</a>” (<em>tsrr</em>). Os léxicos dividem a taiz <em>tss</em>. Não é o caso na presente tradução. O sentido de “apertar/aperto (“apertação” [<em>tsarah</em>]), sustentado de modo unificado por todas as ocorrências da raiz na Bíblia Hebraica, bem como no entorno cananeu, parece-me resolver etimologicamente a aparente distinção de sentidos. Primeira de 82 ocorrências. </span>"
+      "raw_html": "<p>“<a data-id=\"24610\" data-type=\"page\" href=\"https://nossabiblialivre.com/referencias/#1006\" rel=\"noopener\" target=\"_blank\">Aperta ele</a>” (<em>tsrr</em>). Os léxicos dividem a taiz <em>tss</em>. Não é o caso na presente tradução. O sentido de “apertar/aperto (“apertação” [<em>tsarah</em>]), sustentado de modo unificado por todas as ocorrências da raiz na Bíblia Hebraica, bem como no entorno cananeu, parece-me resolver etimologicamente a aparente distinção de sentidos. Primeira de 82 ocorrências. </p>"
     },
     {
       "ref_id": "fn33-2775",
       "number": 33,
       "text": "“E aperta ele para ele” (wayyitser lo). Difícil a tradução. O sentido de tsrr é “encerrar”, “apertar”, “reter”, “guardar” e por aí afora. As versões e Alonso-Schokel optam por uma interpretação derivada e subjetiva disso: angustiar-se (“coração apertado”, por assim dizer). Poderia ser “guardou para ele” o medo que sentiu. O dicionarista já citado reconhece que o verbo tsrr, regido pela preposição l, significa “passar aperto”, “estar em perigo”. Nós diríamos: “a situação ficou apertada pra ele”. A decisão aqui por “ensacar” deve-se a ocorrência conjunta do verbo tsrr e do substantivo tseror (“saquitel” [cf. Gênesis 42,35]. Primeira de 56 ocorrências. Cf. Gênesis 32,8; 1 Samuel 25,29",
-      "raw_html": "<span>“E aperta ele para ele” (<em>wayyitser lo</em>). Difícil a tradução. O sentido de <em>tsrr</em> é “encerrar”, “apertar”, “reter”, “guardar” e por aí afora. As versões e Alonso-Schokel optam por uma interpretação derivada e subjetiva disso: angustiar-se (“coração apertado”, por assim dizer). Poderia ser “guardou para ele” o medo que sentiu. O dicionarista já citado reconhece que o verbo <em>tsrr</em>, regido pela preposição <em>l</em>, significa “passar aperto”, “estar em perigo”. Nós diríamos: “a situação ficou apertada pra ele”. A decisão aqui por “ensacar” deve-se a ocorrência conjunta do verbo <em>tsrr</em> e do substantivo <em>tseror</em> (“saquitel” [cf. Gênesis 42,35]. Primeira de 56 ocorrências. Cf. Gênesis 32,8; 1 Samuel 25,29 </span>"
+      "raw_html": "<p>“E aperta ele para ele” (<em>wayyitser lo</em>). Difícil a tradução. O sentido de <em>tsrr</em> é “encerrar”, “apertar”, “reter”, “guardar” e por aí afora. As versões e Alonso-Schokel optam por uma interpretação derivada e subjetiva disso: angustiar-se (“coração apertado”, por assim dizer). Poderia ser “guardou para ele” o medo que sentiu. O dicionarista já citado reconhece que o verbo <em>tsrr</em>, regido pela preposição <em>l</em>, significa “passar aperto”, “estar em perigo”. Nós diríamos: “a situação ficou apertada pra ele”. A decisão aqui por “ensacar” deve-se a ocorrência conjunta do verbo <em>tsrr</em> e do substantivo <em>tseror</em> (“saquitel” [cf. Gênesis 42,35]. Primeira de 56 ocorrências. Cf. Gênesis 32,8; 1 Samuel 25,29 </p>"
     },
     {
       "ref_id": "fn34-2775",
       "number": 34,
       "text": "“Reparte” traduz forma verbal da raiz htsh. Primeira de 14 ocorrências. Cf. Gênesis 33,1; Êxodo 21,35.",
-      "raw_html": "<span>“Reparte” traduz forma verbal da raiz <em>htsh</em>. Primeira de 14 ocorrências. Cf. Gênesis 33,1; Êxodo 21,35. </span>"
+      "raw_html": "<p>“Reparte” traduz forma verbal da raiz <em>htsh</em>. Primeira de 14 ocorrências. Cf. Gênesis 33,1; Êxodo 21,35. </p>"
     },
     {
       "ref_id": "fn35-2775",
       "number": 35,
       "text": "“O povo que” (ha’am ‘asher). Primeira de 52 ocorrências. Cf. Gênesis 32,8.",
-      "raw_html": "<span>“O povo que” (<em>ha’am ‘asher</em>). Primeira de 52 ocorrências. Cf. Gênesis 32,8. </span>"
+      "raw_html": "<p>“O povo que” (<em>ha’am ‘asher</em>). Primeira de 52 ocorrências. Cf. Gênesis 32,8. </p>"
     },
     {
       "ref_id": "fn36-2775",
       "number": 36,
       "text": "Rebando de gado miúdo.",
-      "raw_html": "<span>Rebando de gado miúdo. </span>"
+      "raw_html": "<p>Rebando de gado miúdo. </p>"
     },
     {
       "ref_id": "fn37-2775",
       "number": 37,
       "text": "“E o gado” (we’et-habbakar). Primeira de 5 ocorrências. Cf. Gênesis 32,8; Números 7,6.",
-      "raw_html": "<span>“E o gado” (<em>we’et-habbakar</em>). Primeira de 5 ocorrências. Cf. Gênesis 32,8; Números 7,6. </span>"
+      "raw_html": "<p>“E o gado” (<em>we’et-habbakar</em>). Primeira de 5 ocorrências. Cf. Gênesis 32,8; Números 7,6. </p>"
     },
     {
       "ref_id": "fn38-2775",
       "number": 38,
       "text": "Rebanho de gado graúdo.",
-      "raw_html": "<span>Rebanho de gado graúdo. </span>"
+      "raw_html": "<p>Rebanho de gado graúdo. </p>"
     },
     {
       "ref_id": "fn39-2775",
       "number": 39,
       "text": "Mesmo termo empregado acima. Mas aqui não está grafado na forma dual, mas na forma plural, ainda que sejam objetivamente dois acampamentos.",
-      "raw_html": "<span>Mesmo termo empregado acima. Mas aqui não está grafado na forma dual, mas na forma plural, ainda que sejam objetivamente dois acampamentos. </span>"
+      "raw_html": "<p>Mesmo termo empregado acima. Mas aqui não está grafado na forma dual, mas na forma plural, ainda que sejam objetivamente dois acampamentos. </p>"
     },
     {
       "ref_id": "fn40-2775",
       "number": 40,
       "text": "“Ao acampamento” (‘el-hammahaneh). Primeira de 24 ocorrências. Cf. Gênesis 32,9; Êxodo 32,19; 33,11; Levítico 14,8; 16,26.28; Números 11,30; 19,7; 31,12.24; Josué 9,6; 10,6.15.21.43; 18,9; 7,10; 21,8.12; 1 Samuel 4,3.5.6.7; 26,6.",
-      "raw_html": "<span>“Ao acampamento” (<em>‘el-hammahaneh</em>). Primeira de 24 ocorrências. Cf. Gênesis 32,9; Êxodo 32,19; 33,11; Levítico 14,8; 16,26.28; Números 11,30; 19,7; 31,12.24; Josué 9,6; 10,6.15.21.43; 18,9; 7,10; 21,8.12; 1 Samuel 4,3.5.6.7; 26,6. </span>"
+      "raw_html": "<p>“Ao acampamento” (<em>‘el-hammahaneh</em>). Primeira de 24 ocorrências. Cf. Gênesis 32,9; Êxodo 32,19; 33,11; Levítico 14,8; 16,26.28; Números 11,30; 19,7; 31,12.24; Josué 9,6; 10,6.15.21.43; 18,9; 7,10; 21,8.12; 1 Samuel 4,3.5.6.7; 26,6. </p>"
     },
     {
       "ref_id": "fn41-2775",
       "number": 41,
       "text": "“Ficado” (sh’r). Cf. Gênesis 7,23 e nota; 14,10. Ou seja, o outro acampamento.",
-      "raw_html": "<span>“Ficado” (<em>sh’r</em>). Cf. Gênesis 7,23 e nota; 14,10. Ou seja, o outro acampamento. </span>"
+      "raw_html": "<p>“Ficado” (<em>sh’r</em>). Cf. Gênesis 7,23 e nota; 14,10. Ou seja, o outro acampamento. </p>"
     },
     {
       "ref_id": "fn42-2775",
       "number": 42,
       "text": "Definitivamente, a gramática empregada é de extrema pobreza. Pede-se, por amor à Língua Portuguesa, que o terceiro “e” da série tenha função conclusiva: “então”. Mas é, já disse, uma língua de extrema pobreza de forma. Mas não de sentido. Certamente quem escreve sabe que se trata de, se Esaú ataca um acampamento, então o outro escapa. Mas, para exprimir a ideia, só tem a mesma forma que empregaria para dizer “e” e mesmo “mas”.",
-      "raw_html": "<span>Definitivamente, a gramática empregada é de extrema pobreza. Pede-se, por amor à Língua Portuguesa, que o terceiro “e” da série tenha função conclusiva: “então”. Mas é, já disse, uma língua de extrema pobreza de forma. Mas não de sentido. Certamente quem escreve sabe que se trata de, se Esaú ataca um acampamento, então o outro escapa. Mas, para exprimir a ideia, só tem a mesma forma que empregaria para dizer “e” e mesmo “mas”. </span>"
+      "raw_html": "<p>Definitivamente, a gramática empregada é de extrema pobreza. Pede-se, por amor à Língua Portuguesa, que o terceiro “e” da série tenha função conclusiva: “então”. Mas é, já disse, uma língua de extrema pobreza de forma. Mas não de sentido. Certamente quem escreve sabe que se trata de, se Esaú ataca um acampamento, então o outro escapa. Mas, para exprimir a ideia, só tem a mesma forma que empregaria para dizer “e” e mesmo “mas”. </p>"
     },
     {
       "ref_id": "fn43-2775",
       "number": 43,
       "text": "“Para escape”. Não “escapar”, já que peletah é substantivo, não verbo.",
-      "raw_html": "<span>“Para escape”. Não “escapar”, já que <em>peletah</em> é substantivo, não verbo. </span>"
+      "raw_html": "<p>“Para escape”. Não “escapar”, já que <em>peletah</em> é substantivo, não verbo. </p>"
     },
     {
       "ref_id": "fn44-2775",
       "number": 44,
       "text": "O uso de moledet (“parimento”) aqui diverge ligeiramente dos anteriores (cf. Gênesis 11,28; 12,1; 24,4.7; 31,3.13. Aproxima-se da ainda mais distante formulação de Gênesis 48,6.",
-      "raw_html": "<span>O uso de <em>moledet</em> (“parimento”) aqui diverge ligeiramente dos anteriores (cf. Gênesis 11,28; 12,1; 24,4.7; 31,3.13. Aproxima-se da ainda mais distante formulação de Gênesis 48,6. </span>"
+      "raw_html": "<p>O uso de <em>moledet</em> (“parimento”) aqui diverge ligeiramente dos anteriores (cf. Gênesis 11,28; 12,1; 24,4.7; 31,3.13. Aproxima-se da ainda mais distante formulação de Gênesis 48,6. </p>"
     },
     {
       "ref_id": "fn45-2775",
       "number": 45,
       "text": "“Comprometimentos” (hesed / hasadim).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGY\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGY\" rel=\"noreferrer noopener\" target=\"_blank\">Comprometimentos</a>” (<em>hesed</em> / <em>hasadim</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGY\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGY\" rel=\"noreferrer noopener\" target=\"_blank\">Comprometimentos</a>” (<em>hesed</em> / <em>hasadim</em>). </p>"
     },
     {
       "ref_id": "fn46-2775",
       "number": 46,
       "text": "“Verdade” aqui não tem sentido filosófico, porque nada no hebraico bíblico tende à Filosofia. Nem mesmo é um conceito idealista. “Verdade” aqui tem a ver com “confiança” e “garantia”. Algo que a expressão “amém” (‘amen), formada com a mesma raiz de “verdade” (’emet), “assim seja”, expressa.",
-      "raw_html": "<span>“Verdade” aqui não tem sentido filosófico, porque nada no hebraico bíblico tende à Filosofia. Nem mesmo é um conceito idealista. “Verdade” aqui tem a ver com “confiança” e “garantia”. Algo que a expressão “amém” (<em>‘amen</em>), formada com a mesma raiz de “verdade” (<em>’emet</em>), “assim seja”, expressa. </span>"
+      "raw_html": "<p>“Verdade” aqui não tem sentido filosófico, porque nada no hebraico bíblico tende à Filosofia. Nem mesmo é um conceito idealista. “Verdade” aqui tem a ver com “confiança” e “garantia”. Algo que a expressão “amém” (<em>‘amen</em>), formada com a mesma raiz de “verdade” (<em>’emet</em>), “assim seja”, expressa. </p>"
     },
     {
       "ref_id": "fn47-2775",
       "number": 47,
       "text": "“Bondades” e “verdades” feitas. Trata-se de ações, não de ideias.",
-      "raw_html": "<span>“Bondades” e “verdades” <em>feitas</em>. Trata-se de ações, não de ideias. </span>"
+      "raw_html": "<p>“Bondades” e “verdades” <em>feitas</em>. Trata-se de ações, não de ideias. </p>"
     },
     {
       "ref_id": "fn48-2775",
       "number": 48,
       "text": "Nosso Jordão.",
-      "raw_html": "<span>Nosso Jordão. </span>"
+      "raw_html": "<p>Nosso Jordão. </p>"
     },
     {
       "ref_id": "fn49-2775",
       "number": 49,
       "text": "“O Yarden esse” (‘et-hayyarden hazzeh). Primeira de 6 ocorrências. Cf. Gênesis 32,11; Deuteronômio 3,27; 31,2; Josué 1,2.11; 4.22.",
-      "raw_html": "<span>“O Yarden esse” (<em>‘et-hayyarden hazzeh</em>). Primeira de 6 ocorrências. Cf. Gênesis 32,11; Deuteronômio 3,27; 31,2; Josué 1,2.11; 4.22. </span>"
+      "raw_html": "<p>“O Yarden esse” (<em>‘et-hayyarden hazzeh</em>). Primeira de 6 ocorrências. Cf. Gênesis 32,11; Deuteronômio 3,27; 31,2; Josué 1,2.11; 4.22. </p>"
     },
     {
       "ref_id": "fn50-2775",
       "number": 50,
       "text": "Em tradução absolutamente literal: o significado é bem simples: “e agora eu tenho dois acampamentos”. De qualquer forma, é estranho. Seria mais compreensível se a fórmula estivesse invertida: “e agora estão dois acampamentos para mim”.",
-      "raw_html": "<span>Em tradução absolutamente literal: o significado é bem simples: “e agora eu tenho dois acampamentos”. De qualquer forma, é estranho. Seria mais compreensível se a fórmula estivesse invertida: “e agora estão dois acampamentos para mim”. </span>"
+      "raw_html": "<p>Em tradução absolutamente literal: o significado é bem simples: “e agora eu tenho dois acampamentos”. De qualquer forma, é estranho. Seria mais compreensível se a fórmula estivesse invertida: “e agora estão dois acampamentos para mim”. </p>"
     },
     {
       "ref_id": "fn51-2775",
       "number": 51,
       "text": "“Faze tirar”. Cf. Gênesis 31,19 e nota.",
-      "raw_html": "<span>“Faze tirar”. Cf. Gênesis 31,19 e nota. </span>"
+      "raw_html": "<p>“Faze tirar”. Cf. Gênesis 31,19 e nota. </p>"
     },
     {
       "ref_id": "fn52-2775",
       "number": 52,
       "text": "“Favor” (na’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFJ\" rel=\"noreferrer noopener\" target=\"_blank\">Favor</a>” (<em>na’</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFJ\" rel=\"noreferrer noopener\" target=\"_blank\">Favor</a>” (<em>na’</em>). </p>"
     },
     {
       "ref_id": "fn53-2775",
       "number": 53,
       "text": "“Desde a mão do” (miyyad).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFQ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFQ\" rel=\"noreferrer noopener\" target=\"_blank\">Desde a mão do</a>” (<em>miyyad</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFQ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFQ\" rel=\"noreferrer noopener\" target=\"_blank\">Desde a mão do</a>” (<em>miyyad</em>). </p>"
     },
     {
       "ref_id": "fn54-2775",
       "number": 54,
       "text": "“Desde a mão de” (miyyad).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFQ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFQ\" rel=\"noreferrer noopener\" target=\"_blank\">Desde a mão de</a>” (<em>miyyad</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFQ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFQ\" rel=\"noreferrer noopener\" target=\"_blank\">Desde a mão de</a>” (<em>miyyad</em>). </p>"
     },
     {
       "ref_id": "fn55-2775",
       "number": 55,
       "text": "Idiomatismo: ele faça ferir todo mundo.",
-      "raw_html": "<span>Idiomatismo: ele faça ferir todo mundo. </span>"
+      "raw_html": "<p>Idiomatismo: ele faça ferir todo mundo. </p>"
     },
     {
       "ref_id": "fn56-2775",
       "number": 56,
       "text": "Ênfase no sujeito “tu”. É o apelo retórico do personagem: “tu disseste, estás lembrado?”…",
-      "raw_html": "<span>Ênfase no sujeito “tu”. É o apelo retórico do personagem: “<em>tu</em> disseste<em>, </em>estás lembrado?”… </span>"
+      "raw_html": "<p>Ênfase no sujeito “tu”. É o apelo retórico do personagem: “<em>tu</em> disseste<em>, </em>estás lembrado?”… </p>"
     },
     {
       "ref_id": "fn57-2775",
       "number": 57,
       "text": "“Arrolada” (spr). Cf. Gênesis 5,1 e nota.",
-      "raw_html": "<span>“Arrolada” (<em>spr</em>). Cf. Gênesis 5,1 e nota. </span>"
+      "raw_html": "<p>“Arrolada” (<em>spr</em>). Cf. Gênesis 5,1 e nota. </p>"
     },
     {
       "ref_id": "fn58-2775",
       "number": 58,
       "text": "Cf. a mesma expressão em Gênesis 16,10 e ambas as notas.",
-      "raw_html": "<span>Cf. a mesma expressão em Gênesis 16,10 e ambas as notas. </span>"
+      "raw_html": "<p>Cf. a mesma expressão em Gênesis 16,10 e ambas as notas. </p>"
     },
     {
       "ref_id": "fn59-2775",
       "number": 59,
       "text": "O termo aparecera apenas na narrativa de Caim: Gênesis 4,3.4.5.",
-      "raw_html": "<span>O termo aparecera apenas na narrativa de Caim: Gênesis 4,3.4.5. </span>"
+      "raw_html": "<p>O termo aparecera apenas na narrativa de Caim: Gênesis 4,3.4.5. </p>"
     },
     {
       "ref_id": "fn60-2775",
       "number": 60,
       "text": "Para escrever 200, o texto usa a palavra “cem” no dual.",
-      "raw_html": "<span>Para escrever 200, o texto usa a palavra “cem” no dual. </span>"
+      "raw_html": "<p>Para escrever 200, o texto usa a palavra “cem” no dual. </p>"
     },
     {
       "ref_id": "fn61-2775",
       "number": 61,
       "text": "Para escrever vinte, o texto emprega a palavra “dez” no plural.",
-      "raw_html": "<span>Para escrever vinte, o texto emprega a palavra “dez” no plural. </span>"
+      "raw_html": "<p>Para escrever vinte, o texto emprega a palavra “dez” no plural. </p>"
     },
     {
       "ref_id": "fn62-2775",
       "number": 62,
       "text": "“Carneiros” (‘ayil). Cf. Gênesis 15,9.",
-      "raw_html": "<span>“Carneiros” (<em>‘ayil</em>). Cf. Gênesis 15,9. </span>"
+      "raw_html": "<p>“Carneiros” (<em>‘ayil</em>). Cf. Gênesis 15,9. </p>"
     },
     {
       "ref_id": "fn63-2775",
       "number": 63,
       "text": "No masculino, no texto, conquanto a referência seja a camelas, quanto ao que não há dúvida.",
-      "raw_html": "<span>No masculino, no texto, conquanto a referência seja a camelas, quanto ao que não há dúvida. </span>"
+      "raw_html": "<p>No masculino, no texto, conquanto a referência seja a camelas, quanto ao que não há dúvida. </p>"
     },
     {
       "ref_id": "fn64-2775",
       "number": 64,
       "text": "Cf. o uso do verbo “chupar” (ynq) como “mamar” em Gênesis 21,7 e notas. “Camelos fazedoras de chupar” significa camelas que estão amamentando.",
-      "raw_html": "<span>Cf. o uso do verbo “chupar” (<em>ynq</em>) como “mamar” em Gênesis 21,7 e notas. “Camelos fazedoras de chupar” significa camelas que estão amamentando. </span>"
+      "raw_html": "<p>Cf. o uso do verbo “chupar” (<em>ynq</em>) como “mamar” em Gênesis 21,7 e notas. “Camelos fazedoras de chupar” significa camelas que estão amamentando. </p>"
     },
     {
       "ref_id": "fn65-2775",
       "number": 65,
       "text": "“Filhotes”: mas a língua é pobre.",
-      "raw_html": "<span>“Filhotes”: mas a língua é pobre. </span>"
+      "raw_html": "<p>“Filhotes”: mas a língua é pobre. </p>"
     },
     {
       "ref_id": "fn66-2775",
       "number": 66,
       "text": "Para escrever trinta, o texto usa a palavra “três” no plural.",
-      "raw_html": "<span>Para escrever trinta, o texto usa a palavra “três” no plural. </span>"
+      "raw_html": "<p>Para escrever trinta, o texto usa a palavra “três” no plural. </p>"
     },
     {
       "ref_id": "fn67-2775",
       "number": 67,
       "text": "“Novilhas” (parot). Feminino plural de par (cf. abaixo) (“novilho”). Primeira de 22 ocorrências. Cf. Gênesis 32,16; 41,2.3.4.18.19.20.26.27; Números 19,2.5.6.9.10.",
-      "raw_html": "<span>“Novilhas” (<em>parot</em>). Feminino plural de <em>par </em>(cf. abaixo) (“novilho”). Primeira de 22 ocorrências. Cf. Gênesis 32,16; 41,2.3.4.18.19.20.26.27; Números 19,2.5.6.9.10. </span>"
+      "raw_html": "<p>“Novilhas” (<em>parot</em>). Feminino plural de <em>par </em>(cf. abaixo) (“novilho”). Primeira de 22 ocorrências. Cf. Gênesis 32,16; 41,2.3.4.18.19.20.26.27; Números 19,2.5.6.9.10. </p>"
     },
     {
       "ref_id": "fn68-2775",
       "number": 68,
       "text": "Para escrever quarenta, o texto emprega a palavra “quatro” no plural. Talvez isso explique o fato de que há versões que trazem “quatro vacas”. Mas são dez touros!",
-      "raw_html": "<span>Para escrever quarenta, o texto emprega a palavra “quatro” no plural. Talvez isso explique o fato de que há versões que trazem “quatro vacas”. Mas são dez touros! </span>"
+      "raw_html": "<p>Para escrever quarenta, o texto emprega a palavra “quatro” no plural. Talvez isso explique o fato de que há versões que trazem “quatro vacas”. Mas são dez touros! </p>"
     },
     {
       "ref_id": "fn69-2775",
       "number": 69,
       "text": "“Novilhos” (parim). Primeira de 119 ocorrências. A expressão “filho de gado” (ben-bakar) que acompanha par em várias passagens me faz decidir traduzir não como “touro”, mas “novilho”. Cf. Êxodo 24,5.",
-      "raw_html": "<span>“Novilhos” (<em>parim</em>). Primeira de 119 ocorrências. A expressão “filho de gado” (<em>ben-bakar</em>) que acompanha <em>par </em>em várias passagens me faz decidir traduzir não como “touro”, mas “novilho”. Cf. Êxodo 24,5. </span>"
+      "raw_html": "<p>“Novilhos” (<em>parim</em>). Primeira de 119 ocorrências. A expressão “filho de gado” (<em>ben-bakar</em>) que acompanha <em>par </em>em várias passagens me faz decidir traduzir não como “touro”, mas “novilho”. Cf. Êxodo 24,5. </p>"
     },
     {
       "ref_id": "fn70-2775",
       "number": 70,
       "text": "“Na mão dos servos dele” (beyad-‘abadayw). Primeira de 7 ocorrências.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIL\" rel=\"noreferrer noopener\" target=\"_blank\">Na mão dos servos dele</a>” (<em>beyad-‘abadayw</em>). Primeira de 7 ocorrências. </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIL\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIL\" rel=\"noreferrer noopener\" target=\"_blank\">Na mão dos servos dele</a>” (<em>beyad-‘abadayw</em>). Primeira de 7 ocorrências. </p>"
     },
     {
       "ref_id": "fn71-2775",
       "number": 71,
       "text": "“Os servos dele” (‘abadayw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIZ\" rel=\"noreferrer noopener\" target=\"_blank\">Os servos dele</a>” (<em>‘abadayw</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIZ\" rel=\"noreferrer noopener\" target=\"_blank\">Os servos dele</a>” (<em>‘abadayw</em>). </p>"
     },
     {
       "ref_id": "fn72-2775",
       "number": 72,
       "text": "“Rebanho, rebanho, para a separação dele” é obviamente um idiomatismo da língua: significa que Jacó separou cada rebanho, mantendo separados um rebanho do outro.",
-      "raw_html": "<span>“Rebanho, rebanho, para a separação dele” é obviamente um idiomatismo da língua: significa que Jacó separou cada rebanho, mantendo separados um rebanho do outro. </span>"
+      "raw_html": "<p>“Rebanho, rebanho, para a separação dele” é obviamente um idiomatismo da língua: significa que Jacó separou cada rebanho, mantendo separados um rebanho do outro. </p>"
     },
     {
       "ref_id": "fn73-2775",
       "number": 73,
       "text": "“Os servos dele” (‘abadayw).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIZ\" rel=\"noreferrer noopener\" target=\"_blank\">Os servos dele</a>” (<em>‘abadayw</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAIZ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAIZ\" rel=\"noreferrer noopener\" target=\"_blank\">Os servos dele</a>” (<em>‘abadayw</em>). </p>"
     },
     {
       "ref_id": "fn74-2775",
       "number": 74,
       "text": "“Passai vós. Para as faces de” (‘ibru lepane). Somente em Gênesis 32,17; Josué 4,5; 1 Samuel 25,19.",
-      "raw_html": "<span>“Passai vós. Para as faces de” (<em>‘ibru lepane</em>). Somente em Gênesis 32,17; Josué 4,5; 1 Samuel 25,19. </span>"
+      "raw_html": "<p>“Passai vós. Para as faces de” (<em>‘ibru lepane</em>). Somente em Gênesis 32,17; Josué 4,5; 1 Samuel 25,19. </p>"
     },
     {
       "ref_id": "fn75-2775",
       "number": 75,
       "text": "“Liberação” (revah), como em Ester 4,14. Dicionários pressupõem, para Gênesis 32,17, “espaço”. O sentido talvez lembre aquele gesto de pedir que se “libere” um espaço qualquer para alguma coisa. Note-se que a palavra é formada pela mesmíssima raiz de “vento” (ruah).",
-      "raw_html": "<span>“Liberação” (<em>revah</em>), como em Ester 4,14. Dicionários pressupõem, para Gênesis 32,17, “espaço”. O sentido talvez lembre aquele gesto de pedir que se “libere” um espaço qualquer para alguma coisa. Note-se que a palavra é formada pela mesmíssima raiz de “vento” <em>(ruah</em>). </span>"
+      "raw_html": "<p>“Liberação” (<em>revah</em>), como em Ester 4,14. Dicionários pressupõem, para Gênesis 32,17, “espaço”. O sentido talvez lembre aquele gesto de pedir que se “libere” um espaço qualquer para alguma coisa. Note-se que a palavra é formada pela mesmíssima raiz de “vento” <em>(ruah</em>). </p>"
     },
     {
       "ref_id": "fn76-2775",
       "number": 76,
       "text": "Cf. v. 5.",
-      "raw_html": "<span>Cf. v. 5. </span>"
+      "raw_html": "<p>Cf. v. 5. </p>"
     },
     {
       "ref_id": "fn77-2775",
       "number": 77,
       "text": "“Encontra” traduz aqui forma verbal de pgsh. Não estamos diante da raiz qr’ (“gritar”) nem da raiz pg‘ (“esbarrar [cf. v. 2]). Primeira de 14 ocorrências. Cf. Gênesis 32,18; 33,8; Êxodo 4,24.27.",
-      "raw_html": "<span>“Encontra” traduz aqui forma verbal de <em>pgsh</em>. Não estamos diante da raiz <em>qr’</em> (“gritar”) nem da raiz <em>pg</em>‘ (“esbarrar [cf. v. 2]). Primeira de 14 ocorrências. Cf. Gênesis 32,18; 33,8; Êxodo 4,24.27. </span>"
+      "raw_html": "<p>“Encontra” traduz aqui forma verbal de <em>pgsh</em>. Não estamos diante da raiz <em>qr’</em> (“gritar”) nem da raiz <em>pg</em>‘ (“esbarrar [cf. v. 2]). Primeira de 14 ocorrências. Cf. Gênesis 32,18; 33,8; Êxodo 4,24.27. </p>"
     },
     {
       "ref_id": "fn78-2775",
       "number": 78,
       "text": "“Pergunta ele” (sh’l). Cf. Gênesis 24,47.57; 26,7; 32,18.30; 37,15; 38,21; 40,7; 43,7.27; 44,19; Êxodo 3,22; 11,2; 12,35.36; 13,14; 18,7; 22,13; Números 27,21; Deuteronômio 4,32; 6,20; 10,12; 13,15; 14,26; 18,11; 32,7; Josué 4,6.21; 9,14; 15,18; 19,50; Juízes 1,1.14; 4,20; 5,25; 8,14.24.26; 13,6.18; 18,5.15; 20,18.23.27; 1 Samuel 1,17.20.27.28; 2,20; 8,10; 10,4.22; 12,13.17.19; 14,37; 17,22.546; 19,22; 20,6.28; 22,10.13.15; 23,2.4; 25,5.8.",
-      "raw_html": "<span>“Pergunta ele” (<em>sh’l</em>). Cf. Gênesis 24,47.57; 26,7; 32,18.30; 37,15; 38,21; 40,7; 43,7.27; 44,19; Êxodo 3,22; 11,2; 12,35.36; 13,14; 18,7; 22,13; Números 27,21; Deuteronômio 4,32; 6,20; 10,12; 13,15; 14,26; 18,11; 32,7; Josué 4,6.21; 9,14; 15,18; 19,50; Juízes 1,1.14; 4,20; 5,25; 8,14.24.26; 13,6.18; 18,5.15; 20,18.23.27; 1 Samuel 1,17.20.27.28; 2,20; 8,10; 10,4.22; 12,13.17.19; 14,37; 17,22.546; 19,22; 20,6.28; 22,10.13.15; 23,2.4; 25,5.8. </span>"
+      "raw_html": "<p>“Pergunta ele” (<em>sh’l</em>). Cf. Gênesis 24,47.57; 26,7; 32,18.30; 37,15; 38,21; 40,7; 43,7.27; 44,19; Êxodo 3,22; 11,2; 12,35.36; 13,14; 18,7; 22,13; Números 27,21; Deuteronômio 4,32; 6,20; 10,12; 13,15; 14,26; 18,11; 32,7; Josué 4,6.21; 9,14; 15,18; 19,50; Juízes 1,1.14; 4,20; 5,25; 8,14.24.26; 13,6.18; 18,5.15; 20,18.23.27; 1 Samuel 1,17.20.27.28; 2,20; 8,10; 10,4.22; 12,13.17.19; 14,37; 17,22.546; 19,22; 20,6.28; 22,10.13.15; 23,2.4; 25,5.8. </p>"
     },
     {
       "ref_id": "fn79-2775",
       "number": 79,
       "text": "“Para quem” (lemi). Primeira de 18 ocorrências. Cf. Gênesis 38,25. Êxodo 32,24.",
-      "raw_html": "<span>“Para quem” (<em>lemi</em>). Primeira de 18 ocorrências. Cf. Gênesis 38,25. Êxodo 32,24. </span>"
+      "raw_html": "<p>“Para quem” (<em>lemi</em>). Primeira de 18 ocorrências. Cf. Gênesis 38,25. Êxodo 32,24. </p>"
     },
     {
       "ref_id": "fn80-2775",
       "number": 80,
       "text": "Ou seja. “de quem você é?”.",
-      "raw_html": "<span>Ou seja. “de quem você é?”. </span>"
+      "raw_html": "<p>Ou seja. “de quem você é?”. </p>"
     },
     {
       "ref_id": "fn81-2775",
       "number": 81,
       "text": "Isto é: são do teu servo.",
-      "raw_html": "<span>Isto é: são do teu servo. </span>"
+      "raw_html": "<p>Isto é: são do teu servo. </p>"
     },
     {
       "ref_id": "fn82-2775",
       "number": 82,
       "text": "Ou seja, “são de Jacó”. É curioso que a versão ao pé da letra (“são para Jacó”) finde por expressar o que a forma correlata em nosso próprio idioma usaria para dizer que “são de Jacó”. São, mas são para Esaú.",
-      "raw_html": "<span>Ou seja, “são de Jacó”. É curioso que a versão ao pé da letra (“são para Jacó”) finde por expressar o que a forma correlata em nosso próprio idioma usaria para dizer que “são de Jacó”. São, mas são <em>para</em> Esaú. </span>"
+      "raw_html": "<p>Ou seja, “são de Jacó”. É curioso que a versão ao pé da letra (“são para Jacó”) finde por expressar o que a forma correlata em nosso próprio idioma usaria para dizer que “são de Jacó”. São, mas são <em>para</em> Esaú. </p>"
     },
     {
       "ref_id": "fn83-2775",
       "number": 83,
       "text": "“Oferenda ela é” (minhah hiw’). Cf. Levítico 1,6.",
-      "raw_html": "<span>“Oferenda ela é” (<em>minhah hiw’</em>). Cf. Levítico 1,6. </span>"
+      "raw_html": "<p>“Oferenda ela é” (<em>minhah hiw’</em>). Cf. Levítico 1,6. </p>"
     },
     {
       "ref_id": "fn84-2775",
       "number": 84,
       "text": "Não que os persiga: ele vem mais atrás.",
-      "raw_html": "<span>Não que os persiga: ele vem mais atrás. </span>"
+      "raw_html": "<p>Não que os persiga: ele vem mais atrás. </p>"
     },
     {
       "ref_id": "fn85-2775",
       "number": 85,
       "text": "Cf. v. 5.18.",
-      "raw_html": "<span>Cf. v. 5.18. </span>"
+      "raw_html": "<p>Cf. v. 5.18. </p>"
     },
     {
       "ref_id": "fn86-2775",
       "number": 86,
       "text": "“Andadores”. (haholkim). Primeira de 17 ocorrências. Cf. Gênesis 32,20; Êxodo 10,8; Números 14,38.",
-      "raw_html": "<span>“Andadores”. (<em>haholkim</em>). Primeira de 17 ocorrências. Cf. Gênesis 32,20; Êxodo 10,8; Números 14,38. </span>"
+      "raw_html": "<p>“Andadores”. (<em>haholkim</em>). Primeira de 17 ocorrências. Cf. Gênesis 32,20; Êxodo 10,8; Números 14,38. </p>"
     },
     {
       "ref_id": "fn87-2775",
       "number": 87,
       "text": "“Fala” e “falai” têm a mesma raiz: dvr. Costuma-se traduzir dabar como “palavra”. Pergunto-me nesse exato momento, até aqui tendo traduzido dabar como “palavra”, se não é o caso de traduzir dabar como “fala”, e não “palavra”. E respondo que sim.",
-      "raw_html": "<span>“Fala” e “falai” têm a mesma raiz: <em>dvr</em>. Costuma-se traduzir <em>dabar</em> como “palavra”. Pergunto-me nesse exato momento, até aqui tendo traduzido <em>dabar</em> como “palavra”, se não é o caso de traduzir <em>dabar</em> como “fala”, e não “palavra”. E respondo que sim. </span>"
+      "raw_html": "<p>“Fala” e “falai” têm a mesma raiz: <em>dvr</em>. Costuma-se traduzir <em>dabar</em> como “palavra”. Pergunto-me nesse exato momento, até aqui tendo traduzido <em>dabar</em> como “palavra”, se não é o caso de traduzir <em>dabar</em> como “fala”, e não “palavra”. E respondo que sim. </p>"
     },
     {
       "ref_id": "fn88-2775",
       "number": 88,
       "text": "Mais um caso de verbo no infinitivo, em estado construto, seguido de sinal de objeto direto. Argumentou-se que em Gênesis 1,1, como propôs Rashi, bara’ fosse pronunciado como infinito (bero’) porque o verbo ali se faz seguir de sinal de objeto direto, e isso não existiria em Hebraico. Argumento falso, bem se vê.",
-      "raw_html": "<span>Mais um caso de verbo no infinitivo, em estado construto, seguido de sinal de objeto direto. Argumentou-se que em Gênesis 1,1, como propôs Rashi, <em>bara’</em> fosse pronunciado como<em> </em>infinito (<em>bero’</em>) porque o verbo ali se faz seguir de sinal de objeto direto, e isso não existiria em Hebraico. Argumento falso, bem se vê. </span>"
+      "raw_html": "<p>Mais um caso de verbo no infinitivo, em estado construto, seguido de sinal de objeto direto. Argumentou-se que em Gênesis 1,1, como propôs Rashi, <em>bara’</em> fosse pronunciado como<em> </em>infinito (<em>bero’</em>) porque o verbo ali se faz seguir de sinal de objeto direto, e isso não existiria em Hebraico. Argumento falso, bem se vê. </p>"
     },
     {
       "ref_id": "fn89-2775",
       "number": 89,
       "text": "“E dizeis vós” (wa’amartem).  Primeira de 28 ocorrências. Cf. Gênesis 32,21; 45,9; 46,34; Êxodo 3,18; 12,27; Levítico 5,1; Josué 4,7; 9,11; Juízes 7,18; 1 Samuel 14,34; 25,6.",
-      "raw_html": "<span>“E dizeis vós” (<em>wa’amartem</em>).  Primeira de 28 ocorrências. Cf. Gênesis 32,21; 45,9; 46,34; Êxodo 3,18; 12,27; Levítico 5,1; Josué 4,7; 9,11; Juízes 7,18; 1 Samuel 14,34; 25,6. </span>"
+      "raw_html": "<p>“E dizeis vós” (<em>wa’amartem</em>).  Primeira de 28 ocorrências. Cf. Gênesis 32,21; 45,9; 46,34; Êxodo 3,18; 12,27; Levítico 5,1; Josué 4,7; 9,11; Juízes 7,18; 1 Samuel 14,34; 25,6. </p>"
     },
     {
       "ref_id": "fn90-2775",
       "number": 90,
       "text": "“Encubra” (kpr). Cf. Gênesis 6,14; Êxodo 21,30. O sentido aqui é “comprar com o presente boas atitudes do irmão que vem lá.",
-      "raw_html": "<span>“Encubra” (<em>kpr</em>). Cf. Gênesis 6,14; Êxodo 21,30. O sentido aqui é “comprar com o presente boas atitudes do irmão que vem lá. </span>"
+      "raw_html": "<p>“Encubra” (<em>kpr</em>). Cf. Gênesis 6,14; Êxodo 21,30. O sentido aqui é “comprar com o presente boas atitudes do irmão que vem lá. </p>"
     },
     {
       "ref_id": "fn91-2775",
       "number": 91,
       "text": "“Andadora” (haholeket). Somente aqui e em Levítico 11,27.",
-      "raw_html": "<span>“Andadora” (<em>haholeket</em>). Somente aqui e em Levítico 11,27. </span>"
+      "raw_html": "<p>“Andadora” (<em>haholeket</em>). Somente aqui e em Levítico 11,27. </p>"
     },
     {
       "ref_id": "fn92-2775",
       "number": 92,
       "text": "Ênfase em “ele”, explicitado no texto. Poderia ser traduzido: “mas ele mesmo”.",
-      "raw_html": "<span>Ênfase em “ele”, explicitado no texto. Poderia ser traduzido: “mas ele mesmo”. </span>"
+      "raw_html": "<p>Ênfase em “ele”, explicitado no texto. Poderia ser traduzido: “mas ele mesmo”. </p>"
     },
     {
       "ref_id": "fn93-2775",
       "number": 93,
       "text": "“No acampamento” (bammahaneh). Primeira de 30 ocorrências. Cf. Gênesis 32,22; Êxodo 19,16; 32,17.27; 36,6; Levítico 17,3; 24,10; Números 11,26.27; Josué 5,8; 6,11.",
-      "raw_html": "<span>“No acampamento” (<em>bammahaneh</em>). Primeira de 30 ocorrências. Cf. Gênesis 32,22; Êxodo 19,16; 32,17.27; 36,6; Levítico 17,3; 24,10; Números 11,26.27; Josué 5,8; 6,11. </span>"
+      "raw_html": "<p>“No acampamento” (<em>bammahaneh</em>). Primeira de 30 ocorrências. Cf. Gênesis 32,22; Êxodo 19,16; 32,17.27; 36,6; Levítico 17,3; 24,10; Números 11,26.27; Josué 5,8; 6,11. </p>"
     },
     {
       "ref_id": "fn94-2775",
       "number": 94,
       "text": "“(As) duas de” (‘et shete). Primeira de 14 ocorrências. Cf. Gênesis 32,23; Êxodo 28,9.11.12.23.24; 39,16; Levítico 16,21; Números 7,7.",
-      "raw_html": "<span>“(As) duas de” (<em>‘et shete</em>). Primeira de 14 ocorrências. Cf. Gênesis 32,23; Êxodo 28,9.11.12.23.24; 39,16; Levítico 16,21; Números 7,7. </span>"
+      "raw_html": "<p>“(As) duas de” (<em>‘et shete</em>). Primeira de 14 ocorrências. Cf. Gênesis 32,23; Êxodo 28,9.11.12.23.24; 39,16; Levítico 16,21; Números 7,7. </p>"
     },
     {
       "ref_id": "fn95-2775",
       "number": 95,
       "text": "“Um de dez” (‘ahar ‘asar). Somente aqui e em Deuteronômio 1,2. A despeito de inusitada a forma de redação do número, o contexto parece justificar o entendimento de que ‘ahad ‘asar signifique “onze”.",
-      "raw_html": "<span>“Um de dez” (<em>‘ahar ‘asar</em>). Somente aqui e em Deuteronômio 1,2. A despeito de inusitada a forma de redação do número, o contexto parece justificar o entendimento de que <em>‘ahad ‘asar</em> signifique “onze”. </span>"
+      "raw_html": "<p>“Um de dez” (<em>‘ahar ‘asar</em>). Somente aqui e em Deuteronômio 1,2. A despeito de inusitada a forma de redação do número, o contexto parece justificar o entendimento de que <em>‘ahad ‘asar</em> signifique “onze”. </p>"
     },
     {
       "ref_id": "fn96-2775",
       "number": 96,
       "text": "“Passa o passadouro”. As duas palavras são escritas com as mesmas consoantes. Dificilmente não seja a mesma raiz. Logo, se ‘br é “passar”, m’br é “passadouro”.",
-      "raw_html": "<span>“Passa o passadouro”. As duas palavras são escritas com as mesmas consoantes. Dificilmente não seja a mesma raiz. Logo, se <em>‘br</em> é “passar”, <em>m’br</em> é “passadouro”. </span>"
+      "raw_html": "<p>“Passa o passadouro”. As duas palavras são escritas com as mesmas consoantes. Dificilmente não seja a mesma raiz. Logo, se <em>‘br</em> é “passar”, <em>m’br</em> é “passadouro”. </p>"
     },
     {
       "ref_id": "fn97-2775",
       "number": 97,
       "text": "“Yabboq” (yabboq). Leia ya-bôq. Primeira de 7 ocorrências. Cf. Gênesis 32,23; Números 21,24.",
-      "raw_html": "<span>“Yabboq” (<em>yabboq</em>). Leia <em>ya-bôq</em>. Primeira de 7 ocorrências. Cf. Gênesis 32,23; Números 21,24. </span>"
+      "raw_html": "<p>“Yabboq” (<em>yabboq</em>). Leia <em>ya-bôq</em>. Primeira de 7 ocorrências. Cf. Gênesis 32,23; Números 21,24. </p>"
     },
     {
       "ref_id": "fn98-2775",
       "number": 98,
       "text": "“Varzeado” (nahal). Cf. Gênesis 26,17.",
-      "raw_html": "<span>“Varzeado” (<em>nahal</em>). Cf. Gênesis 26,17. </span>"
+      "raw_html": "<p>“Varzeado” (<em>nahal</em>). Cf. Gênesis 26,17. </p>"
     },
     {
       "ref_id": "fn99-2775",
       "number": 99,
       "text": "“Que para ele” (‘asher-lo).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#00000016\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00000016\" rel=\"noopener\" target=\"_blank\">Que para ele</a>” (<em>‘asher-lo</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#00000016\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#00000016\" rel=\"noopener\" target=\"_blank\">Que para ele</a>” (<em>‘asher-lo</em>). </p>"
     },
     {
       "ref_id": "fn100-2775",
       "number": 100,
       "text": "“Sido permanecido está” (ytr). Forma passiva da raiz.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Sido permanecido está</a>” (<em>ytr</em>). Forma passiva da raiz. </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAGP\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAGP\">Sido permanecido está</a>” (<em>ytr</em>). Forma passiva da raiz. </p>"
     },
     {
       "ref_id": "fn101-2775",
       "number": 101,
       "text": "O que apenas quer dizer que Jacó fica sozinho. É curioso observar que esses momentos “teológicos” são sempre assim: os “heróis” estão sozinhos, quando a “maravilha” acontece. Para a mesma fórmula, cf. Gênesis 44,20.",
-      "raw_html": "<span>O que apenas quer dizer que Jacó fica sozinho. É curioso observar que esses momentos “teológicos” são sempre assim: os “heróis” estão sozinhos, quando a “maravilha” acontece. Para a mesma fórmula, cf. Gênesis 44,20. </span>"
+      "raw_html": "<p>O que apenas quer dizer que Jacó fica sozinho. É curioso observar que esses momentos “teológicos” são sempre assim: os “heróis” estão sozinhos, quando a “maravilha” acontece. Para a mesma fórmula, cf. Gênesis 44,20. </p>"
     },
     {
       "ref_id": "fn102-2775",
       "number": 102,
       "text": "“Está empoeirado” traduz forma verbal passiva da raiz ‘bq. A princípio, traduzi como “agarrar-se”. Alonso-Schokel reconhece essa possibilidade, ao lado de “lutar”, claramente mais interpretativo. Mas Carlos André Ponciano de Souza, um leitor, sugeriu que, considerando-se que a raiz ‘bq se atualiza como “poeira” (cf. Êxodo 9,9), talvez se pudesse traduzir como “empoeirar”. Com efeito, Koehler-Baumgartner associam a raiz ao árabe (“cobrir-se de poeira”. A ideia parece ser a de que os dois personagens engalfinham-se em uma luta de chão, e Jacó fica coberto de poeira. Trata-se de uma luta, mas descrita de forma extraordinariamente peculiar. Há certamente aqui algo de folclórico, porque a raiz pode ser associada prosodicamente ao nome Yabboq. É certamente uma etiologia folclórica, aproveitada na cena. Jacó vai “ser empoeirado” (> “ser agarrado por” > “lutar com”) por um homem em sua refrega demorada com ele. A ideia é de luta, certamente. Mas a palavra, não é “lutar”. Na forma verbal, a raiz ocorre apenas em Êxodo 32,25.26. A forma nominal, em Êxodo 9,9; Deuteronômio 28,24; Isaías 5,24; 29,5; Ezequiel 26,10; Naum 1,3.",
-      "raw_html": "<span>“Está empoeirado” traduz forma verbal passiva da raiz <em>‘bq</em>. A princípio, traduzi como “agarrar-se”. Alonso-Schokel reconhece essa possibilidade, ao lado de “lutar”, claramente mais interpretativo. Mas Carlos André Ponciano de Souza, um leitor, sugeriu que, considerando-se que a raiz <em>‘bq</em> se atualiza como “poeira” (cf. Êxodo 9,9), talvez se pudesse traduzir como “empoeirar”. Com efeito, Koehler-Baumgartner associam a raiz ao árabe (“cobrir-se de poeira”. A ideia parece ser a de que os dois personagens engalfinham-se em uma luta de chão, e Jacó fica coberto de poeira. Trata-se de uma luta, mas descrita de forma extraordinariamente peculiar. Há certamente aqui algo de folclórico, porque a raiz pode ser associada prosodicamente ao nome Yabboq. É certamente uma etiologia folclórica, aproveitada na cena. Jacó vai “ser empoeirado” (&gt; “ser agarrado por” &gt; “lutar com”) por um homem em sua refrega demorada com ele. A ideia é de luta, certamente. Mas a palavra, não é “lutar”. Na forma verbal, a raiz ocorre apenas em Êxodo 32,25.26. A forma nominal, em Êxodo 9,9; Deuteronômio 28,24; Isaías 5,24; 29,5; Ezequiel 26,10; Naum 1,3. </span>"
+      "raw_html": "<p>“Está empoeirado” traduz forma verbal passiva da raiz <em>‘bq</em>. A princípio, traduzi como “agarrar-se”. Alonso-Schokel reconhece essa possibilidade, ao lado de “lutar”, claramente mais interpretativo. Mas Carlos André Ponciano de Souza, um leitor, sugeriu que, considerando-se que a raiz <em>‘bq</em> se atualiza como “poeira” (cf. Êxodo 9,9), talvez se pudesse traduzir como “empoeirar”. Com efeito, Koehler-Baumgartner associam a raiz ao árabe (“cobrir-se de poeira”. A ideia parece ser a de que os dois personagens engalfinham-se em uma luta de chão, e Jacó fica coberto de poeira. Trata-se de uma luta, mas descrita de forma extraordinariamente peculiar. Há certamente aqui algo de folclórico, porque a raiz pode ser associada prosodicamente ao nome Yabboq. É certamente uma etiologia folclórica, aproveitada na cena. Jacó vai “ser empoeirado” (&gt; “ser agarrado por” &gt; “lutar com”) por um homem em sua refrega demorada com ele. A ideia é de luta, certamente. Mas a palavra, não é “lutar”. Na forma verbal, a raiz ocorre apenas em Êxodo 32,25.26. A forma nominal, em Êxodo 9,9; Deuteronômio 28,24; Isaías 5,24; 29,5; Ezequiel 26,10; Naum 1,3. </p>"
     },
     {
       "ref_id": "fn103-2775",
       "number": 103,
       "text": "Não especificado até aqui esse homem.",
-      "raw_html": "<span>Não especificado até aqui esse homem. </span>"
+      "raw_html": "<p>Não especificado até aqui esse homem. </p>"
     },
     {
       "ref_id": "fn104-2775",
       "number": 104,
       "text": "“Com ele” (‘immo). “Com ele”, certamente Jacó.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHB\" rel=\"noreferrer noopener\" target=\"_blank\">Com ele</a>” (<em>‘immo</em>). “Com ele”, certamente Jacó. </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHB\" rel=\"noreferrer noopener\" target=\"_blank\">Com ele</a>” (<em>‘immo</em>). “Com ele”, certamente Jacó. </p>"
     },
     {
       "ref_id": "fn105-2775",
       "number": 105,
       "text": "“Escuridão” (shahar). Cf. Gênesis 19,15 (e nota); Gênesis 32,27.",
-      "raw_html": "<span>“Escuridão” (<em>shahar</em>). Cf. Gênesis 19,15 (e nota); Gênesis 32,27. </span>"
+      "raw_html": "<p>“Escuridão” (<em>shahar</em>). Cf. Gênesis 19,15 (e nota); Gênesis 32,27. </p>"
     },
     {
       "ref_id": "fn106-2775",
       "number": 106,
       "text": "Não é difícil de traduzir, mas não é nada fácil interpretar. Quem é que vê que não pode com o outro? Jacó vê que não pode com o homem? O homem vê que não pode com Jacó? O texto não resolve. Somente o contexto poderá dar alguma segurança. Mas nem mesmo o contexto garante certeza.",
-      "raw_html": "<span>Não é difícil de traduzir, mas não é nada fácil interpretar. Quem é que vê que não pode com o outro? Jacó vê que não pode com o homem? O homem vê que não pode com Jacó? O texto não resolve. Somente o contexto poderá dar alguma segurança. Mas nem mesmo o contexto garante certeza. </span>"
+      "raw_html": "<p>Não é difícil de traduzir, mas não é nada fácil interpretar. Quem é que vê que não pode com o outro? Jacó vê que não pode com o homem? O homem vê que não pode com Jacó? O texto não resolve. Somente o contexto poderá dar alguma segurança. Mas nem mesmo o contexto garante certeza. </p>"
     },
     {
       "ref_id": "fn107-2775",
       "number": 107,
       "text": "“Palma”. O termo já apareceu em Gênesis 8,9; 20,5 e 31,42, significando tanto a palma da mão quanto a planta do pé. Aqui, deve ser a região mais “espalmada” da coxa, se é que se trata da coxa.",
-      "raw_html": "<span>“Palma”. O termo já apareceu em Gênesis 8,9; 20,5 e 31,42, significando tanto a palma da mão quanto a planta do pé. Aqui, deve ser a região mais “espalmada” da coxa, se é que se trata da coxa. </span>"
+      "raw_html": "<p>“Palma”. O termo já apareceu em Gênesis 8,9; 20,5 e 31,42, significando tanto a palma da mão quanto a planta do pé. Aqui, deve ser a região mais “espalmada” da coxa, se é que se trata da coxa. </p>"
     },
     {
       "ref_id": "fn108-2775",
       "number": 108,
       "text": "“Coxa”. Mesmo termo da famosa história de Abraão. O termo já apareceu até aqui em Gênesis 24,2.9.",
-      "raw_html": "<span>“Coxa”. Mesmo termo da famosa história de Abraão. O termo já apareceu até aqui em Gênesis 24,2.9. </span>"
+      "raw_html": "<p>“Coxa”. Mesmo termo da famosa história de Abraão. O termo já apareceu até aqui em Gênesis 24,2.9. </p>"
     },
     {
       "ref_id": "fn109-2775",
       "number": 109,
       "text": "O termo pode significar “empalar” e “apartar-se”. Neste caso, cf. Jeremias 6,8, Ezequiel 23,17.19 (sempre textos tardios). A ideia parece ser a de deslocamento da coxa.",
-      "raw_html": "<span>O termo pode significar “empalar” e “apartar-se”. Neste caso, cf. Jeremias 6,8, Ezequiel 23,17.19 (sempre textos tardios). A ideia parece ser a de deslocamento da coxa. </span>"
+      "raw_html": "<p>O termo pode significar “empalar” e “apartar-se”. Neste caso, cf. Jeremias 6,8, Ezequiel 23,17.19 (sempre textos tardios). A ideia parece ser a de deslocamento da coxa. </p>"
     },
     {
       "ref_id": "fn110-2775",
       "number": 110,
       "text": "Aqui não há dúvida: Jacó sofre golpe. O verbo yq’ encontra-se no feminino. Seu sujeito é kap (“a coxa”). A porção anterior, difícil de interpretar, tem de ser lida à luz desse ato. Mas ele não esclarece de todo a cena. Foi com esse golpe que ele sofre que Jacó percebe que não pode com o homem? Ou o homem teria percebido que não pode com Jacó e lhe desfere um “golpe baixo”? Insistirei: o texto não resolve a questão.",
-      "raw_html": "<span>Aqui não há dúvida: Jacó sofre golpe. O verbo <em>yq’</em> encontra-se no feminino. Seu sujeito é <em>kap</em> (“a coxa”). A porção anterior, difícil de interpretar, tem de ser lida à luz desse ato. Mas ele não esclarece de todo a cena. Foi com esse golpe que ele sofre que Jacó percebe que não pode com o homem? Ou o homem teria percebido que não pode com Jacó e lhe desfere um “golpe baixo”? Insistirei: o texto não resolve a questão. </span>"
+      "raw_html": "<p>Aqui não há dúvida: Jacó sofre golpe. O verbo <em>yq’</em> encontra-se no feminino. Seu sujeito é <em>kap</em> (“a coxa”). A porção anterior, difícil de interpretar, tem de ser lida à luz desse ato. Mas ele não esclarece de todo a cena. Foi com esse golpe que ele sofre que Jacó percebe que não pode com o homem? Ou o homem teria percebido que não pode com Jacó e lhe desfere um “golpe baixo”? Insistirei: o texto não resolve a questão. </p>"
     },
     {
       "ref_id": "fn111-2775",
       "number": 111,
       "text": "“Ser empoeirado” (‘bq). Forma infinitiva passiva da raiz. Cf. Somente em Êxodo 32,25.26.",
-      "raw_html": "<span>“Ser empoeirado” (<em>‘bq</em>). Forma infinitiva passiva da raiz. Cf. Somente em Êxodo 32,25.26. </span>"
+      "raw_html": "<p>“Ser empoeirado” (<em>‘bq</em>). Forma infinitiva passiva da raiz. Cf. Somente em Êxodo 32,25.26. </p>"
     },
     {
       "ref_id": "fn112-2775",
       "number": 112,
       "text": "“Com ele” (‘immo). De novo, ambíguo. A única coisa certa é que Jacó levou o golpe.",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHB\" rel=\"noreferrer noopener\" target=\"_blank\">Com ele</a>” (<em>‘immo</em>). De novo, ambíguo. A única coisa certa é que Jacó levou o golpe. </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAHB\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAHB\" rel=\"noreferrer noopener\" target=\"_blank\">Com ele</a>” (<em>‘immo</em>). De novo, ambíguo. A única coisa certa é que Jacó levou o golpe. </p>"
     },
     {
       "ref_id": "fn113-2775",
       "number": 113,
       "text": "“Escuridão” (shahar). Cf. Gênesis 19,15 (e nota); Gênesis 32,25.",
-      "raw_html": "<span>“Escuridão” (<em>shahar</em>). Cf. Gênesis 19,15 (e nota); Gênesis 32,25. </span>"
+      "raw_html": "<p>“Escuridão” (<em>shahar</em>). Cf. Gênesis 19,15 (e nota); Gênesis 32,25. </p>"
     },
     {
       "ref_id": "fn114-2775",
       "number": 114,
       "text": "“Pois sim” (ki ‘im). A mesma expressão ocorre imediatamente abaixo. O sentido parece ser “a menos que” ou “enquanto não”. Cf. Usos da fórmula em Gênesis 15,4; 28,17.",
-      "raw_html": "<span>“Pois sim” (<em>ki ‘im</em>). A mesma expressão ocorre imediatamente abaixo. O sentido parece ser “a menos que” ou “enquanto não”. Cf. Usos da fórmula em Gênesis 15,4; 28,17. </span>"
+      "raw_html": "<p>“Pois sim” (<em>ki ‘im</em>). A mesma expressão ocorre imediatamente abaixo. O sentido parece ser “a menos que” ou “enquanto não”. Cf. Usos da fórmula em Gênesis 15,4; 28,17. </p>"
     },
     {
       "ref_id": "fn115-2775",
       "number": 115,
       "text": "Não fora esse final, que parece fazer a balança pender para a identificação do personagem que fala, estaríamos em sérias dificuldades para determinar o responsável. Mas não faz sentido que alguém requeira a bênção de Jacó. Faz todo sentido, em termos fenomenológicos e no contexto geral da narrativa, que seja Jacó a não abrir mão da bênção do “homem”. O que faz com que o “homem”, seja quem for, seja flagrado sendo retida a sua partida por Jacó.",
-      "raw_html": "<span>Não fora esse final, que parece fazer a balança pender para a identificação do personagem que fala, estaríamos em sérias dificuldades para determinar o responsável. Mas não faz sentido que alguém requeira a bênção de Jacó. Faz todo sentido, em termos fenomenológicos e no contexto geral da narrativa, que seja Jacó a não abrir mão da bênção do “homem”. O que faz com que o “homem”, seja quem for, seja flagrado sendo retida a sua partida por Jacó. </span>"
+      "raw_html": "<p>Não fora esse final, que parece fazer a balança pender para a identificação do personagem que fala, estaríamos em sérias dificuldades para determinar o responsável. Mas não faz sentido que alguém requeira a bênção de Jacó. Faz todo sentido, em termos fenomenológicos e no contexto geral da narrativa, que seja Jacó a não abrir mão da bênção do “homem”. O que faz com que o “homem”, seja quem for, seja flagrado sendo retida a sua partida por Jacó. </p>"
     },
     {
       "ref_id": "fn116-2775",
       "number": 116,
       "text": "Aqui, certamente, fala o “homem”.",
-      "raw_html": "<span>Aqui, certamente, fala o “homem”. </span>"
+      "raw_html": "<p>Aqui, certamente, fala o “homem”. </p>"
     },
     {
       "ref_id": "fn117-2775",
       "number": 117,
       "text": "“O nome de” (shem).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </p>"
     },
     {
       "ref_id": "fn118-2775",
       "number": 118,
       "text": "“Ainda” (‘od). Cf. Gênesis 4,25; 7,4; 8,10.12.21.22; 9,11.15; 17,5; 18,22.29; 19,12; 24,20; 25,6; 29,7.9.27.30.33.34.35; 30,7.19; 31,14; 32,29; 35,9.10.16; 37,5.8.9; 38,4.5.26; 40,13.19; 43,6.7.27.28; 44,14; 45,3.6.11.26.28.29.30; 46,29.30; 48,7.15; Êxodo 2,3; 3,15; 4,6.18; 9,2.17.29; 10,29; 11,1; 14,13; 17,4; 36,3; 36,6 (…) Josué 14,11; Juízes 2,14; 6,24; 7,4; 8,20; 9,37; 11,14; 13,8.9.21; 18,24; 20,25.28; Rute 1,11.14.18; 1 Samuel 3,6; 7,13; 10,22; 13,7; 16,11; 18,8.29; 20,3.14; 23,4.22; 26,21.",
-      "raw_html": "<span>“Ainda” (<em>‘od</em>). Cf. Gênesis 4,25; 7,4; 8,10.12.21.22; 9,11.15; 17,5; 18,22.29; 19,12; 24,20; 25,6; 29,7.9.27.30.33.34.35; 30,7.19; 31,14; 32,29; 35,9.10.16; 37,5.8.9; 38,4.5.26; 40,13.19; 43,6.7.27.28; 44,14; 45,3.6.11.26.28.29.30; 46,29.30; 48,7.15; Êxodo 2,3; 3,15; 4,6.18; 9,2.17.29; 10,29; 11,1; 14,13; 17,4; 36,3; 36,6 (…) Josué 14,11; Juízes 2,14; 6,24; 7,4; 8,20; 9,37; 11,14; 13,8.9.21; 18,24; 20,25.28; Rute 1,11.14.18; 1 Samuel 3,6; 7,13; 10,22; 13,7; 16,11; 18,8.29; 20,3.14; 23,4.22; 26,21. </span>"
+      "raw_html": "<p>“Ainda” (<em>‘od</em>). Cf. Gênesis 4,25; 7,4; 8,10.12.21.22; 9,11.15; 17,5; 18,22.29; 19,12; 24,20; 25,6; 29,7.9.27.30.33.34.35; 30,7.19; 31,14; 32,29; 35,9.10.16; 37,5.8.9; 38,4.5.26; 40,13.19; 43,6.7.27.28; 44,14; 45,3.6.11.26.28.29.30; 46,29.30; 48,7.15; Êxodo 2,3; 3,15; 4,6.18; 9,2.17.29; 10,29; 11,1; 14,13; 17,4; 36,3; 36,6 (…) Josué 14,11; Juízes 2,14; 6,24; 7,4; 8,20; 9,37; 11,14; 13,8.9.21; 18,24; 20,25.28; Rute 1,11.14.18; 1 Samuel 3,6; 7,13; 10,22; 13,7; 16,11; 18,8.29; 20,3.14; 23,4.22; 26,21. </p>"
     },
     {
       "ref_id": "fn119-2775",
       "number": 119,
       "text": "“O nome de” (shem).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </p>"
     },
     {
       "ref_id": "fn120-2775",
       "number": 120,
       "text": "“Reges” (srr). Os léxicos distinguem duas raízes distintas: srr  e srh. Para os fins do presente projeto de tradução, unificam-se ambas em uma única raiz srr. Cf. Gênesis 32,29; Números 16,13; Juízes 9,22; Ester 1,22; Provérbios 8,16; Isaías 32,1; Oséias 12,4.",
-      "raw_html": "<span>“Reges” (<em>srr</em>). Os léxicos distinguem duas raízes distintas: <em>srr </em> e <em>srh</em>. Para os fins do presente projeto de tradução, unificam-se ambas em uma única raiz <em>srr</em>. Cf. Gênesis 32,29; Números 16,13; Juízes 9,22; Ester 1,22; Provérbios 8,16; Isaías 32,1; Oséias 12,4. </span>"
+      "raw_html": "<p>“Reges” (<em>srr</em>). Os léxicos distinguem duas raízes distintas: <em>srr </em> e <em>srh</em>. Para os fins do presente projeto de tradução, unificam-se ambas em uma única raiz <em>srr</em>. Cf. Gênesis 32,29; Números 16,13; Juízes 9,22; Ester 1,22; Provérbios 8,16; Isaías 32,1; Oséias 12,4. </p>"
     },
     {
       "ref_id": "fn121-2775",
       "number": 121,
       "text": "Nada nesse verso é fácil de traduzir e interpretar. A palavra aqui traduzida sem nenhuma segurança e garantia como “contender” traduz o termo sarah. É curioso que seja a mesmíssima forma do nome de Sara (sarah), mulher de Abraão. Talvez não haja relação alguma entre os dois termos, e sejam apenas homógrafos homófonos. Todavia, em toda a Bíblia Hebraica, todas as vezes que essa forma aparece, ou se trata de Sara ou de “princesa”, ou, em apenas dois casos, o sentido de Gênesis 32,29. A segunda passagem é Oséias 12,4, que a rigor é apena uma “citação” de Gênesis 32,29. A tradição insiste em tratar-se de “lutar”. Isso se deve ao fato de Jacó parecer ter “lutado” com o “homem”, que deve abençoá-lo. Logo, se ele “luta” com o “homem”, então o sentido de sarah seria “ele lutou”. Mas a explicação do nome se aplica a algo que Jacó teria feito com ‘Elohim e com os homens. Mas na passagem não tem “luta” alguma com homem algum. Estamos diante de um texto difícil, que a tradição domestica. Sigo a sugestão (à qual não empresto segurança pessoal) de Koehler-Baumgartner.",
-      "raw_html": "<span>Nada nesse verso é fácil de traduzir e interpretar. A palavra aqui traduzida sem nenhuma segurança e garantia como “contender” traduz o termo <em>sarah</em>. É curioso que seja a mesmíssima forma do nome de Sara (<em>sarah</em>), mulher de Abraão. Talvez não haja relação alguma entre os dois termos, e sejam apenas homógrafos homófonos. Todavia, em toda a Bíblia Hebraica, todas as vezes que essa forma aparece, ou se trata de Sara ou de “princesa”, ou, em apenas dois casos, o sentido de Gênesis 32,29. A segunda passagem é Oséias 12,4, que a rigor é apena uma “citação” de Gênesis 32,29. A tradição insiste em tratar-se de “lutar”. Isso se deve ao fato de Jacó parecer ter “lutado” com o “homem”, que deve abençoá-lo. Logo, se ele “luta” com o “homem”, então o sentido de <em>sarah</em> seria “ele lutou”. Mas a explicação do nome se aplica a algo que Jacó teria feito com ‘Elohim e com os homens. Mas na passagem não tem “luta” alguma com homem algum. Estamos diante de um texto difícil, que a tradição domestica. Sigo a sugestão (à qual não empresto segurança pessoal) de Koehler-Baumgartner. </span>"
+      "raw_html": "<p>Nada nesse verso é fácil de traduzir e interpretar. A palavra aqui traduzida sem nenhuma segurança e garantia como “contender” traduz o termo <em>sarah</em>. É curioso que seja a mesmíssima forma do nome de Sara (<em>sarah</em>), mulher de Abraão. Talvez não haja relação alguma entre os dois termos, e sejam apenas homógrafos homófonos. Todavia, em toda a Bíblia Hebraica, todas as vezes que essa forma aparece, ou se trata de Sara ou de “princesa”, ou, em apenas dois casos, o sentido de Gênesis 32,29. A segunda passagem é Oséias 12,4, que a rigor é apena uma “citação” de Gênesis 32,29. A tradição insiste em tratar-se de “lutar”. Isso se deve ao fato de Jacó parecer ter “lutado” com o “homem”, que deve abençoá-lo. Logo, se ele “luta” com o “homem”, então o sentido de <em>sarah</em> seria “ele lutou”. Mas a explicação do nome se aplica a algo que Jacó teria feito com ‘Elohim e com os homens. Mas na passagem não tem “luta” alguma com homem algum. Estamos diante de um texto difícil, que a tradição domestica. Sigo a sugestão (à qual não empresto segurança pessoal) de Koehler-Baumgartner. </p>"
     },
     {
       "ref_id": "fn122-2775",
       "number": 122,
       "text": "“Perguntas” (sh’l). Cf. Gênesis 24,47.57; 26,7; 32,18.30; 37,15; 38,21; 40,7; 43,7.27; 44,19; Êxodo 3,22; 11,2; 12,35.36; 13,14; 18,7; 22,13; Números 27,21; Deuteronômio 4,32; 6,20; 10,12; 13,15; 14,26; 18,11; 32,7; Josué 4,6.21; 9,14; 15,18; 19,50; Juízes 1,1.14; 4,20; 5,25; 8,14.24.26; 13,6.18; 18,5.15; 20,18.23.27; 1 Samuel 1,17.20.27.28; 2,20; 8,10; 10,4.22; 12,13.17.19; 14,37; 17,22.546; 19,22; 20,6.28; 22,10.13.15; 23,2.4; 25,5.8.",
-      "raw_html": "<span>“Perguntas” (<em>sh’l</em>). Cf. Gênesis 24,47.57; 26,7; 32,18.30; 37,15; 38,21; 40,7; 43,7.27; 44,19; Êxodo 3,22; 11,2; 12,35.36; 13,14; 18,7; 22,13; Números 27,21; Deuteronômio 4,32; 6,20; 10,12; 13,15; 14,26; 18,11; 32,7; Josué 4,6.21; 9,14; 15,18; 19,50; Juízes 1,1.14; 4,20; 5,25; 8,14.24.26; 13,6.18; 18,5.15; 20,18.23.27; 1 Samuel 1,17.20.27.28; 2,20; 8,10; 10,4.22; 12,13.17.19; 14,37; 17,22.546; 19,22; 20,6.28; 22,10.13.15; 23,2.4; 25,5.8. </span>"
+      "raw_html": "<p>“Perguntas” (<em>sh’l</em>). Cf. Gênesis 24,47.57; 26,7; 32,18.30; 37,15; 38,21; 40,7; 43,7.27; 44,19; Êxodo 3,22; 11,2; 12,35.36; 13,14; 18,7; 22,13; Números 27,21; Deuteronômio 4,32; 6,20; 10,12; 13,15; 14,26; 18,11; 32,7; Josué 4,6.21; 9,14; 15,18; 19,50; Juízes 1,1.14; 4,20; 5,25; 8,14.24.26; 13,6.18; 18,5.15; 20,18.23.27; 1 Samuel 1,17.20.27.28; 2,20; 8,10; 10,4.22; 12,13.17.19; 14,37; 17,22.546; 19,22; 20,6.28; 22,10.13.15; 23,2.4; 25,5.8. </p>"
     },
     {
       "ref_id": "fn123-2775",
       "number": 123,
       "text": "“Favor” (na’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFJ\" rel=\"noreferrer noopener\" target=\"_blank\">Favor</a>” (<em>na’</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAAFJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAFJ\" rel=\"noreferrer noopener\" target=\"_blank\">Favor</a>” (<em>na’</em>). </p>"
     },
     {
       "ref_id": "fn124-2775",
       "number": 124,
       "text": "“O nome de” (shem).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </p>"
     },
     {
       "ref_id": "fn125-2775",
       "number": 125,
       "text": "“O nome de” (shem).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome de</a>” (<em>shem</em>). </p>"
     },
     {
       "ref_id": "fn126-2775",
       "number": 126,
       "text": "“O nome do” (shem).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome do</a>” (<em>shem</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/AAAKJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAAKJ\" rel=\"noopener\" target=\"_blank\">O nome do</a>” (<em>shem</em>). </p>"
     },
     {
       "ref_id": "fn127-2775",
       "number": 127,
       "text": "Aqui, Peniel. No v. 32, Penuel. A etimologia do termo torna-se por demais ambígua, portanto.",
-      "raw_html": "<span>Aqui, Peniel. No v. 32, Penuel. A etimologia do termo torna-se por demais ambígua, portanto. </span>"
+      "raw_html": "<p>Aqui, Peniel. No v. 32, Penuel. A etimologia do termo torna-se por demais ambígua, portanto. </p>"
     },
     {
       "ref_id": "fn128-2775",
       "number": 128,
       "text": "Faces a faces” (panim ‘el-panim). Cf. Gênesis 32,31; Êxodo 33,11; Deuteronômio 34,10.",
-      "raw_html": "<span>Faces a faces” (<em>panim ‘el-panim</em>). Cf. Gênesis 32,31; Êxodo 33,11; Deuteronômio 34,10. </span>"
+      "raw_html": "<p>Faces a faces” (<em>panim ‘el-panim</em>). Cf. Gênesis 32,31; Êxodo 33,11; Deuteronômio 34,10. </p>"
     },
     {
       "ref_id": "fn129-2775",
       "number": 129,
       "text": "A raiz verbal (ntsl) é a mesma que apareceu em Gênesis 31,9.16 e 32,12 e tornará a aparecer em Gênesis 37,21.22 e Êxodo 2,19 e 3,8. Mas lá, trata-se do causativo verbal, e aqui, o passivo verbal. Os dicionários pressupõem mudança de sentido entre as formas verbais. Aqui, estamos diante de uma tremenda mudança de sentido. Lá, significava “tirar”. Aqui, “salvar”, isto é, “poupar”. Para manter o campo semântico da raiz, opto por traduzir “retirar”, como quem retira um afogado das águas.",
-      "raw_html": "<span>A raiz verbal (<em>ntsl</em>) é a mesma que apareceu em Gênesis 31,9.16 e 32,12 e tornará a aparecer em Gênesis 37,21.22 e Êxodo 2,19 e 3,8. Mas lá, trata-se do causativo verbal, e aqui, o passivo verbal. Os dicionários pressupõem mudança de sentido entre as formas verbais. Aqui, estamos diante de uma tremenda mudança de sentido. Lá, significava “tirar”. Aqui, “salvar”, isto é, “poupar”. Para manter o campo semântico da raiz, opto por traduzir “retirar”, como quem retira um afogado das águas. </span>"
+      "raw_html": "<p>A raiz verbal (<em>ntsl</em>) é a mesma que apareceu em Gênesis 31,9.16 e 32,12 e tornará a aparecer em Gênesis 37,21.22 e Êxodo 2,19 e 3,8. Mas lá, trata-se do causativo verbal, e aqui, o passivo verbal. Os dicionários pressupõem mudança de sentido entre as formas verbais. Aqui, estamos diante de uma tremenda mudança de sentido. Lá, significava “tirar”. Aqui, “salvar”, isto é, “poupar”. Para manter o campo semântico da raiz, opto por traduzir “retirar”, como quem retira um afogado das águas. </p>"
     },
     {
       "ref_id": "fn130-2775",
       "number": 130,
       "text": "“Garganta”. Certamente, sinédoque para “vida” nessa passagem. Mas a palavra é “garganta”.",
-      "raw_html": "<span>“Garganta”. Certamente, sinédoque para “vida” nessa passagem. Mas a palavra é “garganta”. </span>"
+      "raw_html": "<p>“Garganta”. Certamente, sinédoque para “vida” nessa passagem. Mas a palavra é “garganta”. </p>"
     },
     {
       "ref_id": "fn131-2775",
       "number": 131,
       "text": "“Brilha” traduz forma verbal da raiz zrh. Primeira de 17 ocorrências. Cf. Gênesis 32,32; Êxodo 22,2; Deuteronômio 33,2.",
-      "raw_html": "<span>“Brilha” traduz forma verbal da raiz <em>zrh</em>. Primeira de 17 ocorrências. Cf. Gênesis 32,32; Êxodo 22,2; Deuteronômio 33,2. </span>"
+      "raw_html": "<p>“Brilha” traduz forma verbal da raiz <em>zrh</em>. Primeira de 17 ocorrências. Cf. Gênesis 32,32; Êxodo 22,2; Deuteronômio 33,2. </p>"
     },
     {
       "ref_id": "fn132-2775",
       "number": 132,
       "text": "Quase a mesma formulação sintática em Êxodo 22,2.",
-      "raw_html": "<span>Quase a mesma formulação sintática em Êxodo 22,2. </span>"
+      "raw_html": "<p>Quase a mesma formulação sintática em Êxodo 22,2. </p>"
     },
     {
       "ref_id": "fn133-2775",
       "number": 133,
       "text": "No verso anterior se disse Peniel.",
-      "raw_html": "<span>No verso anterior se disse Peniel. </span>"
+      "raw_html": "<p>No verso anterior se disse Peniel. </p>"
     },
     {
       "ref_id": "fn134-2775",
       "number": 134,
       "text": "“E ele” (wehu’).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADO\" rel=\"noreferrer noopener\" target=\"_blank\">E ele</a>” (<em>wehu’</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAADO\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAADO\" rel=\"noreferrer noopener\" target=\"_blank\">E ele</a>” (<em>wehu’</em>). </p>"
     },
     {
       "ref_id": "fn135-2775",
       "number": 135,
       "text": "“Comem” (yo’kelu). Cf. Gênesis 43,16.25; Êxodo 12,7; Levítico 6,9.",
-      "raw_html": "<span>“Comem” (<em>yo’kelu</em>). Cf. Gênesis 43,16.25; Êxodo 12,7; Levítico 6,9. </span>"
+      "raw_html": "<p>“Comem” (<em>yo’kelu</em>). Cf. Gênesis 43,16.25; Êxodo 12,7; Levítico 6,9. </p>"
     },
     {
       "ref_id": "fn136-2775",
       "number": 136,
       "text": "“Os filhos de Yisra’el” (bene yisra’el). primeira de 502 ocorrências. Cf. Êxodo 32,33; Êxodo 1,1; Levítico 1,2; Números 1,2.",
-      "raw_html": "<span>“Os filhos de Yisra’el” (<em>bene yisra’el</em>). primeira de 502 ocorrências. Cf. Êxodo 32,33; Êxodo 1,1; Levítico 1,2; Números 1,2. </span>"
+      "raw_html": "<p>“Os filhos de Yisra’el” (<em>bene yisra’el</em>). primeira de 502 ocorrências. Cf. Êxodo 32,33; Êxodo 1,1; Levítico 1,2; Números 1,2. </p>"
     },
     {
       "ref_id": "fn137-2775",
       "number": 137,
       "text": "“Até o dia” (‘ad hayyom).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACJ\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACJ\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia</a>” (<em>‘ad hayyom</em>). </p>"
     },
     {
       "ref_id": "fn138-2775",
       "number": 138,
       "text": "“Até o dia esse (‘ad hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACH\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACH\" rel=\"noreferrer noopener\" target=\"_blank\">Até o dia esse</a> (<em>‘ad hayyom hazzeh</em>). </p>"
     },
     {
       "ref_id": "fn139-2775",
       "number": 139,
       "text": "“O dia esse” (hayyom hazzeh).",
-      "raw_html": "<span>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </span>"
+      "raw_html": "<p>“<a data-id=\"https://nossabiblialivre.com/referencias/#AAACI\" data-type=\"link\" href=\"https://nossabiblialivre.com/referencias/#AAACI\" rel=\"noreferrer noopener\" target=\"_blank\">O dia esse</a>” (<em>hayyom hazzeh</em>). </p>"
     },
     {
       "ref_id": "fn140-2775",
       "number": 140,
       "text": "É engraçado. O texto não diz em nenhum lugar que o “homem” tocou Jacó no “nervo do quadril”. É o redator que diz. Mas o leitor passará a dizer que foi ali que Jacó foi tocado. A lógica religiosa está aqui flagrada sem disfarce, e o leitor somente não se dá conta, porque o jogo que se joga nos espaços religiosos é exatamente esse: alguém diz que está dito o que não está dito e o leitor e ouvinte adaptado assume passivamente que, se está dito, mesmo que não esteja, então está dito.",
-      "raw_html": "<span>É engraçado. O texto não diz em nenhum lugar que o “homem” tocou Jacó no “nervo do quadril”. É o redator que diz. Mas o leitor passará a dizer que foi ali que Jacó foi tocado. A lógica religiosa está aqui flagrada sem disfarce, e o leitor somente não se dá conta, porque o jogo que se joga nos espaços religiosos é exatamente esse: alguém diz que está dito o que não está dito e o leitor e ouvinte adaptado assume passivamente que, se está dito, mesmo que não esteja, então está dito. </span>"
+      "raw_html": "<p>É engraçado. O texto não diz em nenhum lugar que o “homem” tocou Jacó no “nervo do quadril”. É o redator que diz. Mas o leitor passará a dizer que foi ali que Jacó foi tocado. A lógica religiosa está aqui flagrada sem disfarce, e o leitor somente não se dá conta, porque o jogo que se joga nos espaços religiosos é exatamente esse: alguém diz que está dito o que não está dito e o leitor e ouvinte adaptado assume passivamente que, se está dito, mesmo que não esteja, então está dito. </p>"
     }
   ]
 }
