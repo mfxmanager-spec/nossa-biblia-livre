@@ -1756,5 +1756,18 @@
         "title": "2 Reis 25"
       }
     ]
+  },
+  {
+    "id": 12,
+    "name": "Isaías",
+    "slug": "isaías",
+    "testament": "OT",
+    "chapters": [
+      {
+        "number": 1,
+        "slug": "isaias-1",
+        "title": "Isaías 1"
+      }
+    ]
   }
 ]
