@@ -63,7 +63,7 @@
     },
     {
       "number": 3,
-      "text": "E está. O sido remanescido. Em Tsiyyon. E o sido permanecido em Yerushalaim. Sagrado. Dito está. Para ele. O total do sido escrito. Par as vidas. Em Yerushalaim.",
+      "text": "E está. O sido remanescido. Em Tsiyyon. E o sido permanecido. Em Yerushalaim. Sagrado. Dito está. Para ele. O total do sido escrito. Para as vidas. Em Yerushalaim.",
       "lines": [
         {
           "line_index": 0,
@@ -82,36 +82,41 @@
         },
         {
           "line_index": 3,
-          "text": "E o sido permanecido em Yerushalaim.",
-          "raw_html": "<p class=\"wp-block-paragraph\">E o sido permanecido em Yerushalaim.</p>"
+          "text": "E o sido permanecido.",
+          "raw_html": "<p class=\"wp-block-paragraph\">E o sido permanecido.</p>"
         },
         {
           "line_index": 4,
+          "text": "Em Yerushalaim.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Em Yerushalaim.</p>"
+        },
+        {
+          "line_index": 5,
           "text": "Sagrado.",
           "raw_html": "<p class=\"wp-block-paragraph\">Sagrado.</p>"
         },
         {
-          "line_index": 5,
+          "line_index": 6,
           "text": "Dito está.",
           "raw_html": "<p class=\"wp-block-paragraph\">Dito está.</p>"
         },
         {
-          "line_index": 6,
+          "line_index": 7,
           "text": "Para ele.",
           "raw_html": "<p class=\"wp-block-paragraph\">Para ele.</p>"
         },
         {
-          "line_index": 7,
+          "line_index": 8,
           "text": "O total do sido escrito.",
           "raw_html": "<p class=\"wp-block-paragraph\">O total do sido escrito.</p>"
         },
         {
-          "line_index": 8,
-          "text": "Par as vidas.",
-          "raw_html": "<p class=\"wp-block-paragraph\">Par as vidas.</p>"
+          "line_index": 9,
+          "text": "Para as vidas.",
+          "raw_html": "<p class=\"wp-block-paragraph\">Para as vidas.</p>"
         },
         {
-          "line_index": 9,
+          "line_index": 10,
           "text": "Em Yerushalaim.",
           "raw_html": "<p class=\"wp-block-paragraph\">Em Yerushalaim.</p>"
         }
