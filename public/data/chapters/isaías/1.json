@@ -3,7 +3,7 @@
   "book_name": "Isaías",
   "book_slug": "isaías",
   "chapter_number": 1,
-  "introduction": "<p class=\"wp-block-paragraph\"><a href=\"https://www.die-bibel.de/en/bible/BHS/ISA.1\" rel=\"noopener\" target=\"_blank\">Isaías 1 na <em>Biblia Hebraica Stuttgartensia</em></a></p>\n<p class=\"wp-block-paragraph\"><a href=\"https://www.youtube.com/live/mYlOqa-lh7c\" rel=\"noopener\" target=\"_blank\">Comentário a Isaías 1,1-31</a></p>\n<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Aviso</mark></strong>: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.</p>\n<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>\n<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>",
+  "introduction": "<p class=\"wp-block-paragraph\"><a href=\"https://www.die-bibel.de/en/bible/BHS/ISA.1\" rel=\"noopener\" target=\"_blank\">Isaías 1 na <em>Biblia Hebraica Stuttgartensia</em></a></p>\n<p class=\"wp-block-paragraph\"><a href=\"https://www.youtube.com/live/mYlOqa-lh7c\" rel=\"noopener\" target=\"_blank\">Comentário a Isaías 1,1-31</a></p>\n<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Avisos</mark></strong><br/>☕Nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.<br/>☕A tradução dinâmico-literal que abre o capítulo é provisória, apresentada apenas para atender àqueles que eventualmente não lidem bem com a estrutura radical-literal da tradução principal. A etapa estava prevista apenas para o final do projeto. Naquele contexto então, ela será revista.</p>",
   "verses": [
     {
       "number": 1,
@@ -1562,7 +1562,7 @@
     },
     {
       "number": 31,
-      "text": "E está. O consolidado. Para estopa. E o obramento dele. Para fagulha. E queimam. Os dois deles. Juntadamente. E não está. Apagadora. Aviso: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas. _________________________________________________________________________________________________________",
+      "text": "E está. O consolidado. Para estopa. E o obramento dele. Para fagulha. E queimam. Os dois deles. Juntadamente. E não está. Apagadora.",
       "lines": [
         {
           "line_index": 0,
@@ -1613,16 +1613,6 @@
           "line_index": 9,
           "text": "Apagadora.",
           "raw_html": "<p class=\"wp-block-paragraph\">Apagadora.</p>"
-        },
-        {
-          "line_index": 10,
-          "text": "Aviso: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.",
-          "raw_html": "<p class=\"wp-block-paragraph\"><strong><mark class=\"has-inline-color has-vivid-red-color\" style=\"background-color:rgba(0, 0, 0, 0)\">Aviso</mark></strong>: nas notas de rodapé, clique no link ativo para acessar as referências bíblicas.</p>"
-        },
-        {
-          "line_index": 11,
-          "text": "_________________________________________________________________________________________________________",
-          "raw_html": "<p class=\"wp-block-paragraph\">_________________________________________________________________________________________________________</p>"
         }
       ]
     }
